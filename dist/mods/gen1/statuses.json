@@ -1,0 +1,87 @@
+{
+  "BattleStatuses": {
+    "brn": {
+      "name": "brn",
+      "id": "brn",
+      "num": 0,
+      "effectType": "Status",
+      "onAfterMoveSelfPriority": 2
+    },
+    "par": {
+      "name": "par",
+      "id": "par",
+      "num": 0,
+      "effectType": "Status",
+      "onBeforeMovePriority": 2
+    },
+    "slp": {
+      "name": "slp",
+      "id": "slp",
+      "num": 0,
+      "effectType": "Status",
+      "onBeforeMovePriority": 10
+    },
+    "frz": {
+      "name": "frz",
+      "id": "frz",
+      "num": 0,
+      "effectType": "Status",
+      "onBeforeMovePriority": 10
+    },
+    "psn": {
+      "name": "psn",
+      "id": "psn",
+      "num": 0,
+      "effectType": "Status",
+      "onAfterMoveSelfPriority": 2
+    },
+    "tox": {
+      "name": "tox",
+      "id": "tox",
+      "num": 0,
+      "effectType": "Status",
+      "onAfterMoveSelfPriority": 2
+    },
+    "confusion": {
+      "name": "confusion",
+      "id": "confusion",
+      "num": 0,
+      "onBeforeMovePriority": 3
+    },
+    "flinch": {
+      "name": "flinch",
+      "id": "flinch",
+      "num": 0,
+      "duration": 1,
+      "onBeforeMovePriority": 4
+    },
+    "trapped": {
+      "name": "trapped",
+      "id": "trapped",
+      "num": 0,
+      "noCopy": true
+    },
+    "partiallytrapped": {
+      "name": "partiallytrapped",
+      "id": "partiallytrapped",
+      "num": 0,
+      "duration": 2,
+      "onBeforeMovePriority": 4
+    },
+    "partialtrappinglock": {
+      "name": "partialtrappinglock",
+      "id": "partialtrappinglock",
+      "num": 0
+    },
+    "lockedmove": {
+      "inherit": true
+    },
+    "stall": {
+      "name": "stall",
+      "id": "stall",
+      "num": 0,
+      "duration": 2,
+      "counterMax": 256
+    }
+  }
+}

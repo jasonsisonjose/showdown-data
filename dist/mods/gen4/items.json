@@ -1,0 +1,90 @@
+{
+  "BattleItems": {
+    "adamantorb": {
+      "inherit": true
+    },
+    "choiceband": {
+      "inherit": true
+    },
+    "choicescarf": {
+      "inherit": true
+    },
+    "choicespecs": {
+      "inherit": true
+    },
+    "chopleberry": {
+      "inherit": true
+    },
+    "custapberry": {
+      "inherit": true
+    },
+    "deepseascale": {
+      "inherit": true
+    },
+    "deepseatooth": {
+      "inherit": true
+    },
+    "focussash": {
+      "inherit": true,
+      "desc": "If holder's HP is full, survives all hits of one attack with at least 1 HP. Single use.",
+      "effect": {
+        "duration": 1
+      }
+    },
+    "griseousorb": {
+      "inherit": true,
+      "desc": "Can only be held by Giratina. Its Ghost- & Dragon-type attacks have 1.2x power."
+    },
+    "ironball": {
+      "inherit": true,
+      "desc": "Holder's Speed is halved and it becomes grounded."
+    },
+    "jabocaberry": {
+      "inherit": true
+    },
+    "kingsrock": {
+      "inherit": true
+    },
+    "lifeorb": {
+      "inherit": true,
+      "effect": {
+        "duration": 1
+      }
+    },
+    "lightball": {
+      "inherit": true
+    },
+    "luckypunch": {
+      "inherit": true
+    },
+    "lustrousorb": {
+      "inherit": true
+    },
+    "mentalherb": {
+      "inherit": true,
+      "desc": "Holder is cured if it is infatuated. Single use.",
+      "fling": {
+        "basePower": 10
+      }
+    },
+    "metronome": {
+      "inherit": true,
+      "desc": "Damage of moves used on consecutive turns is increased. Max 2x after 10 turns.",
+      "effect": {
+        "onTryMovePriority": -2
+      }
+    },
+    "razorfang": {
+      "inherit": true
+    },
+    "rowapberry": {
+      "inherit": true
+    },
+    "stick": {
+      "inherit": true
+    },
+    "thickclub": {
+      "inherit": true
+    }
+  }
+}

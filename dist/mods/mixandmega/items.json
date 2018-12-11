@@ -1,0 +1,10 @@
+{
+  "BattleItems": {
+    "blueorb": {
+      "inherit": true
+    },
+    "redorb": {
+      "inherit": true
+    }
+  }
+}

@@ -1,0 +1,198 @@
+{
+  "BattleStatuses": {
+    "brn": {
+      "name": "brn",
+      "id": "brn",
+      "num": 0,
+      "effectType": "Status",
+      "onResidualOrder": 9
+    },
+    "par": {
+      "name": "par",
+      "id": "par",
+      "num": 0,
+      "effectType": "Status",
+      "onBeforeMovePriority": 1
+    },
+    "slp": {
+      "name": "slp",
+      "id": "slp",
+      "num": 0,
+      "effectType": "Status",
+      "onBeforeMovePriority": 10
+    },
+    "frz": {
+      "name": "frz",
+      "id": "frz",
+      "num": 0,
+      "effectType": "Status",
+      "onBeforeMovePriority": 10
+    },
+    "psn": {
+      "name": "psn",
+      "id": "psn",
+      "num": 0,
+      "effectType": "Status",
+      "onResidualOrder": 9
+    },
+    "tox": {
+      "name": "tox",
+      "id": "tox",
+      "num": 0,
+      "effectType": "Status",
+      "onResidualOrder": 9
+    },
+    "confusion": {
+      "name": "confusion",
+      "id": "confusion",
+      "num": 0,
+      "onBeforeMovePriority": 3
+    },
+    "flinch": {
+      "name": "flinch",
+      "id": "flinch",
+      "num": 0,
+      "duration": 1,
+      "onBeforeMovePriority": 8
+    },
+    "trapped": {
+      "name": "trapped",
+      "id": "trapped",
+      "num": 0,
+      "noCopy": true
+    },
+    "trapper": {
+      "name": "trapper",
+      "id": "trapper",
+      "num": 0,
+      "noCopy": true
+    },
+    "partiallytrapped": {
+      "name": "partiallytrapped",
+      "id": "partiallytrapped",
+      "num": 0,
+      "duration": 5,
+      "onResidualOrder": 11
+    },
+    "lockedmove": {
+      "name": "lockedmove",
+      "id": "lockedmove",
+      "num": 0,
+      "duration": 2
+    },
+    "twoturnmove": {
+      "name": "twoturnmove",
+      "id": "twoturnmove",
+      "num": 0,
+      "duration": 2
+    },
+    "choicelock": {
+      "name": "choicelock",
+      "id": "choicelock",
+      "num": 0,
+      "noCopy": true
+    },
+    "mustrecharge": {
+      "name": "mustrecharge",
+      "id": "mustrecharge",
+      "num": 0,
+      "duration": 2,
+      "onBeforeMovePriority": 11
+    },
+    "futuremove": {
+      "name": "futuremove",
+      "id": "futuremove",
+      "num": 0,
+      "onResidualOrder": 3
+    },
+    "healreplacement": {
+      "name": "healreplacement",
+      "id": "healreplacement",
+      "num": 0,
+      "onSwitchInPriority": 1
+    },
+    "stall": {
+      "name": "stall",
+      "id": "stall",
+      "num": 0,
+      "duration": 2,
+      "counterMax": 729
+    },
+    "gem": {
+      "name": "gem",
+      "id": "gem",
+      "num": 0,
+      "duration": 1,
+      "affectsFainted": true
+    },
+    "raindance": {
+      "name": "RainDance",
+      "id": "raindance",
+      "num": 0,
+      "effectType": "Weather",
+      "duration": 5,
+      "onResidualOrder": 1
+    },
+    "primordialsea": {
+      "name": "PrimordialSea",
+      "id": "primordialsea",
+      "num": 0,
+      "effectType": "Weather",
+      "duration": 0,
+      "onResidualOrder": 1
+    },
+    "sunnyday": {
+      "name": "SunnyDay",
+      "id": "sunnyday",
+      "num": 0,
+      "effectType": "Weather",
+      "duration": 5,
+      "onResidualOrder": 1
+    },
+    "desolateland": {
+      "name": "DesolateLand",
+      "id": "desolateland",
+      "num": 0,
+      "effectType": "Weather",
+      "duration": 0,
+      "onResidualOrder": 1
+    },
+    "sandstorm": {
+      "name": "Sandstorm",
+      "id": "sandstorm",
+      "num": 0,
+      "effectType": "Weather",
+      "duration": 5,
+      "onModifySpDPriority": 10,
+      "onResidualOrder": 1
+    },
+    "hail": {
+      "name": "Hail",
+      "id": "hail",
+      "num": 0,
+      "effectType": "Weather",
+      "duration": 5,
+      "onResidualOrder": 1
+    },
+    "deltastream": {
+      "name": "DeltaStream",
+      "id": "deltastream",
+      "num": 0,
+      "effectType": "Weather",
+      "duration": 0,
+      "onResidualOrder": 1
+    },
+    "arceus": {
+      "name": "Arceus",
+      "id": "arceus",
+      "num": 493,
+      "onTypePriority": 1
+    },
+    "silvally": {
+      "name": "Silvally",
+      "id": "silvally",
+      "num": 773,
+      "onTypePriority": 1
+    }
+  }
+}

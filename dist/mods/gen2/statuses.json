@@ -1,0 +1,65 @@
+{
+  "BattleStatuses": {
+    "brn": {
+      "name": "brn",
+      "id": "brn",
+      "num": 0,
+      "effectType": "Status",
+      "onAfterMoveSelfPriority": 3
+    },
+    "par": {
+      "name": "par",
+      "id": "par",
+      "num": 0,
+      "inherit": true,
+      "onBeforeMovePriority": 2
+    },
+    "slp": {
+      "name": "slp",
+      "id": "slp",
+      "num": 0,
+      "effectType": "Status",
+      "onBeforeMovePriority": 10
+    },
+    "frz": {
+      "name": "frz",
+      "id": "frz",
+      "num": 0,
+      "inherit": true
+    },
+    "psn": {
+      "name": "psn",
+      "id": "psn",
+      "num": 0,
+      "effectType": "Status",
+      "onAfterMoveSelfPriority": 3
+    },
+    "tox": {
+      "name": "tox",
+      "id": "tox",
+      "num": 0,
+      "effectType": "Status",
+      "onAfterMoveSelfPriority": 3
+    },
+    "confusion": {
+      "inherit": true
+    },
+    "partiallytrapped": {
+      "inherit": true
+    },
+    "lockedmove": {
+      "name": "lockedmove",
+      "id": "lockedmove",
+      "num": 0
+    },
+    "sandstorm": {
+      "inherit": true
+    },
+    "stall": {
+      "name": "stall",
+      "id": "stall",
+      "num": 0,
+      "duration": 2
+    }
+  }
+}

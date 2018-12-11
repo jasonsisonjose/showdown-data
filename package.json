@@ -1,0 +1,25 @@
+{
+  "name": "showdown-data",
+  "version": "0.11.2",
+  "description": "Pokemon Showdown data converted to JSON format for cross-project interoperability.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/capsulemonsters/showdown-data.git"
+  },
+  "keywords": [
+    "pokemon",
+    "showdown"
+  ],
+  "author": "Javi Aguilar",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/capsulemonsters/showdown-data/issues"
+  },
+  "homepage": "https://github.com/capsulemonsters/showdown-data#readme",
+  "devDependencies": {
+    "fs-extra": "^7.0.1",
+    "glob": "^7.1.3",
+    "pokemon-showdown": "Zarel/Pokemon-Showdown"
+  }
+}
