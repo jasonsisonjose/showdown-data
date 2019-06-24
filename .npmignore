@@ -1,0 +1,4 @@
+.*
+*.log
+composer.json
+node_modules
