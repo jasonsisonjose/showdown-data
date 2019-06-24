@@ -1,0 +1,6 @@
+{
+  "BattleScripts": {
+    "inherit": "gen5",
+    "gen": 4
+  }
+}

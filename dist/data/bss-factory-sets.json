@@ -4,36 +4,10 @@
     "sets": [
       {
         "species": "Aegislash",
-        "item": "Weakness Policy",
-        "ability": "Stance Change",
-        "evs": {
-          "hp": 252,
-          "atk": 4,
-          "spa": 252
-        },
-        "ivs": {
-          "spe": 0
-        },
-        "nature": "Quiet",
-        "moves": [
-          [
-            "King's Shield"
-          ],
-          [
-            "Shadow Ball"
-          ],
-          [
-            "Flash Cannon",
-            "Sacred Sword"
-          ],
-          [
-            "Shadow Sneak"
-          ]
-        ]
-      },
-      {
-        "species": "Aegislash",
-        "item": "Ghostium Z",
+        "item": [
+          "Weakness Policy",
+          "Ghostium Z"
+        ],
         "ability": "Stance Change",
         "evs": {
           "hp": 252,
@@ -881,7 +855,7 @@
         "nature": "Timid",
         "moves": [
           [
-            "Flamethrower ",
+            "Flamethrower",
             "Fire Blast"
           ],
           [
@@ -3780,7 +3754,7 @@
         "moves": [
           [
             "Grass Knot",
-            "U-Turn",
+            "U-turn",
             "Low Kick"
           ],
           [
@@ -3953,8 +3927,7 @@
             "Waterfall"
           ],
           [
-            "Stone Edge",
-            "Rock Slide"
+            "Stone Edge"
           ],
           [
             "Earthquake"
@@ -7562,7 +7535,7 @@
             "Ice Beam"
           ],
           [
-            "Discharge ",
+            "Discharge",
             "Thunderbolt"
           ],
           [
@@ -7653,7 +7626,7 @@
             "Shadow Ball"
           ],
           [
-            "Thunderbolt ",
+            "Thunderbolt",
             "Hidden Power Fire",
             "Hidden Power Ground"
           ],
@@ -8468,7 +8441,7 @@
           ],
           [
             "Thunderbolt",
-            "Electro Web"
+            "Electroweb"
           ],
           [
             "Volt Switch"
@@ -8527,7 +8500,7 @@
           ],
           [
             "Thunderbolt",
-            "Electro Web"
+            "Electroweb"
           ],
           [
             "Volt Switch"
@@ -8571,7 +8544,7 @@
           ],
           [
             "Roost",
-            " Hyper Beam"
+            "Hyper Beam"
           ]
         ]
       },
@@ -9171,8 +9144,7 @@
             "Flame Charge"
           ],
           [
-            "Rock Slide",
-            "Stone Edge"
+            "Rock Slide"
           ]
         ]
       },
@@ -10309,7 +10281,7 @@
         "item": "Electric Seed",
         "ability": "Electric Surge",
         "evs": {
-          "def": 68,
+          "def": 60,
           "spa": 196,
           "spe": 252
         },

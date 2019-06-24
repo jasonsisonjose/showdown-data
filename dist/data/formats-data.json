@@ -96,6 +96,12 @@
           "pokeball": "cherishball"
         }
       ],
+      "encounters": [
+        {
+          "generation": 1,
+          "level": 5
+        }
+      ],
       "tier": "LC"
     },
     "ivysaur": {
@@ -154,7 +160,7 @@
         }
       ],
       "tier": "NUBL",
-      "doublesTier": "DUU"
+      "doublesTier": "(DUU)"
     },
     "venusaurmega": {
       "randomBattleMoves": [
@@ -177,7 +183,7 @@
         "protect"
       ],
       "requiredItem": "Venusaurite",
-      "tier": "UUBL",
+      "tier": "OU",
       "doublesTier": "DUU"
     },
     "charmander": {
@@ -311,6 +317,12 @@
           "pokeball": "cherishball"
         }
       ],
+      "encounters": [
+        {
+          "generation": 1,
+          "level": 5
+        }
+      ],
       "tier": "LC"
     },
     "charmeleon": {
@@ -336,15 +348,11 @@
     },
     "charizard": {
       "randomBattleMoves": [
+        "holdhands",
         "fireblast",
         "airslash",
-        "focusblast",
-        "roost",
-        "swordsdance",
-        "flamecharge",
-        "acrobatics",
         "earthquake",
-        "willowisp"
+        "roost"
       ],
       "randomDoubleBattleMoves": [
         "heatwave",
@@ -476,7 +484,7 @@
         }
       ],
       "tier": "PUBL",
-      "doublesTier": "DUU"
+      "doublesTier": "(DUU)"
     },
     "charizardmegax": {
       "randomBattleMoves": [
@@ -498,7 +506,7 @@
       ],
       "requiredItem": "Charizardite X",
       "tier": "OU",
-      "doublesTier": "DUU"
+      "doublesTier": "(DUU)"
     },
     "charizardmegay": {
       "randomBattleMoves": [
@@ -606,6 +614,12 @@
           "pokeball": "cherishball"
         }
       ],
+      "encounters": [
+        {
+          "generation": 1,
+          "level": 5
+        }
+      ],
       "tier": "LC"
     },
     "wartortle": {
@@ -675,7 +689,7 @@
         }
       ],
       "tier": "NU",
-      "doublesTier": "DUU"
+      "doublesTier": "(DUU)"
     },
     "blastoisemega": {
       "randomBattleMoves": [
@@ -701,7 +715,7 @@
       ],
       "requiredItem": "Blastoisinite",
       "tier": "RU",
-      "doublesTier": "DUU"
+      "doublesTier": "(DUU)"
     },
     "caterpie": {
       "randomBattleMoves": [
@@ -709,6 +723,21 @@
         "snore",
         "tackle",
         "electroweb"
+      ],
+      "encounters": [
+        {
+          "generation": 1,
+          "level": 3,
+          "shiny": false
+        },
+        {
+          "generation": 2,
+          "level": 3
+        },
+        {
+          "generation": 3,
+          "level": 3
+        }
       ],
       "tier": "LC"
     },
@@ -718,6 +747,33 @@
         "bugbite",
         "tackle",
         "electroweb"
+      ],
+      "encounters": [
+        {
+          "generation": 1,
+          "level": 4,
+          "shiny": false
+        },
+        {
+          "generation": 2,
+          "level": 4
+        },
+        {
+          "generation": 3,
+          "level": 4
+        },
+        {
+          "generation": 4,
+          "level": 3
+        },
+        {
+          "generation": 6,
+          "level": 4
+        },
+        {
+          "generation": 7,
+          "level": 3
+        }
       ],
       "tier": "NFE"
     },
@@ -751,8 +807,22 @@
           ]
         }
       ],
+      "encounters": [
+        {
+          "generation": 2,
+          "level": 7
+        },
+        {
+          "generation": 4,
+          "level": 6
+        },
+        {
+          "generation": 7,
+          "level": 9
+        }
+      ],
       "tier": "(PU)",
-      "doublesTier": "DUU"
+      "doublesTier": "(DUU)"
     },
     "weedle": {
       "randomBattleMoves": [
@@ -760,6 +830,21 @@
         "stringshot",
         "poisonsting",
         "electroweb"
+      ],
+      "encounters": [
+        {
+          "generation": 1,
+          "level": 3,
+          "shiny": false
+        },
+        {
+          "generation": 2,
+          "level": 3
+        },
+        {
+          "generation": 3,
+          "level": 3
+        }
       ],
       "tier": "LC"
     },
@@ -769,6 +854,33 @@
         "bugbite",
         "irondefense",
         "poisonsting"
+      ],
+      "encounters": [
+        {
+          "generation": 1,
+          "level": 4,
+          "shiny": false
+        },
+        {
+          "generation": 2,
+          "level": 4
+        },
+        {
+          "generation": 3,
+          "level": 4
+        },
+        {
+          "generation": 4,
+          "level": 3
+        },
+        {
+          "generation": 6,
+          "level": 4
+        },
+        {
+          "generation": 7,
+          "level": 3
+        }
       ],
       "tier": "NFE"
     },
@@ -803,8 +915,18 @@
           ]
         }
       ],
+      "encounters": [
+        {
+          "generation": 2,
+          "level": 7
+        },
+        {
+          "generation": 4,
+          "level": 6
+        }
+      ],
       "tier": "(PU)",
-      "doublesTier": "DUU"
+      "doublesTier": "(DUU)"
     },
     "beedrillmega": {
       "randomBattleMoves": [
@@ -846,6 +968,21 @@
         "tailwind",
         "protect"
       ],
+      "encounters": [
+        {
+          "generation": 1,
+          "level": 2,
+          "shiny": false
+        },
+        {
+          "generation": 2,
+          "level": 2
+        },
+        {
+          "generation": 3,
+          "level": 2
+        }
+      ],
       "tier": "LC"
     },
     "pidgeotto": {
@@ -881,6 +1018,25 @@
           ]
         }
       ],
+      "encounters": [
+        {
+          "generation": 1,
+          "level": 9,
+          "shiny": false
+        },
+        {
+          "generation": 2,
+          "level": 7
+        },
+        {
+          "generation": 3,
+          "level": 7
+        },
+        {
+          "generation": 4,
+          "level": 7
+        }
+      ],
       "tier": "NFE"
     },
     "pidgeot": {
@@ -889,9 +1045,8 @@
         "bravebird",
         "heatwave",
         "return",
-        "doubleedge",
         "uturn",
-        "hurricane"
+        "defog"
       ],
       "randomDoubleBattleMoves": [
         "bravebird",
@@ -929,8 +1084,15 @@
           "pokeball": "cherishball"
         }
       ],
+      "encounters": [
+        {
+          "generation": 7,
+          "level": 29,
+          "isHidden": false
+        }
+      ],
       "tier": "(PU)",
-      "doublesTier": "DUU"
+      "doublesTier": "(DUU)"
     },
     "pidgeotmega": {
       "randomBattleMoves": [
@@ -949,7 +1111,7 @@
       ],
       "requiredItem": "Pidgeotite",
       "tier": "UU",
-      "doublesTier": "DUU"
+      "doublesTier": "(DUU)"
     },
     "rattata": {
       "randomBattleMoves": [
@@ -971,6 +1133,21 @@
         "superfang",
         "crunch",
         "protect"
+      ],
+      "encounters": [
+        {
+          "generation": 1,
+          "level": 2,
+          "shiny": false
+        },
+        {
+          "generation": 2,
+          "level": 2
+        },
+        {
+          "generation": 3,
+          "level": 2
+        }
       ],
       "tier": "LC"
     },
@@ -1006,8 +1183,23 @@
           ]
         }
       ],
+      "encounters": [
+        {
+          "generation": 1,
+          "level": 15,
+          "shiny": false
+        },
+        {
+          "generation": 2,
+          "level": 6
+        },
+        {
+          "generation": 4,
+          "level": 13
+        }
+      ],
       "tier": "(PU)",
-      "doublesTier": "DUU"
+      "doublesTier": "(DUU)"
     },
     "raticatealola": {
       "randomBattleMoves": [
@@ -1024,8 +1216,14 @@
         "crunch",
         "uturn"
       ],
+      "encounters": [
+        {
+          "generation": 7,
+          "level": 17
+        }
+      ],
       "tier": "(PU)",
-      "doublesTier": "DUU"
+      "doublesTier": "(DUU)"
     },
     "raticatealolatotem": {
       "eventPokemon": [
@@ -1076,6 +1274,21 @@
           ]
         }
       ],
+      "encounters": [
+        {
+          "generation": 1,
+          "level": 3,
+          "shiny": false
+        },
+        {
+          "generation": 2,
+          "level": 2
+        },
+        {
+          "generation": 3,
+          "level": 3
+        }
+      ],
       "tier": "LC"
     },
     "fearow": {
@@ -1096,8 +1309,23 @@
         "drillrun",
         "protect"
       ],
+      "encounters": [
+        {
+          "generation": 1,
+          "level": 19,
+          "shiny": false
+        },
+        {
+          "generation": 2,
+          "level": 7
+        },
+        {
+          "generation": 4,
+          "level": 7
+        }
+      ],
       "tier": "(PU)",
-      "doublesTier": "DUU"
+      "doublesTier": "(DUU)"
     },
     "ekans": {
       "randomBattleMoves": [
@@ -1155,6 +1383,17 @@
           "pokeball": "pokeball"
         }
       ],
+      "encounters": [
+        {
+          "generation": 1,
+          "level": 6,
+          "shiny": false
+        },
+        {
+          "generation": 2,
+          "level": 4
+        }
+      ],
       "tier": "LC"
     },
     "arbok": {
@@ -1188,8 +1427,18 @@
           ]
         }
       ],
+      "encounters": [
+        {
+          "generation": 2,
+          "level": 10
+        },
+        {
+          "generation": 4,
+          "level": 10
+        }
+      ],
       "tier": "(PU)",
-      "doublesTier": "DUU"
+      "doublesTier": "(DUU)"
     },
     "pichu": {
       "randomBattleMoves": [
@@ -1303,16 +1552,12 @@
     },
     "pikachu": {
       "randomBattleMoves": [
-        "thunderbolt",
         "volttackle",
         "voltswitch",
         "grassknot",
         "hiddenpowerice",
-        "brickbreak",
-        "extremespeed",
-        "encore",
-        "substitute",
-        "knockoff"
+        "knockoff",
+        "irontail"
       ],
       "randomDoubleBattleMoves": [
         "fakeout",
@@ -1953,6 +2198,21 @@
           "pokeball": "cherishball"
         }
       ],
+      "encounters": [
+        {
+          "generation": 1,
+          "level": 3,
+          "shiny": false
+        },
+        {
+          "generation": 2,
+          "level": 4
+        },
+        {
+          "generation": 3,
+          "level": 3
+        }
+      ],
       "tier": "NFE"
     },
     "pikachucosplay": {
@@ -2087,7 +2347,7 @@
       "eventOnly": true,
       "gen": 7,
       "tier": "(PU)",
-      "doublesTier": "DUU"
+      "doublesTier": "(DUU)"
     },
     "pikachuhoenn": {
       "eventPokemon": [
@@ -2107,7 +2367,7 @@
       "eventOnly": true,
       "gen": 7,
       "tier": "(PU)",
-      "doublesTier": "DUU"
+      "doublesTier": "(DUU)"
     },
     "pikachusinnoh": {
       "eventPokemon": [
@@ -2127,7 +2387,7 @@
       "eventOnly": true,
       "gen": 7,
       "tier": "(PU)",
-      "doublesTier": "DUU"
+      "doublesTier": "(DUU)"
     },
     "pikachuunova": {
       "eventPokemon": [
@@ -2147,7 +2407,7 @@
       "eventOnly": true,
       "gen": 7,
       "tier": "(PU)",
-      "doublesTier": "DUU"
+      "doublesTier": "(DUU)"
     },
     "pikachukalos": {
       "eventPokemon": [
@@ -2167,7 +2427,7 @@
       "eventOnly": true,
       "gen": 7,
       "tier": "(PU)",
-      "doublesTier": "DUU"
+      "doublesTier": "(DUU)"
     },
     "pikachualola": {
       "eventPokemon": [
@@ -2187,7 +2447,7 @@
       "eventOnly": true,
       "gen": 7,
       "tier": "(PU)",
-      "doublesTier": "DUU"
+      "doublesTier": "(DUU)"
     },
     "pikachupartner": {
       "eventPokemon": [
@@ -2208,7 +2468,7 @@
       "eventOnly": true,
       "gen": 7,
       "tier": "(PU)",
-      "doublesTier": "DUU"
+      "doublesTier": "(DUU)"
     },
     "pikachustarter": {
       "eventPokemon": [
@@ -2225,7 +2485,7 @@
         }
       ],
       "eventOnly": true,
-      "isNonstandard": true,
+      "isNonstandard": "LGPE",
       "tier": "Illegal"
     },
     "raichu": {
@@ -2269,7 +2529,7 @@
         "voltswitch"
       ],
       "tier": "PU",
-      "doublesTier": "DUU"
+      "doublesTier": "(DUU)"
     },
     "sandshrew": {
       "randomBattleMoves": [
@@ -2313,6 +2573,13 @@
           "pokeball": "pokeball"
         }
       ],
+      "encounters": [
+        {
+          "generation": 1,
+          "level": 6,
+          "shiny": false
+        }
+      ],
       "tier": "LC"
     },
     "sandshrewalola": {
@@ -2350,8 +2617,18 @@
         "knockoff",
         "protect"
       ],
+      "encounters": [
+        {
+          "generation": 2,
+          "level": 10
+        },
+        {
+          "generation": 4,
+          "level": 10
+        }
+      ],
       "tier": "(PU)",
-      "doublesTier": "DUU"
+      "doublesTier": "(DUU)"
     },
     "sandslashalola": {
       "randomBattleMoves": [
@@ -2372,7 +2649,7 @@
         "rockslide"
       ],
       "tier": "PU",
-      "doublesTier": "DUU"
+      "doublesTier": "(DUU)"
     },
     "nidoranf": {
       "randomBattleMoves": [
@@ -2386,6 +2663,12 @@
         "crunch",
         "poisonjab",
         "protect"
+      ],
+      "encounters": [
+        {
+          "generation": 1,
+          "level": 2
+        }
       ],
       "tier": "LC"
     },
@@ -2407,6 +2690,13 @@
         "icebeam",
         "thunderbolt",
         "shadowclaw"
+      ],
+      "encounters": [
+        {
+          "generation": 4,
+          "level": 15,
+          "pokeball": "safariball"
+        }
       ],
       "tier": "NFE"
     },
@@ -2446,7 +2736,7 @@
         }
       ],
       "tier": "RU",
-      "doublesTier": "DUU"
+      "doublesTier": "(DUU)"
     },
     "nidoranm": {
       "randomBattleMoves": [
@@ -2462,6 +2752,12 @@
         "shadowclaw",
         "helpinghand",
         "protect"
+      ],
+      "encounters": [
+        {
+          "generation": 1,
+          "level": 2
+        }
       ],
       "tier": "LC"
     },
@@ -2479,6 +2775,13 @@
         "shadowclaw",
         "helpinghand",
         "protect"
+      ],
+      "encounters": [
+        {
+          "generation": 4,
+          "level": 15,
+          "pokeball": "safariball"
+        }
       ],
       "tier": "NFE"
     },
@@ -2518,7 +2821,7 @@
         }
       ],
       "tier": "UU",
-      "doublesTier": "DUU"
+      "doublesTier": "(DUU)"
     },
     "cleffa": {
       "randomBattleMoves": [
@@ -2569,7 +2872,14 @@
         "protect",
         "moonblast"
       ],
-      "tier": "PU"
+      "encounters": [
+        {
+          "generation": 1,
+          "level": 8
+        }
+      ],
+      "tier": "PU",
+      "doublesTier": "NFE"
     },
     "clefable": {
       "randomBattleMoves": [
@@ -2647,6 +2957,12 @@
           ]
         }
       ],
+      "encounters": [
+        {
+          "generation": 1,
+          "level": 18
+        }
+      ],
       "tier": "LC Uber"
     },
     "vulpixalola": {
@@ -2684,7 +3000,7 @@
         "solarbeam",
         "nastyplot",
         "substitute",
-        "hiddenpowerice"
+        "psyshock"
       ],
       "randomDoubleBattleMoves": [
         "heatwave",
@@ -2800,6 +3116,21 @@
         "knockoff",
         "dazzlinggleam"
       ],
+      "encounters": [
+        {
+          "generation": 1,
+          "level": 3,
+          "shiny": false
+        },
+        {
+          "generation": 2,
+          "level": 3
+        },
+        {
+          "generation": 3,
+          "level": 3
+        }
+      ],
       "tier": "NFE"
     },
     "wigglytuff": {
@@ -2821,8 +3152,14 @@
         "icebeam",
         "hypervoice"
       ],
+      "encounters": [
+        {
+          "generation": 1,
+          "level": 22
+        }
+      ],
       "tier": "(PU)",
-      "doublesTier": "DUU"
+      "doublesTier": "(DUU)"
     },
     "zubat": {
       "randomBattleMoves": [
@@ -2851,6 +3188,17 @@
         "heatwave",
         "superfang"
       ],
+      "encounters": [
+        {
+          "generation": 1,
+          "level": 6,
+          "shiny": false
+        },
+        {
+          "generation": 2,
+          "level": 2
+        }
+      ],
       "tier": "LC"
     },
     "golbat": {
@@ -2874,6 +3222,29 @@
         "protect",
         "heatwave",
         "superfang"
+      ],
+      "encounters": [
+        {
+          "generation": 2,
+          "level": 13
+        },
+        {
+          "generation": 3,
+          "level": 5
+        },
+        {
+          "generation": 4,
+          "level": 10
+        },
+        {
+          "generation": 6,
+          "level": 19,
+          "maxEggMoves": 1
+        },
+        {
+          "generation": 7,
+          "level": 20
+        }
       ],
       "tier": "NU",
       "doublesTier": "NFE"
@@ -2926,7 +3297,7 @@
         }
       ],
       "tier": "UU",
-      "doublesTier": "DUU"
+      "doublesTier": "(DUU)"
     },
     "oddish": {
       "randomBattleMoves": [
@@ -2985,6 +3356,13 @@
           "pokeball": "pokeball"
         }
       ],
+      "encounters": [
+        {
+          "generation": 1,
+          "level": 12,
+          "shiny": false
+        }
+      ],
       "tier": "LC"
     },
     "gloom": {
@@ -3024,6 +3402,21 @@
           "pokeball": "pokeball"
         }
       ],
+      "encounters": [
+        {
+          "generation": 2,
+          "level": 14
+        },
+        {
+          "generation": 4,
+          "level": 14
+        },
+        {
+          "generation": 6,
+          "level": 18,
+          "maxEggMoves": 1
+        }
+      ],
       "tier": "NFE"
     },
     "vileplume": {
@@ -3044,8 +3437,8 @@
         "hiddenpowerfire",
         "moonblast"
       ],
-      "tier": "NU",
-      "doublesTier": "DUU"
+      "tier": "NUBL",
+      "doublesTier": "(DUU)"
     },
     "bellossom": {
       "randomBattleMoves": [
@@ -3068,7 +3461,7 @@
         "solarbeam"
       ],
       "tier": "(PU)",
-      "doublesTier": "DUU"
+      "doublesTier": "(DUU)"
     },
     "paras": {
       "randomBattleMoves": [
@@ -3107,6 +3500,13 @@
           ]
         }
       ],
+      "encounters": [
+        {
+          "generation": 1,
+          "level": 8,
+          "shiny": false
+        }
+      ],
       "tier": "LC"
     },
     "parasect": {
@@ -3129,8 +3529,18 @@
         "knockoff",
         "wideguard"
       ],
+      "encounters": [
+        {
+          "generation": 1,
+          "level": 13
+        },
+        {
+          "generation": 2,
+          "level": 5
+        }
+      ],
       "tier": "(PU)",
-      "doublesTier": "DUU"
+      "doublesTier": "(DUU)"
     },
     "venonat": {
       "randomBattleMoves": [
@@ -3151,6 +3561,13 @@
         "stunspore",
         "psychic",
         "protect"
+      ],
+      "encounters": [
+        {
+          "generation": 1,
+          "level": 13,
+          "shiny": false
+        }
       ],
       "tier": "LC"
     },
@@ -3189,8 +3606,27 @@
           ]
         }
       ],
+      "encounters": [
+        {
+          "generation": 1,
+          "level": 30,
+          "shiny": false
+        },
+        {
+          "generation": 2,
+          "level": 10
+        },
+        {
+          "generation": 4,
+          "level": 8
+        },
+        {
+          "generation": 6,
+          "level": 30
+        }
+      ],
       "tier": "RUBL",
-      "doublesTier": "DUU"
+      "doublesTier": "(DUU)"
     },
     "diglett": {
       "randomBattleMoves": [
@@ -3208,6 +3644,17 @@
         "protect",
         "suckerpunch",
         "shadowclaw"
+      ],
+      "encounters": [
+        {
+          "generation": 1,
+          "level": 15,
+          "shiny": false
+        },
+        {
+          "generation": 2,
+          "level": 2
+        }
       ],
       "tier": "LC"
     },
@@ -3260,8 +3707,22 @@
           ]
         }
       ],
+      "encounters": [
+        {
+          "generation": 1,
+          "level": 15
+        },
+        {
+          "generation": 2,
+          "level": 5
+        },
+        {
+          "generation": 4,
+          "level": 19
+        }
+      ],
       "tier": "(PU)",
-      "doublesTier": "DUU"
+      "doublesTier": "(DUU)"
     },
     "dugtrioalola": {
       "randomBattleMoves": [
@@ -3281,8 +3742,8 @@
         "stoneedge",
         "suckerpunch"
       ],
-      "tier": "(PU)",
-      "doublesTier": "DUU"
+      "tier": "PU",
+      "doublesTier": "(DUU)"
     },
     "meowth": {
       "randomBattleMoves": [
@@ -3409,6 +3870,31 @@
           "pokeball": "cherishball"
         }
       ],
+      "encounters": [
+        {
+          "generation": 1,
+          "level": 10
+        },
+        {
+          "generation": 3,
+          "level": 3,
+          "shiny": false,
+          "gender": "M",
+          "nature": "Naive",
+          "ivs": {
+            "hp": 4,
+            "atk": 5,
+            "def": 4,
+            "spa": 5,
+            "spd": 4,
+            "spe": 4
+          },
+          "abilities": [
+            "pickup"
+          ],
+          "pokeball": "pokeball"
+        }
+      ],
       "tier": "LC"
     },
     "meowthalola": {
@@ -3432,8 +3918,18 @@
         "feint",
         "protect"
       ],
+      "encounters": [
+        {
+          "generation": 2,
+          "level": 18
+        },
+        {
+          "generation": 4,
+          "level": 19
+        }
+      ],
       "tier": "(PU)",
-      "doublesTier": "DUU"
+      "doublesTier": "(DUU)"
     },
     "persianalola": {
       "randomBattleMoves": [
@@ -3454,7 +3950,7 @@
         "protect"
       ],
       "tier": "PU",
-      "doublesTier": "DUU"
+      "doublesTier": "(DUU)"
     },
     "psyduck": {
       "randomBattleMoves": [
@@ -3518,6 +4014,12 @@
           "pokeball": "pokeball"
         }
       ],
+      "encounters": [
+        {
+          "generation": 1,
+          "level": 15
+        }
+      ],
       "tier": "LC"
     },
     "golduck": {
@@ -3575,8 +4077,28 @@
           "pokeball": "cherishball"
         }
       ],
+      "encounters": [
+        {
+          "generation": 1,
+          "level": 15,
+          "shiny": false
+        },
+        {
+          "generation": 2,
+          "level": 10
+        },
+        {
+          "generation": 3,
+          "level": 25,
+          "pokeball": "safariball"
+        },
+        {
+          "generation": 4,
+          "level": 10
+        }
+      ],
       "tier": "(PU)",
-      "doublesTier": "DUU"
+      "doublesTier": "(DUU)"
     },
     "mankey": {
       "randomBattleMoves": [
@@ -3597,6 +4119,17 @@
         "earthquake",
         "poisonjab",
         "protect"
+      ],
+      "encounters": [
+        {
+          "generation": 1,
+          "level": 3,
+          "shiny": false
+        },
+        {
+          "generation": 3,
+          "level": 2
+        }
       ],
       "tier": "LC"
     },
@@ -3637,8 +4170,18 @@
           ]
         }
       ],
+      "encounters": [
+        {
+          "generation": 2,
+          "level": 15
+        },
+        {
+          "generation": 4,
+          "level": 15
+        }
+      ],
       "tier": "PU",
-      "doublesTier": "DUU"
+      "doublesTier": "(DUU)"
     },
     "growlithe": {
       "randomBattleMoves": [
@@ -3709,6 +4252,13 @@
           ]
         }
       ],
+      "encounters": [
+        {
+          "generation": 1,
+          "level": 15,
+          "shiny": false
+        }
+      ],
       "tier": "LC"
     },
     "arcanine": {
@@ -3764,7 +4314,7 @@
         }
       ],
       "tier": "RU",
-      "doublesTier": "DOU"
+      "doublesTier": "DUU"
     },
     "poliwag": {
       "randomBattleMoves": [
@@ -3799,6 +4349,16 @@
           "pokeball": "pokeball"
         }
       ],
+      "encounters": [
+        {
+          "generation": 1,
+          "level": 5
+        },
+        {
+          "generation": 2,
+          "level": 3
+        }
+      ],
       "tier": "LC"
     },
     "poliwhirl": {
@@ -3824,13 +4384,46 @@
         "helpinghand",
         "earthquake"
       ],
+      "encounters": [
+        {
+          "generation": 1,
+          "level": 15
+        },
+        {
+          "generation": 2,
+          "level": 10
+        },
+        {
+          "generation": 3,
+          "level": 20
+        },
+        {
+          "generation": 4,
+          "level": 10
+        },
+        {
+          "generation": 7,
+          "level": 24
+        },
+        {
+          "generation": 7,
+          "level": 22,
+          "isHidden": false,
+          "gender": "F",
+          "nature": "Naughty",
+          "abilities": [
+            "damp"
+          ],
+          "pokeball": "pokeball"
+        }
+      ],
       "tier": "NFE"
     },
     "poliwrath": {
       "randomBattleMoves": [
         "hydropump",
         "focusblast",
-        "icebeam",
+        "icepunch",
         "rest",
         "sleeptalk",
         "scald",
@@ -3860,7 +4453,7 @@
         }
       ],
       "tier": "PU",
-      "doublesTier": "DUU"
+      "doublesTier": "(DUU)"
     },
     "politoed": {
       "randomBattleMoves": [
@@ -3930,6 +4523,12 @@
         "encore",
         "substitute"
       ],
+      "encounters": [
+        {
+          "generation": 1,
+          "level": 6
+        }
+      ],
       "tier": "LC"
     },
     "kadabra": {
@@ -3950,6 +4549,22 @@
         "shadowball",
         "encore",
         "substitute"
+      ],
+      "encounters": [
+        {
+          "generation": 2,
+          "level": 15
+        },
+        {
+          "generation": 4,
+          "level": 15
+        },
+        {
+          "generation": 7,
+          "level": 11,
+          "isHidden": false,
+          "pokeball": "pokeball"
+        }
       ],
       "tier": "NFE"
     },
@@ -3986,7 +4601,7 @@
         }
       ],
       "tier": "UUBL",
-      "doublesTier": "DUU"
+      "doublesTier": "(DUU)"
     },
     "alakazammega": {
       "randomBattleMoves": [
@@ -4009,7 +4624,7 @@
       ],
       "requiredItem": "Alakazite",
       "tier": "OU",
-      "doublesTier": "DUU"
+      "doublesTier": "(DUU)"
     },
     "machop": {
       "randomBattleMoves": [
@@ -4027,6 +4642,13 @@
         "rockslide",
         "bulletpunch",
         "knockoff"
+      ],
+      "encounters": [
+        {
+          "generation": 1,
+          "level": 15,
+          "shiny": false
+        }
       ],
       "tier": "LC"
     },
@@ -4060,6 +4682,16 @@
             "revenge"
           ],
           "pokeball": "cherishball"
+        }
+      ],
+      "encounters": [
+        {
+          "generation": 2,
+          "level": 14
+        },
+        {
+          "generation": 4,
+          "level": 14
         }
       ],
       "tier": "NFE"
@@ -4172,8 +4804,18 @@
           "pokeball": "cherishball"
         }
       ],
+      "encounters": [
+        {
+          "generation": 1,
+          "level": 16
+        },
+        {
+          "generation": 2,
+          "level": 5
+        }
+      ],
       "tier": "RU",
-      "doublesTier": "DUU"
+      "doublesTier": "(DUU)"
     },
     "bellsprout": {
       "randomBattleMoves": [
@@ -4219,6 +4861,17 @@
           "pokeball": "pokeball"
         }
       ],
+      "encounters": [
+        {
+          "generation": 1,
+          "level": 12,
+          "shiny": false
+        },
+        {
+          "generation": 2,
+          "level": 3
+        }
+      ],
       "tier": "LC"
     },
     "weepinbell": {
@@ -4257,6 +4910,16 @@
           ]
         }
       ],
+      "encounters": [
+        {
+          "generation": 2,
+          "level": 12
+        },
+        {
+          "generation": 4,
+          "level": 10
+        }
+      ],
       "tier": "NFE"
     },
     "victreebel": {
@@ -4282,8 +4945,8 @@
         "knockoff",
         "protect"
       ],
-      "tier": "(PU)",
-      "doublesTier": "DUU"
+      "tier": "PU",
+      "doublesTier": "(DUU)"
     },
     "tentacool": {
       "randomBattleMoves": [
@@ -4307,6 +4970,12 @@
         "protect",
         "dazzlinggleam"
       ],
+      "encounters": [
+        {
+          "generation": 1,
+          "level": 5
+        }
+      ],
       "tier": "LC"
     },
     "tentacruel": {
@@ -4329,8 +4998,31 @@
         "protect",
         "dazzlinggleam"
       ],
+      "encounters": [
+        {
+          "generation": 1,
+          "level": 20
+        },
+        {
+          "generation": 2,
+          "level": 20
+        },
+        {
+          "generation": 3,
+          "level": 20
+        },
+        {
+          "generation": 4,
+          "level": 15
+        },
+        {
+          "generation": 6,
+          "level": 21,
+          "maxEggMoves": 1
+        }
+      ],
       "tier": "UU",
-      "doublesTier": "DUU"
+      "doublesTier": "(DUU)"
     },
     "geodude": {
       "randomBattleMoves": [
@@ -4350,6 +5042,17 @@
         "hammerarm",
         "firepunch",
         "protect"
+      ],
+      "encounters": [
+        {
+          "generation": 1,
+          "level": 7,
+          "shiny": false
+        },
+        {
+          "generation": 2,
+          "level": 2
+        }
       ],
       "tier": "LC"
     },
@@ -4375,6 +5078,22 @@
         "firepunch",
         "protect"
       ],
+      "encounters": [
+        {
+          "generation": 2,
+          "level": 23
+        },
+        {
+          "generation": 4,
+          "level": 16,
+          "pokeball": "safariball"
+        },
+        {
+          "generation": 6,
+          "level": 24,
+          "isHidden": false
+        }
+      ],
       "tier": "NFE"
     },
     "graveleralola": {
@@ -4399,7 +5118,7 @@
         "protect"
       ],
       "tier": "(PU)",
-      "doublesTier": "DUU"
+      "doublesTier": "(DUU)"
     },
     "golemalola": {
       "randomBattleMoves": [
@@ -4418,7 +5137,7 @@
         "protect"
       ],
       "tier": "(PU)",
-      "doublesTier": "DUU"
+      "doublesTier": "(DUU)"
     },
     "ponyta": {
       "randomBattleMoves": [
@@ -4434,6 +5153,13 @@
         "protect",
         "hypnosis",
         "flamecharge"
+      ],
+      "encounters": [
+        {
+          "generation": 1,
+          "level": 28,
+          "shiny": false
+        }
       ],
       "tier": "LC"
     },
@@ -4467,8 +5193,20 @@
           ]
         }
       ],
+      "encounters": [
+        {
+          "generation": 2,
+          "level": 14,
+          "gender": "M",
+          "shiny": false
+        },
+        {
+          "generation": 3,
+          "level": 37
+        }
+      ],
       "tier": "(PU)",
-      "doublesTier": "DUU"
+      "doublesTier": "(DUU)"
     },
     "slowpoke": {
       "randomBattleMoves": [
@@ -4539,6 +5277,12 @@
           "pokeball": "cherishball"
         }
       ],
+      "encounters": [
+        {
+          "generation": 1,
+          "level": 15
+        }
+      ],
       "tier": "LC"
     },
     "slowbro": {
@@ -4581,8 +5325,40 @@
           "pokeball": "cherishball"
         }
       ],
-      "tier": "NU",
-      "doublesTier": "DUU"
+      "encounters": [
+        {
+          "generation": 1,
+          "level": 15,
+          "shiny": false
+        },
+        {
+          "generation": 1,
+          "level": 23
+        },
+        {
+          "generation": 2,
+          "level": 20
+        },
+        {
+          "generation": 3,
+          "level": 32
+        },
+        {
+          "generation": 4,
+          "level": 15
+        },
+        {
+          "generation": 5,
+          "level": 35,
+          "isHidden": false
+        },
+        {
+          "generation": 7,
+          "level": 15
+        }
+      ],
+      "tier": "RU",
+      "doublesTier": "(DUU)"
     },
     "slowbromega": {
       "randomBattleMoves": [
@@ -4591,7 +5367,6 @@
         "psyshock",
         "slackoff",
         "fireblast",
-        "psychic",
         "icebeam"
       ],
       "randomDoubleBattleMoves": [
@@ -4606,8 +5381,8 @@
         "psyshock"
       ],
       "requiredItem": "Slowbronite",
-      "tier": "UU",
-      "doublesTier": "DUU"
+      "tier": "RUBL",
+      "doublesTier": "(DUU)"
     },
     "slowking": {
       "randomBattleMoves": [
@@ -4637,7 +5412,7 @@
         "psyshock"
       ],
       "tier": "NU",
-      "doublesTier": "DUU"
+      "doublesTier": "(DUU)"
     },
     "magnemite": {
       "randomBattleMoves": [
@@ -4660,6 +5435,13 @@
         "protect",
         "electroweb",
         "discharge"
+      ],
+      "encounters": [
+        {
+          "generation": 1,
+          "level": 16,
+          "shiny": false
+        }
       ],
       "tier": "LC"
     },
@@ -4698,6 +5480,22 @@
           ]
         }
       ],
+      "encounters": [
+        {
+          "generation": 2,
+          "level": 5,
+          "shiny": false
+        },
+        {
+          "generation": 3,
+          "level": 26
+        },
+        {
+          "generation": 4,
+          "level": 17,
+          "pokeball": "safariball"
+        }
+      ],
       "tier": "UU",
       "doublesTier": "NFE"
     },
@@ -4722,7 +5520,7 @@
         "hiddenpowerfire"
       ],
       "tier": "OU",
-      "doublesTier": "DUU"
+      "doublesTier": "(DUU)"
     },
     "farfetchd": {
       "randomBattleMoves": [
@@ -4763,8 +5561,32 @@
           ]
         }
       ],
+      "encounters": [
+        {
+          "generation": 1,
+          "level": 3
+        },
+        {
+          "generation": 3,
+          "level": 3,
+          "gender": "M",
+          "nature": "Adamant",
+          "ivs": {
+            "hp": 20,
+            "atk": 25,
+            "def": 21,
+            "spa": 24,
+            "spd": 15,
+            "spe": 20
+          },
+          "abilities": [
+            "keeneye"
+          ],
+          "pokeball": "pokeball"
+        }
+      ],
       "tier": "(PU)",
-      "doublesTier": "DUU"
+      "doublesTier": "(DUU)"
     },
     "doduo": {
       "randomBattleMoves": [
@@ -4781,6 +5603,17 @@
         "doubleedge",
         "quickattack",
         "protect"
+      ],
+      "encounters": [
+        {
+          "generation": 1,
+          "level": 18,
+          "shiny": false
+        },
+        {
+          "generation": 2,
+          "level": 4
+        }
       ],
       "tier": "LC"
     },
@@ -4814,8 +5647,49 @@
           ]
         }
       ],
+      "encounters": [
+        {
+          "generation": 1,
+          "level": 29,
+          "shiny": false
+        },
+        {
+          "generation": 2,
+          "level": 10,
+          "gender": "F",
+          "shiny": false
+        },
+        {
+          "generation": 2,
+          "level": 30
+        },
+        {
+          "generation": 3,
+          "level": 29,
+          "pokeball": "safariball"
+        },
+        {
+          "generation": 4,
+          "level": 15,
+          "gender": "F",
+          "shiny": false,
+          "nature": "Impish",
+          "ivs": {
+            "hp": 20,
+            "atk": 20,
+            "def": 20,
+            "spa": 15,
+            "spd": 15,
+            "spe": 15
+          },
+          "abilities": [
+            "runaway"
+          ],
+          "pokeball": "pokeball"
+        }
+      ],
       "tier": "PU",
-      "doublesTier": "DUU"
+      "doublesTier": "(DUU)"
     },
     "seel": {
       "randomBattleMoves": [
@@ -4853,6 +5727,13 @@
           ]
         }
       ],
+      "encounters": [
+        {
+          "generation": 1,
+          "level": 22,
+          "shiny": false
+        }
+      ],
       "tier": "LC"
     },
     "dewgong": {
@@ -4873,8 +5754,32 @@
         "encore",
         "toxic"
       ],
+      "encounters": [
+        {
+          "generation": 1,
+          "level": 15
+        },
+        {
+          "generation": 2,
+          "level": 5
+        },
+        {
+          "generation": 3,
+          "level": 32
+        },
+        {
+          "generation": 5,
+          "level": 30,
+          "isHidden": false
+        },
+        {
+          "generation": 6,
+          "level": 30,
+          "maxEggMoves": 1
+        }
+      ],
       "tier": "(PU)",
-      "doublesTier": "DUU"
+      "doublesTier": "(DUU)"
     },
     "grimer": {
       "randomBattleMoves": [
@@ -4905,6 +5810,13 @@
             "shadowpunch",
             "minimize"
           ]
+        }
+      ],
+      "encounters": [
+        {
+          "generation": 1,
+          "level": 23,
+          "shiny": false
         }
       ],
       "tier": "LC"
@@ -4948,8 +5860,40 @@
         "firepunch",
         "brickbreak"
       ],
+      "encounters": [
+        {
+          "generation": 1,
+          "level": 25
+        },
+        {
+          "generation": 2,
+          "level": 5
+        },
+        {
+          "generation": 3,
+          "level": 32
+        },
+        {
+          "generation": 4,
+          "level": 15
+        },
+        {
+          "generation": 5,
+          "level": 5,
+          "isHidden": false
+        },
+        {
+          "generation": 5,
+          "level": 35,
+          "isHidden": true
+        },
+        {
+          "generation": 6,
+          "level": 30
+        }
+      ],
       "tier": "(PU)",
-      "doublesTier": "DUU"
+      "doublesTier": "(DUU)"
     },
     "mukalola": {
       "randomBattleMoves": [
@@ -5044,18 +5988,23 @@
           ]
         }
       ],
+      "encounters": [
+        {
+          "generation": 1,
+          "level": 10
+        }
+      ],
       "tier": "LC"
     },
     "cloyster": {
       "randomBattleMoves": [
         "shellsmash",
+        "iciclespear",
         "hydropump",
         "rockblast",
-        "iciclespear",
         "iceshard",
-        "rapidspin",
         "spikes",
-        "toxicspikes"
+        "rapidspin"
       ],
       "randomDoubleBattleMoves": [
         "shellsmash",
@@ -5085,7 +6034,7 @@
         }
       ],
       "tier": "RU",
-      "doublesTier": "DUU"
+      "doublesTier": "(DUU)"
     },
     "gastly": {
       "randomBattleMoves": [
@@ -5114,6 +6063,13 @@
         "trick",
         "dazzlinggleam",
         "protect"
+      ],
+      "encounters": [
+        {
+          "generation": 1,
+          "level": 18,
+          "shiny": false
+        }
       ],
       "tier": "LC"
     },
@@ -5150,6 +6106,25 @@
             "payback"
           ],
           "pokeball": "cherishball"
+        }
+      ],
+      "encounters": [
+        {
+          "generation": 1,
+          "level": 20,
+          "shiny": false
+        },
+        {
+          "generation": 2,
+          "level": 15
+        },
+        {
+          "generation": 3,
+          "level": 20
+        },
+        {
+          "generation": 4,
+          "level": 16
         }
       ],
       "tier": "PU",
@@ -5316,6 +6291,13 @@
         "protect",
         "explosion"
       ],
+      "encounters": [
+        {
+          "generation": 1,
+          "level": 13,
+          "shiny": false
+        }
+      ],
       "tier": "LC"
     },
     "steelix": {
@@ -5337,7 +6319,7 @@
         "wideguard"
       ],
       "tier": "NU",
-      "doublesTier": "DUU"
+      "doublesTier": "(DUU)"
     },
     "steelixmega": {
       "randomBattleMoves": [
@@ -5357,8 +6339,8 @@
         "explosion"
       ],
       "requiredItem": "Steelixite",
-      "tier": "RU",
-      "doublesTier": "DUU"
+      "tier": "UU",
+      "doublesTier": "(DUU)"
     },
     "drowzee": {
       "randomBattleMoves": [
@@ -5401,6 +6383,13 @@
           "pokeball": "pokeball"
         }
       ],
+      "encounters": [
+        {
+          "generation": 1,
+          "level": 9,
+          "shiny": false
+        }
+      ],
       "tier": "LC"
     },
     "hypno": {
@@ -5439,8 +6428,18 @@
           ]
         }
       ],
+      "encounters": [
+        {
+          "generation": 2,
+          "level": 16
+        },
+        {
+          "generation": 4,
+          "level": 16
+        }
+      ],
       "tier": "(PU)",
-      "doublesTier": "DUU"
+      "doublesTier": "(DUU)"
     },
     "krabby": {
       "randomBattleMoves": [
@@ -5463,6 +6462,12 @@
         "knockoff",
         "protect"
       ],
+      "encounters": [
+        {
+          "generation": 1,
+          "level": 10
+        }
+      ],
       "tier": "LC"
     },
     "kingler": {
@@ -5476,7 +6481,7 @@
         "knockoff"
       ],
       "randomDoubleBattleMoves": [
-        "crabhammer",
+        "liquidation",
         "xscissor",
         "rockslide",
         "substitute",
@@ -5485,8 +6490,22 @@
         "protect",
         "wideguard"
       ],
-      "tier": "NU",
-      "doublesTier": "DUU"
+      "encounters": [
+        {
+          "generation": 1,
+          "level": 15
+        },
+        {
+          "generation": 3,
+          "level": 25
+        },
+        {
+          "generation": 4,
+          "level": 22
+        }
+      ],
+      "tier": "PUBL",
+      "doublesTier": "(DUU)"
     },
     "voltorb": {
       "randomBattleMoves": [
@@ -5517,6 +6536,17 @@
           ]
         }
       ],
+      "encounters": [
+        {
+          "generation": 1,
+          "level": 14,
+          "shiny": false
+        },
+        {
+          "generation": 1,
+          "level": 40
+        }
+      ],
       "tier": "LC"
     },
     "electrode": {
@@ -5537,8 +6567,40 @@
         "protect",
         "thunderwave"
       ],
+      "encounters": [
+        {
+          "generation": 1,
+          "level": 3
+        },
+        {
+          "generation": 2,
+          "level": 23
+        },
+        {
+          "generation": 3,
+          "level": 3,
+          "shiny": false,
+          "nature": "Hasty",
+          "ivs": {
+            "hp": 19,
+            "atk": 16,
+            "def": 18,
+            "spa": 25,
+            "spd": 25,
+            "spe": 19
+          },
+          "abilities": [
+            "static"
+          ],
+          "pokeball": "pokeball"
+        },
+        {
+          "generation": 4,
+          "level": 23
+        }
+      ],
       "tier": "(PU)",
-      "doublesTier": "DUU"
+      "doublesTier": "(DUU)"
     },
     "exeggcute": {
       "randomBattleMoves": [
@@ -5572,6 +6634,13 @@
             "wish"
           ],
           "pokeball": "pokeball"
+        }
+      ],
+      "encounters": [
+        {
+          "generation": 1,
+          "level": 20,
+          "shiny": false
         }
       ],
       "tier": "LC"
@@ -5609,18 +6678,15 @@
         }
       ],
       "tier": "(PU)",
-      "doublesTier": "DUU"
+      "doublesTier": "(DUU)"
     },
     "exeggutoralola": {
       "randomBattleMoves": [
         "dracometeor",
         "leafstorm",
         "flamethrower",
-        "earthquake",
-        "woodhammer",
         "gigadrain",
-        "dragonhammer",
-        "knockoff"
+        "trickroom"
       ],
       "randomDoubleBattleMoves": [
         "dracometeor",
@@ -5647,8 +6713,8 @@
           "pokeball": "cherishball"
         }
       ],
-      "tier": "PU",
-      "doublesTier": "DUU"
+      "tier": "NU",
+      "doublesTier": "(DUU)"
     },
     "cubone": {
       "randomBattleMoves": [
@@ -5667,6 +6733,13 @@
         "firepunch",
         "earthquake",
         "protect"
+      ],
+      "encounters": [
+        {
+          "generation": 1,
+          "level": 16,
+          "shiny": false
+        }
       ],
       "tier": "LC"
     },
@@ -5702,8 +6775,23 @@
           ]
         }
       ],
+      "encounters": [
+        {
+          "generation": 1,
+          "level": 24,
+          "shiny": false
+        },
+        {
+          "generation": 2,
+          "level": 12
+        },
+        {
+          "generation": 4,
+          "level": 14
+        }
+      ],
       "tier": "(PU)",
-      "doublesTier": "DUU"
+      "doublesTier": "(DUU)"
     },
     "marowakalola": {
       "randomBattleMoves": [
@@ -5799,8 +6887,14 @@
           ]
         }
       ],
+      "encounters": [
+        {
+          "generation": 1,
+          "level": 30
+        }
+      ],
       "tier": "NU",
-      "doublesTier": "DUU"
+      "doublesTier": "(DUU)"
     },
     "hitmonchan": {
       "randomBattleMoves": [
@@ -5837,8 +6931,14 @@
           ]
         }
       ],
+      "encounters": [
+        {
+          "generation": 1,
+          "level": 30
+        }
+      ],
       "tier": "PU",
-      "doublesTier": "DUU"
+      "doublesTier": "(DUU)"
     },
     "hitmontop": {
       "randomBattleMoves": [
@@ -5925,6 +7025,12 @@
           ]
         }
       ],
+      "encounters": [
+        {
+          "generation": 1,
+          "level": 15
+        }
+      ],
       "tier": "LC"
     },
     "lickilicky": {
@@ -5952,7 +7058,7 @@
         "explosion"
       ],
       "tier": "(PU)",
-      "doublesTier": "DUU"
+      "doublesTier": "(DUU)"
     },
     "koffing": {
       "randomBattleMoves": [
@@ -5976,6 +7082,13 @@
         "sleeptalk",
         "thunderbolt"
       ],
+      "encounters": [
+        {
+          "generation": 1,
+          "level": 30,
+          "shiny": false
+        }
+      ],
       "tier": "LC"
     },
     "weezing": {
@@ -5997,8 +7110,23 @@
         "thunderbolt",
         "explosion"
       ],
-      "tier": "PU",
-      "doublesTier": "DUU"
+      "encounters": [
+        {
+          "generation": 2,
+          "level": 16
+        },
+        {
+          "generation": 3,
+          "level": 32
+        },
+        {
+          "generation": 4,
+          "level": 15,
+          "pokeball": "safariball"
+        }
+      ],
+      "tier": "NU",
+      "doublesTier": "(DUU)"
     },
     "rhyhorn": {
       "randomBattleMoves": [
@@ -6018,6 +7146,12 @@
         "stealthrock",
         "rockslide",
         "protect"
+      ],
+      "encounters": [
+        {
+          "generation": 1,
+          "level": 20
+        }
       ],
       "tier": "LC"
     },
@@ -6053,6 +7187,24 @@
           ]
         }
       ],
+      "encounters": [
+        {
+          "generation": 1,
+          "level": 15
+        },
+        {
+          "generation": 2,
+          "level": 10
+        },
+        {
+          "generation": 4,
+          "level": 41
+        },
+        {
+          "generation": 6,
+          "level": 30
+        }
+      ],
       "tier": "NU",
       "doublesTier": "NFE"
     },
@@ -6060,7 +7212,7 @@
       "randomBattleMoves": [
         "stoneedge",
         "earthquake",
-        "aquatail",
+        "icepunch",
         "megahorn",
         "stealthrock",
         "rockblast",
@@ -6074,11 +7226,11 @@
         "megahorn",
         "stealthrock",
         "rockslide",
-        "aquatail",
+        "icepunch",
         "protect"
       ],
       "tier": "RU",
-      "doublesTier": "DUU"
+      "doublesTier": "(DUU)"
     },
     "happiny": {
       "randomBattleMoves": [
@@ -6110,9 +7262,7 @@
         "thunderwave",
         "toxic",
         "seismictoss",
-        "wish",
-        "protect",
-        "counter"
+        "wish"
       ],
       "randomDoubleBattleMoves": [
         "aromatherapy",
@@ -6158,6 +7308,13 @@
           ]
         }
       ],
+      "encounters": [
+        {
+          "generation": 1,
+          "level": 7,
+          "shiny": false
+        }
+      ],
       "tier": "OU",
       "doublesTier": "NFE"
     },
@@ -6167,7 +7324,6 @@
         "flamethrower",
         "seismictoss",
         "softboiled",
-        "wish",
         "healbell",
         "protect",
         "thunderwave",
@@ -6199,7 +7355,7 @@
         }
       ],
       "tier": "UU",
-      "doublesTier": "DUU"
+      "doublesTier": "(DUU)"
     },
     "tangela": {
       "randomBattleMoves": [
@@ -6240,7 +7396,14 @@
           ]
         }
       ],
-      "tier": "LC Uber"
+      "encounters": [
+        {
+          "generation": 1,
+          "level": 13
+        }
+      ],
+      "tier": "PU",
+      "doublesTier": "LC Uber"
     },
     "tangrowth": {
       "randomBattleMoves": [
@@ -6282,7 +7445,7 @@
         }
       ],
       "tier": "OU",
-      "doublesTier": "DUU"
+      "doublesTier": "(DUU)"
     },
     "kangaskhan": {
       "randomBattleMoves": [
@@ -6359,8 +7522,15 @@
           "pokeball": "cherishball"
         }
       ],
+      "encounters": [
+        {
+          "generation": 1,
+          "level": 25,
+          "shiny": false
+        }
+      ],
       "tier": "PU",
-      "doublesTier": "DUU"
+      "doublesTier": "(DUU)"
     },
     "kangaskhanmega": {
       "randomBattleMoves": [
@@ -6415,6 +7585,12 @@
           "pokeball": "pokeball"
         }
       ],
+      "encounters": [
+        {
+          "generation": 1,
+          "level": 5
+        }
+      ],
       "tier": "LC"
     },
     "seadra": {
@@ -6448,6 +7624,24 @@
             "agility"
           ],
           "pokeball": "pokeball"
+        }
+      ],
+      "encounters": [
+        {
+          "generation": 1,
+          "level": 20
+        },
+        {
+          "generation": 2,
+          "level": 20
+        },
+        {
+          "generation": 3,
+          "level": 25
+        },
+        {
+          "generation": 4,
+          "level": 15
         }
       ],
       "tier": "NFE"
@@ -6531,6 +7725,12 @@
         "icebeam",
         "protect"
       ],
+      "encounters": [
+        {
+          "generation": 1,
+          "level": 5
+        }
+      ],
       "tier": "LC"
     },
     "seaking": {
@@ -6552,8 +7752,35 @@
         "icywind",
         "protect"
       ],
+      "encounters": [
+        {
+          "generation": 1,
+          "level": 23
+        },
+        {
+          "generation": 2,
+          "level": 10
+        },
+        {
+          "generation": 3,
+          "level": 20
+        },
+        {
+          "generation": 4,
+          "level": 10
+        },
+        {
+          "generation": 6,
+          "level": 26,
+          "maxEggMoves": 1
+        },
+        {
+          "generation": 7,
+          "level": 10
+        }
+      ],
       "tier": "(PU)",
-      "doublesTier": "DUU"
+      "doublesTier": "(DUU)"
     },
     "staryu": {
       "randomBattleMoves": [
@@ -6608,6 +7835,12 @@
             "recover"
           ],
           "pokeball": "pokeball"
+        }
+      ],
+      "encounters": [
+        {
+          "generation": 1,
+          "level": 5
         }
       ],
       "tier": "LC"
@@ -6675,7 +7908,6 @@
     "mrmime": {
       "randomBattleMoves": [
         "nastyplot",
-        "psychic",
         "psyshock",
         "dazzlinggleam",
         "shadowball",
@@ -6711,8 +7943,14 @@
           ]
         }
       ],
+      "encounters": [
+        {
+          "generation": 1,
+          "level": 6
+        }
+      ],
       "tier": "(PU)",
-      "doublesTier": "DUU"
+      "doublesTier": "(DUU)"
     },
     "scyther": {
       "randomBattleMoves": [
@@ -6775,6 +8013,17 @@
             "slash"
           ],
           "pokeball": "cherishball"
+        }
+      ],
+      "encounters": [
+        {
+          "generation": 1,
+          "level": 15,
+          "shiny": false
+        },
+        {
+          "generation": 1,
+          "level": 25
         }
       ],
       "tier": "PU",
@@ -6919,7 +8168,7 @@
         }
       ],
       "tier": "UU",
-      "doublesTier": "DUU"
+      "doublesTier": "(DUU)"
     },
     "scizormega": {
       "randomBattleMoves": [
@@ -6989,8 +8238,43 @@
         "substitute",
         "psyshock"
       ],
+      "encounters": [
+        {
+          "generation": 1,
+          "level": 15
+        },
+        {
+          "generation": 2,
+          "level": 10
+        },
+        {
+          "generation": 3,
+          "level": 20,
+          "nature": "Mild",
+          "ivs": {
+            "hp": 18,
+            "atk": 17,
+            "def": 18,
+            "spa": 22,
+            "spd": 25,
+            "spe": 21
+          },
+          "abilities": [
+            "oblivious"
+          ],
+          "pokeball": "pokeball"
+        },
+        {
+          "generation": 4,
+          "level": 22
+        },
+        {
+          "generation": 7,
+          "level": 9
+        }
+      ],
       "tier": "(PU)",
-      "doublesTier": "DUU"
+      "doublesTier": "(DUU)"
     },
     "elekid": {
       "randomBattleMoves": [
@@ -7110,6 +8394,25 @@
           "pokeball": "cherishball"
         }
       ],
+      "encounters": [
+        {
+          "generation": 1,
+          "level": 33,
+          "shiny": false
+        },
+        {
+          "generation": 2,
+          "level": 15
+        },
+        {
+          "generation": 4,
+          "level": 15
+        },
+        {
+          "generation": 7,
+          "level": 25
+        }
+      ],
       "tier": "NFE"
     },
     "electivire": {
@@ -7160,7 +8463,7 @@
         }
       ],
       "tier": "(PU)",
-      "doublesTier": "DUU"
+      "doublesTier": "(DUU)"
     },
     "magby": {
       "randomBattleMoves": [
@@ -7248,6 +8551,25 @@
           "pokeball": "cherishball"
         }
       ],
+      "encounters": [
+        {
+          "generation": 1,
+          "level": 34,
+          "shiny": false
+        },
+        {
+          "generation": 2,
+          "level": 14
+        },
+        {
+          "generation": 4,
+          "level": 14
+        },
+        {
+          "generation": 7,
+          "level": 16
+        }
+      ],
       "tier": "NFE"
     },
     "magmortar": {
@@ -7300,8 +8622,8 @@
           "pokeball": "cherishball"
         }
       ],
-      "tier": "PUBL",
-      "doublesTier": "DUU"
+      "tier": "NU",
+      "doublesTier": "(DUU)"
     },
     "pinsir": {
       "randomBattleMoves": [
@@ -7363,8 +8685,19 @@
           "pokeball": "cherishball"
         }
       ],
+      "encounters": [
+        {
+          "generation": 1,
+          "level": 15,
+          "shiny": false
+        },
+        {
+          "generation": 1,
+          "level": 20
+        }
+      ],
       "tier": "(PU)",
-      "doublesTier": "DUU"
+      "doublesTier": "(DUU)"
     },
     "pinsirmega": {
       "randomBattleMoves": [
@@ -7388,11 +8721,11 @@
       ],
       "requiredItem": "Pinsirite",
       "tier": "OU",
-      "doublesTier": "DUU"
+      "doublesTier": "(DUU)"
     },
     "tauros": {
       "randomBattleMoves": [
-        "rockclimb",
+        "bodyslam",
         "earthquake",
         "zenheadbutt",
         "rockslide",
@@ -7459,8 +8792,15 @@
           ]
         }
       ],
+      "encounters": [
+        {
+          "generation": 1,
+          "level": 21,
+          "shiny": false
+        }
+      ],
       "tier": "PUBL",
-      "doublesTier": "DUU"
+      "doublesTier": "(DUU)"
     },
     "magikarp": {
       "randomBattleMoves": [
@@ -7558,6 +8898,12 @@
           "pokeball": "cherishball"
         }
       ],
+      "encounters": [
+        {
+          "generation": 1,
+          "level": 5
+        }
+      ],
       "tier": "LC"
     },
     "gyarados": {
@@ -7607,6 +8953,33 @@
             "ironhead"
           ],
           "pokeball": "cherishball"
+        }
+      ],
+      "encounters": [
+        {
+          "generation": 1,
+          "level": 15
+        },
+        {
+          "generation": 2,
+          "level": 15
+        },
+        {
+          "generation": 3,
+          "level": 5
+        },
+        {
+          "generation": 4,
+          "level": 10
+        },
+        {
+          "generation": 5,
+          "level": 1,
+          "isHidden": false
+        },
+        {
+          "generation": 7,
+          "level": 10
         }
       ],
       "tier": "UUBL",
@@ -7669,8 +9042,14 @@
           ]
         }
       ],
+      "encounters": [
+        {
+          "generation": 1,
+          "level": 15
+        }
+      ],
       "tier": "(PU)",
-      "doublesTier": "DUU"
+      "doublesTier": "(DUU)"
     },
     "ditto": {
       "randomBattleMoves": [
@@ -7687,8 +9066,38 @@
           "pokeball": "cherishball"
         }
       ],
+      "encounters": [
+        {
+          "generation": 1,
+          "level": 12
+        },
+        {
+          "generation": 2,
+          "level": 10
+        },
+        {
+          "generation": 3,
+          "level": 23
+        },
+        {
+          "generation": 4,
+          "level": 10
+        },
+        {
+          "generation": 5,
+          "level": 45
+        },
+        {
+          "generation": 6,
+          "level": 30
+        },
+        {
+          "generation": 7,
+          "level": 25
+        }
+      ],
       "tier": "(PU)",
-      "doublesTier": "DUU"
+      "doublesTier": "(DUU)"
     },
     "eevee": {
       "randomBattleMoves": [
@@ -7799,6 +9208,12 @@
           "pokeball": "cherishball"
         }
       ],
+      "encounters": [
+        {
+          "generation": 1,
+          "level": 25
+        }
+      ],
       "tier": "LC"
     },
     "eeveestarter": {
@@ -7816,7 +9231,7 @@
         }
       ],
       "eventOnly": true,
-      "isNonstandard": true,
+      "isNonstandard": "LGPE",
       "tier": "Illegal"
     },
     "vaporeon": {
@@ -7878,7 +9293,7 @@
         }
       ],
       "tier": "NU",
-      "doublesTier": "DUU"
+      "doublesTier": "(DUU)"
     },
     "jolteon": {
       "randomBattleMoves": [
@@ -7938,7 +9353,7 @@
         }
       ],
       "tier": "RU",
-      "doublesTier": "DUU"
+      "doublesTier": "(DUU)"
     },
     "flareon": {
       "randomBattleMoves": [
@@ -7997,7 +9412,7 @@
         }
       ],
       "tier": "(PU)",
-      "doublesTier": "DUU"
+      "doublesTier": "(DUU)"
     },
     "espeon": {
       "randomBattleMoves": [
@@ -8071,7 +9486,7 @@
         }
       ],
       "tier": "RU",
-      "doublesTier": "DUU"
+      "doublesTier": "(DUU)"
     },
     "umbreon": {
       "randomBattleMoves": [
@@ -8141,7 +9556,7 @@
         }
       ],
       "tier": "RU",
-      "doublesTier": "DUU"
+      "doublesTier": "(DUU)"
     },
     "leafeon": {
       "randomBattleMoves": [
@@ -8201,7 +9616,7 @@
         }
       ],
       "tier": "(PU)",
-      "doublesTier": "DUU"
+      "doublesTier": "(DUU)"
     },
     "glaceon": {
       "randomBattleMoves": [
@@ -8262,7 +9677,7 @@
         }
       ],
       "tier": "(PU)",
-      "doublesTier": "DUU"
+      "doublesTier": "(DUU)"
     },
     "porygon": {
       "randomBattleMoves": [
@@ -8285,6 +9700,12 @@
             "sharpen",
             "psybeam"
           ]
+        }
+      ],
+      "encounters": [
+        {
+          "generation": 1,
+          "level": 18
         }
       ],
       "tier": "LC Uber"
@@ -8316,7 +9737,6 @@
         "shadowball",
         "icebeam",
         "thunderbolt",
-        "conversion",
         "trick",
         "nastyplot"
       ],
@@ -8364,6 +9784,12 @@
           "pokeball": "cherishball"
         }
       ],
+      "encounters": [
+        {
+          "generation": 1,
+          "level": 30
+        }
+      ],
       "tier": "LC"
     },
     "omastar": {
@@ -8386,7 +9812,7 @@
         "hydropump"
       ],
       "tier": "PU",
-      "doublesTier": "DUU"
+      "doublesTier": "(DUU)"
     },
     "kabuto": {
       "randomBattleMoves": [
@@ -8416,6 +9842,12 @@
           "pokeball": "cherishball"
         }
       ],
+      "encounters": [
+        {
+          "generation": 1,
+          "level": 30
+        }
+      ],
       "tier": "LC"
     },
     "kabutops": {
@@ -8438,17 +9870,18 @@
         "knockoff"
       ],
       "tier": "PU",
-      "doublesTier": "DUU"
+      "doublesTier": "(DUU)"
     },
     "aerodactyl": {
       "randomBattleMoves": [
         "stealthrock",
         "taunt",
-        "stoneedge",
-        "earthquake",
         "defog",
         "roost",
-        "doubleedge"
+        "stoneedge",
+        "earthquake",
+        "doubleedge",
+        "pursuit"
       ],
       "randomDoubleBattleMoves": [
         "wideguard",
@@ -8480,17 +9913,23 @@
           "pokeball": "cherishball"
         }
       ],
+      "encounters": [
+        {
+          "generation": 1,
+          "level": 30
+        }
+      ],
       "tier": "NU",
-      "doublesTier": "DUU"
+      "doublesTier": "(DUU)"
     },
     "aerodactylmega": {
       "randomBattleMoves": [
-        "aquatail",
-        "pursuit",
         "honeclaws",
         "stoneedge",
-        "firefang",
         "aerialace",
+        "aquatail",
+        "earthquake",
+        "firefang",
         "roost"
       ],
       "randomDoubleBattleMoves": [
@@ -8619,6 +10058,12 @@
           "pokeball": "cherishball"
         }
       ],
+      "encounters": [
+        {
+          "generation": 1,
+          "level": 30
+        }
+      ],
       "tier": "RU",
       "doublesTier": "DUber"
     },
@@ -8730,9 +10175,15 @@
           ]
         }
       ],
+      "encounters": [
+        {
+          "generation": 1,
+          "level": 50
+        }
+      ],
       "eventOnly": true,
       "tier": "PU",
-      "doublesTier": "DUU"
+      "doublesTier": "(DUU)"
     },
     "zapdos": {
       "randomBattleMoves": [
@@ -8844,6 +10295,12 @@
           ]
         }
       ],
+      "encounters": [
+        {
+          "generation": 1,
+          "level": 50
+        }
+      ],
       "eventOnly": true,
       "tier": "OU",
       "doublesTier": "DOU"
@@ -8851,7 +10308,6 @@
     "moltres": {
       "randomBattleMoves": [
         "fireblast",
-        "hiddenpowergrass",
         "roost",
         "substitute",
         "toxic",
@@ -8860,7 +10316,6 @@
       ],
       "randomDoubleBattleMoves": [
         "fireblast",
-        "hiddenpowergrass",
         "airslash",
         "roost",
         "substitute",
@@ -8962,9 +10417,15 @@
           ]
         }
       ],
+      "encounters": [
+        {
+          "generation": 1,
+          "level": 50
+        }
+      ],
       "eventOnly": true,
       "tier": "UU",
-      "doublesTier": "DUU"
+      "doublesTier": "(DUU)"
     },
     "dratini": {
       "randomBattleMoves": [
@@ -8975,6 +10436,12 @@
         "extremespeed",
         "dracometeor",
         "substitute"
+      ],
+      "encounters": [
+        {
+          "generation": 1,
+          "level": 10
+        }
       ],
       "tier": "LC"
     },
@@ -8987,6 +10454,29 @@
         "extremespeed",
         "dracometeor",
         "substitute"
+      ],
+      "encounters": [
+        {
+          "generation": 1,
+          "level": 15
+        },
+        {
+          "generation": 2,
+          "level": 10
+        },
+        {
+          "generation": 3,
+          "level": 25,
+          "pokeball": "safariball"
+        },
+        {
+          "generation": 4,
+          "level": 15
+        },
+        {
+          "generation": 7,
+          "level": 10
+        }
       ],
       "tier": "NFE"
     },
@@ -9139,8 +10629,19 @@
           "pokeball": "cherishball"
         }
       ],
+      "encounters": [
+        {
+          "generation": 5,
+          "level": 50,
+          "isHidden": false
+        },
+        {
+          "generation": 7,
+          "level": 10
+        }
+      ],
       "tier": "UUBL",
-      "doublesTier": "DUU"
+      "doublesTier": "(DUU)"
     },
     "mewtwo": {
       "randomBattleMoves": [
@@ -9251,6 +10752,12 @@
             "swift",
             "psychocut"
           ]
+        }
+      ],
+      "encounters": [
+        {
+          "generation": 1,
+          "level": 70
         }
       ],
       "eventOnly": true,
@@ -9550,6 +11057,7 @@
         {
           "generation": 7,
           "level": 5,
+          "perfectIVs": 5,
           "moves": [
             "pound"
           ],
@@ -9669,7 +11177,7 @@
         }
       ],
       "tier": "(PU)",
-      "doublesTier": "DUU"
+      "doublesTier": "(DUU)"
     },
     "cyndaquil": {
       "randomBattleMoves": [
@@ -9767,8 +11275,8 @@
           "pokeball": "pokeball"
         }
       ],
-      "tier": "PUBL",
-      "doublesTier": "DUU"
+      "tier": "NU",
+      "doublesTier": "(DUU)"
     },
     "totodile": {
       "randomBattleMoves": [
@@ -9863,7 +11371,7 @@
         }
       ],
       "tier": "RU",
-      "doublesTier": "DUU"
+      "doublesTier": "(DUU)"
     },
     "sentret": {
       "randomBattleMoves": [
@@ -9872,6 +11380,12 @@
         "toxic",
         "uturn",
         "knockoff"
+      ],
+      "encounters": [
+        {
+          "generation": 2,
+          "level": 2
+        }
       ],
       "tier": "LC"
     },
@@ -9896,8 +11410,18 @@
         "helpinghand",
         "protect"
       ],
+      "encounters": [
+        {
+          "generation": 2,
+          "level": 6
+        },
+        {
+          "generation": 4,
+          "level": 6
+        }
+      ],
       "tier": "(PU)",
-      "doublesTier": "DUU"
+      "doublesTier": "(DUU)"
     },
     "hoothoot": {
       "randomBattleMoves": [
@@ -9921,13 +11445,18 @@
           "pokeball": "pokeball"
         }
       ],
+      "encounters": [
+        {
+          "generation": 2,
+          "level": 2
+        }
+      ],
       "tier": "LC"
     },
     "noctowl": {
       "randomBattleMoves": [
         "roost",
         "whirlwind",
-        "airslash",
         "nightshade",
         "toxic",
         "defog",
@@ -9943,8 +11472,22 @@
         "protect",
         "hypnosis"
       ],
+      "encounters": [
+        {
+          "generation": 2,
+          "level": 7
+        },
+        {
+          "generation": 4,
+          "level": 5
+        },
+        {
+          "generation": 7,
+          "level": 19
+        }
+      ],
       "tier": "(PU)",
-      "doublesTier": "DUU"
+      "doublesTier": "(DUU)"
     },
     "ledyba": {
       "randomBattleMoves": [
@@ -9965,6 +11508,12 @@
             "aerialace",
             "supersonic"
           ]
+        }
+      ],
+      "encounters": [
+        {
+          "generation": 2,
+          "level": 3
         }
       ],
       "tier": "LC"
@@ -9989,8 +11538,18 @@
         "uturn",
         "tailwind"
       ],
+      "encounters": [
+        {
+          "generation": 2,
+          "level": 7
+        },
+        {
+          "generation": 4,
+          "level": 5
+        }
+      ],
       "tier": "(PU)",
-      "doublesTier": "DUU"
+      "doublesTier": "(DUU)"
     },
     "spinarak": {
       "randomBattleMoves": [
@@ -10012,6 +11571,12 @@
           ]
         }
       ],
+      "encounters": [
+        {
+          "generation": 2,
+          "level": 3
+        }
+      ],
       "tier": "LC"
     },
     "ariados": {
@@ -10030,8 +11595,23 @@
         "stickyweb",
         "ragepowder"
       ],
+      "encounters": [
+        {
+          "generation": 2,
+          "level": 7
+        },
+        {
+          "generation": 4,
+          "level": 5
+        },
+        {
+          "generation": 6,
+          "level": 19,
+          "maxEggMoves": 1
+        }
+      ],
       "tier": "(PU)",
-      "doublesTier": "DUU"
+      "doublesTier": "(DUU)"
     },
     "chinchou": {
       "randomBattleMoves": [
@@ -10071,8 +11651,23 @@
         "protect",
         "surf"
       ],
+      "encounters": [
+        {
+          "generation": 4,
+          "level": 20
+        },
+        {
+          "generation": 6,
+          "level": 26,
+          "maxEggMoves": 1
+        },
+        {
+          "generation": 7,
+          "level": 10
+        }
+      ],
       "tier": "PU",
-      "doublesTier": "DUU"
+      "doublesTier": "(DUU)"
     },
     "togepi": {
       "randomBattleMoves": [
@@ -10212,8 +11807,43 @@
         "heatwave",
         "protect"
       ],
+      "encounters": [
+        {
+          "generation": 2,
+          "level": 15,
+          "shiny": false
+        },
+        {
+          "generation": 4,
+          "level": 16,
+          "shiny": false,
+          "gender": "M",
+          "nature": "Modest",
+          "ivs": {
+            "hp": 15,
+            "atk": 20,
+            "def": 15,
+            "spa": 20,
+            "spd": 20,
+            "spe": 20
+          },
+          "abilities": [
+            "synchronize"
+          ],
+          "pokeball": "pokeball"
+        },
+        {
+          "generation": 6,
+          "level": 24,
+          "maxEggMoves": 1
+        },
+        {
+          "generation": 7,
+          "level": 21
+        }
+      ],
       "tier": "NU",
-      "doublesTier": "DUU"
+      "doublesTier": "(DUU)"
     },
     "mareep": {
       "randomBattleMoves": [
@@ -10288,6 +11918,14 @@
         "cottonguard",
         "powergem"
       ],
+      "encounters": [
+        {
+          "generation": 7,
+          "level": 11,
+          "isHidden": false,
+          "pokeball": "pokeball"
+        }
+      ],
       "tier": "NFE"
     },
     "ampharos": {
@@ -10311,7 +11949,7 @@
         "protect"
       ],
       "tier": "(PU)",
-      "doublesTier": "DUU"
+      "doublesTier": "(DUU)"
     },
     "ampharosmega": {
       "randomBattleMoves": [
@@ -10380,6 +12018,18 @@
         "knockoff",
         "protect"
       ],
+      "encounters": [
+        {
+          "generation": 5,
+          "level": 5,
+          "isHidden": false
+        },
+        {
+          "generation": 6,
+          "level": 16,
+          "maxEggMoves": 1
+        }
+      ],
       "tier": "UUBL",
       "doublesTier": "DUU"
     },
@@ -10416,7 +12066,7 @@
         "protect"
       ],
       "tier": "(PU)",
-      "doublesTier": "DUU"
+      "doublesTier": "(DUU)"
     },
     "hoppip": {
       "randomBattleMoves": [
@@ -10427,6 +12077,12 @@
         "leechseed",
         "substitute",
         "protect"
+      ],
+      "encounters": [
+        {
+          "generation": 2,
+          "level": 3
+        }
       ],
       "tier": "LC"
     },
@@ -10439,6 +12095,12 @@
         "leechseed",
         "substitute",
         "protect"
+      ],
+      "encounters": [
+        {
+          "generation": 4,
+          "level": 12
+        }
       ],
       "tier": "NFE"
     },
@@ -10481,7 +12143,7 @@
         }
       ],
       "tier": "(PU)",
-      "doublesTier": "DUU"
+      "doublesTier": "(DUU)"
     },
     "aipom": {
       "randomBattleMoves": [
@@ -10512,7 +12174,7 @@
     "ambipom": {
       "randomBattleMoves": [
         "fakeout",
-        "tailslap",
+        "return",
         "knockoff",
         "uturn",
         "switcheroo",
@@ -10530,7 +12192,7 @@
         "protect"
       ],
       "tier": "NU",
-      "doublesTier": "DUU"
+      "doublesTier": "(DUU)"
     },
     "sunkern": {
       "randomBattleMoves": [
@@ -10578,7 +12240,7 @@
         "encore"
       ],
       "tier": "(PU)",
-      "doublesTier": "DUU"
+      "doublesTier": "(DUU)"
     },
     "yanma": {
       "randomBattleMoves": [
@@ -10602,7 +12264,7 @@
         "gigadrain"
       ],
       "tier": "RU",
-      "doublesTier": "DUU"
+      "doublesTier": "(DUU)"
     },
     "wooper": {
       "randomBattleMoves": [
@@ -10613,6 +12275,12 @@
         "stockpile",
         "yawn",
         "protect"
+      ],
+      "encounters": [
+        {
+          "generation": 2,
+          "level": 4
+        }
       ],
       "tier": "LC"
     },
@@ -10636,8 +12304,18 @@
         "icepunch",
         "protect"
       ],
+      "encounters": [
+        {
+          "generation": 2,
+          "level": 15
+        },
+        {
+          "generation": 4,
+          "level": 10
+        }
+      ],
       "tier": "PU",
-      "doublesTier": "DUU"
+      "doublesTier": "(DUU)"
     },
     "murkrow": {
       "randomBattleMoves": [
@@ -10704,7 +12382,7 @@
         }
       ],
       "tier": "RU",
-      "doublesTier": "DUU"
+      "doublesTier": "(DUU)"
     },
     "misdreavus": {
       "randomBattleMoves": [
@@ -10754,14 +12432,32 @@
         "protect"
       ],
       "tier": "NU",
-      "doublesTier": "DUU"
+      "doublesTier": "(DUU)"
     },
     "unown": {
       "randomBattleMoves": [
         "hiddenpowerpsychic"
       ],
+      "encounters": [
+        {
+          "generation": 2,
+          "level": 5
+        },
+        {
+          "generation": 3,
+          "level": 25
+        },
+        {
+          "generation": 4,
+          "level": 5
+        },
+        {
+          "generation": 6,
+          "level": 32
+        }
+      ],
       "tier": "(PU)",
-      "doublesTier": "DUU"
+      "doublesTier": "(DUU)"
     },
     "wynaut": {
       "randomBattleMoves": [
@@ -10847,8 +12543,18 @@
           "pokeball": "cherishball"
         }
       ],
+      "encounters": [
+        {
+          "generation": 2,
+          "level": 5
+        },
+        {
+          "generation": 4,
+          "level": 3
+        }
+      ],
       "tier": "(PU)",
-      "doublesTier": "DUU"
+      "doublesTier": "(DUU)"
     },
     "girafarig": {
       "randomBattleMoves": [
@@ -10869,7 +12575,7 @@
         "hypervoice"
       ],
       "tier": "(PU)",
-      "doublesTier": "DUU"
+      "doublesTier": "(DUU)"
     },
     "pineco": {
       "randomBattleMoves": [
@@ -10922,8 +12628,14 @@
         "gyroball",
         "protect"
       ],
+      "encounters": [
+        {
+          "generation": 6,
+          "level": 30
+        }
+      ],
       "tier": "RU",
-      "doublesTier": "DUU"
+      "doublesTier": "(DUU)"
     },
     "dunsparce": {
       "randomBattleMoves": [
@@ -10946,7 +12658,7 @@
         "protect"
       ],
       "tier": "(PU)",
-      "doublesTier": "DUU"
+      "doublesTier": "(DUU)"
     },
     "gligar": {
       "randomBattleMoves": [
@@ -10970,13 +12682,12 @@
           "pokeball": "pokeball"
         }
       ],
-      "tier": "RU",
+      "tier": "UU",
       "doublesTier": "LC Uber"
     },
     "gliscor": {
       "randomBattleMoves": [
         "roost",
-        "substitute",
         "taunt",
         "earthquake",
         "protect",
@@ -10995,7 +12706,7 @@
         "knockoff"
       ],
       "tier": "OU",
-      "doublesTier": "DUU"
+      "doublesTier": "(DUU)"
     },
     "snubbull": {
       "randomBattleMoves": [
@@ -11040,8 +12751,14 @@
         "rockslide",
         "protect"
       ],
+      "encounters": [
+        {
+          "generation": 2,
+          "level": 15
+        }
+      ],
       "tier": "(PU)",
-      "doublesTier": "DUU"
+      "doublesTier": "(DUU)"
     },
     "qwilfish": {
       "randomBattleMoves": [
@@ -11077,7 +12794,7 @@
         }
       ],
       "tier": "PU",
-      "doublesTier": "DUU"
+      "doublesTier": "(DUU)"
     },
     "shuckle": {
       "randomBattleMoves": [
@@ -11129,7 +12846,7 @@
         }
       ],
       "tier": "(PU)",
-      "doublesTier": "DUU"
+      "doublesTier": "(DUU)"
     },
     "heracross": {
       "randomBattleMoves": [
@@ -11181,8 +12898,8 @@
           "pokeball": "cherishball"
         }
       ],
-      "tier": "UU",
-      "doublesTier": "DUU"
+      "tier": "RUBL",
+      "doublesTier": "(DUU)"
     },
     "heracrossmega": {
       "randomBattleMoves": [
@@ -11205,7 +12922,7 @@
       ],
       "requiredItem": "Heracronite",
       "tier": "UUBL",
-      "doublesTier": "DUU"
+      "doublesTier": "(DUU)"
     },
     "sneasel": {
       "randomBattleMoves": [
@@ -11325,6 +13042,12 @@
           ]
         }
       ],
+      "encounters": [
+        {
+          "generation": 2,
+          "level": 2
+        }
+      ],
       "tier": "LC"
     },
     "ursaring": {
@@ -11343,8 +13066,14 @@
         "crunch",
         "protect"
       ],
+      "encounters": [
+        {
+          "generation": 2,
+          "level": 25
+        }
+      ],
       "tier": "(PU)",
-      "doublesTier": "DUU"
+      "doublesTier": "(DUU)"
     },
     "slugma": {
       "randomBattleMoves": [
@@ -11394,8 +13123,18 @@
           ]
         }
       ],
+      "encounters": [
+        {
+          "generation": 3,
+          "level": 25
+        },
+        {
+          "generation": 6,
+          "level": 30
+        }
+      ],
       "tier": "(PU)",
-      "doublesTier": "DUU"
+      "doublesTier": "(DUU)"
     },
     "swinub": {
       "randomBattleMoves": [
@@ -11431,8 +13170,14 @@
         "endeavor",
         "stealthrock"
       ],
+      "encounters": [
+        {
+          "generation": 6,
+          "level": 30
+        }
+      ],
       "tier": "NU",
-      "doublesTier": "DUU"
+      "doublesTier": "NFE"
     },
     "mamoswine": {
       "randomBattleMoves": [
@@ -11530,7 +13275,7 @@
         }
       ],
       "tier": "(PU)",
-      "doublesTier": "DUU"
+      "doublesTier": "(DUU)"
     },
     "remoraid": {
       "randomBattleMoves": [
@@ -11581,16 +13326,25 @@
           "pokeball": "cherishball"
         }
       ],
+      "encounters": [
+        {
+          "generation": 4,
+          "level": 19
+        },
+        {
+          "generation": 7,
+          "level": 10
+        }
+      ],
       "tier": "(PU)",
-      "doublesTier": "DUU"
+      "doublesTier": "(DUU)"
     },
     "delibird": {
       "randomBattleMoves": [
-        "defog",
-        "iceshard",
-        "icepunch",
-        "aerialace",
         "spikes",
+        "rapidspin",
+        "icywind",
+        "freezedry",
         "destinybond"
       ],
       "randomDoubleBattleMoves": [
@@ -11626,7 +13380,7 @@
         }
       ],
       "tier": "(PU)",
-      "doublesTier": "DUU"
+      "doublesTier": "(DUU)"
     },
     "mantyke": {
       "randomBattleMoves": [
@@ -11674,7 +13428,7 @@
         }
       ],
       "tier": "RU",
-      "doublesTier": "DUU"
+      "doublesTier": "(DUU)"
     },
     "skarmory": {
       "randomBattleMoves": [
@@ -11695,7 +13449,7 @@
         "ironhead"
       ],
       "tier": "OU",
-      "doublesTier": "DUU"
+      "doublesTier": "(DUU)"
     },
     "houndour": {
       "randomBattleMoves": [
@@ -11765,8 +13519,14 @@
           "pokeball": "cherishball"
         }
       ],
-      "tier": "NU",
-      "doublesTier": "DUU"
+      "encounters": [
+        {
+          "generation": 4,
+          "level": 20
+        }
+      ],
+      "tier": "PUBL",
+      "doublesTier": "(DUU)"
     },
     "houndoommega": {
       "randomBattleMoves": [
@@ -11786,7 +13546,7 @@
       ],
       "requiredItem": "Houndoominite",
       "tier": "RUBL",
-      "doublesTier": "DUU"
+      "doublesTier": "(DUU)"
     },
     "phanpy": {
       "randomBattleMoves": [
@@ -11798,6 +13558,12 @@
         "seedbomb",
         "superpower",
         "playrough"
+      ],
+      "encounters": [
+        {
+          "generation": 2,
+          "level": 2
+        }
       ],
       "tier": "LC"
     },
@@ -11818,8 +13584,15 @@
         "rockslide",
         "protect"
       ],
+      "encounters": [
+        {
+          "generation": 6,
+          "level": 24,
+          "maxEggMoves": 1
+        }
+      ],
       "tier": "RU",
-      "doublesTier": "DUU"
+      "doublesTier": "(DUU)"
     },
     "stantler": {
       "randomBattleMoves": [
@@ -11853,7 +13626,7 @@
         }
       ],
       "tier": "(PU)",
-      "doublesTier": "DUU"
+      "doublesTier": "(DUU)"
     },
     "smeargle": {
       "randomBattleMoves": [
@@ -11926,10 +13699,10 @@
         }
       ],
       "tier": "(PU)",
-      "doublesTier": "DUU"
+      "doublesTier": "(DUU)"
     },
     "pokestarsmeargle": {
-      "isNonstandard": true,
+      "isNonstandard": "Pokestar",
       "eventPokemon": [
         {
           "generation": 5,
@@ -12013,7 +13786,7 @@
         }
       ],
       "tier": "NU",
-      "doublesTier": "DUU"
+      "doublesTier": "(DUU)"
     },
     "raikou": {
       "randomBattleMoves": [
@@ -12129,9 +13902,19 @@
           "pokeball": "cherishball"
         }
       ],
+      "encounters": [
+        {
+          "generation": 2,
+          "level": 40
+        },
+        {
+          "generation": 3,
+          "level": 40
+        }
+      ],
       "eventOnly": true,
       "tier": "RU",
-      "doublesTier": "DUU"
+      "doublesTier": "(DUU)"
     },
     "entei": {
       "randomBattleMoves": [
@@ -12245,6 +14028,16 @@
           "pokeball": "cherishball"
         }
       ],
+      "encounters": [
+        {
+          "generation": 2,
+          "level": 40
+        },
+        {
+          "generation": 3,
+          "level": 40
+        }
+      ],
       "eventOnly": true,
       "tier": "RUBL",
       "doublesTier": "DUU"
@@ -12340,9 +14133,19 @@
           ]
         }
       ],
+      "encounters": [
+        {
+          "generation": 2,
+          "level": 40
+        },
+        {
+          "generation": 3,
+          "level": 40
+        }
+      ],
       "eventOnly": true,
       "tier": "UU",
-      "doublesTier": "DOU"
+      "doublesTier": "DUU"
     },
     "larvitar": {
       "randomBattleMoves": [
@@ -12510,6 +14313,13 @@
           "pokeball": "cherishball"
         }
       ],
+      "encounters": [
+        {
+          "generation": 5,
+          "level": 50,
+          "isHidden": false
+        }
+      ],
       "tier": "OU",
       "doublesTier": "DOU"
     },
@@ -12531,7 +14341,7 @@
         "protect"
       ],
       "requiredItem": "Tyranitarite",
-      "tier": "(OU)",
+      "tier": "OU",
       "doublesTier": "DOU"
     },
     "lugia": {
@@ -12541,8 +14351,7 @@
         "substitute",
         "whirlwind",
         "thunderwave",
-        "dragontail",
-        "aeroblast"
+        "psychic"
       ],
       "randomDoubleBattleMoves": [
         "aeroblast",
@@ -12681,6 +14490,12 @@
             "tailwind"
           ],
           "pokeball": "cherishball"
+        }
+      ],
+      "encounters": [
+        {
+          "generation": 2,
+          "level": 40
         }
       ],
       "eventOnly": true,
@@ -12826,6 +14641,12 @@
           "pokeball": "cherishball"
         }
       ],
+      "encounters": [
+        {
+          "generation": 2,
+          "level": 40
+        }
+      ],
       "eventOnly": true,
       "tier": "Uber",
       "doublesTier": "DUber"
@@ -12946,9 +14767,15 @@
           "pokeball": "cherishball"
         }
       ],
+      "encounters": [
+        {
+          "generation": 2,
+          "level": 30
+        }
+      ],
       "eventOnly": true,
       "tier": "UU",
-      "doublesTier": "DUU"
+      "doublesTier": "(DUU)"
     },
     "treecko": {
       "randomBattleMoves": [
@@ -13029,7 +14856,7 @@
         }
       ],
       "tier": "NU",
-      "doublesTier": "DUU"
+      "doublesTier": "(DUU)"
     },
     "sceptilemega": {
       "randomBattleMoves": [
@@ -13054,7 +14881,7 @@
         "protect"
       ],
       "requiredItem": "Sceptilite",
-      "tier": "RUBL",
+      "tier": "RU",
       "doublesTier": "DUU"
     },
     "torchic": {
@@ -13104,7 +14931,7 @@
           "pokeball": "cherishball"
         }
       ],
-      "tier": "LC Uber"
+      "tier": "LC"
     },
     "combusken": {
       "randomBattleMoves": [
@@ -13118,12 +14945,11 @@
     },
     "blaziken": {
       "randomBattleMoves": [
-        "blazekick",
+        "fireblast",
         "highjumpkick",
         "protect",
-        "swordsdance",
-        "stoneedge",
-        "knockoff"
+        "knockoff",
+        "hiddenpowerice"
       ],
       "eventPokemon": [
         {
@@ -13152,7 +14978,7 @@
         }
       ],
       "tier": "Uber",
-      "doublesTier": "DUU"
+      "doublesTier": "(DUU)"
     },
     "blazikenmega": {
       "randomBattleMoves": [
@@ -13252,7 +15078,7 @@
         }
       ],
       "tier": "UU",
-      "doublesTier": "DUU"
+      "doublesTier": "(DUU)"
     },
     "swampertmega": {
       "randomBattleMoves": [
@@ -13300,6 +15126,12 @@
           ]
         }
       ],
+      "encounters": [
+        {
+          "generation": 3,
+          "level": 2
+        }
+      ],
       "tier": "LC"
     },
     "mightyena": {
@@ -13337,7 +15169,7 @@
         }
       ],
       "tier": "(PU)",
-      "doublesTier": "DUU"
+      "doublesTier": "(DUU)"
     },
     "zigzagoon": {
       "randomBattleMoves": [
@@ -13379,6 +15211,12 @@
           "pokeball": "pokeball"
         }
       ],
+      "encounters": [
+        {
+          "generation": 3,
+          "level": 2
+        }
+      ],
       "tier": "LC"
     },
     "linoone": {
@@ -13409,8 +15247,19 @@
           "pokeball": "cherishball"
         }
       ],
+      "encounters": [
+        {
+          "generation": 4,
+          "level": 3
+        },
+        {
+          "generation": 6,
+          "level": 17,
+          "maxEggMoves": 1
+        }
+      ],
       "tier": "RU",
-      "doublesTier": "DUU"
+      "doublesTier": "(DUU)"
     },
     "wurmple": {
       "randomBattleMoves": [
@@ -13418,6 +15267,12 @@
         "poisonsting",
         "tackle",
         "electroweb"
+      ],
+      "encounters": [
+        {
+          "generation": 3,
+          "level": 2
+        }
       ],
       "tier": "LC"
     },
@@ -13428,7 +15283,22 @@
         "tackle",
         "electroweb"
       ],
-      "tier": "NFE"
+      "tier": "NFE",
+      "encounters": [
+        {
+          "generation": 3,
+          "level": 5
+        },
+        {
+          "generation": 4,
+          "level": 5
+        },
+        {
+          "generation": 6,
+          "level": 2,
+          "maxEggMoves": 1
+        }
+      ]
     },
     "beautifly": {
       "randomBattleMoves": [
@@ -13450,7 +15320,7 @@
         "protect"
       ],
       "tier": "(PU)",
-      "doublesTier": "DUU"
+      "doublesTier": "(DUU)"
     },
     "cascoon": {
       "randomBattleMoves": [
@@ -13458,6 +15328,21 @@
         "poisonsting",
         "tackle",
         "electroweb"
+      ],
+      "encounters": [
+        {
+          "generation": 3,
+          "level": 5
+        },
+        {
+          "generation": 4,
+          "level": 5
+        },
+        {
+          "generation": 6,
+          "level": 2,
+          "maxEggMoves": 1
+        }
       ],
       "tier": "NFE"
     },
@@ -13482,7 +15367,7 @@
         "shadowball"
       ],
       "tier": "(PU)",
-      "doublesTier": "DUU"
+      "doublesTier": "(DUU)"
     },
     "lotad": {
       "randomBattleMoves": [
@@ -13505,6 +15390,12 @@
           "pokeball": "pokeball"
         }
       ],
+      "encounters": [
+        {
+          "generation": 3,
+          "level": 3
+        }
+      ],
       "tier": "LC"
     },
     "lombre": {
@@ -13519,6 +15410,13 @@
         "poweruppunch",
         "gigadrain",
         "icebeam"
+      ],
+      "encounters": [
+        {
+          "generation": 6,
+          "level": 13,
+          "maxEggMoves": 1
+        }
       ],
       "tier": "NFE"
     },
@@ -13576,7 +15474,7 @@
         }
       ],
       "tier": "PU",
-      "doublesTier": "DUU"
+      "doublesTier": "(DUU)"
     },
     "seedot": {
       "randomBattleMoves": [
@@ -13609,6 +15507,12 @@
           ]
         }
       ],
+      "encounters": [
+        {
+          "generation": 3,
+          "level": 3
+        }
+      ],
       "tier": "LC"
     },
     "nuzleaf": {
@@ -13619,6 +15523,13 @@
         "swordsdance",
         "rockslide",
         "lowsweep"
+      ],
+      "encounters": [
+        {
+          "generation": 6,
+          "level": 13,
+          "maxEggMoves": 1
+        }
       ],
       "tier": "NFE"
     },
@@ -13643,7 +15554,7 @@
         "protect"
       ],
       "tier": "(PU)",
-      "doublesTier": "DUU"
+      "doublesTier": "(DUU)"
     },
     "taillow": {
       "randomBattleMoves": [
@@ -13665,6 +15576,12 @@
             "featherdance"
           ],
           "pokeball": "pokeball"
+        }
+      ],
+      "encounters": [
+        {
+          "generation": 3,
+          "level": 4
         }
       ],
       "tier": "LC"
@@ -13696,8 +15613,14 @@
           ]
         }
       ],
+      "encounters": [
+        {
+          "generation": 4,
+          "level": 20
+        }
+      ],
       "tier": "RU",
-      "doublesTier": "DUU"
+      "doublesTier": "(DUU)"
     },
     "wingull": {
       "randomBattleMoves": [
@@ -13708,6 +15631,12 @@
         "airslash",
         "knockoff",
         "defog"
+      ],
+      "encounters": [
+        {
+          "generation": 3,
+          "level": 2
+        }
       ],
       "tier": "LC Uber"
     },
@@ -13729,6 +15658,17 @@
         "protect",
         "tailwind",
         "knockoff"
+      ],
+      "encounters": [
+        {
+          "generation": 4,
+          "level": 15
+        },
+        {
+          "generation": 6,
+          "level": 18,
+          "maxEggMoves": 1
+        }
       ],
       "tier": "OU",
       "doublesTier": "DOU"
@@ -13786,6 +15726,12 @@
           "pokeball": "pokeball"
         }
       ],
+      "encounters": [
+        {
+          "generation": 3,
+          "level": 4
+        }
+      ],
       "tier": "LC"
     },
     "kirlia": {
@@ -13798,6 +15744,12 @@
         "thunderbolt",
         "destinybond",
         "substitute"
+      ],
+      "encounters": [
+        {
+          "generation": 4,
+          "level": 6
+        }
       ],
       "tier": "NFE"
     },
@@ -13884,7 +15836,7 @@
       ],
       "requiredItem": "Gardevoirite",
       "tier": "UUBL",
-      "doublesTier": "DUU"
+      "doublesTier": "DOU"
     },
     "gallade": {
       "randomBattleMoves": [
@@ -13911,7 +15863,7 @@
         "helpinghand"
       ],
       "tier": "PUBL",
-      "doublesTier": "DUU"
+      "doublesTier": "(DUU)"
     },
     "gallademega": {
       "randomBattleMoves": [
@@ -13934,7 +15886,7 @@
       ],
       "requiredItem": "Galladite",
       "tier": "UUBL",
-      "doublesTier": "DUU"
+      "doublesTier": "(DUU)"
     },
     "surskit": {
       "randomBattleMoves": [
@@ -13967,6 +15919,12 @@
           "pokeball": "pokeball"
         }
       ],
+      "encounters": [
+        {
+          "generation": 3,
+          "level": 3
+        }
+      ],
       "tier": "LC"
     },
     "masquerain": {
@@ -13988,8 +15946,15 @@
         "strugglebug",
         "protect"
       ],
+      "encounters": [
+        {
+          "generation": 6,
+          "level": 21,
+          "maxEggMoves": 1
+        }
+      ],
       "tier": "(PU)",
-      "doublesTier": "DUU"
+      "doublesTier": "(DUU)"
     },
     "shroomish": {
       "randomBattleMoves": [
@@ -14095,7 +16060,7 @@
         }
       ],
       "tier": "(PU)",
-      "doublesTier": "DUU"
+      "doublesTier": "(DUU)"
     },
     "nincada": {
       "randomBattleMoves": [
@@ -14124,7 +16089,7 @@
         "aerialace"
       ],
       "tier": "(PU)",
-      "doublesTier": "DUU"
+      "doublesTier": "(DUU)"
     },
     "shedinja": {
       "randomBattleMoves": [
@@ -14206,7 +16171,7 @@
         }
       ],
       "tier": "(PU)",
-      "doublesTier": "DUU"
+      "doublesTier": "(DUU)"
     },
     "whismur": {
       "randomBattleMoves": [
@@ -14239,6 +16204,13 @@
         "icebeam",
         "circlethrow",
         "bodyslam"
+      ],
+      "encounters": [
+        {
+          "generation": 6,
+          "level": 16,
+          "maxEggMoves": 1
+        }
       ],
       "tier": "NFE"
     },
@@ -14284,7 +16256,7 @@
         }
       ],
       "tier": "NUBL",
-      "doublesTier": "DUU"
+      "doublesTier": "(DUU)"
     },
     "makuhita": {
       "randomBattleMoves": [
@@ -14330,6 +16302,13 @@
         "wideguard",
         "protect"
       ],
+      "encounters": [
+        {
+          "generation": 6,
+          "level": 22,
+          "isHidden": false
+        }
+      ],
       "tier": "NU",
       "doublesTier": "DUU"
     },
@@ -14362,9 +16341,8 @@
         "thunderwave",
         "toxic",
         "flashcannon",
-        "powergem",
         "voltswitch",
-        "painsplit"
+        "earthpower"
       ],
       "randomDoubleBattleMoves": [
         "stealthrock",
@@ -14377,7 +16355,7 @@
         "flashcannon"
       ],
       "tier": "(PU)",
-      "doublesTier": "DUU"
+      "doublesTier": "(DUU)"
     },
     "skitty": {
       "randomBattleMoves": [
@@ -14435,6 +16413,26 @@
           "pokeball": "pokeball"
         }
       ],
+      "encounters": [
+        {
+          "generation": 3,
+          "level": 3,
+          "shiny": false,
+          "gender": "F",
+          "ivs": {
+            "hp": 5,
+            "atk": 4,
+            "def": 4,
+            "spa": 5,
+            "spd": 4,
+            "spe": 4
+          },
+          "abilities": [
+            "cutecharm"
+          ],
+          "pokeball": "pokeball"
+        }
+      ],
       "tier": "LC"
     },
     "delcatty": {
@@ -14472,7 +16470,7 @@
         }
       ],
       "tier": "(PU)",
-      "doublesTier": "DUU"
+      "doublesTier": "(DUU)"
     },
     "sableye": {
       "randomBattleMoves": [
@@ -14587,7 +16585,7 @@
         "protect"
       ],
       "requiredItem": "Sablenite",
-      "tier": "OU",
+      "tier": "UUBL",
       "doublesTier": "DUU"
     },
     "mawile": {
@@ -14662,7 +16660,7 @@
         }
       ],
       "tier": "(PU)",
-      "doublesTier": "DUU"
+      "doublesTier": "(DUU)"
     },
     "mawilemega": {
       "randomBattleMoves": [
@@ -14687,7 +16685,7 @@
       ],
       "requiredItem": "Mawilite",
       "tier": "OU",
-      "doublesTier": "DUU"
+      "doublesTier": "DOU"
     },
     "aron": {
       "randomBattleMoves": [
@@ -14771,7 +16769,7 @@
         }
       ],
       "tier": "PU",
-      "doublesTier": "DUU"
+      "doublesTier": "(DUU)"
     },
     "aggronmega": {
       "randomBattleMoves": [
@@ -14793,7 +16791,7 @@
       ],
       "requiredItem": "Aggronite",
       "tier": "UU",
-      "doublesTier": "DUU"
+      "doublesTier": "(DUU)"
     },
     "meditite": {
       "randomBattleMoves": [
@@ -14850,16 +16848,27 @@
         "protect",
         "fakeout"
       ],
+      "encounters": [
+        {
+          "generation": 4,
+          "level": 35
+        },
+        {
+          "generation": 6,
+          "level": 34,
+          "maxEggMoves": 1
+        }
+      ],
       "tier": "NU",
-      "doublesTier": "DUU"
+      "doublesTier": "(DUU)"
     },
     "medichammega": {
       "randomBattleMoves": [
         "highjumpkick",
-        "drainpunch",
+        "zenheadbutt",
+        "thunderpunch",
         "icepunch",
-        "fakeout",
-        "zenheadbutt"
+        "fakeout"
       ],
       "randomDoubleBattleMoves": [
         "highjumpkick",
@@ -14872,7 +16881,7 @@
       ],
       "requiredItem": "Medichamite",
       "tier": "OU",
-      "doublesTier": "DUU"
+      "doublesTier": "(DUU)"
     },
     "electrike": {
       "randomBattleMoves": [
@@ -14933,7 +16942,7 @@
         }
       ],
       "tier": "PU",
-      "doublesTier": "DUU"
+      "doublesTier": "(DUU)"
     },
     "manectricmega": {
       "randomBattleMoves": [
@@ -14955,7 +16964,7 @@
       ],
       "requiredItem": "Manectite",
       "tier": "UU",
-      "doublesTier": "DUU"
+      "doublesTier": "DOU"
     },
     "plusle": {
       "randomBattleMoves": [
@@ -14999,7 +17008,7 @@
         }
       ],
       "tier": "(PU)",
-      "doublesTier": "DUU"
+      "doublesTier": "(DUU)"
     },
     "minun": {
       "randomBattleMoves": [
@@ -15043,7 +17052,7 @@
         }
       ],
       "tier": "(PU)",
-      "doublesTier": "DUU"
+      "doublesTier": "(DUU)"
     },
     "volbeat": {
       "randomBattleMoves": [
@@ -15064,7 +17073,7 @@
         "protect"
       ],
       "tier": "(PU)",
-      "doublesTier": "DUU"
+      "doublesTier": "(DUU)"
     },
     "illumise": {
       "randomBattleMoves": [
@@ -15086,7 +17095,7 @@
         "uturn"
       ],
       "tier": "(PU)",
-      "doublesTier": "DUU"
+      "doublesTier": "(DUU)"
     },
     "budew": {
       "randomBattleMoves": [
@@ -15133,7 +17142,8 @@
           ]
         }
       ],
-      "tier": "NFE"
+      "tier": "PU",
+      "doublesTier": "NFE"
     },
     "roserade": {
       "randomBattleMoves": [
@@ -15156,7 +17166,7 @@
         "hiddenpowerfire"
       ],
       "tier": "RU",
-      "doublesTier": "DUU"
+      "doublesTier": "(DUU)"
     },
     "gulpin": {
       "randomBattleMoves": [
@@ -15203,7 +17213,7 @@
         "earthquake"
       ],
       "tier": "(PU)",
-      "doublesTier": "DUU"
+      "doublesTier": "(DUU)"
     },
     "carvanha": {
       "randomBattleMoves": [
@@ -15284,8 +17294,14 @@
           "pokeball": "cherishball"
         }
       ],
+      "encounters": [
+        {
+          "generation": 7,
+          "level": 10
+        }
+      ],
       "tier": "RUBL",
-      "doublesTier": "DUU"
+      "doublesTier": "(DUU)"
     },
     "sharpedomega": {
       "randomBattleMoves": [
@@ -15305,7 +17321,7 @@
       ],
       "requiredItem": "Sharpedonite",
       "tier": "UU",
-      "doublesTier": "DUU"
+      "doublesTier": "(DUU)"
     },
     "wailmer": {
       "randomBattleMoves": [
@@ -15358,8 +17374,27 @@
           "pokeball": "pokeball"
         }
       ],
+      "encounters": [
+        {
+          "generation": 3,
+          "level": 25
+        },
+        {
+          "generation": 4,
+          "level": 35
+        },
+        {
+          "generation": 5,
+          "level": 30,
+          "isHidden": false
+        },
+        {
+          "generation": 7,
+          "level": 10
+        }
+      ],
       "tier": "(PU)",
-      "doublesTier": "DUU"
+      "doublesTier": "(DUU)"
     },
     "numel": {
       "randomBattleMoves": [
@@ -15442,8 +17477,14 @@
           "pokeball": "cherishball"
         }
       ],
+      "encounters": [
+        {
+          "generation": 6,
+          "level": 30
+        }
+      ],
       "tier": "(PU)",
-      "doublesTier": "DUU"
+      "doublesTier": "(DUU)"
     },
     "cameruptmega": {
       "randomBattleMoves": [
@@ -15487,7 +17528,7 @@
         "solarbeam"
       ],
       "tier": "(PU)",
-      "doublesTier": "DOU"
+      "doublesTier": "DUU"
     },
     "spoink": {
       "randomBattleMoves": [
@@ -15540,8 +17581,14 @@
         "reflect",
         "lightscreen"
       ],
+      "encounters": [
+        {
+          "generation": 6,
+          "level": 30
+        }
+      ],
       "tier": "(PU)",
-      "doublesTier": "DUU"
+      "doublesTier": "(DUU)"
     },
     "spinda": {
       "randomBattleMoves": [
@@ -15573,7 +17620,7 @@
         }
       ],
       "tier": "(PU)",
-      "doublesTier": "DUU"
+      "doublesTier": "(DUU)"
     },
     "trapinch": {
       "randomBattleMoves": [
@@ -15595,7 +17642,7 @@
           "pokeball": "pokeball"
         }
       ],
-      "tier": "LC"
+      "tier": "LC Uber"
     },
     "vibrava": {
       "randomBattleMoves": [
@@ -15657,7 +17704,7 @@
         }
       ],
       "tier": "RU",
-      "doublesTier": "DUU"
+      "doublesTier": "(DUU)"
     },
     "cacnea": {
       "randomBattleMoves": [
@@ -15716,8 +17763,14 @@
           "pokeball": "pokeball"
         }
       ],
+      "encounters": [
+        {
+          "generation": 6,
+          "level": 30
+        }
+      ],
       "tier": "(PU)",
-      "doublesTier": "DUU"
+      "doublesTier": "(DUU)"
     },
     "swablu": {
       "randomBattleMoves": [
@@ -15834,7 +17887,7 @@
         }
       ],
       "tier": "(PU)",
-      "doublesTier": "DUU"
+      "doublesTier": "(DUU)"
     },
     "altariamega": {
       "randomBattleMoves": [
@@ -15858,7 +17911,7 @@
       ],
       "requiredItem": "Altarianite",
       "tier": "UU",
-      "doublesTier": "DUU"
+      "doublesTier": "(DUU)"
     },
     "zangoose": {
       "randomBattleMoves": [
@@ -15911,7 +17964,7 @@
         }
       ],
       "tier": "(PU)",
-      "doublesTier": "DUU"
+      "doublesTier": "(DUU)"
     },
     "seviper": {
       "randomBattleMoves": [
@@ -15920,7 +17973,7 @@
         "gigadrain",
         "darkpulse",
         "switcheroo",
-        "coil",
+        "swordsdance",
         "earthquake",
         "poisonjab",
         "suckerpunch"
@@ -15972,7 +18025,7 @@
         }
       ],
       "tier": "(PU)",
-      "doublesTier": "DUU"
+      "doublesTier": "(DUU)"
     },
     "lunatone": {
       "randomBattleMoves": [
@@ -16032,7 +18085,7 @@
         }
       ],
       "tier": "(PU)",
-      "doublesTier": "DUU"
+      "doublesTier": "(DUU)"
     },
     "solrock": {
       "randomBattleMoves": [
@@ -16087,7 +18140,7 @@
         }
       ],
       "tier": "(PU)",
-      "doublesTier": "DUU"
+      "doublesTier": "(DUU)"
     },
     "barboach": {
       "randomBattleMoves": [
@@ -16133,8 +18186,18 @@
           "pokeball": "cherishball"
         }
       ],
+      "encounters": [
+        {
+          "generation": 4,
+          "level": 10
+        },
+        {
+          "generation": 7,
+          "level": 10
+        }
+      ],
       "tier": "(PU)",
-      "doublesTier": "DUU"
+      "doublesTier": "(DUU)"
     },
     "corphish": {
       "randomBattleMoves": [
@@ -16203,6 +18266,12 @@
           "pokeball": "pokeball"
         }
       ],
+      "encounters": [
+        {
+          "generation": 7,
+          "level": 10
+        }
+      ],
       "tier": "UU",
       "doublesTier": "DUU"
     },
@@ -16249,7 +18318,7 @@
         "protect"
       ],
       "tier": "PU",
-      "doublesTier": "DUU"
+      "doublesTier": "(DUU)"
     },
     "lileep": {
       "randomBattleMoves": [
@@ -16297,7 +18366,7 @@
         "swordsdance"
       ],
       "tier": "(PU)",
-      "doublesTier": "DUU"
+      "doublesTier": "(DUU)"
     },
     "anorith": {
       "randomBattleMoves": [
@@ -16346,7 +18415,7 @@
         "protect"
       ],
       "tier": "(PU)",
-      "doublesTier": "DUU"
+      "doublesTier": "(DUU)"
     },
     "feebas": {
       "randomBattleMoves": [
@@ -16471,12 +18540,12 @@
     },
     "castform": {
       "tier": "(PU)",
-      "doublesTier": "DUU"
+      "doublesTier": "(DUU)"
     },
     "castformsunny": {
       "randomBattleMoves": [
         "sunnyday",
-        "weatherball",
+        "fireblast",
         "solarbeam",
         "icebeam"
       ],
@@ -16486,7 +18555,7 @@
     "castformrainy": {
       "randomBattleMoves": [
         "raindance",
-        "weatherball",
+        "hydropump",
         "thunder",
         "hurricane"
       ],
@@ -16494,6 +18563,12 @@
       "battleOnly": true
     },
     "castformsnowy": {
+      "randomBattleMoves": [
+        "hail",
+        "blizzard",
+        "thunderbolt",
+        "fireblast"
+      ],
       "requiredAbility": "Forecast",
       "battleOnly": true
     },
@@ -16518,7 +18593,7 @@
         "protect"
       ],
       "tier": "(PU)",
-      "doublesTier": "DUU"
+      "doublesTier": "(DUU)"
     },
     "shuppet": {
       "randomBattleMoves": [
@@ -16592,8 +18667,15 @@
           ]
         }
       ],
+      "encounters": [
+        {
+          "generation": 5,
+          "level": 32,
+          "isHidden": false
+        }
+      ],
       "tier": "(PU)",
-      "doublesTier": "DUU"
+      "doublesTier": "(DUU)"
     },
     "banettemega": {
       "randomBattleMoves": [
@@ -16615,7 +18697,7 @@
       ],
       "requiredItem": "Banettite",
       "tier": "RU",
-      "doublesTier": "DUU"
+      "doublesTier": "(DUU)"
     },
     "duskull": {
       "randomBattleMoves": [
@@ -16663,6 +18745,16 @@
         "toxic",
         "trickroom"
       ],
+      "encounters": [
+        {
+          "generation": 4,
+          "level": 16
+        },
+        {
+          "generation": 6,
+          "level": 30
+        }
+      ],
       "tier": "NFE"
     },
     "dusknoir": {
@@ -16686,7 +18778,7 @@
         "trickroom"
       ],
       "tier": "(PU)",
-      "doublesTier": "DUU"
+      "doublesTier": "(DUU)"
     },
     "tropius": {
       "randomBattleMoves": [
@@ -16727,7 +18819,7 @@
         }
       ],
       "tier": "(PU)",
-      "doublesTier": "DUU"
+      "doublesTier": "(DUU)"
     },
     "chingling": {
       "randomBattleMoves": [
@@ -16778,7 +18870,7 @@
         }
       ],
       "tier": "(PU)",
-      "doublesTier": "DUU"
+      "doublesTier": "(DUU)"
     },
     "absol": {
       "randomBattleMoves": [
@@ -16857,7 +18949,7 @@
         }
       ],
       "tier": "PU",
-      "doublesTier": "DUU"
+      "doublesTier": "(DUU)"
     },
     "absolmega": {
       "randomBattleMoves": [
@@ -16881,7 +18973,7 @@
       ],
       "requiredItem": "Absolite",
       "tier": "RUBL",
-      "doublesTier": "DUU"
+      "doublesTier": "(DUU)"
     },
     "snorunt": {
       "randomBattleMoves": [
@@ -16927,7 +19019,7 @@
         "protect"
       ],
       "tier": "(PU)",
-      "doublesTier": "DUU"
+      "doublesTier": "(DUU)"
     },
     "glaliemega": {
       "randomBattleMoves": [
@@ -16948,8 +19040,8 @@
         "return"
       ],
       "requiredItem": "Glalitite",
-      "tier": "RU",
-      "doublesTier": "DUU"
+      "tier": "NU",
+      "doublesTier": "(DUU)"
     },
     "froslass": {
       "randomBattleMoves": [
@@ -16969,7 +19061,7 @@
         "thunderwave"
       ],
       "tier": "PU",
-      "doublesTier": "DUU"
+      "doublesTier": "(DUU)"
     },
     "spheal": {
       "randomBattleMoves": [
@@ -17008,6 +19100,18 @@
         "yawn",
         "superfang"
       ],
+      "encounters": [
+        {
+          "generation": 4,
+          "level": 25,
+          "isHidden": false
+        },
+        {
+          "generation": 6,
+          "level": 28,
+          "maxEggMoves": 1
+        }
+      ],
       "tier": "NFE"
     },
     "walrein": {
@@ -17044,8 +19148,15 @@
           "pokeball": "cherishball"
         }
       ],
+      "encounters": [
+        {
+          "generation": 5,
+          "level": 30,
+          "isHidden": false
+        }
+      ],
       "tier": "(PU)",
-      "doublesTier": "DUU"
+      "doublesTier": "(DUU)"
     },
     "clamperl": {
       "randomBattleMoves": [
@@ -17075,7 +19186,7 @@
         "protect"
       ],
       "tier": "(PU)",
-      "doublesTier": "DUU"
+      "doublesTier": "(DUU)"
     },
     "gorebyss": {
       "randomBattleMoves": [
@@ -17095,7 +19206,7 @@
         "protect"
       ],
       "tier": "(PU)",
-      "doublesTier": "DUU"
+      "doublesTier": "(DUU)"
     },
     "relicanth": {
       "randomBattleMoves": [
@@ -17115,7 +19226,7 @@
         "protect"
       ],
       "tier": "(PU)",
-      "doublesTier": "DUU"
+      "doublesTier": "(DUU)"
     },
     "luvdisc": {
       "randomBattleMoves": [
@@ -17135,7 +19246,7 @@
         "healpulse"
       ],
       "tier": "(PU)",
-      "doublesTier": "DUU"
+      "doublesTier": "(DUU)"
     },
     "bagon": {
       "randomBattleMoves": [
@@ -17199,6 +19310,12 @@
         "dragondance",
         "crunch",
         "zenheadbutt"
+      ],
+      "encounters": [
+        {
+          "generation": 7,
+          "level": 15
+        }
       ],
       "tier": "NFE"
     },
@@ -17272,8 +19389,14 @@
           "pokeball": "cherishball"
         }
       ],
+      "encounters": [
+        {
+          "generation": 7,
+          "level": 9
+        }
+      ],
       "tier": "UUBL",
-      "doublesTier": "DUU"
+      "doublesTier": "(DUU)"
     },
     "salamencemega": {
       "randomBattleMoves": [
@@ -17486,7 +19609,7 @@
           "pokeball": "cherishball"
         }
       ],
-      "tier": "UU",
+      "tier": "RU",
       "doublesTier": "DUU"
     },
     "metagrossmega": {
@@ -17614,7 +19737,7 @@
       ],
       "eventOnly": true,
       "tier": "PU",
-      "doublesTier": "DUU"
+      "doublesTier": "(DUU)"
     },
     "regice": {
       "randomBattleMoves": [
@@ -17719,7 +19842,7 @@
       ],
       "eventOnly": true,
       "tier": "(PU)",
-      "doublesTier": "DUU"
+      "doublesTier": "(DUU)"
     },
     "registeel": {
       "randomBattleMoves": [
@@ -17826,7 +19949,7 @@
       ],
       "eventOnly": true,
       "tier": "RU",
-      "doublesTier": "DUU"
+      "doublesTier": "(DUU)"
     },
     "latias": {
       "randomBattleMoves": [
@@ -17962,7 +20085,7 @@
       ],
       "eventOnly": true,
       "tier": "UU",
-      "doublesTier": "DUU"
+      "doublesTier": "(DUU)"
     },
     "latiasmega": {
       "randomBattleMoves": [
@@ -17987,7 +20110,7 @@
       ],
       "requiredItem": "Latiasite",
       "tier": "UUBL",
-      "doublesTier": "DUU"
+      "doublesTier": "(DUU)"
     },
     "latios": {
       "randomBattleMoves": [
@@ -18138,7 +20261,7 @@
       ],
       "eventOnly": true,
       "tier": "UUBL",
-      "doublesTier": "DUU"
+      "doublesTier": "(DUU)"
     },
     "latiosmega": {
       "randomBattleMoves": [
@@ -18162,7 +20285,7 @@
       ],
       "requiredItem": "Latiosite",
       "tier": "UUBL",
-      "doublesTier": "DUU"
+      "doublesTier": "(DUU)"
     },
     "kyogre": {
       "randomBattleMoves": [
@@ -18315,11 +20438,11 @@
     "kyogreprimal": {
       "randomBattleMoves": [
         "calmmind",
-        "waterspout",
         "originpulse",
         "scald",
         "thunder",
         "icebeam",
+        "toxic",
         "rest",
         "sleeptalk"
       ],
@@ -19165,7 +21288,7 @@
       ],
       "eventOnly": true,
       "tier": "Uber",
-      "doublesTier": "DUU"
+      "doublesTier": "(DUU)"
     },
     "deoxysattack": {
       "randomBattleMoves": [
@@ -19214,7 +21337,7 @@
       ],
       "eventOnly": true,
       "tier": "Uber",
-      "doublesTier": "DUU"
+      "doublesTier": "(DUU)"
     },
     "deoxysspeed": {
       "randomBattleMoves": [
@@ -19238,7 +21361,7 @@
       ],
       "eventOnly": true,
       "tier": "Uber",
-      "doublesTier": "DUU"
+      "doublesTier": "(DUU)"
     },
     "turtwig": {
       "randomBattleMoves": [
@@ -19323,7 +21446,7 @@
         }
       ],
       "tier": "NU",
-      "doublesTier": "DUU"
+      "doublesTier": "(DUU)"
     },
     "chimchar": {
       "randomBattleMoves": [
@@ -19404,16 +21527,15 @@
       "randomBattleMoves": [
         "stealthrock",
         "uturn",
-        "earthquake",
         "closecombat",
         "flareblitz",
         "stoneedge",
         "machpunch",
         "nastyplot",
         "fireblast",
+        "focusblast",
         "vacuumwave",
-        "grassknot",
-        "hiddenpowerice"
+        "grassknot"
       ],
       "randomDoubleBattleMoves": [
         "fakeout",
@@ -19426,7 +21548,6 @@
         "feint",
         "taunt",
         "flareblitz",
-        "hiddenpowerice",
         "thunderpunch",
         "protect"
       ],
@@ -19458,7 +21579,7 @@
         }
       ],
       "tier": "UU",
-      "doublesTier": "DUU"
+      "doublesTier": "(DUU)"
     },
     "piplup": {
       "randomBattleMoves": [
@@ -19600,7 +21721,7 @@
         }
       ],
       "tier": "UU",
-      "doublesTier": "DUU"
+      "doublesTier": "(DUU)"
     },
     "starly": {
       "randomBattleMoves": [
@@ -19632,6 +21753,12 @@
         "pursuit",
         "defog"
       ],
+      "encounters": [
+        {
+          "generation": 4,
+          "level": 4
+        }
+      ],
       "tier": "NFE"
     },
     "staraptor": {
@@ -19653,7 +21780,7 @@
         "protect"
       ],
       "tier": "UUBL",
-      "doublesTier": "DUU"
+      "doublesTier": "(DUU)"
     },
     "bidoof": {
       "randomBattleMoves": [
@@ -19698,8 +21825,14 @@
         "protect",
         "rest"
       ],
+      "encounters": [
+        {
+          "generation": 4,
+          "level": 4
+        }
+      ],
       "tier": "(PU)",
-      "doublesTier": "DUU"
+      "doublesTier": "(DUU)"
     },
     "kricketot": {
       "randomBattleMoves": [
@@ -19727,7 +21860,7 @@
         "knockoff"
       ],
       "tier": "(PU)",
-      "doublesTier": "DUU"
+      "doublesTier": "(DUU)"
     },
     "shinx": {
       "randomBattleMoves": [
@@ -19766,7 +21899,7 @@
         "protect"
       ],
       "tier": "(PU)",
-      "doublesTier": "DUU"
+      "doublesTier": "(DUU)"
     },
     "cranidos": {
       "randomBattleMoves": [
@@ -19814,7 +21947,7 @@
         "protect"
       ],
       "tier": "(PU)",
-      "doublesTier": "DUU"
+      "doublesTier": "(DUU)"
     },
     "shieldon": {
       "randomBattleMoves": [
@@ -19861,7 +21994,7 @@
         "guardsplit"
       ],
       "tier": "(PU)",
-      "doublesTier": "DUU"
+      "doublesTier": "(DUU)"
     },
     "burmy": {
       "randomBattleMoves": [
@@ -19890,7 +22023,7 @@
         "protect"
       ],
       "tier": "(PU)",
-      "doublesTier": "DUU"
+      "doublesTier": "(DUU)"
     },
     "wormadamsandy": {
       "randomBattleMoves": [
@@ -19907,7 +22040,7 @@
         "stringshot"
       ],
       "tier": "(PU)",
-      "doublesTier": "DUU"
+      "doublesTier": "(DUU)"
     },
     "wormadamtrash": {
       "randomBattleMoves": [
@@ -19926,7 +22059,7 @@
         "protect"
       ],
       "tier": "(PU)",
-      "doublesTier": "DUU"
+      "doublesTier": "(DUU)"
     },
     "mothim": {
       "randomBattleMoves": [
@@ -19946,7 +22079,7 @@
         "protect"
       ],
       "tier": "(PU)",
-      "doublesTier": "DUU"
+      "doublesTier": "(DUU)"
     },
     "combee": {
       "randomBattleMoves": [
@@ -19961,11 +22094,11 @@
     "vespiquen": {
       "randomBattleMoves": [
         "substitute",
-        "healorder",
         "toxic",
+        "roost",
         "attackorder",
-        "defendorder",
-        "infestation"
+        "destinybond",
+        "tailwind"
       ],
       "randomDoubleBattleMoves": [
         "tailwind",
@@ -19976,7 +22109,7 @@
         "protect"
       ],
       "tier": "(PU)",
-      "doublesTier": "DUU"
+      "doublesTier": "(DUU)"
     },
     "pachirisu": {
       "randomBattleMoves": [
@@ -20019,7 +22152,7 @@
         }
       ],
       "tier": "(PU)",
-      "doublesTier": "DUU"
+      "doublesTier": "(DUU)"
     },
     "buizel": {
       "randomBattleMoves": [
@@ -20052,8 +22185,19 @@
         "crunch",
         "taunt"
       ],
+      "encounters": [
+        {
+          "generation": 4,
+          "level": 22
+        },
+        {
+          "generation": 5,
+          "level": 10,
+          "isHidden": false
+        }
+      ],
       "tier": "(PU)",
-      "doublesTier": "DUU"
+      "doublesTier": "(DUU)"
     },
     "cherubi": {
       "randomBattleMoves": [
@@ -20082,7 +22226,7 @@
         "protect"
       ],
       "tier": "(PU)",
-      "doublesTier": "DUU"
+      "doublesTier": "(DUU)"
     },
     "cherrimsunshine": {
       "randomBattleMoves": [
@@ -20131,8 +22275,14 @@
         "icywind",
         "protect"
       ],
-      "tier": "OU",
-      "doublesTier": "DUU"
+      "encounters": [
+        {
+          "generation": 4,
+          "level": 20
+        }
+      ],
+      "tier": "PU",
+      "doublesTier": "DOU"
     },
     "drifloon": {
       "randomBattleMoves": [
@@ -20166,8 +22316,16 @@
         "willowisp",
         "protect"
       ],
+      "encounters": [
+        {
+          "generation": 7,
+          "level": 11,
+          "isHidden": false,
+          "pokeball": "pokeball"
+        }
+      ],
       "tier": "(PU)",
-      "doublesTier": "DUU"
+      "doublesTier": "(DUU)"
     },
     "buneary": {
       "randomBattleMoves": [
@@ -20201,7 +22359,7 @@
         "encore"
       ],
       "tier": "(PU)",
-      "doublesTier": "DUU"
+      "doublesTier": "(DUU)"
     },
     "lopunnymega": {
       "randomBattleMoves": [
@@ -20253,8 +22411,15 @@
         "knockoff",
         "protect"
       ],
+      "encounters": [
+        {
+          "generation": 6,
+          "level": 32,
+          "maxEggMoves": 1
+        }
+      ],
       "tier": "(PU)",
-      "doublesTier": "DUU"
+      "doublesTier": "(DUU)"
     },
     "stunky": {
       "randomBattleMoves": [
@@ -20289,8 +22454,14 @@
         "playrough",
         "snarl"
       ],
+      "encounters": [
+        {
+          "generation": 4,
+          "level": 29
+        }
+      ],
       "tier": "PU",
-      "doublesTier": "DUU"
+      "doublesTier": "(DUU)"
     },
     "bronzor": {
       "randomBattleMoves": [
@@ -20325,8 +22496,14 @@
         "explosion",
         "gyroball"
       ],
+      "encounters": [
+        {
+          "generation": 6,
+          "level": 30
+        }
+      ],
       "tier": "RU",
-      "doublesTier": "DOU"
+      "doublesTier": "DUU"
     },
     "chatot": {
       "randomBattleMoves": [
@@ -20367,24 +22544,21 @@
         }
       ],
       "tier": "(PU)",
-      "doublesTier": "DUU"
+      "doublesTier": "(DUU)"
     },
     "spiritomb": {
       "randomBattleMoves": [
         "shadowsneak",
-        "suckerpunch",
         "pursuit",
         "willowisp",
         "darkpulse",
         "rest",
         "sleeptalk",
         "foulplay",
-        "painsplit",
         "calmmind"
       ],
       "randomDoubleBattleMoves": [
         "shadowsneak",
-        "suckerpunch",
         "icywind",
         "willowisp",
         "snarl",
@@ -20418,7 +22592,7 @@
         }
       ],
       "tier": "PU",
-      "doublesTier": "DUU"
+      "doublesTier": "(DUU)"
     },
     "gible": {
       "randomBattleMoves": [
@@ -20531,7 +22705,7 @@
         }
       ],
       "tier": "OU",
-      "doublesTier": "DUU"
+      "doublesTier": "DOU"
     },
     "garchompmega": {
       "randomBattleMoves": [
@@ -20554,7 +22728,7 @@
       ],
       "requiredItem": "Garchompite",
       "tier": "(OU)",
-      "doublesTier": "DUU"
+      "doublesTier": "(DOU)"
     },
     "riolu": {
       "randomBattleMoves": [
@@ -20710,7 +22884,7 @@
         }
       ],
       "tier": "UU",
-      "doublesTier": "DUU"
+      "doublesTier": "(DUU)"
     },
     "lucariomega": {
       "randomBattleMoves": [
@@ -20741,7 +22915,7 @@
       ],
       "requiredItem": "Lucarionite",
       "tier": "Uber",
-      "doublesTier": "DUU"
+      "doublesTier": "(DUU)"
     },
     "hippopotas": {
       "randomBattleMoves": [
@@ -20774,7 +22948,7 @@
         "whirlwind"
       ],
       "tier": "UU",
-      "doublesTier": "DUU"
+      "doublesTier": "(DUU)"
     },
     "skorupi": {
       "randomBattleMoves": [
@@ -20808,8 +22982,19 @@
         "poisonjab",
         "knockoff"
       ],
+      "encounters": [
+        {
+          "generation": 4,
+          "level": 22,
+          "pokeball": "safariball"
+        },
+        {
+          "generation": 6,
+          "level": 30
+        }
+      ],
       "tier": "RU",
-      "doublesTier": "DUU"
+      "doublesTier": "(DUU)"
     },
     "croagunk": {
       "randomBattleMoves": [
@@ -20870,8 +23055,19 @@
         "fakeout",
         "protect"
       ],
+      "encounters": [
+        {
+          "generation": 4,
+          "level": 22,
+          "pokeball": "safariball"
+        },
+        {
+          "generation": 6,
+          "level": 30
+        }
+      ],
       "tier": "RU",
-      "doublesTier": "DUU"
+      "doublesTier": "(DUU)"
     },
     "carnivine": {
       "randomBattleMoves": [
@@ -20894,7 +23090,7 @@
         "protect"
       ],
       "tier": "(PU)",
-      "doublesTier": "DUU"
+      "doublesTier": "(DUU)"
     },
     "finneon": {
       "randomBattleMoves": [
@@ -20924,8 +23120,14 @@
         "scald",
         "protect"
       ],
+      "encounters": [
+        {
+          "generation": 4,
+          "level": 20
+        }
+      ],
       "tier": "(PU)",
-      "doublesTier": "DUU"
+      "doublesTier": "(DUU)"
     },
     "snover": {
       "randomBattleMoves": [
@@ -20958,8 +23160,14 @@
         "woodhammer",
         "earthquake"
       ],
+      "encounters": [
+        {
+          "generation": 4,
+          "level": 38
+        }
+      ],
       "tier": "(PU)",
-      "doublesTier": "DUU"
+      "doublesTier": "(DUU)"
     },
     "abomasnowmega": {
       "randomBattleMoves": [
@@ -21043,7 +23251,7 @@
         }
       ],
       "tier": "NU",
-      "doublesTier": "DUU"
+      "doublesTier": "(DUU)"
     },
     "rotomheat": {
       "randomBattleMoves": [
@@ -21052,8 +23260,7 @@
         "voltswitch",
         "hiddenpowerice",
         "painsplit",
-        "willowisp",
-        "trick"
+        "willowisp"
       ],
       "randomDoubleBattleMoves": [
         "overheat",
@@ -21063,12 +23270,11 @@
         "painsplit",
         "hiddenpowerice",
         "willowisp",
-        "trick",
         "electroweb",
         "protect"
       ],
       "tier": "UU",
-      "doublesTier": "DUU"
+      "doublesTier": "(DUU)"
     },
     "rotomwash": {
       "randomBattleMoves": [
@@ -21118,7 +23324,7 @@
         "protect"
       ],
       "tier": "PU",
-      "doublesTier": "DUU"
+      "doublesTier": "(DUU)"
     },
     "rotomfan": {
       "randomBattleMoves": [
@@ -21142,14 +23348,14 @@
         "protect"
       ],
       "tier": "(PU)",
-      "doublesTier": "DUU"
+      "doublesTier": "(DUU)"
     },
     "rotommow": {
       "randomBattleMoves": [
         "leafstorm",
         "thunderbolt",
         "voltswitch",
-        "painsplit",
+        "defog",
         "hiddenpowerfire",
         "willowisp",
         "trick"
@@ -21167,7 +23373,7 @@
         "protect"
       ],
       "tier": "RU",
-      "doublesTier": "DUU"
+      "doublesTier": "(DUU)"
     },
     "uxie": {
       "randomBattleMoves": [
@@ -21248,8 +23454,8 @@
         }
       ],
       "eventOnly": true,
-      "tier": "NU",
-      "doublesTier": "DUU"
+      "tier": "RU",
+      "doublesTier": "(DUU)"
     },
     "mesprit": {
       "randomBattleMoves": [
@@ -21335,7 +23541,7 @@
       ],
       "eventOnly": true,
       "tier": "PU",
-      "doublesTier": "DUU"
+      "doublesTier": "(DUU)"
     },
     "azelf": {
       "randomBattleMoves": [
@@ -21346,8 +23552,7 @@
         "stealthrock",
         "knockoff",
         "taunt",
-        "explosion",
-        "uturn"
+        "explosion"
       ],
       "randomDoubleBattleMoves": [
         "nastyplot",
@@ -21358,7 +23563,6 @@
         "knockoff",
         "zenheadbutt",
         "uturn",
-        "trick",
         "taunt",
         "protect",
         "dazzlinggleam"
@@ -21422,7 +23626,7 @@
       ],
       "eventOnly": true,
       "tier": "UU",
-      "doublesTier": "DUU"
+      "doublesTier": "(DUU)"
     },
     "dialga": {
       "randomBattleMoves": [
@@ -21730,7 +23934,7 @@
     },
     "heatran": {
       "randomBattleMoves": [
-        "fireblast",
+        "magmastorm",
         "lavaplume",
         "stealthrock",
         "earthpower",
@@ -21959,7 +24163,7 @@
       ],
       "eventOnly": true,
       "tier": "(PU)",
-      "doublesTier": "DUU"
+      "doublesTier": "(DUU)"
     },
     "giratina": {
       "randomBattleMoves": [
@@ -22227,7 +24431,7 @@
         }
       ],
       "tier": "(PU)",
-      "doublesTier": "DUU"
+      "doublesTier": "(DUU)"
     },
     "manaphy": {
       "randomBattleMoves": [
@@ -22326,7 +24530,7 @@
       ],
       "eventOnly": true,
       "tier": "UUBL",
-      "doublesTier": "DUU"
+      "doublesTier": "(DUU)"
     },
     "darkrai": {
       "randomBattleMoves": [
@@ -22532,14 +24736,14 @@
       ],
       "eventOnly": true,
       "tier": "RU",
-      "doublesTier": "DUU"
+      "doublesTier": "(DUU)"
     },
     "shayminsky": {
       "randomBattleMoves": [
         "seedflare",
         "earthpower",
         "airslash",
-        "hiddenpowerfire",
+        "hiddenpowerice",
         "substitute",
         "leechseed",
         "healingwish"
@@ -22548,7 +24752,6 @@
         "seedflare",
         "earthpower",
         "airslash",
-        "hiddenpowerfire",
         "rest",
         "substitute",
         "leechseed",
@@ -23240,7 +25443,7 @@
         }
       ],
       "tier": "OU",
-      "doublesTier": "DUU"
+      "doublesTier": "(DUU)"
     },
     "tepig": {
       "randomBattleMoves": [
@@ -23310,7 +25513,7 @@
         }
       ],
       "tier": "RU",
-      "doublesTier": "DUU"
+      "doublesTier": "(DUU)"
     },
     "oshawott": {
       "randomBattleMoves": [
@@ -23378,8 +25581,8 @@
           "pokeball": "cherishball"
         }
       ],
-      "tier": "PUBL",
-      "doublesTier": "DUU"
+      "tier": "NU",
+      "doublesTier": "(DUU)"
     },
     "patrat": {
       "randomBattleMoves": [
@@ -23410,7 +25613,7 @@
         "protect"
       ],
       "tier": "(PU)",
-      "doublesTier": "DUU"
+      "doublesTier": "(DUU)"
     },
     "lillipup": {
       "randomBattleMoves": [
@@ -23430,6 +25633,13 @@
         "crunch",
         "icefang"
       ],
+      "encounters": [
+        {
+          "generation": 5,
+          "level": 20,
+          "isHidden": true
+        }
+      ],
       "tier": "NFE"
     },
     "stoutland": {
@@ -23448,8 +25658,15 @@
         "icefang",
         "protect"
       ],
+      "encounters": [
+        {
+          "generation": 5,
+          "level": 23,
+          "isHidden": false
+        }
+      ],
       "tier": "PU",
-      "doublesTier": "DUU"
+      "doublesTier": "(DUU)"
     },
     "purrloin": {
       "randomBattleMoves": [
@@ -23500,7 +25717,7 @@
         }
       ],
       "tier": "PU",
-      "doublesTier": "DUU"
+      "doublesTier": "(DUU)"
     },
     "pansage": {
       "randomBattleMoves": [
@@ -23585,7 +25802,7 @@
         "spikyshield"
       ],
       "tier": "(PU)",
-      "doublesTier": "DUU"
+      "doublesTier": "(DUU)"
     },
     "pansear": {
       "randomBattleMoves": [
@@ -23649,7 +25866,7 @@
         }
       ],
       "tier": "(PU)",
-      "doublesTier": "DUU"
+      "doublesTier": "(DUU)"
     },
     "panpour": {
       "randomBattleMoves": [
@@ -23695,7 +25912,7 @@
         "protect"
       ],
       "tier": "(PU)",
-      "doublesTier": "DUU"
+      "doublesTier": "(DUU)"
     },
     "munna": {
       "randomBattleMoves": [
@@ -23747,7 +25964,7 @@
         }
       ],
       "tier": "(PU)",
-      "doublesTier": "DUU"
+      "doublesTier": "(DUU)"
     },
     "pidove": {
       "randomBattleMoves": [
@@ -23813,8 +26030,15 @@
         "roost",
         "nightslash"
       ],
+      "encounters": [
+        {
+          "generation": 5,
+          "level": 22,
+          "isHidden": false
+        }
+      ],
       "tier": "(PU)",
-      "doublesTier": "DUU"
+      "doublesTier": "(DUU)"
     },
     "blitzle": {
       "randomBattleMoves": [
@@ -23841,7 +26065,7 @@
         "protect"
       ],
       "tier": "(PU)",
-      "doublesTier": "DUU"
+      "doublesTier": "(DUU)"
     },
     "roggenrola": {
       "randomBattleMoves": [
@@ -23862,6 +26086,13 @@
         "rockblast",
         "earthquake",
         "explosion"
+      ],
+      "encounters": [
+        {
+          "generation": 5,
+          "level": 24,
+          "isHidden": false
+        }
       ],
       "tier": "NFE"
     },
@@ -23886,7 +26117,7 @@
         "protect"
       ],
       "tier": "NUBL",
-      "doublesTier": "DUU"
+      "doublesTier": "(DUU)"
     },
     "woobat": {
       "randomBattleMoves": [
@@ -23920,7 +26151,7 @@
         "tailwind"
       ],
       "tier": "(PU)",
-      "doublesTier": "DUU"
+      "doublesTier": "(DUU)"
     },
     "drilbur": {
       "randomBattleMoves": [
@@ -23951,8 +26182,14 @@
         "substitute",
         "protect"
       ],
+      "encounters": [
+        {
+          "generation": 6,
+          "level": 30
+        }
+      ],
       "tier": "OU",
-      "doublesTier": "DOU"
+      "doublesTier": "DUU"
     },
     "audino": {
       "randomBattleMoves": [
@@ -24047,7 +26284,7 @@
         }
       ],
       "tier": "PU",
-      "doublesTier": "DUU"
+      "doublesTier": "(DUU)"
     },
     "audinomega": {
       "randomBattleMoves": [
@@ -24071,7 +26308,7 @@
       ],
       "requiredItem": "Audinite",
       "tier": "NU",
-      "doublesTier": "DUU"
+      "doublesTier": "(DUU)"
     },
     "timburr": {
       "randomBattleMoves": [
@@ -24111,7 +26348,7 @@
         "protect"
       ],
       "tier": "UUBL",
-      "doublesTier": "DUU"
+      "doublesTier": "(DUU)"
     },
     "tympole": {
       "randomBattleMoves": [
@@ -24154,8 +26391,15 @@
         "icywind",
         "protect"
       ],
+      "encounters": [
+        {
+          "generation": 5,
+          "level": 15,
+          "isHidden": false
+        }
+      ],
       "tier": "NU",
-      "doublesTier": "DUU"
+      "doublesTier": "(DUU)"
     },
     "throh": {
       "randomBattleMoves": [
@@ -24177,7 +26421,7 @@
         "protect"
       ],
       "tier": "(PU)",
-      "doublesTier": "DUU"
+      "doublesTier": "(DUU)"
     },
     "sawk": {
       "randomBattleMoves": [
@@ -24196,7 +26440,7 @@
         "protect"
       ],
       "tier": "PUBL",
-      "doublesTier": "DUU"
+      "doublesTier": "(DUU)"
     },
     "sewaddle": {
       "randomBattleMoves": [
@@ -24219,6 +26463,13 @@
         "airslash",
         "stickyweb"
       ],
+      "encounters": [
+        {
+          "generation": 5,
+          "level": 19,
+          "isHidden": false
+        }
+      ],
       "tier": "NFE"
     },
     "leavanny": {
@@ -24237,8 +26488,15 @@
         "stickyweb",
         "poisonjab"
       ],
+      "encounters": [
+        {
+          "generation": 5,
+          "level": 20,
+          "isHidden": true
+        }
+      ],
       "tier": "(PU)",
-      "doublesTier": "DUU"
+      "doublesTier": "(DUU)"
     },
     "venipede": {
       "randomBattleMoves": [
@@ -24283,7 +26541,7 @@
         "superpower"
       ],
       "tier": "UUBL",
-      "doublesTier": "DUU"
+      "doublesTier": "(DUU)"
     },
     "cottonee": {
       "randomBattleMoves": [
@@ -24380,8 +26638,8 @@
         "helpinghand",
         "protect"
       ],
-      "tier": "PU",
-      "doublesTier": "DUU"
+      "tier": "PUBL",
+      "doublesTier": "(DUU)"
     },
     "basculin": {
       "randomBattleMoves": [
@@ -24400,7 +26658,7 @@
         "protect"
       ],
       "tier": "(PU)",
-      "doublesTier": "DUU"
+      "doublesTier": "(DUU)"
     },
     "basculinbluestriped": {
       "randomBattleMoves": [
@@ -24419,7 +26677,7 @@
         "protect"
       ],
       "tier": "(PU)",
-      "doublesTier": "DUU"
+      "doublesTier": "(DUU)"
     },
     "sandile": {
       "randomBattleMoves": [
@@ -24520,8 +26778,15 @@
           "pokeball": "cherishball"
         }
       ],
-      "tier": "UU",
-      "doublesTier": "DUU"
+      "encounters": [
+        {
+          "generation": 6,
+          "level": 32,
+          "maxEggMoves": 1
+        }
+      ],
+      "tier": "RUBL",
+      "doublesTier": "(DUU)"
     },
     "darmanitanzen": {
       "requiredAbility": "Zen Mode",
@@ -24547,7 +26812,7 @@
         "spikyshield"
       ],
       "tier": "(PU)",
-      "doublesTier": "DUU"
+      "doublesTier": "(DUU)"
     },
     "dwebble": {
       "randomBattleMoves": [
@@ -24579,8 +26844,15 @@
         "xscissor",
         "stoneedge"
       ],
+      "encounters": [
+        {
+          "generation": 6,
+          "level": 33,
+          "maxEggMoves": 1
+        }
+      ],
       "tier": "(PU)",
-      "doublesTier": "DUU"
+      "doublesTier": "(DUU)"
     },
     "scraggy": {
       "randomBattleMoves": [
@@ -24672,7 +26944,7 @@
         "protect"
       ],
       "tier": "NU",
-      "doublesTier": "DUU"
+      "doublesTier": "(DUU)"
     },
     "yamask": {
       "randomBattleMoves": [
@@ -24719,6 +26991,13 @@
             "darkpulse"
           ],
           "pokeball": "cherishball"
+        }
+      ],
+      "encounters": [
+        {
+          "generation": 6,
+          "level": 32,
+          "maxEggMoves": 1
         }
       ],
       "tier": "NUBL",
@@ -24773,7 +27052,7 @@
         "rockslide"
       ],
       "tier": "PU",
-      "doublesTier": "DUU"
+      "doublesTier": "(DUU)"
     },
     "archen": {
       "randomBattleMoves": [
@@ -24821,7 +27100,7 @@
         "protect"
       ],
       "tier": "PUBL",
-      "doublesTier": "DUU"
+      "doublesTier": "(DUU)"
     },
     "trubbish": {
       "randomBattleMoves": [
@@ -24853,8 +27132,23 @@
         "explosion",
         "rockblast"
       ],
+      "encounters": [
+        {
+          "generation": 5,
+          "level": 31,
+          "isHidden": false
+        },
+        {
+          "generation": 6,
+          "level": 30
+        },
+        {
+          "generation": 7,
+          "level": 24
+        }
+      ],
       "tier": "NU",
-      "doublesTier": "DUU"
+      "doublesTier": "(DUU)"
     },
     "zorua": {
       "randomBattleMoves": [
@@ -24928,8 +27222,15 @@
           "pokeball": "cherishball"
         }
       ],
+      "encounters": [
+        {
+          "generation": 5,
+          "level": 25,
+          "isHidden": false
+        }
+      ],
       "tier": "RUBL",
-      "doublesTier": "DUU"
+      "doublesTier": "(DUU)"
     },
     "minccino": {
       "randomBattleMoves": [
@@ -24944,11 +27245,10 @@
     "cinccino": {
       "randomBattleMoves": [
         "tailslap",
-        "aquatail",
-        "uturn",
-        "knockoff",
         "bulletseed",
-        "rockblast"
+        "rockblast",
+        "knockoff",
+        "uturn"
       ],
       "randomDoubleBattleMoves": [
         "tailslap",
@@ -24960,7 +27260,7 @@
         "protect"
       ],
       "tier": "NU",
-      "doublesTier": "DUU"
+      "doublesTier": "(DUU)"
     },
     "gothita": {
       "randomBattleMoves": [
@@ -25013,6 +27313,13 @@
           ]
         }
       ],
+      "encounters": [
+        {
+          "generation": 5,
+          "level": 31,
+          "isHidden": false
+        }
+      ],
       "tier": "NFE"
     },
     "gothitelle": {
@@ -25041,8 +27348,15 @@
         "healpulse",
         "protect"
       ],
+      "encounters": [
+        {
+          "generation": 5,
+          "level": 34,
+          "isHidden": false
+        }
+      ],
       "tier": "(PU)",
-      "doublesTier": "DUU"
+      "doublesTier": "DOU"
     },
     "solosis": {
       "randomBattleMoves": [
@@ -25065,6 +27379,13 @@
         "shadowball",
         "trickroom",
         "psyshock"
+      ],
+      "encounters": [
+        {
+          "generation": 5,
+          "level": 31,
+          "isHidden": false
+        }
       ],
       "tier": "NFE"
     },
@@ -25089,8 +27410,15 @@
         "hiddenpowerfire",
         "protect"
       ],
+      "encounters": [
+        {
+          "generation": 5,
+          "level": 34,
+          "isHidden": false
+        }
+      ],
       "tier": "RUBL",
-      "doublesTier": "DUU"
+      "doublesTier": "(DUU)"
     },
     "ducklett": {
       "randomBattleMoves": [
@@ -25109,7 +27437,7 @@
     },
     "swanna": {
       "randomBattleMoves": [
-        "airslash",
+        "bravebird",
         "roost",
         "hurricane",
         "icebeam",
@@ -25128,8 +27456,14 @@
         "scald",
         "protect"
       ],
+      "encounters": [
+        {
+          "generation": 6,
+          "level": 30
+        }
+      ],
       "tier": "(PU)",
-      "doublesTier": "DUU"
+      "doublesTier": "(DUU)"
     },
     "vanillite": {
       "randomBattleMoves": [
@@ -25169,8 +27503,8 @@
         "protect",
         "freezedry"
       ],
-      "tier": "NU",
-      "doublesTier": "DUU"
+      "tier": "NUBL",
+      "doublesTier": "(DUU)"
     },
     "deerling": {
       "randomBattleMoves": [
@@ -25214,8 +27548,14 @@
         "synthesis",
         "protect"
       ],
+      "encounters": [
+        {
+          "generation": 6,
+          "level": 30
+        }
+      ],
       "tier": "(PU)",
-      "doublesTier": "DUU"
+      "doublesTier": "(DUU)"
     },
     "emolga": {
       "randomBattleMoves": [
@@ -25237,7 +27577,7 @@
         "protect"
       ],
       "tier": "(PU)",
-      "doublesTier": "DUU"
+      "doublesTier": "(DUU)"
     },
     "karrablast": {
       "randomBattleMoves": [
@@ -25292,7 +27632,7 @@
         "drillrun"
       ],
       "tier": "RU",
-      "doublesTier": "DUU"
+      "doublesTier": "(DUU)"
     },
     "foongus": {
       "randomBattleMoves": [
@@ -25326,6 +27666,18 @@
         "synthesis",
         "sludgebomb",
         "protect"
+      ],
+      "encounters": [
+        {
+          "generation": 5,
+          "level": 37,
+          "isHidden": false
+        },
+        {
+          "generation": 5,
+          "level": 35,
+          "isHidden": true
+        }
       ],
       "tier": "UU",
       "doublesTier": "DOU"
@@ -25375,8 +27727,15 @@
           ]
         }
       ],
+      "encounters": [
+        {
+          "generation": 5,
+          "level": 5,
+          "isHidden": false
+        }
+      ],
       "tier": "PU",
-      "doublesTier": "DUU"
+      "doublesTier": "(DUU)"
     },
     "alomomola": {
       "randomBattleMoves": [
@@ -25396,7 +27755,7 @@
         "wideguard"
       ],
       "tier": "UU",
-      "doublesTier": "DUU"
+      "doublesTier": "(DUU)"
     },
     "joltik": {
       "randomBattleMoves": [
@@ -25426,8 +27785,14 @@
         "stickyweb",
         "protect"
       ],
+      "encounters": [
+        {
+          "generation": 6,
+          "level": 30
+        }
+      ],
       "tier": "RU",
-      "doublesTier": "DUU"
+      "doublesTier": "(DUU)"
     },
     "ferroseed": {
       "randomBattleMoves": [
@@ -25481,6 +27846,12 @@
         "wildcharge",
         "substitute"
       ],
+      "encounters": [
+        {
+          "generation": 6,
+          "level": 30
+        }
+      ],
       "tier": "NFE"
     },
     "klinklang": {
@@ -25499,7 +27870,7 @@
         "protect"
       ],
       "tier": "NU",
-      "doublesTier": "DUU"
+      "doublesTier": "(DUU)"
     },
     "tynamo": {
       "randomBattleMoves": [
@@ -25545,7 +27916,7 @@
         "protect"
       ],
       "tier": "PU",
-      "doublesTier": "DUU"
+      "doublesTier": "(DUU)"
     },
     "elgyem": {
       "randomBattleMoves": [
@@ -25582,7 +27953,7 @@
         "protect"
       ],
       "tier": "(PU)",
-      "doublesTier": "DUU"
+      "doublesTier": "(DUU)"
     },
     "litwick": {
       "randomBattleMoves": [
@@ -25605,6 +27976,12 @@
         "hiddenpowerground",
         "substitute",
         "painsplit"
+      ],
+      "encounters": [
+        {
+          "generation": 6,
+          "level": 30
+        }
       ],
       "tier": "NFE"
     },
@@ -25733,6 +28110,12 @@
         "taunt",
         "substitute"
       ],
+      "encounters": [
+        {
+          "generation": 6,
+          "level": 30
+        }
+      ],
       "tier": "NFE"
     },
     "haxorus": {
@@ -25740,11 +28123,9 @@
         "dragondance",
         "swordsdance",
         "outrage",
-        "dragonclaw",
         "earthquake",
         "poisonjab",
-        "taunt",
-        "substitute"
+        "taunt"
       ],
       "randomDoubleBattleMoves": [
         "dragondance",
@@ -25753,8 +28134,7 @@
         "dragonclaw",
         "earthquake",
         "poisonjab",
-        "taunt",
-        "substitute"
+        "taunt"
       ],
       "eventPokemon": [
         {
@@ -25784,7 +28164,7 @@
         }
       ],
       "tier": "UU",
-      "doublesTier": "DUU"
+      "doublesTier": "(DUU)"
     },
     "cubchoo": {
       "randomBattleMoves": [
@@ -25827,8 +28207,14 @@
         "aquajet",
         "protect"
       ],
+      "encounters": [
+        {
+          "generation": 6,
+          "level": 30
+        }
+      ],
       "tier": "(PU)",
-      "doublesTier": "DUU"
+      "doublesTier": "(DUU)"
     },
     "cryogonal": {
       "randomBattleMoves": [
@@ -25849,8 +28235,8 @@
         "freezedry",
         "hiddenpowerground"
       ],
-      "tier": "NU",
-      "doublesTier": "DUU"
+      "tier": "PU",
+      "doublesTier": "(DUU)"
     },
     "shelmet": {
       "randomBattleMoves": [
@@ -25914,7 +28300,7 @@
         "sludgebomb"
       ],
       "tier": "NU",
-      "doublesTier": "DUU"
+      "doublesTier": "(DUU)"
     },
     "stunfisk": {
       "randomBattleMoves": [
@@ -25935,7 +28321,7 @@
         "stealthrock"
       ],
       "tier": "(PU)",
-      "doublesTier": "DUU"
+      "doublesTier": "(DUU)"
     },
     "mienfoo": {
       "randomBattleMoves": [
@@ -26029,7 +28415,7 @@
         }
       ],
       "tier": "NU",
-      "doublesTier": "DUU"
+      "doublesTier": "(DUU)"
     },
     "golett": {
       "randomBattleMoves": [
@@ -26078,8 +28464,14 @@
           "pokeball": "cherishball"
         }
       ],
+      "encounters": [
+        {
+          "generation": 6,
+          "level": 30
+        }
+      ],
       "tier": "PU",
-      "doublesTier": "DUU"
+      "doublesTier": "(DUU)"
     },
     "pawniard": {
       "randomBattleMoves": [
@@ -26108,6 +28500,13 @@
         "brickbreak",
         "knockoff",
         "protect"
+      ],
+      "encounters": [
+        {
+          "generation": 7,
+          "level": 33,
+          "isHidden": false
+        }
       ],
       "tier": "UU",
       "doublesTier": "DUU"
@@ -26150,7 +28549,7 @@
         }
       ],
       "tier": "(PU)",
-      "doublesTier": "DUU"
+      "doublesTier": "(DUU)"
     },
     "rufflet": {
       "randomBattleMoves": [
@@ -26201,8 +28600,15 @@
           ]
         }
       ],
+      "encounters": [
+        {
+          "generation": 6,
+          "level": 45,
+          "isHidden": false
+        }
+      ],
       "tier": "NU",
-      "doublesTier": "DUU"
+      "doublesTier": "(DUU)"
     },
     "vullaby": {
       "randomBattleMoves": [
@@ -26220,13 +28626,11 @@
     "mandibuzz": {
       "randomBattleMoves": [
         "foulplay",
-        "knockoff",
+        "bravebird",
         "roost",
         "taunt",
-        "whirlwind",
         "toxic",
         "uturn",
-        "bravebird",
         "defog"
       ],
       "randomDoubleBattleMoves": [
@@ -26254,7 +28658,7 @@
         }
       ],
       "tier": "RU",
-      "doublesTier": "DUU"
+      "doublesTier": "(DUU)"
     },
     "heatmor": {
       "randomBattleMoves": [
@@ -26273,7 +28677,7 @@
         "protect"
       ],
       "tier": "(PU)",
-      "doublesTier": "DUU"
+      "doublesTier": "(DUU)"
     },
     "durant": {
       "randomBattleMoves": [
@@ -26292,7 +28696,7 @@
         "superpower"
       ],
       "tier": "RUBL",
-      "doublesTier": "DUU"
+      "doublesTier": "(DUU)"
     },
     "deino": {
       "randomBattleMoves": [
@@ -26326,6 +28730,12 @@
         "superpower",
         "rest",
         "sleeptalk"
+      ],
+      "encounters": [
+        {
+          "generation": 5,
+          "level": 49
+        }
       ],
       "tier": "NFE"
     },
@@ -26380,6 +28790,12 @@
             "frustration"
           ],
           "pokeball": "cherishball"
+        }
+      ],
+      "encounters": [
+        {
+          "generation": 6,
+          "level": 59
         }
       ],
       "tier": "UU",
@@ -26454,6 +28870,12 @@
             "quiverdance"
           ],
           "pokeball": "cherishball"
+        }
+      ],
+      "encounters": [
+        {
+          "generation": 7,
+          "level": 41
         }
       ],
       "tier": "OU",
@@ -26539,16 +28961,15 @@
       ],
       "eventOnly": true,
       "tier": "UU",
-      "doublesTier": "DUU"
+      "doublesTier": "(DUU)"
     },
     "terrakion": {
       "randomBattleMoves": [
-        "stoneedge",
-        "closecombat",
         "swordsdance",
-        "substitute",
-        "stealthrock",
-        "earthquake"
+        "closecombat",
+        "stoneedge",
+        "earthquake",
+        "stealthrock"
       ],
       "randomDoubleBattleMoves": [
         "stoneedge",
@@ -26618,7 +29039,7 @@
       ],
       "eventOnly": true,
       "tier": "UU",
-      "doublesTier": "DUU"
+      "doublesTier": "(DUU)"
     },
     "virizion": {
       "randomBattleMoves": [
@@ -26700,19 +29121,17 @@
       ],
       "eventOnly": true,
       "tier": "RU",
-      "doublesTier": "DUU"
+      "doublesTier": "(DUU)"
     },
     "tornadus": {
       "randomBattleMoves": [
         "bulkup",
         "acrobatics",
-        "knockoff",
-        "substitute",
         "hurricane",
         "heatwave",
         "superpower",
         "uturn",
-        "taunt",
+        "defog",
         "tailwind"
       ],
       "randomDoubleBattleMoves": [
@@ -26815,12 +29234,11 @@
       ],
       "eventOnly": true,
       "tier": "RUBL",
-      "doublesTier": "DUU"
+      "doublesTier": "(DUU)"
     },
     "tornadustherian": {
       "randomBattleMoves": [
         "hurricane",
-        "airslash",
         "heatwave",
         "knockoff",
         "superpower",
@@ -26840,7 +29258,7 @@
       ],
       "eventOnly": true,
       "tier": "OU",
-      "doublesTier": "DUU"
+      "doublesTier": "(DUU)"
     },
     "thundurus": {
       "randomBattleMoves": [
@@ -27308,7 +29726,6 @@
         "earthpower",
         "outrage",
         "substitute",
-        "dragonpulse",
         "focusblast",
         "roost"
       ],
@@ -27382,7 +29799,7 @@
       ],
       "eventOnly": true,
       "tier": "RUBL",
-      "doublesTier": "DUU"
+      "doublesTier": "(DUU)"
     },
     "kyuremblack": {
       "randomBattleMoves": [
@@ -27618,7 +30035,7 @@
       ],
       "eventOnly": true,
       "tier": "OU",
-      "doublesTier": "DUU"
+      "doublesTier": "(DUU)"
     },
     "keldeoresolute": {
       "eventOnly": true,
@@ -27687,8 +30104,8 @@
         }
       ],
       "eventOnly": true,
-      "tier": "RU",
-      "doublesTier": "DUU"
+      "tier": "RUBL",
+      "doublesTier": "(DUU)"
     },
     "meloettapirouette": {
       "randomBattleMoves": [
@@ -27709,8 +30126,8 @@
     },
     "genesect": {
       "randomBattleMoves": [
+        "technoblast",
         "uturn",
-        "bugbuzz",
         "icebeam",
         "flamethrower",
         "thunderbolt",
@@ -27788,96 +30205,18 @@
       "doublesTier": "DOU"
     },
     "genesectburn": {
-      "randomBattleMoves": [
-        "uturn",
-        "bugbuzz",
-        "icebeam",
-        "technoblast",
-        "thunderbolt",
-        "ironhead",
-        "extremespeed"
-      ],
-      "randomDoubleBattleMoves": [
-        "uturn",
-        "bugbuzz",
-        "icebeam",
-        "technoblast",
-        "thunderbolt",
-        "ironhead",
-        "extremespeed",
-        "protect"
-      ],
       "eventOnly": true,
       "requiredItem": "Burn Drive"
     },
     "genesectchill": {
-      "randomBattleMoves": [
-        "uturn",
-        "bugbuzz",
-        "technoblast",
-        "flamethrower",
-        "thunderbolt",
-        "ironhead",
-        "extremespeed"
-      ],
-      "randomDoubleBattleMoves": [
-        "uturn",
-        "bugbuzz",
-        "technoblast",
-        "flamethrower",
-        "thunderbolt",
-        "ironhead",
-        "extremespeed",
-        "protect"
-      ],
       "eventOnly": true,
       "requiredItem": "Chill Drive"
     },
     "genesectdouse": {
-      "randomBattleMoves": [
-        "uturn",
-        "bugbuzz",
-        "icebeam",
-        "flamethrower",
-        "thunderbolt",
-        "technoblast",
-        "ironhead",
-        "extremespeed"
-      ],
-      "randomDoubleBattleMoves": [
-        "uturn",
-        "bugbuzz",
-        "icebeam",
-        "flamethrower",
-        "thunderbolt",
-        "technoblast",
-        "ironhead",
-        "extremespeed",
-        "protect"
-      ],
       "eventOnly": true,
       "requiredItem": "Douse Drive"
     },
     "genesectshock": {
-      "randomBattleMoves": [
-        "uturn",
-        "bugbuzz",
-        "icebeam",
-        "flamethrower",
-        "technoblast",
-        "ironhead",
-        "extremespeed"
-      ],
-      "randomDoubleBattleMoves": [
-        "uturn",
-        "bugbuzz",
-        "icebeam",
-        "flamethrower",
-        "technoblast",
-        "ironhead",
-        "extremespeed",
-        "protect"
-      ],
       "eventOnly": true,
       "requiredItem": "Shock Drive"
     },
@@ -27921,8 +30260,8 @@
         "woodhammer",
         "rockslide"
       ],
-      "tier": "RU",
-      "doublesTier": "DUU"
+      "tier": "UU",
+      "doublesTier": "(DUU)"
     },
     "fennekin": {
       "randomBattleMoves": [
@@ -27985,7 +30324,7 @@
         "protect"
       ],
       "tier": "NU",
-      "doublesTier": "DUU"
+      "doublesTier": "(DUU)"
     },
     "froakie": {
       "randomBattleMoves": [
@@ -28146,7 +30485,7 @@
         "quickattack"
       ],
       "tier": "UUBL",
-      "doublesTier": "DUU"
+      "doublesTier": "(DUU)"
     },
     "fletchling": {
       "randomBattleMoves": [
@@ -28168,6 +30507,12 @@
         "overheat",
         "flamecharge",
         "acrobatics"
+      ],
+      "encounters": [
+        {
+          "generation": 7,
+          "level": 16
+        }
       ],
       "tier": "NFE"
     },
@@ -28231,7 +30576,7 @@
         "protect"
       ],
       "tier": "NU",
-      "doublesTier": "DUU"
+      "doublesTier": "(DUU)"
     },
     "vivillonfancy": {
       "eventPokemon": [
@@ -28312,8 +30657,14 @@
           "pokeball": "cherishball"
         }
       ],
+      "encounters": [
+        {
+          "generation": 6,
+          "level": 30
+        }
+      ],
       "tier": "PUBL",
-      "doublesTier": "DUU"
+      "doublesTier": "(DUU)"
     },
     "flabebe": {
       "randomBattleMoves": [
@@ -28381,7 +30732,7 @@
         "defog"
       ],
       "tier": "RU",
-      "doublesTier": "DUU"
+      "doublesTier": "(DUU)"
     },
     "skiddo": {
       "randomBattleMoves": [
@@ -28414,8 +30765,14 @@
         "rockslide",
         "protect"
       ],
+      "encounters": [
+        {
+          "generation": 6,
+          "level": 30
+        }
+      ],
       "tier": "(PU)",
-      "doublesTier": "DUU"
+      "doublesTier": "(DUU)"
     },
     "pancham": {
       "randomBattleMoves": [
@@ -28466,8 +30823,14 @@
         "poisonjab",
         "protect"
       ],
-      "tier": "RU",
-      "doublesTier": "DUU"
+      "encounters": [
+        {
+          "generation": 7,
+          "level": 24
+        }
+      ],
+      "tier": "NU",
+      "doublesTier": "(DUU)"
     },
     "furfrou": {
       "randomBattleMoves": [
@@ -28491,7 +30854,7 @@
         "protect"
       ],
       "tier": "(PU)",
-      "doublesTier": "DUU"
+      "doublesTier": "(DUU)"
     },
     "espurr": {
       "randomBattleMoves": [
@@ -28524,7 +30887,7 @@
         "protect"
       ],
       "tier": "(PU)",
-      "doublesTier": "DUU"
+      "doublesTier": "(DUU)"
     },
     "meowsticf": {
       "randomBattleMoves": [
@@ -28546,7 +30909,7 @@
         "helpinghand"
       ],
       "tier": "(PU)",
-      "doublesTier": "DUU"
+      "doublesTier": "(DUU)"
     },
     "honedge": {
       "randomBattleMoves": [
@@ -28577,7 +30940,7 @@
         "rockslide",
         "protect"
       ],
-      "tier": "RU",
+      "tier": "UU",
       "doublesTier": "NFE"
     },
     "aegislash": {
@@ -28674,7 +31037,7 @@
         }
       ],
       "tier": "PUBL",
-      "doublesTier": "DUU"
+      "doublesTier": "(DUU)"
     },
     "swirlix": {
       "randomBattleMoves": [
@@ -28694,16 +31057,10 @@
     },
     "slurpuff": {
       "randomBattleMoves": [
-        "substitute",
         "bellydrum",
         "playrough",
         "return",
-        "drainpunch",
-        "calmmind",
-        "drainingkiss",
-        "dazzlinggleam",
-        "flamethrower",
-        "surf"
+        "drainpunch"
       ],
       "randomDoubleBattleMoves": [
         "substitute",
@@ -28718,7 +31075,7 @@
         "protect"
       ],
       "tier": "NUBL",
-      "doublesTier": "DUU"
+      "doublesTier": "(DUU)"
     },
     "inkay": {
       "randomBattleMoves": [
@@ -28786,7 +31143,7 @@
         }
       ],
       "tier": "NU",
-      "doublesTier": "DUU"
+      "doublesTier": "(DUU)"
     },
     "binacle": {
       "randomBattleMoves": [
@@ -28818,8 +31175,14 @@
         "rockslide",
         "protect"
       ],
+      "encounters": [
+        {
+          "generation": 6,
+          "level": 30
+        }
+      ],
       "tier": "NUBL",
-      "doublesTier": "DUU"
+      "doublesTier": "(DUU)"
     },
     "skrelp": {
       "randomBattleMoves": [
@@ -28851,8 +31214,15 @@
         "protect",
         "dragonpulse"
       ],
+      "encounters": [
+        {
+          "generation": 6,
+          "level": 35,
+          "isHidden": false
+        }
+      ],
       "tier": "RU",
-      "doublesTier": "DUU"
+      "doublesTier": "(DUU)"
     },
     "clauncher": {
       "randomBattleMoves": [
@@ -28884,8 +31254,15 @@
         "helpinghand",
         "protect"
       ],
+      "encounters": [
+        {
+          "generation": 6,
+          "level": 35,
+          "isHidden": false
+        }
+      ],
       "tier": "NU",
-      "doublesTier": "DUU"
+      "doublesTier": "(DUU)"
     },
     "helioptile": {
       "randomBattleMoves": [
@@ -28902,7 +31279,6 @@
     "heliolisk": {
       "randomBattleMoves": [
         "raindance",
-        "thunder",
         "hypervoice",
         "surf",
         "darkpulse",
@@ -28918,11 +31294,10 @@
         "thunder",
         "darkpulse",
         "thunderbolt",
-        "electricterrain",
         "protect"
       ],
       "tier": "NU",
-      "doublesTier": "DUU"
+      "doublesTier": "(DUU)"
     },
     "tyrunt": {
       "randomBattleMoves": [
@@ -28971,11 +31346,10 @@
         "protect"
       ],
       "tier": "RU",
-      "doublesTier": "DUU"
+      "doublesTier": "(DUU)"
     },
     "amaura": {
       "randomBattleMoves": [
-        "naturepower",
         "hypervoice",
         "ancientpower",
         "thunderbolt",
@@ -29020,7 +31394,7 @@
         "protect"
       ],
       "tier": "PU",
-      "doublesTier": "DUU"
+      "doublesTier": "(DUU)"
     },
     "sylveon": {
       "randomBattleMoves": [
@@ -29103,7 +31477,7 @@
         "protect"
       ],
       "tier": "OU",
-      "doublesTier": "DUU"
+      "doublesTier": "(DUU)"
     },
     "dedenne": {
       "randomBattleMoves": [
@@ -29126,7 +31500,7 @@
         "protect"
       ],
       "tier": "(PU)",
-      "doublesTier": "DUU"
+      "doublesTier": "(DUU)"
     },
     "carbink": {
       "randomBattleMoves": [
@@ -29147,7 +31521,7 @@
         "protect"
       ],
       "tier": "(PU)",
-      "doublesTier": "DUU"
+      "doublesTier": "(DUU)"
     },
     "goomy": {
       "randomBattleMoves": [
@@ -29182,6 +31556,12 @@
         "infestation",
         "icebeam"
       ],
+      "encounters": [
+        {
+          "generation": 6,
+          "level": 30
+        }
+      ],
       "tier": "NFE"
     },
     "goodra": {
@@ -29205,7 +31585,7 @@
         "protect"
       ],
       "tier": "RU",
-      "doublesTier": "DUU"
+      "doublesTier": "(DUU)"
     },
     "klefki": {
       "randomBattleMoves": [
@@ -29230,7 +31610,7 @@
         "dazzlinggleam"
       ],
       "tier": "UU",
-      "doublesTier": "DUU"
+      "doublesTier": "(DUU)"
     },
     "phantump": {
       "randomBattleMoves": [
@@ -29265,7 +31645,7 @@
         "protect"
       ],
       "tier": "(PU)",
-      "doublesTier": "DUU"
+      "doublesTier": "(DUU)"
     },
     "pumpkaboo": {
       "randomBattleMoves": [
@@ -29343,7 +31723,7 @@
         "protect"
       ],
       "tier": "(PU)",
-      "doublesTier": "DUU"
+      "doublesTier": "(DUU)"
     },
     "gourgeistsmall": {
       "randomBattleMoves": [
@@ -29366,7 +31746,7 @@
       ],
       "unreleasedHidden": true,
       "tier": "(PU)",
-      "doublesTier": "DUU"
+      "doublesTier": "(DUU)"
     },
     "gourgeistlarge": {
       "randomBattleMoves": [
@@ -29390,7 +31770,7 @@
       ],
       "unreleasedHidden": true,
       "tier": "(PU)",
-      "doublesTier": "DUU"
+      "doublesTier": "(DUU)"
     },
     "gourgeistsuper": {
       "randomBattleMoves": [
@@ -29413,7 +31793,7 @@
         "trickroom"
       ],
       "tier": "(PU)",
-      "doublesTier": "DUU"
+      "doublesTier": "(DUU)"
     },
     "bergmite": {
       "randomBattleMoves": [
@@ -29442,7 +31822,7 @@
         "protect"
       ],
       "tier": "(PU)",
-      "doublesTier": "DUU"
+      "doublesTier": "(DUU)"
     },
     "noibat": {
       "randomBattleMoves": [
@@ -29459,7 +31839,6 @@
       "randomBattleMoves": [
         "dracometeor",
         "hurricane",
-        "airslash",
         "flamethrower",
         "boomburst",
         "switcheroo",
@@ -29483,7 +31862,7 @@
         "protect"
       ],
       "tier": "RU",
-      "doublesTier": "DUU"
+      "doublesTier": "(DUU)"
     },
     "xerneas": {
       "randomBattleMoves": [
@@ -29696,6 +32075,16 @@
         },
         {
           "generation": 7,
+          "level": 30,
+          "moves": [
+            "safeguard",
+            "dig",
+            "bind",
+            "landswrath"
+          ]
+        },
+        {
+          "generation": 7,
           "level": 50,
           "moves": [
             "bind",
@@ -29767,7 +32156,7 @@
         }
       ],
       "eventOnly": true,
-      "tier": "OU",
+      "tier": "Uber",
       "doublesTier": "DOU"
     },
     "zygarde10": {
@@ -29838,7 +32227,7 @@
       "eventOnly": true,
       "gen": 7,
       "tier": "RU",
-      "doublesTier": "DUU"
+      "doublesTier": "(DUU)"
     },
     "zygardecomplete": {
       "gen": 7,
@@ -29895,7 +32284,7 @@
         }
       ],
       "eventOnly": true,
-      "tier": "NU",
+      "tier": "RU",
       "doublesTier": "DOU"
     },
     "dianciemega": {
@@ -29918,7 +32307,7 @@
         "protect"
       ],
       "requiredItem": "Diancite",
-      "tier": "UUBL",
+      "tier": "OU",
       "doublesTier": "DOU"
     },
     "hoopa": {
@@ -29963,13 +32352,12 @@
       ],
       "eventOnly": true,
       "tier": "NUBL",
-      "doublesTier": "DUU"
+      "doublesTier": "(DUU)"
     },
     "hoopaunbound": {
       "randomBattleMoves": [
         "nastyplot",
         "substitute",
-        "psyshock",
         "psychic",
         "darkpulse",
         "focusblast",
@@ -30080,7 +32468,7 @@
         }
       ],
       "tier": "NU",
-      "doublesTier": "DUU"
+      "doublesTier": "(DUU)"
     },
     "litten": {
       "tier": "LC"
@@ -30159,7 +32547,7 @@
         }
       ],
       "tier": "UU",
-      "doublesTier": "DUU"
+      "doublesTier": "(DUU)"
     },
     "pikipek": {
       "tier": "LC"
@@ -30169,13 +32557,12 @@
     },
     "toucannon": {
       "randomBattleMoves": [
-        "substitute",
+        "return",
         "beakblast",
         "swordsdance",
         "roost",
         "brickbreak",
-        "bulletseed",
-        "rockblast"
+        "bulletseed"
       ],
       "randomDoubleBattleMoves": [
         "bulletseed",
@@ -30184,8 +32571,14 @@
         "tailwind",
         "protect"
       ],
+      "encounters": [
+        {
+          "generation": 7,
+          "level": 26
+        }
+      ],
       "tier": "(PU)",
-      "doublesTier": "DUU"
+      "doublesTier": "(DUU)"
     },
     "yungoos": {
       "tier": "LC"
@@ -30205,8 +32598,14 @@
         "protect",
         "crunch"
       ],
+      "encounters": [
+        {
+          "generation": 7,
+          "level": 17
+        }
+      ],
       "tier": "(PU)",
-      "doublesTier": "DUU"
+      "doublesTier": "(DUU)"
     },
     "gumshoostotem": {
       "eventPokemon": [
@@ -30286,11 +32685,12 @@
         "wideguard",
         "earthquake"
       ],
-      "tier": "PU",
-      "doublesTier": "DUU"
+      "tier": "(PU)",
+      "doublesTier": "(DUU)"
     },
     "oricorio": {
       "randomBattleMoves": [
+        "calmmind",
         "revelationdance",
         "hurricane",
         "toxic",
@@ -30305,46 +32705,11 @@
         "protect"
       ],
       "tier": "(PU)",
-      "doublesTier": "DUU"
+      "doublesTier": "(DUU)"
     },
     "oricoriopompom": {
       "randomBattleMoves": [
-        "revelationdance",
-        "hurricane",
-        "toxic",
-        "roost",
-        "uturn"
-      ],
-      "randomDoubleBattleMoves": [
-        "revelationdance",
-        "airslash",
-        "hurricane",
-        "tailwind",
-        "protect"
-      ],
-      "tier": "(PU)",
-      "doublesTier": "DUU"
-    },
-    "oricoriopau": {
-      "randomBattleMoves": [
-        "revelationdance",
-        "hurricane",
-        "toxic",
-        "roost",
-        "uturn"
-      ],
-      "randomDoubleBattleMoves": [
-        "revelationdance",
-        "airslash",
-        "hurricane",
-        "tailwind",
-        "protect"
-      ],
-      "tier": "(PU)",
-      "doublesTier": "DUU"
-    },
-    "oricoriosensu": {
-      "randomBattleMoves": [
+        "calmmind",
         "revelationdance",
         "hurricane",
         "toxic",
@@ -30359,7 +32724,45 @@
         "protect"
       ],
       "tier": "PU",
-      "doublesTier": "DUU"
+      "doublesTier": "(DUU)"
+    },
+    "oricoriopau": {
+      "randomBattleMoves": [
+        "calmmind",
+        "revelationdance",
+        "hurricane",
+        "toxic",
+        "roost",
+        "uturn"
+      ],
+      "randomDoubleBattleMoves": [
+        "revelationdance",
+        "airslash",
+        "hurricane",
+        "tailwind",
+        "protect"
+      ],
+      "tier": "(PU)",
+      "doublesTier": "(DUU)"
+    },
+    "oricoriosensu": {
+      "randomBattleMoves": [
+        "calmmind",
+        "revelationdance",
+        "hurricane",
+        "toxic",
+        "roost",
+        "uturn"
+      ],
+      "randomDoubleBattleMoves": [
+        "revelationdance",
+        "airslash",
+        "hurricane",
+        "tailwind",
+        "protect"
+      ],
+      "tier": "PU",
+      "doublesTier": "(DUU)"
     },
     "cutiefly": {
       "tier": "LC Uber"
@@ -30380,7 +32783,7 @@
         "batonpass"
       ],
       "tier": "NUBL",
-      "doublesTier": "DUU"
+      "doublesTier": "(DUU)"
     },
     "ribombeetotem": {
       "eventPokemon": [
@@ -30446,7 +32849,7 @@
         "taunt"
       ],
       "tier": "PU",
-      "doublesTier": "DUU"
+      "doublesTier": "(DUU)"
     },
     "lycanrocmidnight": {
       "randomBattleMoves": [
@@ -30478,7 +32881,7 @@
         }
       ],
       "tier": "(PU)",
-      "doublesTier": "DUU"
+      "doublesTier": "(DUU)"
     },
     "lycanrocdusk": {
       "randomBattleMoves": [
@@ -30498,7 +32901,7 @@
         "protect"
       ],
       "tier": "RU",
-      "doublesTier": "DUU"
+      "doublesTier": "(DUU)"
     },
     "wishiwashi": {
       "randomBattleMoves": [
@@ -30518,7 +32921,7 @@
         "helpinghand"
       ],
       "tier": "(PU)",
-      "doublesTier": "DUU"
+      "doublesTier": "(DUU)"
     },
     "wishiwashischool": {
       "requiredAbility": "Schooling",
@@ -30557,7 +32960,7 @@
         "lightscreen"
       ],
       "tier": "OU",
-      "doublesTier": "DUU"
+      "doublesTier": "(DUU)"
     },
     "mudbray": {
       "tier": "LC"
@@ -30579,8 +32982,14 @@
         "earthquake",
         "rocktomb"
       ],
+      "encounters": [
+        {
+          "generation": 7,
+          "level": 29
+        }
+      ],
       "tier": "PU",
-      "doublesTier": "DUU"
+      "doublesTier": "(DUU)"
     },
     "dewpider": {
       "tier": "LC"
@@ -30641,7 +33050,7 @@
         "protect"
       ],
       "tier": "PU",
-      "doublesTier": "DUU"
+      "doublesTier": "(DUU)"
     },
     "lurantistotem": {
       "eventPokemon": [
@@ -30679,7 +33088,7 @@
         "protect"
       ],
       "tier": "(PU)",
-      "doublesTier": "DUU"
+      "doublesTier": "(DUU)"
     },
     "salandit": {
       "tier": "LC"
@@ -30716,8 +33125,14 @@
           "pokeball": "cherishball"
         }
       ],
+      "encounters": [
+        {
+          "generation": 7,
+          "level": 16
+        }
+      ],
       "tier": "RU",
-      "doublesTier": "DUU"
+      "doublesTier": "(DUU)"
     },
     "salazzletotem": {
       "eventPokemon": [
@@ -30771,7 +33186,7 @@
         }
       ],
       "tier": "RU",
-      "doublesTier": "DUU"
+      "doublesTier": "(DUU)"
     },
     "bounsweet": {
       "tier": "LC"
@@ -30847,7 +33262,7 @@
         }
       ],
       "tier": "NU",
-      "doublesTier": "DUU"
+      "doublesTier": "(DUU)"
     },
     "oranguru": {
       "randomBattleMoves": [
@@ -30881,11 +33296,22 @@
             "psychicterrain"
           ],
           "pokeball": "cherishball"
+        },
+        {
+          "generation": 7,
+          "level": 50,
+          "isHidden": true,
+          "moves": [
+            "instruct",
+            "foulplay",
+            "trickroom",
+            "allyswitch"
+          ],
+          "pokeball": "pokeball"
         }
       ],
-      "unreleasedHidden": true,
       "tier": "(PU)",
-      "doublesTier": "DOU"
+      "doublesTier": "DUU"
     },
     "passimian": {
       "randomBattleMoves": [
@@ -30916,11 +33342,22 @@
             "feint"
           ],
           "pokeball": "cherishball"
+        },
+        {
+          "generation": 7,
+          "level": 50,
+          "isHidden": true,
+          "moves": [
+            "closecombat",
+            "uturn",
+            "knockoff",
+            "gunkshot"
+          ],
+          "pokeball": "pokeball"
         }
       ],
-      "unreleasedHidden": true,
       "tier": "NU",
-      "doublesTier": "DUU"
+      "doublesTier": "(DUU)"
     },
     "wimpod": {
       "tier": "LC"
@@ -30944,7 +33381,7 @@
         "wideguard"
       ],
       "tier": "RU",
-      "doublesTier": "DUU"
+      "doublesTier": "(DUU)"
     },
     "sandygast": {
       "tier": "LC"
@@ -30965,7 +33402,7 @@
         "earthpower"
       ],
       "tier": "NU",
-      "doublesTier": "DUU"
+      "doublesTier": "(DUU)"
     },
     "pyukumuku": {
       "randomBattleMoves": [
@@ -30984,12 +33421,13 @@
         "memento"
       ],
       "tier": "(PU)",
-      "doublesTier": "DUU"
+      "doublesTier": "(DUU)"
     },
     "typenull": {
       "randomBattleMoves": [
         "return",
         "uturn",
+        "swordsdance",
         "rest",
         "sleeptalk"
       ],
@@ -31020,7 +33458,7 @@
         }
       ],
       "eventOnly": true,
-      "tier": "PU",
+      "tier": "(PU)",
       "doublesTier": "NFE"
     },
     "silvally": {
@@ -31061,7 +33499,7 @@
         }
       ],
       "tier": "(PU)",
-      "doublesTier": "DUU"
+      "doublesTier": "(DUU)"
     },
     "silvallybug": {
       "randomBattleMoves": [
@@ -31081,7 +33519,7 @@
       ],
       "requiredItem": "Bug Memory",
       "tier": "(PU)",
-      "doublesTier": "DUU"
+      "doublesTier": "(DUU)"
     },
     "silvallydark": {
       "randomBattleMoves": [
@@ -31101,7 +33539,7 @@
       ],
       "requiredItem": "Dark Memory",
       "tier": "(PU)",
-      "doublesTier": "DUU"
+      "doublesTier": "(DUU)"
     },
     "silvallydragon": {
       "randomBattleMoves": [
@@ -31125,7 +33563,7 @@
       ],
       "requiredItem": "Dragon Memory",
       "tier": "(PU)",
-      "doublesTier": "DUU"
+      "doublesTier": "(DUU)"
     },
     "silvallyelectric": {
       "randomBattleMoves": [
@@ -31146,7 +33584,7 @@
       ],
       "requiredItem": "Electric Memory",
       "tier": "(PU)",
-      "doublesTier": "DUU"
+      "doublesTier": "(DUU)"
     },
     "silvallyfairy": {
       "randomBattleMoves": [
@@ -31167,7 +33605,7 @@
       ],
       "requiredItem": "Fairy Memory",
       "tier": "PU",
-      "doublesTier": "DUU"
+      "doublesTier": "(DUU)"
     },
     "silvallyfighting": {
       "randomBattleMoves": [
@@ -31186,7 +33624,7 @@
       ],
       "requiredItem": "Fighting Memory",
       "tier": "(PU)",
-      "doublesTier": "DUU"
+      "doublesTier": "(DUU)"
     },
     "silvallyfire": {
       "randomBattleMoves": [
@@ -31207,7 +33645,7 @@
       ],
       "requiredItem": "Fire Memory",
       "tier": "(PU)",
-      "doublesTier": "DUU"
+      "doublesTier": "(DUU)"
     },
     "silvallyflying": {
       "randomBattleMoves": [
@@ -31229,7 +33667,7 @@
       ],
       "requiredItem": "Flying Memory",
       "tier": "(PU)",
-      "doublesTier": "DUU"
+      "doublesTier": "(DUU)"
     },
     "silvallyghost": {
       "randomBattleMoves": [
@@ -31248,7 +33686,7 @@
       ],
       "requiredItem": "Ghost Memory",
       "tier": "PU",
-      "doublesTier": "DUU"
+      "doublesTier": "(DUU)"
     },
     "silvallygrass": {
       "randomBattleMoves": [
@@ -31269,7 +33707,7 @@
       ],
       "requiredItem": "Grass Memory",
       "tier": "(PU)",
-      "doublesTier": "DUU"
+      "doublesTier": "(DUU)"
     },
     "silvallyground": {
       "randomBattleMoves": [
@@ -31289,7 +33727,7 @@
       ],
       "requiredItem": "Ground Memory",
       "tier": "(PU)",
-      "doublesTier": "DUU"
+      "doublesTier": "(DUU)"
     },
     "silvallyice": {
       "randomBattleMoves": [
@@ -31309,7 +33747,7 @@
       ],
       "requiredItem": "Ice Memory",
       "tier": "(PU)",
-      "doublesTier": "DUU"
+      "doublesTier": "(DUU)"
     },
     "silvallypoison": {
       "randomBattleMoves": [
@@ -31330,7 +33768,7 @@
       ],
       "requiredItem": "Poison Memory",
       "tier": "(PU)",
-      "doublesTier": "DUU"
+      "doublesTier": "(DUU)"
     },
     "silvallypsychic": {
       "randomBattleMoves": [
@@ -31350,7 +33788,7 @@
       ],
       "requiredItem": "Psychic Memory",
       "tier": "(PU)",
-      "doublesTier": "DUU"
+      "doublesTier": "(DUU)"
     },
     "silvallyrock": {
       "randomBattleMoves": [
@@ -31370,7 +33808,7 @@
       ],
       "requiredItem": "Rock Memory",
       "tier": "(PU)",
-      "doublesTier": "DUU"
+      "doublesTier": "(DUU)"
     },
     "silvallysteel": {
       "randomBattleMoves": [
@@ -31391,7 +33829,7 @@
       ],
       "requiredItem": "Steel Memory",
       "tier": "NU",
-      "doublesTier": "DUU"
+      "doublesTier": "(DUU)"
     },
     "silvallywater": {
       "randomBattleMoves": [
@@ -31413,7 +33851,7 @@
       ],
       "requiredItem": "Water Memory",
       "tier": "(PU)",
-      "doublesTier": "DUU"
+      "doublesTier": "(DUU)"
     },
     "minior": {
       "randomBattleMoves": [
@@ -31430,7 +33868,7 @@
         "protect"
       ],
       "tier": "NU",
-      "doublesTier": "DUU"
+      "doublesTier": "(DUU)"
     },
     "miniormeteor": {
       "requiredAbility": "Shields Down",
@@ -31456,7 +33894,7 @@
         "swordsdance"
       ],
       "tier": "(PU)",
-      "doublesTier": "DUU"
+      "doublesTier": "(DUU)"
     },
     "turtonator": {
       "randomBattleMoves": [
@@ -31503,7 +33941,7 @@
         }
       ],
       "tier": "(PU)",
-      "doublesTier": "DUU"
+      "doublesTier": "(DUU)"
     },
     "togedemaru": {
       "randomBattleMoves": [
@@ -31523,7 +33961,7 @@
         "fakeout",
         "uturn"
       ],
-      "tier": "PU",
+      "tier": "NU",
       "doublesTier": "DOU"
     },
     "togedemarutotem": {
@@ -31624,10 +34062,10 @@
         "swordsdance"
       ],
       "randomDoubleBattleMoves": [
-        "trickroom",
         "psychicfangs",
         "crunch",
         "liquidation",
+        "aquajet",
         "protect",
         "swordsdance"
       ],
@@ -31671,7 +34109,7 @@
         }
       ],
       "tier": "PU",
-      "doublesTier": "DUU"
+      "doublesTier": "(DUU)"
     },
     "dhelmise": {
       "randomBattleMoves": [
@@ -31690,7 +34128,7 @@
         "gyroball"
       ],
       "tier": "NU",
-      "doublesTier": "DUU"
+      "doublesTier": "(DUU)"
     },
     "jangmoo": {
       "tier": "LC"
@@ -31714,7 +34152,13 @@
         "protect",
         "dracometeor"
       ],
-      "tier": "UU",
+      "encounters": [
+        {
+          "generation": 7,
+          "level": 41
+        }
+      ],
+      "tier": "OU",
       "doublesTier": "DOU"
     },
     "kommoototem": {
@@ -31736,12 +34180,12 @@
     },
     "tapukoko": {
       "randomBattleMoves": [
-        "wildcharge",
-        "voltswitch",
+        "thunderbolt",
+        "dazzlinggleam",
         "naturesmadness",
         "bravebird",
         "uturn",
-        "dazzlinggleam"
+        "defog"
       ],
       "randomDoubleBattleMoves": [
         "wildcharge",
@@ -31819,6 +34263,19 @@
             "flatter",
             "moonblast"
           ]
+        },
+        {
+          "generation": 7,
+          "level": 60,
+          "shiny": true,
+          "isHidden": false,
+          "moves": [
+            "naturesmadness",
+            "extrasensory",
+            "flatter",
+            "moonblast"
+          ],
+          "pokeball": "cherishball"
         }
       ],
       "eventOnly": true,
@@ -31855,6 +34312,19 @@
             "megahorn",
             "skullbash"
           ]
+        },
+        {
+          "generation": 7,
+          "level": 60,
+          "shiny": true,
+          "isHidden": false,
+          "moves": [
+            "naturesmadness",
+            "zenheadbutt",
+            "megahorn",
+            "skullbash"
+          ],
+          "pokeball": "cherishball"
         }
       ],
       "eventOnly": true,
@@ -31892,6 +34362,19 @@
             "aquaring",
             "hydropump"
           ]
+        },
+        {
+          "generation": 7,
+          "level": 60,
+          "shiny": true,
+          "isHidden": false,
+          "moves": [
+            "naturesmadness",
+            "muddywater",
+            "aquaring",
+            "hydropump"
+          ],
+          "pokeball": "cherishball"
         }
       ],
       "eventOnly": true,
@@ -32001,10 +34484,11 @@
     "nihilego": {
       "randomBattleMoves": [
         "stealthrock",
-        "acidspray",
-        "powergem",
         "toxicspikes",
-        "sludgewave"
+        "sludgewave",
+        "powergem",
+        "thunderbolt",
+        "grassknot"
       ],
       "randomDoubleBattleMoves": [
         "powergem",
@@ -32039,7 +34523,7 @@
       ],
       "eventOnly": true,
       "tier": "UU",
-      "doublesTier": "DUU"
+      "doublesTier": "(DUU)"
     },
     "buzzwole": {
       "randomBattleMoves": [
@@ -32083,7 +34567,7 @@
       ],
       "eventOnly": true,
       "tier": "UUBL",
-      "doublesTier": "DUU"
+      "doublesTier": "(DUU)"
     },
     "pheromosa": {
       "randomBattleMoves": [
@@ -32135,7 +34619,8 @@
         "voltswitch",
         "energyball",
         "dazzlinggleam",
-        "hiddenpowerice"
+        "hiddenpowerice",
+        "electricterrain"
       ],
       "randomDoubleBattleMoves": [
         "thunderbolt",
@@ -32302,8 +34787,8 @@
         }
       ],
       "eventOnly": true,
-      "tier": "NU",
-      "doublesTier": "DUU"
+      "tier": "PU",
+      "doublesTier": "(DUU)"
     },
     "necrozma": {
       "randomBattleMoves": [
@@ -32346,7 +34831,7 @@
       ],
       "eventOnly": true,
       "tier": "RU",
-      "doublesTier": "DUU"
+      "doublesTier": "(DUU)"
     },
     "necrozmaduskmane": {
       "randomBattleMoves": [
@@ -32409,12 +34894,12 @@
     "magearna": {
       "randomBattleMoves": [
         "shiftgear",
-        "flashcannon",
-        "aurasphere",
-        "fleurcannon",
         "ironhead",
+        "calmmind",
+        "fleurcannon",
+        "flashcannon",
         "thunderbolt",
-        "icebeam"
+        "focusblast"
       ],
       "randomDoubleBattleMoves": [
         "dazzlinggleam",
@@ -32566,7 +35051,7 @@
         }
       ],
       "eventOnly": true,
-      "tier": "UU",
+      "tier": "RUBL",
       "doublesTier": "DOU"
     },
     "blacephalon": {
@@ -32576,11 +35061,11 @@
         "shadowball",
         "hiddenpowerice",
         "trick",
-        "willowisp",
+        "explosion",
         "calmmind"
       ],
       "randomDoubleBattleMoves": [
-        "mindblown",
+        "willowisp",
         "fireblast",
         "shadowball",
         "hiddenpowerice",
@@ -32641,11 +35126,11 @@
       "doublesTier": "DOU"
     },
     "meltan": {
-      "isNonstandard": true,
+      "isNonstandard": "LGPE",
       "tier": "Illegal"
     },
     "melmetal": {
-      "isNonstandard": true,
+      "isNonstandard": "LGPE",
       "tier": "Illegal"
     },
     "missingno": {
@@ -32655,7 +35140,7 @@
         "doubleedge",
         "metronome"
       ],
-      "isNonstandard": true,
+      "isNonstandard": "Glitch",
       "tier": "Illegal"
     },
     "tomohawk": {
@@ -32672,7 +35157,7 @@
         "naturepower",
         "earthpower"
       ],
-      "isNonstandard": true,
+      "isNonstandard": "CAP",
       "tier": "CAP"
     },
     "necturna": {
@@ -32692,7 +35177,7 @@
         "milkdrink",
         "stickyweb"
       ],
-      "isNonstandard": true,
+      "isNonstandard": "CAP",
       "tier": "CAP"
     },
     "mollux": {
@@ -32709,7 +35194,7 @@
         "toxicspikes",
         "lavaplume"
       ],
-      "isNonstandard": true,
+      "isNonstandard": "CAP",
       "tier": "CAP"
     },
     "aurumoth": {
@@ -32726,7 +35211,7 @@
         "focusblast",
         "zenheadbutt"
       ],
-      "isNonstandard": true,
+      "isNonstandard": "CAP",
       "tier": "CAP"
     },
     "malaconda": {
@@ -32742,7 +35227,7 @@
         "rapidspin",
         "knockoff"
       ],
-      "isNonstandard": true,
+      "isNonstandard": "CAP",
       "tier": "CAP"
     },
     "cawmodore": {
@@ -32756,7 +35241,7 @@
         "ironhead",
         "quickattack"
       ],
-      "isNonstandard": true,
+      "isNonstandard": "CAP",
       "tier": "CAP"
     },
     "volkraken": {
@@ -32773,7 +35258,7 @@
         "flashcannon",
         "surf"
       ],
-      "isNonstandard": true,
+      "isNonstandard": "CAP",
       "tier": "CAP"
     },
     "plasmanta": {
@@ -32786,7 +35271,7 @@
         "dazzlinggleam",
         "flashcannon"
       ],
-      "isNonstandard": true,
+      "isNonstandard": "CAP",
       "tier": "CAP"
     },
     "naviathan": {
@@ -32796,7 +35281,7 @@
         "ironhead",
         "iciclecrash"
       ],
-      "isNonstandard": true,
+      "isNonstandard": "CAP",
       "tier": "CAP"
     },
     "crucibelle": {
@@ -32808,7 +35293,7 @@
         "uturn",
         "stealthrock"
       ],
-      "isNonstandard": true,
+      "isNonstandard": "CAP",
       "tier": "CAP"
     },
     "crucibellemega": {
@@ -32821,7 +35306,7 @@
         "uturn"
       ],
       "requiredItem": "Crucibellite",
-      "isNonstandard": true,
+      "isNonstandard": "CAP",
       "tier": "CAP"
     },
     "kerfluffle": {
@@ -32833,7 +35318,7 @@
         "gigadrain",
         "yawn"
       ],
-      "isNonstandard": true,
+      "isNonstandard": "CAP",
       "eventPokemon": [
         {
           "generation": 6,
@@ -32863,7 +35348,7 @@
         "substitute",
         "leechlife"
       ],
-      "isNonstandard": true,
+      "isNonstandard": "CAP",
       "tier": "CAP"
     },
     "jumbao": {
@@ -32876,7 +35361,7 @@
         "hiddenpowerground",
         "healingwish"
       ],
-      "isNonstandard": true,
+      "isNonstandard": "CAP",
       "tier": "CAP"
     },
     "caribolt": {
@@ -32887,7 +35372,7 @@
         "return",
         "voltswitch"
       ],
-      "isNonstandard": true,
+      "isNonstandard": "CAP",
       "eventPokemon": [
         {
           "generation": 7,
@@ -32911,7 +35396,7 @@
         "toxic",
         "stealthrock"
       ],
-      "isNonstandard": true,
+      "isNonstandard": "CAP",
       "eventPokemon": [
         {
           "generation": 7,
@@ -32936,7 +35421,7 @@
         "scald",
         "rapidspin"
       ],
-      "isNonstandard": true,
+      "isNonstandard": "CAP",
       "eventPokemon": [
         {
           "generation": 7,
@@ -32952,6 +35437,19 @@
       ],
       "tier": "CAP"
     },
+    "equilibra": {
+      "randomBattleMoves": [
+        "doomdesire",
+        "earthpower",
+        "trickroom",
+        "rapidspin",
+        "flashcannon",
+        "healingwish",
+        "aurasphere"
+      ],
+      "isNonstandard": "CAP",
+      "tier": "CAP"
+    },
     "syclant": {
       "randomBattleMoves": [
         "bugbuzz",
@@ -32964,7 +35462,7 @@
         "uturn",
         "focusblast"
       ],
-      "isNonstandard": true,
+      "isNonstandard": "CAP",
       "tier": "CAP"
     },
     "revenankh": {
@@ -32977,7 +35475,7 @@
         "icepunch",
         "glare"
       ],
-      "isNonstandard": true,
+      "isNonstandard": "CAP",
       "tier": "CAP"
     },
     "pyroak": {
@@ -32988,7 +35486,7 @@
         "protect",
         "gigadrain"
       ],
-      "isNonstandard": true,
+      "isNonstandard": "CAP",
       "tier": "CAP"
     },
     "fidgit": {
@@ -33003,7 +35501,7 @@
         "sludgebomb",
         "earthpower"
       ],
-      "isNonstandard": true,
+      "isNonstandard": "CAP",
       "tier": "CAP"
     },
     "stratagem": {
@@ -33015,7 +35513,7 @@
         "calmmind",
         "substitute"
       ],
-      "isNonstandard": true,
+      "isNonstandard": "CAP",
       "tier": "CAP"
     },
     "arghonaut": {
@@ -33030,7 +35528,7 @@
         "aquajet",
         "machpunch"
       ],
-      "isNonstandard": true,
+      "isNonstandard": "CAP",
       "tier": "CAP"
     },
     "kitsunoh": {
@@ -33044,7 +35542,7 @@
         "trick",
         "willowisp"
       ],
-      "isNonstandard": true,
+      "isNonstandard": "CAP",
       "tier": "CAP"
     },
     "cyclohm": {
@@ -33058,7 +35556,7 @@
         "discharge",
         "healbell"
       ],
-      "isNonstandard": true,
+      "isNonstandard": "CAP",
       "tier": "CAP"
     },
     "colossoil": {
@@ -33072,7 +35570,7 @@
         "pursuit",
         "knockoff"
       ],
-      "isNonstandard": true,
+      "isNonstandard": "CAP",
       "tier": "CAP"
     },
     "krilowatt": {
@@ -33082,7 +35580,7 @@
         "icebeam",
         "earthpower"
       ],
-      "isNonstandard": true,
+      "isNonstandard": "CAP",
       "tier": "CAP"
     },
     "voodoom": {
@@ -33096,91 +35594,91 @@
         "vacuumwave",
         "flashcannon"
       ],
-      "isNonstandard": true,
+      "isNonstandard": "CAP",
       "tier": "CAP"
     },
     "syclar": {
-      "isNonstandard": true,
+      "isNonstandard": "CAP",
       "tier": "CAP LC"
     },
     "embirch": {
-      "isNonstandard": true,
+      "isNonstandard": "CAP",
       "tier": "CAP LC"
     },
     "flarelm": {
-      "isNonstandard": true,
+      "isNonstandard": "CAP",
       "tier": "CAP NFE"
     },
     "breezi": {
-      "isNonstandard": true,
+      "isNonstandard": "CAP",
       "tier": "CAP LC"
     },
     "scratchet": {
-      "isNonstandard": true,
+      "isNonstandard": "CAP",
       "tier": "CAP LC"
     },
     "necturine": {
-      "isNonstandard": true,
+      "isNonstandard": "CAP",
       "tier": "CAP LC"
     },
     "cupra": {
-      "isNonstandard": true,
+      "isNonstandard": "CAP",
       "tier": "CAP LC"
     },
     "argalis": {
-      "isNonstandard": true,
+      "isNonstandard": "CAP",
       "tier": "CAP NFE"
     },
     "brattler": {
-      "isNonstandard": true,
+      "isNonstandard": "CAP",
       "tier": "CAP LC"
     },
     "cawdet": {
-      "isNonstandard": true,
+      "isNonstandard": "CAP",
       "tier": "CAP LC"
     },
     "volkritter": {
-      "isNonstandard": true,
+      "isNonstandard": "CAP",
       "tier": "CAP LC"
     },
     "snugglow": {
-      "isNonstandard": true,
+      "isNonstandard": "CAP",
       "tier": "CAP LC"
     },
     "floatoy": {
-      "isNonstandard": true,
+      "isNonstandard": "CAP",
       "tier": "CAP LC"
     },
     "caimanoe": {
-      "isNonstandard": true,
+      "isNonstandard": "CAP",
       "tier": "CAP NFE"
     },
     "pluffle": {
-      "isNonstandard": true,
+      "isNonstandard": "CAP",
       "tier": "CAP LC"
     },
     "rebble": {
-      "isNonstandard": true,
+      "isNonstandard": "CAP",
       "tier": "CAP LC"
     },
     "tactite": {
-      "isNonstandard": true,
+      "isNonstandard": "CAP",
       "tier": "CAP NFE"
     },
     "privatyke": {
-      "isNonstandard": true,
+      "isNonstandard": "CAP",
       "tier": "CAP LC"
     },
     "voodoll": {
-      "isNonstandard": true,
+      "isNonstandard": "CAP",
       "tier": "CAP LC"
     },
     "mumbao": {
-      "isNonstandard": true,
+      "isNonstandard": "CAP",
       "tier": "CAP LC"
     },
     "pokestarufo": {
-      "isNonstandard": true,
+      "isNonstandard": "Pokestar",
       "eventPokemon": [
         {
           "generation": 5,
@@ -33197,7 +35695,7 @@
       "tier": "Illegal"
     },
     "pokestarufo2": {
-      "isNonstandard": true,
+      "isNonstandard": "Pokestar",
       "eventPokemon": [
         {
           "generation": 5,
@@ -33214,7 +35712,7 @@
       "tier": "Illegal"
     },
     "pokestarbrycenman": {
-      "isNonstandard": true,
+      "isNonstandard": "Pokestar",
       "eventPokemon": [
         {
           "generation": 5,
@@ -33231,7 +35729,7 @@
       "tier": "Illegal"
     },
     "pokestarmt": {
-      "isNonstandard": true,
+      "isNonstandard": "Pokestar",
       "eventPokemon": [
         {
           "generation": 5,
@@ -33248,7 +35746,7 @@
       "tier": "Illegal"
     },
     "pokestarmt2": {
-      "isNonstandard": true,
+      "isNonstandard": "Pokestar",
       "eventPokemon": [
         {
           "generation": 5,
@@ -33265,7 +35763,7 @@
       "tier": "Illegal"
     },
     "pokestartransport": {
-      "isNonstandard": true,
+      "isNonstandard": "Pokestar",
       "eventPokemon": [
         {
           "generation": 5,
@@ -33290,7 +35788,7 @@
       "tier": "Illegal"
     },
     "pokestargiant": {
-      "isNonstandard": true,
+      "isNonstandard": "Pokestar",
       "eventPokemon": [
         {
           "generation": 5,
@@ -33307,7 +35805,7 @@
       "tier": "Illegal"
     },
     "pokestargiant2": {
-      "isNonstandard": true,
+      "isNonstandard": "Pokestar",
       "eventPokemon": [
         {
           "generation": 5,
@@ -33324,7 +35822,7 @@
       "tier": "Illegal"
     },
     "pokestarhumanoid": {
-      "isNonstandard": true,
+      "isNonstandard": "Pokestar",
       "eventPokemon": [
         {
           "generation": 5,
@@ -33441,7 +35939,7 @@
       "tier": "Illegal"
     },
     "pokestarmonster": {
-      "isNonstandard": true,
+      "isNonstandard": "Pokestar",
       "eventPokemon": [
         {
           "generation": 5,
@@ -33456,7 +35954,7 @@
       "tier": "Illegal"
     },
     "pokestarf00": {
-      "isNonstandard": true,
+      "isNonstandard": "Pokestar",
       "eventPokemon": [
         {
           "generation": 5,
@@ -33493,7 +35991,7 @@
       "tier": "Illegal"
     },
     "pokestarf002": {
-      "isNonstandard": true,
+      "isNonstandard": "Pokestar",
       "eventPokemon": [
         {
           "generation": 5,
@@ -33510,7 +36008,7 @@
       "tier": "Illegal"
     },
     "pokestarspirit": {
-      "isNonstandard": true,
+      "isNonstandard": "Pokestar",
       "eventPokemon": [
         {
           "generation": 5,
@@ -33527,7 +36025,7 @@
       "tier": "Illegal"
     },
     "pokestarblackdoor": {
-      "isNonstandard": true,
+      "isNonstandard": "Pokestar",
       "eventPokemon": [
         {
           "generation": 5,
@@ -33554,7 +36052,7 @@
       "tier": "Illegal"
     },
     "pokestarwhitedoor": {
-      "isNonstandard": true,
+      "isNonstandard": "Pokestar",
       "eventPokemon": [
         {
           "generation": 5,
@@ -33571,7 +36069,7 @@
       "tier": "Illegal"
     },
     "pokestarblackbelt": {
-      "isNonstandard": true,
+      "isNonstandard": "Pokestar",
       "eventPokemon": [
         {
           "generation": 5,
@@ -33596,7 +36094,7 @@
       "tier": "Illegal"
     },
     "pokestargiantpropo2": {
-      "isNonstandard": true,
+      "isNonstandard": "Pokestar",
       "eventPokemon": [
         {
           "generation": 5,
@@ -33613,7 +36111,7 @@
       "tier": "Illegal"
     },
     "pokestarufopropu2": {
-      "isNonstandard": true,
+      "isNonstandard": "Pokestar",
       "eventPokemon": [
         {
           "generation": 5,

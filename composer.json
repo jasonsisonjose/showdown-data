@@ -1,6 +1,6 @@
 {
     "name": "capsulemonsters/showdown-data",
-    "description": "Pokemon Showdown data converted to JSON format for cross-project interoperability.",
+    "description": "Pokémon Showdown data in JSON format for cross-project interoperability.",
     "type": "project",
     "license": "MIT",
     "minimum-stability": "dev",

@@ -175,6 +175,8 @@
       "banlist": [
         "Chansey + Charm + Seismic Toss",
         "Chansey + Charm + Psywave",
+        "Blissey + Charm + Seismic Toss",
+        "Blissey + Charm + Psywave",
         "Shiftry + Leaf Blade + Sucker Punch"
       ]
     },
@@ -205,8 +207,7 @@
     "teampreview": {
       "effectType": "Rule",
       "name": "Team Preview",
-      "desc": "Allows each player to see the Pok&eacute;mon on their opponent's team before they choose their lead Pok&eacute;mon",
-      "onStartPriority": -10
+      "desc": "Allows each player to see the Pok&eacute;mon on their opponent's team before they choose their lead Pok&eacute;mon"
     },
     "littlecup": {
       "effectType": "ValidatorRule",
@@ -345,6 +346,11 @@
         "Twinkle Tackle"
       ]
     },
+    "zmoveclause": {
+      "effectType": "ValidatorRule",
+      "name": "Z-Move Clause",
+      "desc": "Bans Pok&eacute;mon from holding Z-Crystals"
+    },
     "hppercentagemod": {
       "effectType": "Rule",
       "name": "HP Percentage Mod",
@@ -396,7 +402,7 @@
     "inversemod": {
       "effectType": "Rule",
       "name": "Inverse Mod",
-      "desc": "The mod for Inverse Battle which inverts the type effectiveness chart, swapping resistances and weaknesses with each other",
+      "desc": "The mod for Inverse Battle which inverts the type effectiveness chart; weaknesses become resistances, while resistances and immunities become weaknesses",
       "onNegateImmunity": false
     },
     "ignoreillegalabilities": {
@@ -407,7 +413,10 @@
     "stabmonsmovelegality": {
       "effectType": "ValidatorRule",
       "name": "STABmons Move Legality",
-      "desc": "Allows Pok&eacute;mon to use any move that they or a previous evolution/out-of-battle forme share a type with"
+      "desc": "Allows Pok&eacute;mon to use any move that they or a previous evolution/out-of-battle forme share a type with",
+      "unbanlist": [
+        "Shiftry + Leaf Blade + Sucker Punch"
+      ]
     },
     "allowcap": {
       "effectType": "ValidatorRule",

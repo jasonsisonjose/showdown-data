@@ -1,0 +1,103 @@
+{
+  "BattleItems": {
+    "berryjuice": {
+      "inherit": true,
+      "isUnreleased": false
+    },
+    "brightpowder": {
+      "inherit": true,
+      "desc": "An attack against the holder has its accuracy out of 255 lowered by 20."
+    },
+    "dragonfang": {
+      "inherit": true,
+      "desc": "No competitive use."
+    },
+    "dragonscale": {
+      "inherit": true,
+      "desc": "Holder's Dragon-type attacks have 1.1x power. Evolves Seadra (trade)."
+    },
+    "focusband": {
+      "inherit": true,
+      "desc": "Holder has a ~11.7% chance to survive an attack that would KO it with 1 HP."
+    },
+    "kingsrock": {
+      "inherit": true
+    },
+    "lightball": {
+      "inherit": true
+    },
+    "luckypunch": {
+      "inherit": true,
+      "desc": "If held by a Chansey, its critical hit ratio is always at stage 2. (25% crit rate)",
+      "onModifyCritRatioPriority": -1
+    },
+    "metalpowder": {
+      "inherit": true,
+      "desc": "If held by a Ditto, its Defense and Sp. Def are 1.5x, even while Transformed."
+    },
+    "quickclaw": {
+      "inherit": true,
+      "desc": "Each turn, holder has a ~23.4% chance to move first in its priority bracket."
+    },
+    "stick": {
+      "inherit": true,
+      "desc": "If held by a Farfetch'd, its critical hit ratio is always at stage 2. (25% crit rate)",
+      "onModifyCritRatioPriority": -1
+    },
+    "thickclub": {
+      "inherit": true
+    },
+    "berserkgene": {
+      "inherit": true,
+      "isNonstandard": null
+    },
+    "berry": {
+      "inherit": true,
+      "isNonstandard": null
+    },
+    "bitterberry": {
+      "inherit": true,
+      "isNonstandard": null
+    },
+    "burntberry": {
+      "inherit": true,
+      "isNonstandard": null
+    },
+    "goldberry": {
+      "inherit": true,
+      "isNonstandard": null
+    },
+    "iceberry": {
+      "inherit": true,
+      "isNonstandard": null
+    },
+    "mintberry": {
+      "inherit": true,
+      "isNonstandard": null
+    },
+    "miracleberry": {
+      "inherit": true,
+      "isNonstandard": null
+    },
+    "mysteryberry": {
+      "inherit": true,
+      "isNonstandard": null
+    },
+    "pinkbow": {
+      "inherit": true,
+      "isNonstandard": null
+    },
+    "polkadotbow": {
+      "inherit": true,
+      "isNonstandard": null
+    },
+    "przcureberry": {
+      "inherit": true,
+      "isNonstandard": null
+    },
+    "psncureberry": {
+      "inherit": true,
+      "isNonstandard": null
+    }
+  }
+}

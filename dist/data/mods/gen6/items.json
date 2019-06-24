@@ -1,0 +1,102 @@
+{
+  "BattleItems": {
+    "aguavberry": {
+      "inherit": true,
+      "desc": "Restores 1/8 max HP at 1/2 max HP or less; confuses if -SpD Nature. Single use."
+    },
+    "belueberry": {
+      "inherit": true,
+      "isUnreleased": false
+    },
+    "bigroot": {
+      "inherit": true,
+      "desc": "Holder gains 1.3x HP from draining moves, Aqua Ring, Ingrain, and Leech Seed."
+    },
+    "cornnberry": {
+      "inherit": true,
+      "isUnreleased": false
+    },
+    "durinberry": {
+      "inherit": true,
+      "isUnreleased": false
+    },
+    "figyberry": {
+      "inherit": true,
+      "desc": "Restores 1/8 max HP at 1/2 max HP or less; confuses if -Atk Nature. Single use."
+    },
+    "iapapaberry": {
+      "inherit": true,
+      "desc": "Restores 1/8 max HP at 1/2 max HP or less; confuses if -Def Nature. Single use."
+    },
+    "jabocaberry": {
+      "inherit": true
+    },
+    "lifeorb": {
+      "inherit": true
+    },
+    "lightclay": {
+      "inherit": true,
+      "desc": "Holder's use of Light Screen or Reflect lasts 8 turns instead of 5."
+    },
+    "machobrace": {
+      "inherit": true,
+      "isUnreleased": false
+    },
+    "magoberry": {
+      "inherit": true,
+      "desc": "Restores 1/8 max HP at 1/2 max HP or less; confuses if -Spe Nature. Single use."
+    },
+    "magostberry": {
+      "inherit": true,
+      "isUnreleased": false
+    },
+    "nanabberry": {
+      "inherit": true,
+      "isUnreleased": false
+    },
+    "nomelberry": {
+      "inherit": true,
+      "isUnreleased": false
+    },
+    "pamtreberry": {
+      "inherit": true,
+      "isUnreleased": false
+    },
+    "rabutaberry": {
+      "inherit": true,
+      "isUnreleased": false
+    },
+    "razzberry": {
+      "inherit": true,
+      "isUnreleased": false
+    },
+    "rockyhelmet": {
+      "inherit": true
+    },
+    "rowapberry": {
+      "inherit": true
+    },
+    "spelonberry": {
+      "inherit": true,
+      "isUnreleased": false
+    },
+    "souldew": {
+      "inherit": true,
+      "desc": "If held by a Latias or a Latios, its Sp. Atk and Sp. Def are 1.5x.",
+      "onModifySpAPriority": 1,
+      "onModifySpDPriority": 2
+    },
+    "watmelberry": {
+      "inherit": true,
+      "isUnreleased": false
+    },
+    "wepearberry": {
+      "inherit": true,
+      "isUnreleased": false
+    },
+    "wikiberry": {
+      "inherit": true,
+      "desc": "Restores 1/8 max HP at 1/2 max HP or less; confuses if -SpA Nature. Single use."
+    }
+  }
+}

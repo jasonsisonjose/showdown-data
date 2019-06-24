@@ -3,7 +3,7 @@
     "noability": {
       "shortDesc": "Does nothing.",
       "id": "noability",
-      "isNonstandard": "gen2",
+      "isNonstandard": "Past",
       "name": "No Ability",
       "rating": 0.1,
       "num": 0
@@ -61,7 +61,7 @@
       "num": 83
     },
     "anticipation": {
-      "desc": "On switch-in, this Pokemon is alerted if any opposing Pokemon has an attack that is super effective on this Pokemon, or an OHKO move. Counter, Metal Burst, and Mirror Coat count as attacking moves of their respective types, while Hidden Power, Judgment, Natural Gift, Techno Blast, and Weather Ball are considered Normal-type moves.",
+      "desc": "On switch-in, this Pokemon is alerted if any opposing Pokemon has an attack that is super effective on this Pokemon, or an OHKO move. Counter, Metal Burst, and Mirror Coat count as attacking moves of their respective types, Hidden Power counts as its determined type, and Judgment, Multi-Attack, Natural Gift, Revelation Dance, Techno Blast, and Weather Ball are considered Normal-type moves.",
       "shortDesc": "On switch-in, this Pokemon shudders if any foe has a supereffective or OHKO move.",
       "id": "anticipation",
       "name": "Anticipation",
@@ -104,7 +104,7 @@
     },
     "battery": {
       "shortDesc": "This Pokemon's allies have the power of their special attacks multiplied by 1.3.",
-      "onBasePowerPriority": 8,
+      "onAllyBasePowerPriority": 8,
       "id": "battery",
       "name": "Battery",
       "rating": 0,
@@ -157,7 +157,7 @@
       "onModifySpAPriority": 5,
       "id": "blaze",
       "name": "Blaze",
-      "rating": 2,
+      "rating": 2.5,
       "num": 66
     },
     "bulletproof": {
@@ -290,7 +290,7 @@
       "shortDesc": "While this Pokemon is active, allies are protected from opposing priority moves.",
       "id": "dazzling",
       "name": "Dazzling",
-      "rating": 3,
+      "rating": 2.5,
       "num": 219
     },
     "defeatist": {
@@ -341,7 +341,7 @@
       "shortDesc": "On switch-in, Attack or Sp. Atk is raised 1 stage based on the foes' weaker Defense.",
       "id": "download",
       "name": "Download",
-      "rating": 4,
+      "rating": 3.5,
       "num": 88
     },
     "drizzle": {
@@ -361,7 +361,7 @@
     "dryskin": {
       "desc": "This Pokemon is immune to Water-type moves and restores 1/4 of its maximum HP, rounded down, when hit by a Water-type move. The power of Fire-type moves is multiplied by 1.25 when used on this Pokemon. At the end of each turn, this Pokemon restores 1/8 of its maximum HP, rounded down, if the weather is Rain Dance, and loses 1/8 of its maximum HP, rounded down, if the weather is Sunny Day.",
       "shortDesc": "This Pokemon is healed 1/4 by Water, 1/8 by Rain; is hurt 1.25x by Fire, 1/8 by Sun.",
-      "onBasePowerPriority": 7,
+      "onFoeBasePowerPriority": 7,
       "id": "dryskin",
       "name": "Dry Skin",
       "rating": 3,
@@ -390,7 +390,7 @@
       "num": 226
     },
     "emergencyexit": {
-      "desc": "When this Pokemon has more than 1/2 its maximum HP and takes damage bringing it to 1/2 or less of its maximum HP, it immediately switches out to a chosen ally. This effect applies after all hits from a multi-hit move; Sheer Force prevents it from activating if the move has a secondary effect. This effect applies to both direct and indirect damage, except Curse and Substitute on use, Belly Drum, Pain Split, Struggle recoil, and confusion damage.",
+      "desc": "When this Pokemon has more than 1/2 its maximum HP and takes damage bringing it to 1/2 or less of its maximum HP, it immediately switches out to a chosen ally. This effect applies after all hits from a multi-hit move; Sheer Force prevents it from activating if the move has a secondary effect. This effect applies to both direct and indirect damage, except Curse and Substitute on use, Belly Drum, Pain Split, and confusion damage.",
       "shortDesc": "This Pokemon switches out when it reaches 1/2 or less of its maximum HP.",
       "id": "emergencyexit",
       "name": "Emergency Exit",
@@ -445,11 +445,11 @@
     "flowergift": {
       "desc": "If this Pokemon is a Cherrim and Sunny Day is active, it changes to Sunshine Form and the Attack and Special Defense of it and its allies are multiplied by 1.5.",
       "shortDesc": "If user is Cherrim and Sunny Day is active, it and allies' Attack and Sp. Def are 1.5x.",
-      "onModifyAtkPriority": 3,
+      "onAllyModifyAtkPriority": 3,
       "onModifySpDPriority": 4,
       "id": "flowergift",
       "name": "Flower Gift",
-      "rating": 2.5,
+      "rating": 2,
       "num": 122
     },
     "flowerveil": {
@@ -593,7 +593,7 @@
     "heatproof": {
       "desc": "The power of Fire-type attacks against this Pokemon is halved, and burn damage taken is halved.",
       "shortDesc": "The power of Fire-type attacks against this Pokemon is halved; burn damage halved.",
-      "onBasePowerPriority": 7,
+      "onSourceBasePowerPriority": 7,
       "id": "heatproof",
       "name": "Heatproof",
       "rating": 2.5,
@@ -628,7 +628,7 @@
       "onModifyMovePriority": -1,
       "id": "hustle",
       "name": "Hustle",
-      "rating": 3,
+      "rating": 3.5,
       "num": 55
     },
     "hydration": {
@@ -709,7 +709,7 @@
       "onFlinch": false,
       "id": "innerfocus",
       "name": "Inner Focus",
-      "rating": 1.5,
+      "rating": 1,
       "num": 39
     },
     "insomnia": {
@@ -757,7 +757,7 @@
       "shortDesc": "This Pokemon's accuracy can't be lowered by others; ignores their evasiveness stat.",
       "id": "keeneye",
       "name": "Keen Eye",
-      "rating": 1,
+      "rating": 0.5,
       "num": 51
     },
     "klutz": {
@@ -961,11 +961,11 @@
       "num": 121
     },
     "mummy": {
-      "desc": "Pokemon making contact with this Pokemon have their Ability changed to Mummy. Does not affect the Battle Bond, Comatose, Disguise, Multitype, Power Construct, RKS System, Schooling, Shields Down, and Stance Change Abilities.",
+      "desc": "Pokemon making contact with this Pokemon have their Ability changed to Mummy. Does not affect the Battle Bond, Comatose, Disguise, Multitype, Power Construct, RKS System, Schooling, Shields Down, Stance Change, and Zen Mode Abilities.",
       "shortDesc": "Pokemon making contact with this Pokemon have their Ability changed to Mummy.",
       "id": "mummy",
       "name": "Mummy",
-      "rating": 2,
+      "rating": 2.5,
       "num": 152
     },
     "naturalcure": {
@@ -1022,7 +1022,7 @@
       "onModifySpAPriority": 5,
       "id": "overgrow",
       "name": "Overgrow",
-      "rating": 2,
+      "rating": 2.5,
       "num": 65
     },
     "owntempo": {
@@ -1055,7 +1055,7 @@
       "shortDesc": "If this Pokemon has no item, it steals the item off a Pokemon making contact with it.",
       "id": "pickpocket",
       "name": "Pickpocket",
-      "rating": 1,
+      "rating": 1.5,
       "num": 124
     },
     "pixilate": {
@@ -1106,7 +1106,7 @@
       "onResidualOrder": 27,
       "id": "powerconstruct",
       "name": "Power Construct",
-      "rating": 4,
+      "rating": 5,
       "num": 211
     },
     "powerofalchemy": {
@@ -1129,7 +1129,7 @@
       "shortDesc": "If this Pokemon is the target of a foe's move, that move loses one additional PP.",
       "id": "pressure",
       "name": "Pressure",
-      "rating": 2,
+      "rating": 2.5,
       "num": 46
     },
     "primordialsea": {
@@ -1416,7 +1416,7 @@
       "shortDesc": "This Pokemon's multi-hit attacks always hit the maximum number of times.",
       "id": "skilllink",
       "name": "Skill Link",
-      "rating": 4,
+      "rating": 3.5,
       "num": 92
     },
     "slowstart": {
@@ -1441,7 +1441,7 @@
       "shortDesc": "If this Pokemon strikes with a critical hit, the damage is multiplied by 1.5.",
       "id": "sniper",
       "name": "Sniper",
-      "rating": 1,
+      "rating": 1.5,
       "num": 97
     },
     "snowcloak": {
@@ -1507,7 +1507,7 @@
       "onModifySpAPriority": 5,
       "id": "stakeout",
       "name": "Stakeout",
-      "rating": 2.5,
+      "rating": 3,
       "num": 198
     },
     "stall": {
@@ -1602,7 +1602,7 @@
       "onDragOutPriority": 1,
       "id": "suctioncups",
       "name": "Suction Cups",
-      "rating": 1.5,
+      "rating": 1,
       "num": 21
     },
     "superluck": {
@@ -1626,7 +1626,7 @@
       "onModifySpAPriority": 5,
       "id": "swarm",
       "name": "Swarm",
-      "rating": 2,
+      "rating": 2.5,
       "num": 68
     },
     "sweetveil": {
@@ -1699,8 +1699,8 @@
     "thickfat": {
       "desc": "If a Pokemon uses a Fire- or Ice-type attack against this Pokemon, that Pokemon's attacking stat is halved when calculating the damage to this Pokemon.",
       "shortDesc": "Fire/Ice-type moves against this Pokemon deal damage with a halved attacking stat.",
-      "onModifyAtkPriority": 6,
-      "onModifySpAPriority": 5,
+      "onSourceModifyAtkPriority": 6,
+      "onSourceModifySpAPriority": 5,
       "id": "thickfat",
       "name": "Thick Fat",
       "rating": 3.5,
@@ -1720,7 +1720,7 @@
       "onModifySpAPriority": 5,
       "id": "torrent",
       "name": "Torrent",
-      "rating": 2,
+      "rating": 2.5,
       "num": 67
     },
     "toxicboost": {
@@ -1789,6 +1789,7 @@
       "num": 84
     },
     "unnerve": {
+      "desc": "While this Pokemon is active, it prevents opposing Pokemon from using their Berries. Activation message broadcasts before other Abilities regardless of the Pokemon's Speed tiers.",
       "shortDesc": "While this Pokemon is active, it prevents opposing Pokemon from using their Berries.",
       "onFoeTryEatItem": false,
       "id": "unnerve",
@@ -1866,11 +1867,11 @@
       "num": 73
     },
     "wimpout": {
-      "desc": "When this Pokemon has more than 1/2 its maximum HP and takes damage bringing it to 1/2 or less of its maximum HP, it immediately switches out to a chosen ally. This effect applies after all hits from a multi-hit move; Sheer Force prevents it from activating if the move has a secondary effect. This effect applies to both direct and indirect damage, except Curse and Substitute on use, Belly Drum, Pain Split, Struggle recoil, and confusion damage.",
+      "desc": "When this Pokemon has more than 1/2 its maximum HP and takes damage bringing it to 1/2 or less of its maximum HP, it immediately switches out to a chosen ally. This effect applies after all hits from a multi-hit move; Sheer Force prevents it from activating if the move has a secondary effect. This effect applies to both direct and indirect damage, except Curse and Substitute on use, Belly Drum, Pain Split, and confusion damage.",
       "shortDesc": "This Pokemon switches out when it reaches 1/2 or less of its maximum HP.",
       "id": "wimpout",
       "name": "Wimp Out",
-      "rating": 2,
+      "rating": 1.5,
       "num": 193
     },
     "wonderguard": {
@@ -1890,7 +1891,7 @@
       "num": 147
     },
     "zenmode": {
-      "desc": "If this Pokemon is a Darmanitan, it changes to Zen Mode if it has 1/2 or less of its maximum HP at the end of a turn. If Darmanitan's HP is above 1/2 of its maximum HP at the end of a turn, it changes back to Standard Mode. If Darmanitan loses this Ability while in Zen Mode it reverts to Standard Mode immediately.",
+      "desc": "If this Pokemon is a Darmanitan, it changes to Zen Mode if it has 1/2 or less of its maximum HP at the end of a turn. If Darmanitan's HP is above 1/2 of its maximum HP at the end of a turn, it changes back to Standard Mode. This Ability cannot be removed or suppressed.",
       "shortDesc": "If Darmanitan, at end of turn changes Mode to Standard if > 1/2 max HP, else Zen.",
       "onResidualOrder": 27,
       "effect": {},
@@ -1902,7 +1903,7 @@
     "mountaineer": {
       "shortDesc": "On switch-in, this Pokemon avoids all Rock-type attacks and Stealth Rock.",
       "id": "mountaineer",
-      "isNonstandard": true,
+      "isNonstandard": "CAP",
       "name": "Mountaineer",
       "rating": 3.5,
       "num": -2
@@ -1911,7 +1912,7 @@
       "desc": "On switch-in, this Pokemon blocks certain status moves and instead uses the move against the original user.",
       "shortDesc": "On switch-in, blocks certain status moves and bounces them back to the user.",
       "id": "rebound",
-      "isNonstandard": true,
+      "isNonstandard": "CAP",
       "name": "Rebound",
       "onTryHitPriority": 1,
       "effect": {
@@ -1924,7 +1925,7 @@
       "desc": "The duration of Gravity, Heal Block, Magic Room, Safeguard, Tailwind, Trick Room, and Wonder Room is increased by 2 turns if the effect is started by this Pokemon.",
       "shortDesc": "When used, Gravity/Heal Block/Safeguard/Tailwind/Room effects last 2 more turns.",
       "id": "persistent",
-      "isNonstandard": true,
+      "isNonstandard": "CAP",
       "name": "Persistent",
       "rating": 3.5,
       "num": -4

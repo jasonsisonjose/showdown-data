@@ -1,0 +1,35 @@
+{
+  "BattleStatuses": {
+    "par": {
+      "inherit": true
+    },
+    "slp": {
+      "name": "slp",
+      "id": "slp",
+      "num": 0,
+      "effectType": "Status",
+      "onBeforeMovePriority": 10
+    },
+    "frz": {
+      "inherit": true
+    },
+    "substitutebroken": {
+      "noCopy": true
+    },
+    "trapped": {
+      "inherit": true,
+      "noCopy": false
+    },
+    "trapper": {
+      "inherit": true,
+      "noCopy": false
+    },
+    "partiallytrapped": {
+      "inherit": true
+    },
+    "stall": {
+      "inherit": true,
+      "counterMax": 8
+    }
+  }
+}

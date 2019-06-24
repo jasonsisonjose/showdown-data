@@ -97,12 +97,14 @@
       "id": "mustrecharge",
       "num": 0,
       "duration": 2,
-      "onBeforeMovePriority": 11
+      "onBeforeMovePriority": 11,
+      "onLockMove": "recharge"
     },
     "futuremove": {
       "name": "futuremove",
       "id": "futuremove",
       "num": 0,
+      "duration": 3,
       "onResidualOrder": 3
     },
     "healreplacement": {
@@ -139,6 +141,7 @@
       "num": 0,
       "effectType": "Weather",
       "duration": 0,
+      "onTryMovePriority": 1,
       "onResidualOrder": 1
     },
     "sunnyday": {
@@ -155,6 +158,7 @@
       "num": 0,
       "effectType": "Weather",
       "duration": 0,
+      "onTryMovePriority": 1,
       "onResidualOrder": 1
     },
     "sandstorm": {
