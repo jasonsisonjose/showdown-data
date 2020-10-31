@@ -9,7 +9,7 @@ fs.removeSync(destPath);
 fs.ensureDirSync(destPath);
 
 // Dump all data to the dist folder
-glob(srcPath + '/{data,mods}/**/*.{js,json}', {}, (err, files) => {
+glob(srcPath + '/.data-dist/**/*.{js,json}', {}, (err, files) => {
     files.forEach(function (filepath) {
         let name = filepath.replace(new RegExp(srcPath), '').replace(/\.(json|js)$/, '');
         let data = require(filepath);
