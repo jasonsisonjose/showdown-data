@@ -17,7 +17,6 @@ tag:
 
 publish:
 	git push --tags
-	npm version from-git
 	npm publish
 
 .SILENT:
