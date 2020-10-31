@@ -1,5 +1,5 @@
 {
-  "BattlePokedex": {
+  "Pokedex": {
     "milotic": {
       "inherit": true,
       "evoType": "levelExtra",

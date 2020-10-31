@@ -1,0 +1,71 @@
+{
+  "Abilities": {
+    "anticipation": {
+      "shortDesc": "On switch-in, this Pokemon shudders if any foe has a supereffective or OHKO move and raises Speed by one stage.",
+      "name": "Anticipation"
+    },
+    "damp": {
+      "shortDesc": "Summons Water Sport and Mud Sport upon switching in.",
+      "name": "Damp"
+    },
+    "healer": {
+      "shortDesc": "Heals the user and its allies by 1/16 of their maximum HP at the end of each turn.",
+      "onResidualOrder": 5,
+      "onResidualSubOrder": 2,
+      "name": "Healer"
+    },
+    "illuminate": {
+      "shortDesc": "Halves damage from Dark and Ghost type moves.",
+      "onSourceModifyAtkPriority": 6,
+      "onSourceModifySpAPriority": 5,
+      "name": "Illuminate"
+    },
+    "stench": {
+      "shortDesc": "Immunity to Fairy-type moves.",
+      "name": "Stench"
+    },
+    "telepathy": {
+      "shortDesc": "This Pokemon's Normal-type moves become Psychic-type and have 1.2x power.",
+      "onModifyTypePriority": -1,
+      "onBasePowerPriority": 23,
+      "name": "Telepathy"
+    },
+    "shellarmor": {
+      "shortDesc": "No status = all moves hit target on Defense. Use Shell Smash = change abil to Weak Armor.",
+      "name": "Shell Armor"
+    },
+    "battery": {
+      "shortDesc": "On switch in, this Pokemon and its allies use Charge.",
+      "name": "Battery"
+    },
+    "klutz": {
+      "shortDesc": "This Pokemon's contact moves remove the target's item. This Pokemon loses its item upon being hit.",
+      "onDamagingHitOrder": 1,
+      "name": "Klutz"
+    },
+    "ironfist": {
+      "shortDesc": "This Pokemon's punch moves are super effective against Fairy-types.",
+      "name": "Iron Fist"
+    },
+    "receiver": {
+      "shortDesc": "Permanently copies the ability of the ally that fainted before switching in.",
+      "name": "Receiver"
+    },
+    "sweetveil": {
+      "shortDesc": "On switch-in, this Pokemon's side gets a side condition that heals any active Pokemon by 1/16.",
+      "name": "Sweet Veil"
+    },
+    "mummy": {
+      "shortDesc": "Gives all active Pokemon the Heal Block effect upon switching in.",
+      "name": "Mummy"
+    },
+    "runaway": {
+      "shortDesc": "This Pokemon immediately switches out if an opponent with a super effective/OHKO move switches in.",
+      "name": "Run Away"
+    },
+    "tangledfeet": {
+      "shortDesc": "This Pokemon's first move will have +1 priority until the end of the turn.",
+      "name": "Tangled Feet"
+    }
+  }
+}

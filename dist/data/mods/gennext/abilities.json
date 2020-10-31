@@ -1,5 +1,5 @@
 {
-  "BattleAbilities": {
+  "Abilities": {
     "swiftswim": {
       "inherit": true,
       "shortDesc": "If Rain Dance is active, this Pokemon's Speed is multiplied by 1.5."
@@ -70,7 +70,7 @@
     },
     "flowergift": {
       "inherit": true,
-      "effect": {
+      "condition": {
         "onSwitchInPriority": 1
       },
       "desc": "If this Pokemon is a Cherrim and Sunny Day is active, it changes to Sunshine Form and the Special Defense of it is multiplied by 1.5. The next Pokemon that switches in gets its Special Defense also multiplied by 1.5.",
@@ -78,7 +78,7 @@
     },
     "slowstart": {
       "inherit": true,
-      "effect": {
+      "condition": {
         "duration": 3
       },
       "shortDesc": "On switch-in, this Pokemon's Attack and Speed are halved for 3 turns."
@@ -179,7 +179,6 @@
     "cursedbody": {
       "desc": "When this Pokemon faints, attacker is Cursed.",
       "shortDesc": "When this Pokemon faints, attacker is Cursed.",
-      "id": "cursedbody",
       "name": "Cursed Body",
       "rating": 3,
       "num": 130
@@ -207,7 +206,7 @@
     },
     "truant": {
       "inherit": true,
-      "effect": {
+      "condition": {
         "duration": 2,
         "onBeforeMovePriority": 99
       },
@@ -229,7 +228,7 @@
     },
     "parentalbond": {
       "inherit": true,
-      "effect": {
+      "condition": {
         "duration": 1,
         "onBasePowerPriority": 8
       },
@@ -250,7 +249,7 @@
       "desc": "For the first turn after this Pokemon switches in, prevent adjacent opposing Pokemon from choosing to switch out unless they are immune to trapping or also have this Ability.",
       "shortDesc": "Prevents adjacent foes from choosing to switch for one turn.",
       "inherit": true,
-      "effect": {
+      "condition": {
         "duration": 2
       },
       "onBeforeMovePriority": 15

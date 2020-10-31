@@ -1,0 +1,102 @@
+{
+  "Abilities": {
+    "triggerfinger": {
+      "shortDesc": "When the Pokemon enters, its first move has +1 priority, but that move's damage is reduced by 1/3.",
+      "name": "Trigger Finger",
+      "rating": 4,
+      "num": 99991
+    },
+    "elemental": {
+      "desc": "The Pokemon is immune to moves of its own types.",
+      "shortDesc": "The Pokemon is immune to moves of its own types.",
+      "name": "Elemental",
+      "rating": 3.5,
+      "num": 99992
+    },
+    "embargoact": {
+      "shortDesc": "As long as the Pokemon is on the field, its opponent's item does not function.",
+      "onResidualOrder": 18,
+      "name": "Embargo Act",
+      "num": 99993
+    },
+    "terror": {
+      "shortDesc": "When the Pokemon enters, its opponent's Speed is reduced by one stage.",
+      "name": "Terror",
+      "num": 99994
+    },
+    "adaptive": {
+      "shortDesc": "After taking damage (except passive damage such as burns), the Pokemon's HP is restored by 1/8 of the damage taken.",
+      "name": "Adaptive",
+      "num": 99995
+    },
+    "exhaust": {
+      "desc": "The Pokemon's attacking moves consume 2 PP instead of 1, but their damage is increased by 20%..",
+      "shortDesc": "The Pokemon's attacking moves consume 2 PP instead of 1, but their damage is increased by 20%..",
+      "name": "Exhaust",
+      "rating": 2.5,
+      "num": 99996
+    },
+    "forager": {
+      "desc": "Gluttony effect + The Pokemon recycles any Berry it has consumed when it switches out.",
+      "shortDesc": "Gluttony effect + The Pokemon recycles any Berry it has consumed when it switches out.",
+      "name": "Forager",
+      "rating": 2.5,
+      "num": 99997
+    },
+    "inextremis": {
+      "desc": "When this Pokemon has more than 1/2 its maximum HP and takes damage from an attack bringing it to 1/2 or less of its maximum HP, its Special Attack is raised by 1 stage. This effect applies after all hits from a multi-hit move; Sheer Force prevents it from activating if the move has a secondary effect.",
+      "shortDesc": "This Pokemon's Sp. Atk is raised by 1 when it reaches 1/2 or less of its max HP.",
+      "name": "In Extremis",
+      "rating": 2.5,
+      "num": 99998
+    },
+    "prepared": {
+      "desc": "On switch-in, this Pokemon is alerted if any opposing Pokemon has an attack that is super effective on this Pokemon, or an OHKO move. Counter, Metal Burst, and Mirror Coat count as attacking moves of their respective types, Hidden Power counts as its determined type, and Judgment, Multi-Attack, Natural Gift, Revelation Dance, Techno Blast, and Weather Ball are considered Normal-type moves.",
+      "shortDesc": "On switch-in, this Pokemon shudders if any foe has a supereffective or OHKO move.",
+      "name": "Prepared",
+      "rating": 0.5,
+      "num": 99999
+    },
+    "countershield": {
+      "shortDesc": "When the Pokemon is hit by a super effective move, the move's damage is reduced by 1/4, and the attacker's HP is reduced by 1/8.",
+      "name": "Counter Shield",
+      "rating": 3,
+      "num": 99910
+    },
+    "identitytheft": {
+      "shortDesc": "Pokemon making contact with this Pokemon have their Ability swapped with this one.",
+      "name": "Identity Theft",
+      "rating": 2.5,
+      "num": 99911
+    },
+    "lagbehind": {
+      "shortDesc": "This Pokemon moves last among Pokemon using the same or greater priority moves.",
+      "onFractionalPriority": -0.1,
+      "name": "Lag Behind",
+      "rating": -1,
+      "num": 99912
+    },
+    "survey": {
+      "shortDesc": "On switch-in, this Pokemon's Accuracy is raised by 1 stage.",
+      "name": "Survey",
+      "rating": 3,
+      "num": 99914
+    },
+    "contradict": {
+      "desc": "The physical and special categories of this pokemon's attacks are swapped.",
+      "shortDesc": "The physical and special categories of this pokemon's attacks are swapped",
+      "onModifyMovePriority": -1,
+      "name": "Contradict",
+      "rating": 3.5,
+      "num": 99915
+    },
+    "unflagging": {
+      "shortDesc": "Heals 1/16 at the end of each turn when statused and is immune to non-damage effects of status. Rest fails.",
+      "onDamagePriority": 1,
+      "onResidualOrder": 8,
+      "name": "Unflagging",
+      "rating": 4,
+      "num": 99916
+    }
+  }
+}

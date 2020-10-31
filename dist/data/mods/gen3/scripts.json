@@ -1,5 +1,5 @@
 {
-  "BattleScripts": {
+  "Scripts": {
     "inherit": "gen4",
     "gen": 3
   }

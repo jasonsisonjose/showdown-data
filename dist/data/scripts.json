@@ -1,6 +1,6 @@
 {
-  "BattleScripts": {
-    "gen": 7,
+  "Scripts": {
+    "gen": 8,
     "zMoveTable": {
       "Poison": "Acid Downpour",
       "Fighting": "All-Out Pummeling",
@@ -20,6 +20,27 @@
       "Flying": "Supersonic Skystrike",
       "Ground": "Tectonic Rage",
       "Fairy": "Twinkle Tackle"
+    },
+    "maxMoveTable": {
+      "Flying": "Max Airstream",
+      "Dark": "Max Darkness",
+      "Fire": "Max Flare",
+      "Bug": "Max Flutterby",
+      "Water": "Max Geyser",
+      "Status": "Max Guard",
+      "Ice": "Max Hailstorm",
+      "Fighting": "Max Knuckle",
+      "Electric": "Max Lightning",
+      "Psychic": "Max Mindstorm",
+      "Poison": "Max Ooze",
+      "Grass": "Max Overgrowth",
+      "Ghost": "Max Phantasm",
+      "Ground": "Max Quake",
+      "Rock": "Max Rockfall",
+      "Fairy": "Max Starfall",
+      "Steel": "Max Steelspike",
+      "Normal": "Max Strike",
+      "Dragon": "Max Wyrmwind"
     }
   }
 }

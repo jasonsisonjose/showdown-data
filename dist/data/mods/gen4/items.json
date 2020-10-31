@@ -1,5 +1,5 @@
 {
-  "BattleItems": {
+  "Items": {
     "adamantorb": {
       "inherit": true
     },
@@ -30,7 +30,7 @@
     "focussash": {
       "inherit": true,
       "desc": "If holder's HP is full, survives all hits of one attack with at least 1 HP. Single use.",
-      "effect": {
+      "condition": {
         "duration": 1
       }
     },
@@ -42,15 +42,12 @@
       "inherit": true,
       "desc": "Holder's Speed is halved and it becomes grounded."
     },
-    "jabocaberry": {
-      "inherit": true
-    },
     "kingsrock": {
       "inherit": true
     },
     "lifeorb": {
       "inherit": true,
-      "effect": {
+      "condition": {
         "duration": 1
       }
     },
@@ -73,14 +70,11 @@
     "metronome": {
       "inherit": true,
       "desc": "Damage of moves used on consecutive turns is increased. Max 2x after 10 turns.",
-      "effect": {
+      "condition": {
         "onTryMovePriority": -2
       }
     },
     "razorfang": {
-      "inherit": true
-    },
-    "rowapberry": {
       "inherit": true
     },
     "stick": {

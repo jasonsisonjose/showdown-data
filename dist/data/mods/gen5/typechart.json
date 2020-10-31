@@ -1,5 +1,5 @@
 {
-  "BattleTypeChart": {
+  "TypeChart": {
     "Electric": {
       "inherit": true,
       "damageTaken": {

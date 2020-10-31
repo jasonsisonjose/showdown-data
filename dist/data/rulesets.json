@@ -1,23 +1,20 @@
 {
-  "BattleFormats": {
+  "Formats": {
     "standard": {
       "effectType": "ValidatorRule",
       "name": "Standard",
       "desc": "The standard ruleset for all offical Smogon singles tiers (Ubers, OU, etc.)",
       "ruleset": [
+        "Obtainable",
+        "Team Preview",
         "Sleep Clause Mod",
         "Species Clause",
         "Nickname Clause",
         "OHKO Clause",
-        "Moody Clause",
         "Evasion Moves Clause",
         "Endless Battle Clause",
         "HP Percentage Mod",
         "Cancel Mod"
-      ],
-      "banlist": [
-        "Unreleased",
-        "Illegal"
       ]
     },
     "standardnext": {
@@ -25,6 +22,7 @@
       "name": "Standard NEXT",
       "desc": "The standard ruleset for the NEXT mod",
       "ruleset": [
+        "+Unreleased",
         "Sleep Clause Mod",
         "Species Clause",
         "Nickname Clause",
@@ -33,27 +31,7 @@
         "Cancel Mod"
       ],
       "banlist": [
-        "Illegal",
         "Soul Dew"
-      ]
-    },
-    "standardubers": {
-      "effectType": "ValidatorRule",
-      "name": "Standard Ubers",
-      "desc": "The standard ruleset for [Gen 5] Ubers",
-      "ruleset": [
-        "Sleep Clause Mod",
-        "Species Clause",
-        "Nickname Clause",
-        "Moody Clause",
-        "OHKO Clause",
-        "Endless Battle Clause",
-        "HP Percentage Mod",
-        "Cancel Mod"
-      ],
-      "banlist": [
-        "Unreleased",
-        "Illegal"
       ]
     },
     "standardgbu": {
@@ -61,15 +39,14 @@
       "name": "Standard GBU",
       "desc": "The standard ruleset for all official in-game Pok&eacute;mon tournaments and Battle Spot",
       "ruleset": [
+        "Obtainable",
+        "Team Preview",
         "Species Clause",
         "Nickname Clause",
         "Item Clause",
-        "Team Preview",
         "Cancel Mod"
       ],
       "banlist": [
-        "Unreleased",
-        "Illegal",
         "Battle Bond",
         "Mewtwo",
         "Mew",
@@ -109,7 +86,14 @@
         "Necrozma",
         "Magearna",
         "Marshadow",
-        "Zeraora"
+        "Zeraora",
+        "Meltan",
+        "Melmetal",
+        "Zacian",
+        "Zamazenta",
+        "Eternatus",
+        "Zarude",
+        "Calyrex"
       ]
     },
     "minimalgbu": {
@@ -117,6 +101,7 @@
       "name": "Minimal GBU",
       "desc": "The standard ruleset for official tournaments, but without Restricted Legendary bans",
       "ruleset": [
+        "Obtainable",
         "Species Clause",
         "Nickname Clause",
         "Item Clause",
@@ -124,8 +109,6 @@
         "Cancel Mod"
       ],
       "banlist": [
-        "Unreleased",
-        "Illegal",
         "Battle Bond",
         "Mew",
         "Celebi",
@@ -153,32 +136,68 @@
       "name": "Standard Doubles",
       "desc": "The standard ruleset for all official Smogon doubles tiers",
       "ruleset": [
+        "Obtainable",
+        "Team Preview",
         "Species Clause",
         "Nickname Clause",
         "OHKO Clause",
-        "Moody Clause",
-        "Evasion Abilities Clause",
         "Evasion Moves Clause",
+        "Gravity Sleep Clause",
         "Endless Battle Clause",
         "HP Percentage Mod",
         "Cancel Mod"
+      ]
+    },
+    "standardnatdex": {
+      "effectType": "ValidatorRule",
+      "name": "Standard NatDex",
+      "desc": "The standard ruleset for all National Dex tiers",
+      "ruleset": [
+        "Obtainable",
+        "+Unobtainable",
+        "+Past",
+        "Team Preview",
+        "Nickname Clause",
+        "HP Percentage Mod",
+        "Cancel Mod",
+        "Endless Battle Clause"
+      ]
+    },
+    "obtainable": {
+      "effectType": "ValidatorRule",
+      "name": "Obtainable",
+      "desc": "Makes sure the team is possible to obtain in-game.",
+      "ruleset": [
+        "Obtainable Moves",
+        "Obtainable Abilities",
+        "Obtainable Formes",
+        "Obtainable Misc"
       ],
       "banlist": [
         "Unreleased",
-        "Illegal"
+        "Unobtainable",
+        "Nonexistent"
       ]
     },
-    "pokemon": {
+    "obtainablemoves": {
       "effectType": "ValidatorRule",
-      "name": "Pokemon",
-      "desc": "Applies the basic limitations of pokemon games: level 100, 6 pokemon, 4 moves, no CAP, no future-gen pokemon/moves/etc - but does not include illegal move/ability validation",
-      "banlist": [
-        "Chansey + Charm + Seismic Toss",
-        "Chansey + Charm + Psywave",
-        "Blissey + Charm + Seismic Toss",
-        "Blissey + Charm + Psywave",
-        "Shiftry + Leaf Blade + Sucker Punch"
-      ]
+      "name": "Obtainable Moves",
+      "desc": "Makes sure moves are learnable by the species."
+    },
+    "obtainableabilities": {
+      "effectType": "ValidatorRule",
+      "name": "Obtainable Abilities",
+      "desc": "Makes sure abilities match the species."
+    },
+    "obtainableformes": {
+      "effectType": "ValidatorRule",
+      "name": "Obtainable Formes",
+      "desc": "Makes sure in-battle formes only appear in-battle."
+    },
+    "obtainablemisc": {
+      "effectType": "ValidatorRule",
+      "name": "Obtainable Misc",
+      "desc": "Validate all obtainability things that aren't moves/abilities (Hidden Power type, gender, stats, etc)."
     },
     "hoennpokedex": {
       "effectType": "ValidatorRule",
@@ -200,6 +219,25 @@
       "name": "Alola Pokedex",
       "desc": "Only allows Pok&eacute;mon native to the Alola region (US/UM)"
     },
+    "galarpokedex": {
+      "effectType": "ValidatorRule",
+      "name": "Galar Pokedex",
+      "desc": "Only allows Pok&eacute;mon native to the Galar region (Sw/Sh)",
+      "banlist": [
+        "Raichu-Alola",
+        "Weezing-Base"
+      ]
+    },
+    "isleofarmorpokedex": {
+      "effectType": "ValidatorRule",
+      "name": "Isle of Armor Pokedex",
+      "desc": "Only allows Pok&eacute;mon native to the Isle of Armor in the Galar Region (Sw/Sh DLC1)"
+    },
+    "crowntundrapokedex": {
+      "effectType": "ValidatorRule",
+      "name": "Crown Tundra Pokedex",
+      "desc": "Only allows Pok&eacute;mon native to the Crown Tundra in the Galar Region (Sw/Sh DLC2)"
+    },
     "potd": {
       "effectType": "Rule",
       "name": "PotD"
@@ -209,10 +247,46 @@
       "name": "Team Preview",
       "desc": "Allows each player to see the Pok&eacute;mon on their opponent's team before they choose their lead Pok&eacute;mon"
     },
+    "onevsone": {
+      "effectType": "Rule",
+      "name": "One vs One",
+      "desc": "Only allows one Pok&eacute;mon in battle"
+    },
+    "twovstwo": {
+      "effectType": "Rule",
+      "name": "Two vs Two",
+      "desc": "Only allows two Pok&eacute;mon in battle"
+    },
     "littlecup": {
       "effectType": "ValidatorRule",
       "name": "Little Cup",
       "desc": "Only allows Pok&eacute;mon that can evolve and don't have any prior evolutions"
+    },
+    "blitz": {
+      "effectType": "Rule",
+      "name": "Blitz",
+      "desc": "Super-fast 'Blitz' timer giving 30 second Team Preview and 10 seconds per turn.",
+      "timer": {
+        "starting": 15,
+        "addPerTurn": 5,
+        "maxPerTurn": 15,
+        "maxFirstTurn": 40,
+        "grace": 30
+      }
+    },
+    "vgctimer": {
+      "effectType": "Rule",
+      "name": "VGC Timer",
+      "desc": "VGC's timer: 90 second Team Preview, 7 minutes Your Time, 1 minute per turn",
+      "timer": {
+        "starting": 420,
+        "addPerTurn": 0,
+        "maxPerTurn": 55,
+        "maxFirstTurn": 90,
+        "grace": 90,
+        "timeoutAutoChoose": true,
+        "dcTimerBank": false
+      }
     },
     "speciesclause": {
       "effectType": "ValidatorRule",
@@ -229,9 +303,9 @@
       "name": "Item Clause",
       "desc": "Prevents teams from having more than one Pok&eacute;mon with the same item"
     },
-    "abilityclause": {
+    "2abilityclause": {
       "effectType": "ValidatorRule",
-      "name": "Ability Clause",
+      "name": "2 Ability Clause",
       "desc": "Prevents teams from having more than two Pok&eacute;mon with the same ability"
     },
     "ohkoclause": {
@@ -275,6 +349,26 @@
         "Smokescreen"
       ]
     },
+    "sleepmovesclause": {
+      "effectType": "ValidatorRule",
+      "name": "Sleep Moves Clause",
+      "desc": "Bans all moves that induce sleep, such as Hypnosis",
+      "banlist": [
+        "Yawn"
+      ]
+    },
+    "gravitysleepclause": {
+      "effectType": "ValidatorRule",
+      "name": "Gravity Sleep Clause",
+      "desc": "Bans sleep moves below 100% accuracy, in conjunction with Gravity or Gigantamax Orbeetle",
+      "banlist": [
+        "Gravity ++ Grass Whistle",
+        "Gravity ++ Hypnosis",
+        "Gravity ++ Lovely Kiss",
+        "Gravity ++ Sing",
+        "Gravity ++ Sleep Powder"
+      ]
+    },
     "endlessbattleclause": {
       "effectType": "Rule",
       "name": "Endless Battle Clause",
@@ -302,6 +396,14 @@
       "desc": "Stops teams from having more than one Pok&eacute;mon with Baton Pass, and no Pok&eacute;mon may be capable of passing boosts to both Speed and another stat",
       "banlist": [
         "Baton Pass > 1"
+      ]
+    },
+    "3batonpassclause": {
+      "effectType": "ValidatorRule",
+      "name": "3 Baton Pass Clause",
+      "desc": "Stops teams from having more than three Pok&eacute;mon with Baton Pass",
+      "banlist": [
+        "Baton Pass > 3"
       ]
     },
     "cfzclause": {
@@ -351,6 +453,11 @@
       "name": "Z-Move Clause",
       "desc": "Bans Pok&eacute;mon from holding Z-Crystals"
     },
+    "notfullyevolved": {
+      "effectType": "ValidatorRule",
+      "name": "Not Fully Evolved",
+      "desc": "Bans Pok&eacute;mon that are fully evolved or can't evolve"
+    },
     "hppercentagemod": {
       "effectType": "Rule",
       "name": "HP Percentage Mod",
@@ -374,6 +481,11 @@
         "Hypnosis + Gengarite"
       ]
     },
+    "stadiumsleepclause": {
+      "effectType": "Rule",
+      "name": "Stadium Sleep Clause",
+      "desc": "Prevents players from putting one of their opponent's Pokémon to sleep if any of the opponent's other Pokémon are asleep (different from Sleep Clause Mod because putting your own Pokémon to sleep is enough to prevent opponents from putting your others to sleep)."
+    },
     "switchpriorityclausemod": {
       "effectType": "Rule",
       "name": "Switch Priority Clause Mod",
@@ -394,34 +506,32 @@
       "name": "Mega Rayquaza Clause",
       "desc": "Prevents Rayquaza from mega evolving"
     },
-    "arceusevclause": {
+    "dynamaxclause": {
+      "effectType": "Rule",
+      "name": "Dynamax Clause",
+      "desc": "Prevents Pok&eacute;mon from dynamaxing"
+    },
+    "dynamaxubersclause": {
+      "effectType": "Rule",
+      "name": "Dynamax Ubers Clause",
+      "desc": "Prevents Pok&eacute;mon on the Ubers dynamax banlist from dynamaxing"
+    },
+    "arceusevlimit": {
       "effectType": "ValidatorRule",
-      "name": "Arceus EV Clause",
-      "desc": "Restricts Arceus to a maximum of 100 EVs in any one stat"
+      "name": "Arceus EV Limit",
+      "desc": "Restricts Arceus to a maximum of 100 EVs in any one stat, and only multiples of 10"
     },
     "inversemod": {
       "effectType": "Rule",
       "name": "Inverse Mod",
       "desc": "The mod for Inverse Battle which inverts the type effectiveness chart; weaknesses become resistances, while resistances and immunities become weaknesses",
-      "onNegateImmunity": false
-    },
-    "ignoreillegalabilities": {
-      "effectType": "ValidatorRule",
-      "name": "Ignore Illegal Abilities",
-      "desc": "Allows Pok&eacute;mon to use any ability"
+      "onNegateImmunity": false,
+      "onEffectivenessPriority": 1
     },
     "stabmonsmovelegality": {
       "effectType": "ValidatorRule",
       "name": "STABmons Move Legality",
-      "desc": "Allows Pok&eacute;mon to use any move that they or a previous evolution/out-of-battle forme share a type with",
-      "unbanlist": [
-        "Shiftry + Leaf Blade + Sucker Punch"
-      ]
-    },
-    "allowcap": {
-      "effectType": "ValidatorRule",
-      "name": "Allow CAP",
-      "desc": "Allows the use of Pok&eacute;mon, abilities, moves, and items made by the Create-A-Pok&eacute;mon project"
+      "desc": "Allows Pok&eacute;mon to use any move that they or a previous evolution/out-of-battle forme share a type with"
     },
     "allowtradeback": {
       "effectType": "ValidatorRule",
@@ -432,6 +542,41 @@
       "effectType": "ValidatorRule",
       "name": "Allow AVs",
       "desc": "Tells formats with the 'letsgo' mod to take Awakening Values into consideration when calculating stats"
+    },
+    "nfeclause": {
+      "effectType": "ValidatorRule",
+      "name": "NFE Clause",
+      "desc": "Bans all NFE Pokemon"
+    },
+    "mimicglitch": {
+      "effectType": "ValidatorRule",
+      "name": "Mimic Glitch",
+      "desc": "Allows any Pokemon with access to Assist, Copycat, Metronome, Mimic, or Transform to gain access to almost any other move."
+    },
+    "overflowstatmod": {
+      "effectType": "Rule",
+      "name": "Overflow Stat Mod",
+      "desc": "Caps stats at 654 after a positive nature, or 655 after a negative nature"
+    },
+    "formeclause": {
+      "effectType": "ValidatorRule",
+      "name": "Forme Clause",
+      "desc": "Prevents teams from having more than one Pok&eacute;mon of the same forme"
+    },
+    "350cupmod": {
+      "effectType": "Rule",
+      "name": "350 Cup Mod",
+      "desc": "If a Pok&eacute;mon's BST is 350 or lower, all of its stats get doubled."
+    },
+    "flippedmod": {
+      "effectType": "Rule",
+      "name": "Flipped Mod",
+      "desc": "Every Pok&eacute;mon's stats are reversed. HP becomes Spe, Atk becomes Sp. Def, Def becomes Sp. Atk, and vice versa."
+    },
+    "scalemonsmod": {
+      "effectType": "Rule",
+      "name": "Scalemons Mod",
+      "desc": "Every Pok&eacute;mon's stats, barring HP, are scaled to give them a BST as close to 600 as possible"
     }
   }
 }

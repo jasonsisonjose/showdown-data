@@ -1,5 +1,5 @@
 {
-  "BattlePokedex": {
+  "Pokedex": {
     "pichu": {
       "inherit": true,
       "evos": []

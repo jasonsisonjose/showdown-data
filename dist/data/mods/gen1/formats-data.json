@@ -1,5 +1,5 @@
 {
-  "BattleFormatsData": {
+  "FormatsData": {
     "bulbasaur": {
       "randomBattleMoves": [
         "sleeppowder",
@@ -158,8 +158,7 @@
     "kakuna": {
       "randomBattleMoves": [
         "poisonsting",
-        "stringshot",
-        "harden"
+        "stringshot"
       ],
       "tier": "NFE"
     },
@@ -272,18 +271,6 @@
         "hyperbeam",
         "agility"
       ],
-      "eventPokemon": [
-        {
-          "generation": 1,
-          "level": 20,
-          "moves": [
-            "growl",
-            "leer",
-            "furyattack",
-            "payday"
-          ]
-        }
-      ],
       "tier": "UU"
     },
     "ekans": {
@@ -318,31 +305,6 @@
         "thunder",
         "agility",
         "seismictoss"
-      ],
-      "eventPokemon": [
-        {
-          "generation": 1,
-          "level": 5,
-          "moves": [
-            "surf"
-          ]
-        },
-        {
-          "generation": 1,
-          "level": 5,
-          "moves": [
-            "fly"
-          ]
-        },
-        {
-          "generation": 1,
-          "level": 5,
-          "moves": [
-            "thundershock",
-            "growl",
-            "surf"
-          ]
-        }
       ],
       "tier": "LC"
     },
@@ -465,7 +427,7 @@
         "psychic",
         "seismictoss"
       ],
-      "tier": "LC"
+      "tier": "NFE"
     },
     "clefable": {
       "randomBattleMoves": [
@@ -703,16 +665,6 @@
         "rest",
         "hydropump"
       ],
-      "eventPokemon": [
-        {
-          "generation": 1,
-          "level": 15,
-          "moves": [
-            "scratch",
-            "amnesia"
-          ]
-        }
-      ],
       "tier": "LC"
     },
     "golduck": {
@@ -934,7 +886,7 @@
         "swordsdance",
         "hyperbeam"
       ],
-      "tier": "UU"
+      "tier": "OU"
     },
     "tentacool": {
       "randomBattleMoves": [
@@ -988,7 +940,7 @@
         "earthquake",
         "rockslide"
       ],
-      "tier": "OU"
+      "tier": "UU"
     },
     "ponyta": {
       "randomBattleMoves": [
@@ -1005,18 +957,6 @@
         "agility",
         "bodyslam",
         "hyperbeam"
-      ],
-      "eventPokemon": [
-        {
-          "generation": 1,
-          "level": 40,
-          "moves": [
-            "ember",
-            "firespin",
-            "stomp",
-            "payday"
-          ]
-        }
       ],
       "tier": "UU"
     },
@@ -1212,7 +1152,7 @@
         "hypnosis",
         "confuseray"
       ],
-      "tier": "NFE"
+      "tier": "UU"
     },
     "gengar": {
       "randomBattleMoves": [
@@ -1648,17 +1588,8 @@
     },
     "magikarp": {
       "randomBattleMoves": [
-        "tackle",
-        "dragonrage"
-      ],
-      "eventPokemon": [
-        {
-          "generation": 1,
-          "level": 5,
-          "moves": [
-            "dragonrage"
-          ]
-        }
+        "splash",
+        "tackle"
       ],
       "tier": "LC"
     },
@@ -1770,10 +1701,6 @@
         "rest"
       ],
       "essentialMove": "blizzard",
-      "exclusiveMoves": [
-        "surf",
-        "hydropump"
-      ],
       "tier": "LC"
     },
     "omastar": {
@@ -1942,17 +1869,11 @@
         "earthquake",
         "hyperbeam"
       ],
-      "eventPokemon": [
-        {
-          "generation": 1,
-          "level": 5,
-          "moves": [
-            "pound"
-          ]
-        }
-      ],
-      "eventOnly": true,
       "tier": "Uber"
+    },
+    "missingno": {
+      "isNonstandard": "Unobtainable",
+      "tier": "Illegal"
     }
   }
 }

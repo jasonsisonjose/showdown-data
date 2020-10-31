@@ -1,5 +1,5 @@
 {
-  "BattleMovedex": {
+  "Moves": {
     "absorb": {
       "inherit": true,
       "basePower": 40,
@@ -7,38 +7,31 @@
     },
     "baddybad": {
       "inherit": true,
-      "isNonstandard": null,
-      "isUnreleased": false
+      "isNonstandard": null
     },
     "bouncybubble": {
       "inherit": true,
-      "isNonstandard": null,
-      "isUnreleased": false
+      "isNonstandard": null
     },
     "buzzybuzz": {
       "inherit": true,
-      "isNonstandard": null,
-      "isUnreleased": false
+      "isNonstandard": null
     },
     "doubleironbash": {
       "inherit": true,
-      "isNonstandard": null,
-      "isUnreleased": false
+      "isNonstandard": null
     },
     "floatyfall": {
       "inherit": true,
-      "isNonstandard": null,
-      "isUnreleased": false
+      "isNonstandard": null
     },
     "freezyfrost": {
       "inherit": true,
-      "isNonstandard": null,
-      "isUnreleased": false
+      "isNonstandard": null
     },
     "glitzyglow": {
       "inherit": true,
-      "isNonstandard": null,
-      "isUnreleased": false
+      "isNonstandard": null
     },
     "megadrain": {
       "inherit": true,
@@ -48,19 +41,13 @@
     "metronome": {
       "inherit": true
     },
-    "pikapapow": {
-      "inherit": true,
-      "isUnreleased": false
-    },
     "sappyseed": {
       "inherit": true,
-      "isNonstandard": null,
-      "isUnreleased": false
+      "isNonstandard": null
     },
     "sizzlyslide": {
       "inherit": true,
-      "isNonstandard": null,
-      "isUnreleased": false
+      "isNonstandard": null
     },
     "solarbeam": {
       "inherit": true,
@@ -68,13 +55,11 @@
     },
     "sparklyswirl": {
       "inherit": true,
-      "isNonstandard": null,
-      "isUnreleased": false
+      "isNonstandard": null
     },
     "splishysplash": {
       "inherit": true,
-      "isNonstandard": null,
-      "isUnreleased": false
+      "isNonstandard": null
     },
     "skyattack": {
       "inherit": true,
@@ -88,14 +73,9 @@
       "selfSwitch": true,
       "onTryHit": true
     },
-    "veeveevolley": {
-      "inherit": true,
-      "isUnreleased": false
-    },
     "zippyzap": {
       "inherit": true,
-      "isNonstandard": null,
-      "isUnreleased": false
+      "isNonstandard": null
     }
   }
 }

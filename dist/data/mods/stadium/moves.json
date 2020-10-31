@@ -1,5 +1,5 @@
 {
-  "BattleMovedex": {
+  "Moves": {
     "bind": {
       "inherit": true
     },
@@ -14,6 +14,9 @@
       "desc": "If this attack misses the target, the user takes 1 HP of damage.",
       "shortDesc": "User takes 1 HP damage it would have dealt if miss."
     },
+    "hyperbeam": {
+      "inherit": true
+    },
     "jumpkick": {
       "inherit": true,
       "desc": "If this attack misses the target, the user 1HP of damage.",
@@ -21,7 +24,7 @@
     },
     "leechseed": {
       "inherit": true,
-      "effect": {
+      "condition": {
         "onAfterMoveSelfPriority": 1
       }
     },
@@ -30,7 +33,7 @@
       "self": {
         "volatileStatus": "rage"
       },
-      "effect": {
+      "condition": {
         "duration": 255,
         "onLockMove": "rage"
       }
@@ -48,12 +51,18 @@
     },
     "substitute": {
       "inherit": true,
-      "effect": {
+      "condition": {
         "onTryHitPriority": -1
       },
       "secondary": null,
       "target": "self",
       "type": "Normal"
+    },
+    "struggle": {
+      "inherit": true,
+      "ignoreImmunity": {
+        "Normal": true
+      }
     },
     "wrap": {
       "inherit": true

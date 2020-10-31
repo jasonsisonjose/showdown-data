@@ -1,5 +1,5 @@
 {
-  "BattleItems": {
+  "Items": {
     "burndrive": {
       "inherit": true,
       "desc": "Changes Genesect to Genesect-Burn."
@@ -53,7 +53,7 @@
     },
     "stick": {
       "inherit": true,
-      "desc": "Raises Farfetch'd's critical hit rate two stages."
+      "desc": "Raises Farfetch’d's critical hit rate two stages."
     }
   }
 }

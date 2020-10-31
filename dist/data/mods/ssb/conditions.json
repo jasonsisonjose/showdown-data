@@ -1,0 +1,448 @@
+{
+  "Conditions": {
+    "2xthetap": {
+      "noCopy": true
+    },
+    "5gen": {
+      "noCopy": true
+    },
+    "aelita": {
+      "noCopy": true
+    },
+    "aeonic": {
+      "noCopy": true
+    },
+    "aethernum": {
+      "noCopy": true
+    },
+    "akiamara": {
+      "noCopy": true
+    },
+    "akir": {
+      "noCopy": true
+    },
+    "alpha": {
+      "noCopy": true
+    },
+    "andrew": {
+      "noCopy": true
+    },
+    "anubis": {
+      "noCopy": true
+    },
+    "aquagtothepast": {
+      "noCopy": true
+    },
+    "arandomduck": {
+      "noCopy": true
+    },
+    "arcticblast": {
+      "noCopy": true
+    },
+    "arsenal": {
+      "noCopy": true
+    },
+    "averardo": {
+      "noCopy": true
+    },
+    "beowulf": {
+      "noCopy": true
+    },
+    "biggie": {
+      "noCopy": true
+    },
+    "birdy": {
+      "noCopy": true,
+      "onModifyDefPriority": 6,
+      "onModifySpDPriority": 6
+    },
+    "bobochan": {
+      "noCopy": true
+    },
+    "brandon": {
+      "noCopy": true
+    },
+    "cake": {
+      "noCopy": true,
+      "onModifyDefPriority": 6,
+      "onModifySpDPriority": 6
+    },
+    "cantsay": {
+      "noCopy": true
+    },
+    "catalystic": {
+      "noCopy": true
+    },
+    "celestial": {
+      "noCopy": true
+    },
+    "ceteris": {
+      "noCopy": true
+    },
+    "chaos": {
+      "noCopy": true
+    },
+    "chloe": {
+      "noCopy": true
+    },
+    "ckilgannon": {
+      "noCopy": true
+    },
+    "darth": {
+      "noCopy": true
+    },
+    "dawoblefet": {
+      "noCopy": true
+    },
+    "decem": {
+      "noCopy": true
+    },
+    "deetah": {
+      "noCopy": true
+    },
+    "dragonwhale": {
+      "noCopy": true
+    },
+    "e4flint": {
+      "noCopy": true
+    },
+    "eien": {
+      "noCopy": true
+    },
+    "elgino": {
+      "noCopy": true,
+      "onDamagePriority": 1
+    },
+    "eternally": {
+      "noCopy": true
+    },
+    "explodingdaisies": {
+      "noCopy": true
+    },
+    "false": {
+      "noCopy": true
+    },
+    "fart": {
+      "noCopy": true
+    },
+    "felucia": {
+      "noCopy": true
+    },
+    "fomg": {
+      "noCopy": true
+    },
+    "gallantspear": {
+      "noCopy": true
+    },
+    "gimm1ck": {
+      "noCopy": true
+    },
+    "gmars": {
+      "noCopy": true
+    },
+    "grimauxiliatrix": {
+      "noCopy": true
+    },
+    "guishark": {
+      "noCopy": true
+    },
+    "hippopotasuser": {
+      "noCopy": true
+    },
+    "hoeenhero": {
+      "noCopy": true
+    },
+    "hubriz": {
+      "noCopy": true
+    },
+    "inactive": {
+      "noCopy": true
+    },
+    "instruct": {
+      "noCopy": true
+    },
+    "irritated": {
+      "noCopy": true
+    },
+    "iyarito": {
+      "noCopy": true
+    },
+    "kaijubunny": {
+      "noCopy": true
+    },
+    "kalalokki": {
+      "noCopy": true
+    },
+    "kaori": {
+      "noCopy": true
+    },
+    "kay": {
+      "noCopy": true
+    },
+    "kie": {
+      "noCopy": true
+    },
+    "kingswordyt": {
+      "noCopy": true
+    },
+    "kipkluif": {
+      "noCopy": true,
+      "onBasePowerPriority": 8
+    },
+    "kris": {
+      "noCopy": true
+    },
+    "level51": {
+      "noCopy": true
+    },
+    "lifeisdank": {
+      "noCopy": true
+    },
+    "lostseso": {
+      "noCopy": true
+    },
+    "macchaeger": {
+      "noCopy": true
+    },
+    "madmonty": {
+      "noCopy": true
+    },
+    "majorbowman": {
+      "noCopy": true
+    },
+    "marshmallon": {
+      "noCopy": true
+    },
+    "martha": {
+      "noCopy": true
+    },
+    "marty": {
+      "noCopy": true
+    },
+    "meicoo": {
+      "noCopy": true
+    },
+    "megazard": {
+      "noCopy": true
+    },
+    "mitsuki": {
+      "noCopy": true
+    },
+    "morfent": {
+      "noCopy": true
+    },
+    "nui": {
+      "noCopy": true
+    },
+    "om": {
+      "noCopy": true
+    },
+    "overneat": {
+      "noCopy": true
+    },
+    "pablo": {
+      "noCopy": true
+    },
+    "paradise": {
+      "noCopy": true
+    },
+    "pirateprincess": {
+      "noCopy": true
+    },
+    "pluviometer": {
+      "noCopy": true
+    },
+    "pohjis": {
+      "noCopy": true
+    },
+    "pre": {
+      "noCopy": true
+    },
+    "psynergy": {
+      "noCopy": true
+    },
+    "ptoad": {
+      "noCopy": true
+    },
+    "quitequiet": {
+      "noCopy": true,
+      "onModifyDefPriority": 6,
+      "onModifySpDPriority": 6
+    },
+    "rach": {
+      "noCopy": true
+    },
+    "rageuser": {
+      "noCopy": true
+    },
+    "ransei": {
+      "noCopy": true
+    },
+    "rorymercury": {
+      "noCopy": true
+    },
+    "samjo": {
+      "noCopy": true
+    },
+    "schiavetto": {
+      "noCopy": true
+    },
+    "scotteh": {
+      "noCopy": true
+    },
+    "shiba": {
+      "noCopy": true
+    },
+    "slowbroth": {
+      "noCopy": true
+    },
+    "snaquaza": {
+      "noCopy": true
+    },
+    "sparksblade": {
+      "noCopy": true
+    },
+    "sundar": {
+      "noCopy": true
+    },
+    "teclis": {
+      "noCopy": true
+    },
+    "tennisace": {
+      "noCopy": true
+    },
+    "teremiare": {
+      "noCopy": true
+    },
+    "theimmortal": {
+      "noCopy": true
+    },
+    "theleprechaun": {
+      "noCopy": true
+    },
+    "tony": {
+      "noCopy": true
+    },
+    "torkool": {
+      "noCopy": true
+    },
+    "trickster": {
+      "noCopy": true
+    },
+    "vivalospride": {
+      "noCopy": true
+    },
+    "volco": {
+      "noCopy": true
+    },
+    "xayah": {
+      "noCopy": true
+    },
+    "xfix": {
+      "noCopy": true
+    },
+    "xjoelituh": {
+      "noCopy": true
+    },
+    "xprienzo": {
+      "noCopy": true
+    },
+    "yuki": {
+      "noCopy": true
+    },
+    "zalm": {
+      "noCopy": true
+    },
+    "zarel": {
+      "noCopy": true
+    },
+    "zyguser": {
+      "noCopy": true
+    },
+    "boostreplacement": {
+      "name": "boostreplacement",
+      "onSwitchInPriority": 1
+    },
+    "glitchout": {
+      "name": "Glitch Out",
+      "duration": 1
+    },
+    "arceus": {
+      "inherit": true
+    },
+    "weightdoubler": {
+      "name": "Weight Doubler",
+      "noCopy": true
+    },
+    "gooey": {
+      "name": "Gooey",
+      "onResidualOrder": 10
+    },
+    "acidrain": {
+      "name": "Acid Rain",
+      "effectType": "Weather",
+      "duration": 5,
+      "onModifySpDPriority": 10,
+      "onResidualOrder": 1,
+      "onModifyMovePriority": -5
+    },
+    "enrageeeeed": {
+      "name": "Enrageeeeed"
+    },
+    "cutietrap": {
+      "name": "Cutie Trap",
+      "duration": 5,
+      "noCopy": true,
+      "onBeforeMovePriority": 2
+    },
+    "hail": {
+      "inherit": true
+    },
+    "batonpasshelper": {
+      "name": "Baton Pass Helper",
+      "duration": 1,
+      "onSwitchInPriority": 1000
+    },
+    "auroraveil": {
+      "name": "Aurora Veil",
+      "duration": 5,
+      "onResidualOrder": 21,
+      "onResidualSubOrder": 1
+    },
+    "lightscreen": {
+      "name": "Light Screen",
+      "duration": 5,
+      "onResidualOrder": 21,
+      "onResidualSubOrder": 1
+    },
+    "mist": {
+      "name": "Mist",
+      "duration": 5,
+      "onResidualOrder": 21,
+      "onResidualSubOrder": 3
+    },
+    "reflect": {
+      "name": "Reflect",
+      "duration": 5,
+      "onResidualOrder": 21
+    },
+    "safeguard": {
+      "name": "Safeguard",
+      "duration": 5,
+      "onResidualOrder": 21,
+      "onResidualSubOrder": 2
+    },
+    "spikes": {
+      "name": "Spikes"
+    },
+    "stealthrock": {
+      "name": "Stealth Rock"
+    },
+    "stickyweb": {
+      "name": "Sticky Web"
+    },
+    "toxicspikes": {
+      "name": "Toxic Spikes"
+    }
+  }
+}

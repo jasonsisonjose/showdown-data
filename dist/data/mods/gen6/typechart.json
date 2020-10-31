@@ -1,5 +1,5 @@
 {
-  "BattleTypeChart": {
+  "TypeChart": {
     "Dark": {
       "inherit": true,
       "damageTaken": {

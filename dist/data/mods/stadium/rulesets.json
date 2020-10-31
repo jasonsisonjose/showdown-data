@@ -1,9 +1,10 @@
 {
-  "BattleFormats": {
+  "Formats": {
     "standard": {
       "effectType": "ValidatorRule",
       "name": "Standard",
       "ruleset": [
+        "Obtainable",
         "Sleep Clause Mod",
         "Freeze Clause Mod",
         "Species Clause",
@@ -11,10 +12,6 @@
         "Evasion Moves Clause",
         "Exact HP Mod",
         "Cancel Mod"
-      ],
-      "banlist": [
-        "Unreleased",
-        "Illegal"
       ]
     }
   }

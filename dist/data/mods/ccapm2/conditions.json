@@ -1,0 +1,13 @@
+{
+  "Conditions": {
+    "par": {
+      "inherit": true
+    },
+    "slp": {
+      "inherit": true
+    },
+    "frz": {
+      "inherit": true
+    }
+  }
+}

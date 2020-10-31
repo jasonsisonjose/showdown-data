@@ -1,0 +1,10 @@
+{
+  "Conditions": {
+    "sweetveilscreen": {
+      "name": "SweetVeilScreen",
+      "duration": 5,
+      "onResidualOrder": 5,
+      "onResidualSubOrder": 2
+    }
+  }
+}

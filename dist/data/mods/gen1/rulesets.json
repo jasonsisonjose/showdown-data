@@ -1,41 +1,38 @@
 {
-  "BattleFormats": {
-    "pokemon": {
-      "effectType": "ValidatorRule",
-      "name": "Pokemon"
-    },
+  "Formats": {
     "standard": {
       "effectType": "ValidatorRule",
       "name": "Standard",
       "ruleset": [
+        "Obtainable",
         "Sleep Clause Mod",
         "Freeze Clause Mod",
         "Species Clause",
         "OHKO Clause",
         "Evasion Moves Clause",
+        "Endless Battle Clause",
         "HP Percentage Mod",
         "Cancel Mod"
       ],
       "banlist": [
-        "Unreleased",
-        "Illegal",
         "Dig",
-        "Fly",
-        "Kakuna + Poison Sting + Harden",
-        "Kakuna + String Shot + Harden",
-        "Beedrill + Poison Sting + Harden",
-        "Beedrill + String Shot + Harden",
-        "Nidoking + Fury Attack + Thrash",
-        "Exeggutor + Poison Powder + Stomp",
-        "Exeggutor + Sleep Powder + Stomp",
-        "Exeggutor + Stun Spore + Stomp",
-        "Eevee + Tackle + Growl",
-        "Vaporeon + Tackle + Growl",
-        "Jolteon + Tackle + Growl",
-        "Jolteon + Focus Energy + Thunder Shock",
-        "Flareon + Tackle + Growl",
-        "Flareon + Focus Energy + Ember"
+        "Fly"
       ]
+    },
+    "350cupmod": {
+      "effectType": "Rule",
+      "name": "350 Cup Mod",
+      "desc": "If a Pok&eacute;mon's BST is 350 or lower, all of its stats get doubled."
+    },
+    "flippedmod": {
+      "effectType": "Rule",
+      "name": "Flipped Mod",
+      "desc": "Every Pok&eacute;mon's stats are reversed. HP becomes Spe, Atk becomes Spc, Def stays the same."
+    },
+    "scalemonsmod": {
+      "effectType": "Rule",
+      "name": "Scalemons Mod",
+      "desc": "Every Pok&eacute;mon's stats, barring HP, are scaled to give them a BST as close to 500 as possible"
     }
   }
 }

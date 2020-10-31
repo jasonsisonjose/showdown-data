@@ -1,5 +1,5 @@
 {
-  "BattleFormatsData": {
+  "FormatsData": {
     "aegislash": {
       "inherit": true,
       "tier": "OU"

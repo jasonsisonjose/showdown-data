@@ -1,5 +1,5 @@
 {
-  "BattleScripts": {
+  "Scripts": {
     "inherit": "gen1",
     "gen": 1,
     "pokemon": {

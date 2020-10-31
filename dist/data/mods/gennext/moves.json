@@ -1,5 +1,5 @@
 {
-  "BattleMovedex": {
+  "Moves": {
     "aerialace": {
       "inherit": true,
       "basePower": 90
@@ -95,28 +95,28 @@
     },
     "substitute": {
       "inherit": true,
-      "effect": {
+      "condition": {
         "onAccuracyPriority": -100,
         "onTryPrimaryHitPriority": 2
       }
     },
     "protect": {
       "inherit": true,
-      "effect": {
+      "condition": {
         "duration": 1,
         "onTryHitPriority": 3
       }
     },
     "kingsshield": {
       "inherit": true,
-      "effect": {
+      "condition": {
         "duration": 1,
         "onTryHitPriority": 3
       }
     },
     "spikyshield": {
       "inherit": true,
-      "effect": {
+      "condition": {
         "duration": 1,
         "onTryHitPriority": 3
       }
@@ -142,7 +142,7 @@
       "basePower": 80,
       "willCrit": true,
       "accuracy": true,
-      "effect": {
+      "condition": {
         "duration": 2,
         "onLockMove": "solarbeam"
       },
@@ -432,7 +432,7 @@
     },
     "bide": {
       "inherit": true,
-      "effect": {
+      "condition": {
         "duration": 2,
         "onLockMove": "bide",
         "onDamagePriority": -11
@@ -494,7 +494,7 @@
     },
     "stealthrock": {
       "inherit": true,
-      "effect": {},
+      "condition": {},
       "desc": "Sets up a hazard on the foe's side of the field. Flying types take 1/4 of their max HP from this hazard. Everything else takes 1/8 of their max HP. Can be removed from the foe's side if any foe uses Rapid Spin or Defog, or is hit by Defog.",
       "shortDesc": "Hurts foes on switch-in (1/8 for every type except Flying types take 1/4)."
     },
@@ -703,7 +703,6 @@
     "echoedvoice": {
       "inherit": true,
       "basePower": 80,
-      "isViable": true,
       "ignoreImmunity": true,
       "desc": "Deals damage two turns after this move is used. At the end of that turn, the damage is calculated at that time and dealt to the Pokemon at the position the target had when the move was used. If the user is no longer active at the time, damage is calculated based on the user's natural Special Attack stat, types, and level, with no boosts from its held item or Ability. Fails if this move or Future Sight is already in effect for the target's position.",
       "shortDesc": "Hits two turns after being used."
@@ -1362,6 +1361,44 @@
       "secondary": {
         "chance": 10
       }
+    },
+    "magikarpsrevenge": {
+      "num": 0,
+      "accuracy": true,
+      "basePower": 120,
+      "category": "Physical",
+      "desc": "Has a 100% chance to confuse the target and lower its Defense and Special Attack by 1 stage. The user recovers 1/2 the HP lost by the target, rounded half up. If Big Root is held by the user, the HP recovered is 1.3x normal, rounded half down. The user steals the foe's boosts. If this move is successful, the weather changes to rain unless it is already in effect, and the user gains the effects of Aqua Ring and Magic Coat.",
+      "shortDesc": "Does many things turn 1. Can't move turn 2.",
+      "name": "Magikarp's Revenge",
+      "pp": 10,
+      "priority": 0,
+      "flags": {
+        "contact": 1,
+        "recharge": 1,
+        "protect": 1,
+        "mirror": 1,
+        "heal": 1
+      },
+      "noSketch": true,
+      "drain": [
+        1,
+        2
+      ],
+      "self": {
+        "volatileStatus": "mustrecharge"
+      },
+      "secondary": {
+        "chance": 100,
+        "volatileStatus": "confusion",
+        "boosts": {
+          "def": -1,
+          "spa": -1
+        }
+      },
+      "stealsBoosts": true,
+      "target": "normal",
+      "type": "Water",
+      "contestType": "Cute"
     }
   }
 }

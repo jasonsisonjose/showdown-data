@@ -1,81 +1,91 @@
 {
-  "BattleItems": {
+  "Items": {
     "abomasite": {
-      "id": "abomasite",
       "name": "Abomasite",
       "spritenum": 575,
       "megaStone": "Abomasnow-Mega",
       "megaEvolves": "Abomasnow",
+      "itemUser": [
+        "Abomasnow"
+      ],
       "num": 674,
       "gen": 6,
-      "desc": "If held by an Abomasnow, this item allows it to Mega Evolve in battle."
+      "isNonstandard": "Past"
     },
     "absolite": {
-      "id": "absolite",
       "name": "Absolite",
       "spritenum": 576,
       "megaStone": "Absol-Mega",
       "megaEvolves": "Absol",
+      "itemUser": [
+        "Absol"
+      ],
       "num": 677,
       "gen": 6,
-      "desc": "If held by an Absol, this item allows it to Mega Evolve in battle."
+      "isNonstandard": "Past"
     },
     "absorbbulb": {
-      "id": "absorbbulb",
       "name": "Absorb Bulb",
       "spritenum": 2,
       "fling": {
         "basePower": 30
       },
+      "boosts": {
+        "spa": 1
+      },
       "num": 545,
-      "gen": 5,
-      "desc": "Raises holder's Sp. Atk by 1 stage if hit by a Water-type attack. Single use."
+      "gen": 5
     },
     "adamantorb": {
-      "id": "adamantorb",
       "name": "Adamant Orb",
       "spritenum": 4,
       "fling": {
         "basePower": 60
       },
-      "onBasePowerPriority": 6,
+      "onBasePowerPriority": 15,
+      "itemUser": [
+        "Dialga"
+      ],
       "num": 135,
-      "gen": 4,
-      "desc": "If held by a Dialga, its Steel- and Dragon-type attacks have 1.2x power."
+      "gen": 4
     },
     "adrenalineorb": {
-      "id": "adrenalineorb",
       "name": "Adrenaline Orb",
       "spritenum": 660,
       "fling": {
         "basePower": 30
       },
+      "boosts": {
+        "spe": 1
+      },
       "num": 846,
-      "gen": 7,
-      "desc": "Raises holder's Speed by 1 stage if it gets affected by Intimidate. Single use."
+      "gen": 7
     },
     "aerodactylite": {
-      "id": "aerodactylite",
       "name": "Aerodactylite",
       "spritenum": 577,
       "megaStone": "Aerodactyl-Mega",
       "megaEvolves": "Aerodactyl",
+      "itemUser": [
+        "Aerodactyl"
+      ],
       "num": 672,
       "gen": 6,
-      "desc": "If held by an Aerodactyl, this item allows it to Mega Evolve in battle."
+      "isNonstandard": "Past"
     },
     "aggronite": {
-      "id": "aggronite",
       "name": "Aggronite",
       "spritenum": 578,
       "megaStone": "Aggron-Mega",
       "megaEvolves": "Aggron",
+      "itemUser": [
+        "Aggron"
+      ],
       "num": 667,
       "gen": 6,
-      "desc": "If held by an Aggron, this item allows it to Mega Evolve in battle."
+      "isNonstandard": "Past"
     },
     "aguavberry": {
-      "id": "aguavberry",
       "name": "Aguav Berry",
       "spritenum": 5,
       "isBerry": true,
@@ -84,66 +94,67 @@
         "type": "Dragon"
       },
       "num": 162,
-      "gen": 3,
-      "desc": "Restores 1/2 max HP at 1/4 max HP or less; confuses if -SpD Nature. Single use."
+      "gen": 3
     },
     "airballoon": {
-      "id": "airballoon",
       "name": "Air Balloon",
       "spritenum": 6,
       "fling": {
         "basePower": 10
       },
       "num": 541,
-      "gen": 5,
-      "desc": "Holder is immune to Ground-type attacks. Pops when holder is hit."
+      "gen": 5
     },
     "alakazite": {
-      "id": "alakazite",
       "name": "Alakazite",
       "spritenum": 579,
       "megaStone": "Alakazam-Mega",
       "megaEvolves": "Alakazam",
+      "itemUser": [
+        "Alakazam"
+      ],
       "num": 679,
       "gen": 6,
-      "desc": "If held by an Alakazam, this item allows it to Mega Evolve in battle."
+      "isNonstandard": "Past"
     },
     "aloraichiumz": {
-      "id": "aloraichiumz",
       "name": "Aloraichium Z",
       "spritenum": 655,
       "onTakeItem": false,
       "zMove": "Stoked Sparksurfer",
       "zMoveFrom": "Thunderbolt",
-      "zMoveUser": [
+      "itemUser": [
         "Raichu-Alola"
       ],
       "num": 803,
       "gen": 7,
-      "desc": "If held by an Alolan Raichu with Thunderbolt, it can use Stoked Sparksurfer."
+      "isNonstandard": "Past"
     },
     "altarianite": {
-      "id": "altarianite",
       "name": "Altarianite",
       "spritenum": 615,
       "megaStone": "Altaria-Mega",
       "megaEvolves": "Altaria",
+      "itemUser": [
+        "Altaria"
+      ],
       "num": 755,
       "gen": 6,
-      "desc": "If held by an Altaria, this item allows it to Mega Evolve in battle."
+      "isNonstandard": "Past"
     },
     "ampharosite": {
-      "id": "ampharosite",
       "name": "Ampharosite",
       "spritenum": 580,
       "megaStone": "Ampharos-Mega",
       "megaEvolves": "Ampharos",
+      "itemUser": [
+        "Ampharos"
+      ],
       "num": 658,
       "gen": 6,
-      "desc": "If held by an Ampharos, this item allows it to Mega Evolve in battle."
+      "isNonstandard": "Past"
     },
     "apicotberry": {
-      "id": "apicotberry",
       "name": "Apicot Berry",
       "spritenum": 10,
       "isBerry": true,
@@ -152,11 +163,9 @@
         "type": "Ground"
       },
       "num": 205,
-      "gen": 3,
-      "desc": "Raises holder's Sp. Def by 1 stage when at 1/4 max HP or less. Single use."
+      "gen": 3
     },
     "armorfossil": {
-      "id": "armorfossil",
       "name": "Armor Fossil",
       "spritenum": 12,
       "fling": {
@@ -164,10 +173,9 @@
       },
       "num": 104,
       "gen": 4,
-      "desc": "Can be revived into Shieldon."
+      "isNonstandard": "Past"
     },
     "aspearberry": {
-      "id": "aspearberry",
       "name": "Aspear Berry",
       "spritenum": 13,
       "isBerry": true,
@@ -176,11 +184,9 @@
         "type": "Ice"
       },
       "num": 153,
-      "gen": 3,
-      "desc": "Holder is cured if it is frozen. Single use."
+      "gen": 3
     },
     "assaultvest": {
-      "id": "assaultvest",
       "name": "Assault Vest",
       "spritenum": 581,
       "fling": {
@@ -188,21 +194,21 @@
       },
       "onModifySpDPriority": 1,
       "num": 640,
-      "gen": 6,
-      "desc": "Holder's Sp. Def is 1.5x, but it can only select damaging moves."
+      "gen": 6
     },
     "audinite": {
-      "id": "audinite",
       "name": "Audinite",
       "spritenum": 617,
       "megaStone": "Audino-Mega",
       "megaEvolves": "Audino",
+      "itemUser": [
+        "Audino"
+      ],
       "num": 757,
       "gen": 6,
-      "desc": "If held by an Audino, this item allows it to Mega Evolve in battle."
+      "isNonstandard": "Past"
     },
     "babiriberry": {
-      "id": "babiriberry",
       "name": "Babiri Berry",
       "spritenum": 17,
       "isBerry": true,
@@ -211,41 +217,41 @@
         "type": "Steel"
       },
       "num": 199,
-      "gen": 4,
-      "desc": "Halves damage taken from a supereffective Steel-type attack. Single use."
+      "gen": 4
     },
     "banettite": {
-      "id": "banettite",
       "name": "Banettite",
       "spritenum": 582,
       "megaStone": "Banette-Mega",
       "megaEvolves": "Banette",
+      "itemUser": [
+        "Banette"
+      ],
       "num": 668,
       "gen": 6,
-      "desc": "If held by a Banette, this item allows it to Mega Evolve in battle."
+      "isNonstandard": "Past"
     },
     "beastball": {
-      "id": "beastball",
       "name": "Beast Ball",
       "spritenum": 661,
       "num": 851,
       "gen": 7,
-      "desc": "A special Poke Ball designed to catch Ultra Beasts."
+      "isPokeball": true
     },
     "beedrillite": {
-      "id": "beedrillite",
       "name": "Beedrillite",
       "spritenum": 628,
       "megaStone": "Beedrill-Mega",
       "megaEvolves": "Beedrill",
+      "itemUser": [
+        "Beedrill"
+      ],
       "num": 770,
       "gen": 6,
-      "desc": "If held by a Beedrill, this item allows it to Mega Evolve in battle."
+      "isNonstandard": "Past"
     },
     "belueberry": {
-      "id": "belueberry",
       "name": "Belue Berry",
-      "isUnreleased": true,
       "spritenum": 21,
       "isBerry": true,
       "naturalGift": {
@@ -255,21 +261,27 @@
       "onEat": false,
       "num": 183,
       "gen": 3,
-      "desc": "Cannot be eaten by the holder. No effect when eaten with Bug Bite or Pluck."
+      "isNonstandard": "Past"
     },
     "berryjuice": {
-      "id": "berryjuice",
       "name": "Berry Juice",
       "spritenum": 22,
       "fling": {
         "basePower": 30
       },
       "num": 43,
-      "gen": 2,
-      "desc": "Restores 20 HP when at 1/2 max HP or less. Single use."
+      "gen": 2
+    },
+    "berrysweet": {
+      "name": "Berry Sweet",
+      "spritenum": 706,
+      "fling": {
+        "basePower": 10
+      },
+      "num": 1111,
+      "gen": 8
     },
     "bigroot": {
-      "id": "bigroot",
       "name": "Big Root",
       "spritenum": 29,
       "fling": {
@@ -277,87 +289,83 @@
       },
       "onTryHealPriority": 1,
       "num": 296,
-      "gen": 4,
-      "desc": "Holder gains 1.3x HP from draining/Aqua Ring/Ingrain/Leech Seed/Strength Sap."
+      "gen": 4
     },
     "bindingband": {
-      "id": "bindingband",
       "name": "Binding Band",
       "spritenum": 31,
       "fling": {
         "basePower": 30
       },
       "num": 544,
-      "gen": 5,
-      "desc": "Holder's partial-trapping moves deal 1/6 max HP per turn instead of 1/8."
+      "gen": 5
     },
     "blackbelt": {
-      "id": "blackbelt",
       "name": "Black Belt",
       "spritenum": 32,
       "fling": {
         "basePower": 30
       },
-      "onBasePowerPriority": 6,
+      "onBasePowerPriority": 15,
       "num": 241,
-      "gen": 2,
-      "desc": "Holder's Fighting-type attacks have 1.2x power."
+      "gen": 2
     },
     "blacksludge": {
-      "id": "blacksludge",
       "name": "Black Sludge",
       "spritenum": 34,
       "fling": {
         "basePower": 30
       },
       "onResidualOrder": 5,
-      "onResidualSubOrder": 2,
+      "onResidualSubOrder": 5,
       "num": 281,
-      "gen": 4,
-      "desc": "Each turn, if holder is a Poison type, restores 1/16 max HP; loses 1/8 if not."
+      "gen": 4
     },
     "blackglasses": {
-      "id": "blackglasses",
       "name": "Black Glasses",
       "spritenum": 35,
       "fling": {
         "basePower": 30
       },
-      "onBasePowerPriority": 6,
+      "onBasePowerPriority": 15,
       "num": 240,
-      "gen": 2,
-      "desc": "Holder's Dark-type attacks have 1.2x power."
+      "gen": 2
     },
     "blastoisinite": {
-      "id": "blastoisinite",
       "name": "Blastoisinite",
       "spritenum": 583,
       "megaStone": "Blastoise-Mega",
       "megaEvolves": "Blastoise",
+      "itemUser": [
+        "Blastoise"
+      ],
       "num": 661,
       "gen": 6,
-      "desc": "If held by a Blastoise, this item allows it to Mega Evolve in battle."
+      "isNonstandard": "Past"
     },
     "blazikenite": {
-      "id": "blazikenite",
       "name": "Blazikenite",
       "spritenum": 584,
       "megaStone": "Blaziken-Mega",
       "megaEvolves": "Blaziken",
+      "itemUser": [
+        "Blaziken"
+      ],
       "num": 664,
       "gen": 6,
-      "desc": "If held by a Blaziken, this item allows it to Mega Evolve in battle."
+      "isNonstandard": "Past"
     },
     "blueorb": {
-      "id": "blueorb",
       "name": "Blue Orb",
       "spritenum": 41,
+      "itemUser": [
+        "Kyogre"
+      ],
       "num": 535,
       "gen": 6,
-      "desc": "If held by a Kyogre, this item triggers its Primal Reversion in battle."
+      "isNonstandard": "Past"
     },
     "blukberry": {
-      "id": "blukberry",
       "name": "Bluk Berry",
       "spritenum": 44,
       "isBerry": true,
@@ -367,53 +375,56 @@
       },
       "onEat": false,
       "num": 165,
-      "gen": 3,
-      "desc": "Cannot be eaten by the holder. No effect when eaten with Bug Bite or Pluck."
+      "gen": 3
+    },
+    "blunderpolicy": {
+      "name": "Blunder Policy",
+      "spritenum": 716,
+      "fling": {
+        "basePower": 80
+      },
+      "num": 1121,
+      "gen": 8
     },
     "bottlecap": {
-      "id": "bottlecap",
       "name": "Bottle Cap",
       "spritenum": 696,
       "fling": {
         "basePower": 30
       },
       "num": 795,
-      "gen": 7,
-      "desc": "Used for Hyper Training. One of a Pokemon's stats is calculated with an IV of 31."
+      "gen": 7
     },
     "brightpowder": {
-      "id": "brightpowder",
       "name": "Bright Powder",
       "spritenum": 51,
       "fling": {
         "basePower": 10
       },
+      "onModifyAccuracyPriority": 5,
       "num": 213,
-      "gen": 2,
-      "desc": "The accuracy of attacks against the holder is 0.9x."
+      "gen": 2
     },
     "buggem": {
-      "id": "buggem",
       "name": "Bug Gem",
-      "isUnreleased": true,
       "spritenum": 53,
       "isGem": true,
       "num": 558,
       "gen": 5,
-      "desc": "Holder's first successful Bug-type attack will have 1.3x power. Single use."
+      "isNonstandard": "Past"
     },
     "bugmemory": {
-      "id": "bugmemory",
       "name": "Bug Memory",
       "spritenum": 673,
       "onMemory": "Bug",
       "forcedForme": "Silvally-Bug",
+      "itemUser": [
+        "Silvally-Bug"
+      ],
       "num": 909,
-      "gen": 7,
-      "desc": "Holder's Multi-Attack is Bug type."
+      "gen": 7
     },
     "buginiumz": {
-      "id": "buginiumz",
       "name": "Buginium Z",
       "spritenum": 642,
       "onPlate": "Bug",
@@ -423,73 +434,78 @@
       "forcedForme": "Arceus-Bug",
       "num": 787,
       "gen": 7,
-      "desc": "If holder has a Bug move, this item allows it to use a Bug Z-Move."
+      "isNonstandard": "Past"
     },
     "burndrive": {
-      "id": "burndrive",
       "name": "Burn Drive",
       "spritenum": 54,
       "onDrive": "Fire",
       "forcedForme": "Genesect-Burn",
+      "itemUser": [
+        "Genesect-Burn"
+      ],
       "num": 118,
-      "gen": 5,
-      "desc": "Holder's Techno Blast is Fire type."
+      "gen": 5
     },
     "cameruptite": {
-      "id": "cameruptite",
       "name": "Cameruptite",
       "spritenum": 625,
       "megaStone": "Camerupt-Mega",
       "megaEvolves": "Camerupt",
+      "itemUser": [
+        "Camerupt"
+      ],
       "num": 767,
       "gen": 6,
-      "desc": "If held by a Camerupt, this item allows it to Mega Evolve in battle."
+      "isNonstandard": "Past"
     },
     "cellbattery": {
-      "id": "cellbattery",
       "name": "Cell Battery",
       "spritenum": 60,
       "fling": {
         "basePower": 30
       },
+      "boosts": {
+        "atk": 1
+      },
       "num": 546,
-      "gen": 5,
-      "desc": "Raises holder's Attack by 1 if hit by an Electric-type attack. Single use."
+      "gen": 5
     },
     "charcoal": {
-      "id": "charcoal",
       "name": "Charcoal",
       "spritenum": 61,
       "fling": {
         "basePower": 30
       },
-      "onBasePowerPriority": 6,
+      "onBasePowerPriority": 15,
       "num": 249,
-      "gen": 2,
-      "desc": "Holder's Fire-type attacks have 1.2x power."
+      "gen": 2
     },
     "charizarditex": {
-      "id": "charizarditex",
       "name": "Charizardite X",
       "spritenum": 585,
       "megaStone": "Charizard-Mega-X",
       "megaEvolves": "Charizard",
+      "itemUser": [
+        "Charizard"
+      ],
       "num": 660,
       "gen": 6,
-      "desc": "If held by a Charizard, this item allows it to Mega Evolve in battle."
+      "isNonstandard": "Past"
     },
     "charizarditey": {
-      "id": "charizarditey",
       "name": "Charizardite Y",
       "spritenum": 586,
       "megaStone": "Charizard-Mega-Y",
       "megaEvolves": "Charizard",
+      "itemUser": [
+        "Charizard"
+      ],
       "num": 678,
       "gen": 6,
-      "desc": "If held by a Charizard, this item allows it to Mega Evolve in battle."
+      "isNonstandard": "Past"
     },
     "chartiberry": {
-      "id": "chartiberry",
       "name": "Charti Berry",
       "spritenum": 62,
       "isBerry": true,
@@ -498,11 +514,9 @@
         "type": "Rock"
       },
       "num": 195,
-      "gen": 4,
-      "desc": "Halves damage taken from a supereffective Rock-type attack. Single use."
+      "gen": 4
     },
     "cheriberry": {
-      "id": "cheriberry",
       "name": "Cheri Berry",
       "spritenum": 63,
       "isBerry": true,
@@ -511,19 +525,16 @@
         "type": "Fire"
       },
       "num": 149,
-      "gen": 3,
-      "desc": "Holder cures itself if it is paralyzed. Single use."
+      "gen": 3
     },
     "cherishball": {
-      "id": "cherishball",
       "name": "Cherish Ball",
       "spritenum": 64,
       "num": 16,
       "gen": 4,
-      "desc": "A rare Poke Ball that has been crafted to commemorate an occasion."
+      "isPokeball": true
     },
     "chestoberry": {
-      "id": "chestoberry",
       "name": "Chesto Berry",
       "spritenum": 65,
       "isBerry": true,
@@ -532,11 +543,9 @@
         "type": "Water"
       },
       "num": 150,
-      "gen": 3,
-      "desc": "Holder wakes up if it is asleep. Single use."
+      "gen": 3
     },
     "chilanberry": {
-      "id": "chilanberry",
       "name": "Chilan Berry",
       "spritenum": 66,
       "isBerry": true,
@@ -545,21 +554,29 @@
         "type": "Normal"
       },
       "num": 200,
-      "gen": 4,
-      "desc": "Halves damage taken from a Normal-type attack. Single use."
+      "gen": 4
     },
     "chilldrive": {
-      "id": "chilldrive",
       "name": "Chill Drive",
       "spritenum": 67,
       "onDrive": "Ice",
       "forcedForme": "Genesect-Chill",
+      "itemUser": [
+        "Genesect-Chill"
+      ],
       "num": 119,
-      "gen": 5,
-      "desc": "Holder's Techno Blast is Ice type."
+      "gen": 5
+    },
+    "chippedpot": {
+      "name": "Chipped Pot",
+      "spritenum": 720,
+      "fling": {
+        "basePower": 80
+      },
+      "num": 1254,
+      "gen": 8
     },
     "choiceband": {
-      "id": "choiceband",
       "name": "Choice Band",
       "spritenum": 68,
       "fling": {
@@ -568,11 +585,9 @@
       "onModifyAtkPriority": 1,
       "isChoice": true,
       "num": 220,
-      "gen": 3,
-      "desc": "Holder's Attack is 1.5x, but it can only select the first move it executes."
+      "gen": 3
     },
     "choicescarf": {
-      "id": "choicescarf",
       "name": "Choice Scarf",
       "spritenum": 69,
       "fling": {
@@ -580,11 +595,9 @@
       },
       "isChoice": true,
       "num": 287,
-      "gen": 4,
-      "desc": "Holder's Speed is 1.5x, but it can only select the first move it executes."
+      "gen": 4
     },
     "choicespecs": {
-      "id": "choicespecs",
       "name": "Choice Specs",
       "spritenum": 70,
       "fling": {
@@ -593,11 +606,9 @@
       "onModifySpAPriority": 1,
       "isChoice": true,
       "num": 297,
-      "gen": 4,
-      "desc": "Holder's Sp. Atk is 1.5x, but it can only select the first move it executes."
+      "gen": 4
     },
     "chopleberry": {
-      "id": "chopleberry",
       "name": "Chople Berry",
       "spritenum": 71,
       "isBerry": true,
@@ -606,11 +617,9 @@
         "type": "Fighting"
       },
       "num": 189,
-      "gen": 4,
-      "desc": "Halves damage taken from a supereffective Fighting-type attack. Single use."
+      "gen": 4
     },
     "clawfossil": {
-      "id": "clawfossil",
       "name": "Claw Fossil",
       "spritenum": 72,
       "fling": {
@@ -618,10 +627,18 @@
       },
       "num": 100,
       "gen": 3,
-      "desc": "Can be revived into Anorith."
+      "isNonstandard": "Past"
+    },
+    "cloversweet": {
+      "name": "Clover Sweet",
+      "spritenum": 707,
+      "fling": {
+        "basePower": 10
+      },
+      "num": 1112,
+      "gen": 8
     },
     "cobaberry": {
-      "id": "cobaberry",
       "name": "Coba Berry",
       "spritenum": 76,
       "isBerry": true,
@@ -630,11 +647,9 @@
         "type": "Flying"
       },
       "num": 192,
-      "gen": 4,
-      "desc": "Halves damage taken from a supereffective Flying-type attack. Single use."
+      "gen": 4
     },
     "colburberry": {
-      "id": "colburberry",
       "name": "Colbur Berry",
       "spritenum": 78,
       "isBerry": true,
@@ -643,13 +658,10 @@
         "type": "Dark"
       },
       "num": 198,
-      "gen": 4,
-      "desc": "Halves damage taken from a supereffective Dark-type attack. Single use."
+      "gen": 4
     },
     "cornnberry": {
-      "id": "cornnberry",
       "name": "Cornn Berry",
-      "isUnreleased": true,
       "spritenum": 81,
       "isBerry": true,
       "naturalGift": {
@@ -659,10 +671,9 @@
       "onEat": false,
       "num": 175,
       "gen": 3,
-      "desc": "Cannot be eaten by the holder. No effect when eaten with Bug Bite or Pluck."
+      "isNonstandard": "Past"
     },
     "coverfossil": {
-      "id": "coverfossil",
       "name": "Cover Fossil",
       "spritenum": 85,
       "fling": {
@@ -670,10 +681,18 @@
       },
       "num": 572,
       "gen": 5,
-      "desc": "Can be revived into Tirtouga."
+      "isNonstandard": "Past"
+    },
+    "crackedpot": {
+      "name": "Cracked Pot",
+      "spritenum": 719,
+      "fling": {
+        "basePower": 80
+      },
+      "num": 1253,
+      "gen": 8
     },
     "custapberry": {
-      "id": "custapberry",
       "name": "Custap Berry",
       "spritenum": 86,
       "isBerry": true,
@@ -681,44 +700,39 @@
         "basePower": 100,
         "type": "Ghost"
       },
-      "onModifyPriorityPriority": -1,
+      "onFractionalPriorityPriority": -2,
       "num": 210,
-      "gen": 4,
-      "desc": "Holder moves first in its priority bracket when at 1/4 max HP or less. Single use."
+      "gen": 4
     },
     "damprock": {
-      "id": "damprock",
       "name": "Damp Rock",
       "spritenum": 88,
       "fling": {
         "basePower": 60
       },
       "num": 285,
-      "gen": 4,
-      "desc": "Holder's use of Rain Dance lasts 8 turns instead of 5."
+      "gen": 4
     },
     "darkgem": {
-      "id": "darkgem",
       "name": "Dark Gem",
-      "isUnreleased": true,
       "spritenum": 89,
       "isGem": true,
       "num": 562,
       "gen": 5,
-      "desc": "Holder's first successful Dark-type attack will have 1.3x power. Single use."
+      "isNonstandard": "Past"
     },
     "darkmemory": {
-      "id": "darkmemory",
       "name": "Dark Memory",
       "spritenum": 683,
       "onMemory": "Dark",
       "forcedForme": "Silvally-Dark",
+      "itemUser": [
+        "Silvally-Dark"
+      ],
       "num": 919,
-      "gen": 7,
-      "desc": "Holder's Multi-Attack is Dark type."
+      "gen": 7
     },
     "darkiniumz": {
-      "id": "darkiniumz",
       "name": "Darkinium Z",
       "spritenum": 646,
       "onPlate": "Dark",
@@ -728,62 +742,57 @@
       "forcedForme": "Arceus-Dark",
       "num": 791,
       "gen": 7,
-      "desc": "If holder has a Dark move, this item allows it to use a Dark Z-Move."
+      "isNonstandard": "Past"
     },
     "dawnstone": {
-      "id": "dawnstone",
       "name": "Dawn Stone",
       "spritenum": 92,
       "fling": {
         "basePower": 80
       },
       "num": 109,
-      "gen": 4,
-      "desc": "Evolves male Kirlia into Gallade and female Snorunt into Froslass when used.",
-      "shortDesc": "Evolves certain species of Pokemon when used."
+      "gen": 4
     },
     "decidiumz": {
-      "id": "decidiumz",
       "name": "Decidium Z",
       "spritenum": 650,
       "onTakeItem": false,
       "zMove": "Sinister Arrow Raid",
       "zMoveFrom": "Spirit Shackle",
-      "zMoveUser": [
+      "itemUser": [
         "Decidueye"
       ],
       "num": 798,
       "gen": 7,
-      "desc": "If held by a Decidueye with Spirit Shackle, it can use Sinister Arrow Raid."
+      "isNonstandard": "Past"
     },
     "deepseascale": {
-      "id": "deepseascale",
       "name": "Deep Sea Scale",
       "spritenum": 93,
       "fling": {
         "basePower": 30
       },
       "onModifySpDPriority": 2,
+      "itemUser": [
+        "Clamperl"
+      ],
       "num": 227,
-      "gen": 3,
-      "desc": "If held by a Clamperl, its Sp. Def is doubled. Evolves Clamperl into Gorebyss when traded.",
-      "shortDesc": "If held by a Clamperl, its Sp. Def is doubled."
+      "gen": 3
     },
     "deepseatooth": {
-      "id": "deepseatooth",
       "name": "Deep Sea Tooth",
       "spritenum": 94,
       "fling": {
         "basePower": 90
       },
       "onModifySpAPriority": 1,
+      "itemUser": [
+        "Clamperl"
+      ],
       "num": 226,
-      "gen": 3,
-      "desc": "If held by a Clamperl, its Sp. Atk is doubled. Evolves Clamperl into Huntail when traded.",
-      "shortDesc": "If held by a Clamperl, its Sp. Atk is doubled."
+      "gen": 3
     },
     "destinyknot": {
-      "id": "destinyknot",
       "name": "Destiny Knot",
       "spritenum": 95,
       "fling": {
@@ -791,29 +800,28 @@
       },
       "onAttractPriority": -100,
       "num": 280,
-      "gen": 4,
-      "desc": "If holder becomes infatuated, the other Pokemon also becomes infatuated."
+      "gen": 4
     },
     "diancite": {
-      "id": "diancite",
       "name": "Diancite",
       "spritenum": 624,
       "megaStone": "Diancie-Mega",
       "megaEvolves": "Diancie",
+      "itemUser": [
+        "Diancie"
+      ],
       "num": 764,
       "gen": 6,
-      "desc": "If held by a Diancie, this item allows it to Mega Evolve in battle."
+      "isNonstandard": "Past"
     },
     "diveball": {
-      "id": "diveball",
       "name": "Dive Ball",
       "spritenum": 101,
       "num": 7,
       "gen": 3,
-      "desc": "A Poke Ball that works especially well on Pokemon that live underwater."
+      "isPokeball": true
     },
     "domefossil": {
-      "id": "domefossil",
       "name": "Dome Fossil",
       "spritenum": 102,
       "fling": {
@@ -821,74 +829,68 @@
       },
       "num": 102,
       "gen": 3,
-      "desc": "Can be revived into Kabuto."
+      "isNonstandard": "Past"
     },
     "dousedrive": {
-      "id": "dousedrive",
       "name": "Douse Drive",
       "spritenum": 103,
       "onDrive": "Water",
       "forcedForme": "Genesect-Douse",
+      "itemUser": [
+        "Genesect-Douse"
+      ],
       "num": 116,
-      "gen": 5,
-      "desc": "Holder's Techno Blast is Water type."
+      "gen": 5
     },
     "dracoplate": {
-      "id": "dracoplate",
       "name": "Draco Plate",
       "spritenum": 105,
       "onPlate": "Dragon",
-      "onBasePowerPriority": 6,
+      "onBasePowerPriority": 15,
       "forcedForme": "Arceus-Dragon",
       "num": 311,
       "gen": 4,
-      "desc": "Holder's Dragon-type attacks have 1.2x power. Judgment is Dragon type."
+      "isNonstandard": "Unobtainable"
     },
     "dragonfang": {
-      "id": "dragonfang",
       "name": "Dragon Fang",
       "spritenum": 106,
       "fling": {
         "basePower": 70
       },
-      "onBasePowerPriority": 6,
+      "onBasePowerPriority": 15,
       "num": 250,
-      "gen": 2,
-      "desc": "Holder's Dragon-type attacks have 1.2x power."
+      "gen": 2
     },
     "dragongem": {
-      "id": "dragongem",
       "name": "Dragon Gem",
-      "isUnreleased": true,
       "spritenum": 107,
       "isGem": true,
       "num": 561,
       "gen": 5,
-      "desc": "Holder's first successful Dragon-type attack will have 1.3x power. Single use."
+      "isNonstandard": "Past"
     },
     "dragonmemory": {
-      "id": "dragonmemory",
       "name": "Dragon Memory",
       "spritenum": 682,
       "onMemory": "Dragon",
       "forcedForme": "Silvally-Dragon",
+      "itemUser": [
+        "Silvally-Dragon"
+      ],
       "num": 918,
-      "gen": 7,
-      "desc": "Holder's Multi-Attack is Dragon type."
+      "gen": 7
     },
     "dragonscale": {
-      "id": "dragonscale",
       "name": "Dragon Scale",
       "spritenum": 108,
       "fling": {
         "basePower": 30
       },
       "num": 250,
-      "gen": 2,
-      "desc": "Evolves Seadra into Kingdra when traded."
+      "gen": 2
     },
     "dragoniumz": {
-      "id": "dragoniumz",
       "name": "Dragonium Z",
       "spritenum": 645,
       "onPlate": "Dragon",
@@ -898,42 +900,36 @@
       "forcedForme": "Arceus-Dragon",
       "num": 790,
       "gen": 7,
-      "desc": "If holder has a Dragon move, this item allows it to use a Dragon Z-Move."
+      "isNonstandard": "Past"
     },
     "dreadplate": {
-      "id": "dreadplate",
       "name": "Dread Plate",
       "spritenum": 110,
       "onPlate": "Dark",
-      "onBasePowerPriority": 6,
+      "onBasePowerPriority": 15,
       "forcedForme": "Arceus-Dark",
       "num": 312,
       "gen": 4,
-      "desc": "Holder's Dark-type attacks have 1.2x power. Judgment is Dark type."
+      "isNonstandard": "Unobtainable"
     },
     "dreamball": {
-      "id": "dreamball",
       "name": "Dream Ball",
       "spritenum": 111,
       "num": 576,
       "gen": 5,
-      "desc": "A special Poke Ball that appears out of nowhere in a bag at the Entree Forest."
+      "isPokeball": true
     },
     "dubiousdisc": {
-      "id": "dubiousdisc",
       "name": "Dubious Disc",
       "spritenum": 113,
       "fling": {
         "basePower": 50
       },
       "num": 324,
-      "gen": 4,
-      "desc": "Evolves Porygon2 into Porygon-Z when traded."
+      "gen": 4
     },
     "durinberry": {
-      "id": "durinberry",
       "name": "Durin Berry",
-      "isUnreleased": true,
       "spritenum": 114,
       "isBerry": true,
       "naturalGift": {
@@ -943,55 +939,48 @@
       "onEat": false,
       "num": 182,
       "gen": 3,
-      "desc": "Cannot be eaten by the holder. No effect when eaten with Bug Bite or Pluck."
+      "isNonstandard": "Past"
     },
     "duskball": {
-      "id": "duskball",
       "name": "Dusk Ball",
       "spritenum": 115,
       "num": 13,
       "gen": 4,
-      "desc": "A Poke Ball that makes it easier to catch wild Pokemon at night or in caves."
+      "isPokeball": true
     },
     "duskstone": {
-      "id": "duskstone",
       "name": "Dusk Stone",
       "spritenum": 116,
       "fling": {
         "basePower": 80
       },
       "num": 108,
-      "gen": 4,
-      "desc": "Evolves Murkrow into Honchkrow, Misdreavus into Mismagius, Lampent into Chandelure, and Doublade into Aegislash when used.",
-      "shortDesc": "Evolves certain species of Pokemon when used."
+      "gen": 4
     },
     "earthplate": {
-      "id": "earthplate",
       "name": "Earth Plate",
       "spritenum": 117,
       "onPlate": "Ground",
-      "onBasePowerPriority": 6,
+      "onBasePowerPriority": 15,
       "forcedForme": "Arceus-Ground",
       "num": 305,
       "gen": 4,
-      "desc": "Holder's Ground-type attacks have 1.2x power. Judgment is Ground type."
+      "isNonstandard": "Unobtainable"
     },
     "eeviumz": {
-      "id": "eeviumz",
       "name": "Eevium Z",
       "spritenum": 657,
       "onTakeItem": false,
       "zMove": "Extreme Evoboost",
       "zMoveFrom": "Last Resort",
-      "zMoveUser": [
+      "itemUser": [
         "Eevee"
       ],
       "num": 805,
       "gen": 7,
-      "desc": "If held by an Eevee with Last Resort, it can use Extreme Evoboost."
+      "isNonstandard": "Past"
     },
     "ejectbutton": {
-      "id": "ejectbutton",
       "name": "Eject Button",
       "spritenum": 118,
       "fling": {
@@ -999,53 +988,58 @@
       },
       "onAfterMoveSecondaryPriority": 2,
       "num": 547,
-      "gen": 5,
-      "desc": "If holder survives a hit, it immediately switches out to a chosen ally. Single use."
+      "gen": 5
+    },
+    "ejectpack": {
+      "name": "Eject Pack",
+      "spritenum": 714,
+      "fling": {
+        "basePower": 50
+      },
+      "num": 1119,
+      "gen": 8
     },
     "electirizer": {
-      "id": "electirizer",
       "name": "Electirizer",
       "spritenum": 119,
       "fling": {
         "basePower": 80
       },
       "num": 322,
-      "gen": 4,
-      "desc": "Evolves Electabuzz into Electivire when traded."
+      "gen": 4
     },
     "electricgem": {
-      "id": "electricgem",
       "name": "Electric Gem",
-      "isUnreleased": true,
       "spritenum": 120,
       "isGem": true,
       "num": 550,
       "gen": 5,
-      "desc": "Holder's first successful Electric-type attack will have 1.3x power. Single use."
+      "isNonstandard": "Past"
     },
     "electricmemory": {
-      "id": "electricmemory",
       "name": "Electric Memory",
       "spritenum": 679,
       "onMemory": "Electric",
       "forcedForme": "Silvally-Electric",
+      "itemUser": [
+        "Silvally-Electric"
+      ],
       "num": 915,
-      "gen": 7,
-      "desc": "Holder's Multi-Attack is Electric type."
+      "gen": 7
     },
     "electricseed": {
-      "id": "electricseed",
       "name": "Electric Seed",
       "spritenum": 664,
       "fling": {
         "basePower": 10
       },
+      "boosts": {
+        "def": 1
+      },
       "num": 881,
-      "gen": 7,
-      "desc": "If the terrain is Electric Terrain, raises holder's Defense by 1 stage. Single use."
+      "gen": 7
     },
     "electriumz": {
-      "id": "electriumz",
       "name": "Electrium Z",
       "spritenum": 634,
       "onPlate": "Electric",
@@ -1055,21 +1049,18 @@
       "forcedForme": "Arceus-Electric",
       "num": 779,
       "gen": 7,
-      "desc": "If holder has an Electric move, this item allows it to use an Electric Z-Move."
+      "isNonstandard": "Past"
     },
     "energypowder": {
-      "id": "energypowder",
       "name": "Energy Powder",
       "spritenum": 123,
       "fling": {
         "basePower": 30
       },
       "num": 34,
-      "gen": 2,
-      "desc": "Restores 50 HP to one Pokemon but lowers Happiness."
+      "gen": 2
     },
     "enigmaberry": {
-      "id": "enigmaberry",
       "name": "Enigma Berry",
       "spritenum": 124,
       "isBerry": true,
@@ -1078,11 +1069,9 @@
         "type": "Bug"
       },
       "num": 208,
-      "gen": 3,
-      "desc": "Restores 1/4 max HP after holder is hit by a supereffective move. Single use."
+      "gen": 3
     },
     "eviolite": {
-      "id": "eviolite",
       "name": "Eviolite",
       "spritenum": 130,
       "fling": {
@@ -1091,22 +1080,18 @@
       "onModifyDefPriority": 2,
       "onModifySpDPriority": 2,
       "num": 538,
-      "gen": 5,
-      "desc": "If holder's species can evolve, its Defense and Sp. Def are 1.5x."
+      "gen": 5
     },
     "expertbelt": {
-      "id": "expertbelt",
       "name": "Expert Belt",
       "spritenum": 132,
       "fling": {
         "basePower": 10
       },
       "num": 268,
-      "gen": 4,
-      "desc": "Holder's attacks that are super effective against the target do 1.2x damage."
+      "gen": 4
     },
     "fairiumz": {
-      "id": "fairiumz",
       "name": "Fairium Z",
       "spritenum": 648,
       "onPlate": "Fairy",
@@ -1116,58 +1101,54 @@
       "forcedForme": "Arceus-Fairy",
       "num": 793,
       "gen": 7,
-      "desc": "If holder has a Fairy move, this item allows it to use a Fairy Z-Move."
+      "isNonstandard": "Past"
     },
     "fairygem": {
-      "id": "fairygem",
       "name": "Fairy Gem",
-      "isUnreleased": true,
       "spritenum": 611,
       "isGem": true,
       "num": 715,
       "gen": 6,
-      "desc": "Holder's first successful Fairy-type attack will have 1.3x power. Single use."
+      "isNonstandard": "Past"
     },
     "fairymemory": {
-      "id": "fairymemory",
       "name": "Fairy Memory",
       "spritenum": 684,
       "onMemory": "Fairy",
       "forcedForme": "Silvally-Fairy",
+      "itemUser": [
+        "Silvally-Fairy"
+      ],
       "num": 920,
-      "gen": 7,
-      "desc": "Holder's Multi-Attack is Fairy type."
+      "gen": 7
     },
     "fastball": {
-      "id": "fastball",
       "name": "Fast Ball",
       "spritenum": 137,
       "num": 492,
       "gen": 2,
-      "desc": "A Poke Ball that makes it easier to catch Pokemon which are quick to run away."
+      "isPokeball": true
     },
     "fightinggem": {
-      "id": "fightinggem",
       "name": "Fighting Gem",
-      "isUnreleased": true,
       "spritenum": 139,
       "isGem": true,
       "num": 553,
       "gen": 5,
-      "desc": "Holder's first successful Fighting-type attack will have 1.3x power. Single use."
+      "isNonstandard": "Past"
     },
     "fightingmemory": {
-      "id": "fightingmemory",
       "name": "Fighting Memory",
       "spritenum": 668,
       "onMemory": "Fighting",
       "forcedForme": "Silvally-Fighting",
+      "itemUser": [
+        "Silvally-Fighting"
+      ],
       "num": 904,
-      "gen": 7,
-      "desc": "Holder's Multi-Attack is Fighting type."
+      "gen": 7
     },
     "fightiniumz": {
-      "id": "fightiniumz",
       "name": "Fightinium Z",
       "spritenum": 637,
       "onPlate": "Fighting",
@@ -1177,10 +1158,9 @@
       "forcedForme": "Arceus-Fighting",
       "num": 782,
       "gen": 7,
-      "desc": "If holder has a Fighting move, this item allows it to use a Fighting Z-Move."
+      "isNonstandard": "Past"
     },
     "figyberry": {
-      "id": "figyberry",
       "name": "Figy Berry",
       "spritenum": 140,
       "isBerry": true,
@@ -1189,43 +1169,37 @@
         "type": "Bug"
       },
       "num": 159,
-      "gen": 3,
-      "desc": "Restores 1/2 max HP at 1/4 max HP or less; confuses if -Atk Nature. Single use."
+      "gen": 3
     },
     "firegem": {
-      "id": "firegem",
       "name": "Fire Gem",
-      "isUnreleased": true,
       "spritenum": 141,
       "isGem": true,
       "num": 548,
       "gen": 5,
-      "desc": "Holder's first successful Fire-type attack will have 1.3x power. Single use."
+      "isNonstandard": "Past"
     },
     "firememory": {
-      "id": "firememory",
       "name": "Fire Memory",
       "spritenum": 676,
       "onMemory": "Fire",
       "forcedForme": "Silvally-Fire",
+      "itemUser": [
+        "Silvally-Fire"
+      ],
       "num": 912,
-      "gen": 7,
-      "desc": "Holder's Multi-Attack is Fire type."
+      "gen": 7
     },
     "firestone": {
-      "id": "firestone",
       "name": "Fire Stone",
       "spritenum": 142,
       "fling": {
         "basePower": 30
       },
       "num": 82,
-      "gen": 1,
-      "desc": "Evolves Vulpix into Ninetales, Growlithe into Arcanine, Eevee into Flareon, and Pansear into Simisear when used.",
-      "shortDesc": "Evolves certain species of Pokemon when used."
+      "gen": 1
     },
     "firiumz": {
-      "id": "firiumz",
       "name": "Firium Z",
       "spritenum": 632,
       "onPlate": "Fire",
@@ -1235,21 +1209,19 @@
       "forcedForme": "Arceus-Fire",
       "num": 777,
       "gen": 7,
-      "desc": "If holder has a Fire move, this item allows it to use a Fire Z-Move."
+      "isNonstandard": "Past"
     },
     "fistplate": {
-      "id": "fistplate",
       "name": "Fist Plate",
       "spritenum": 143,
       "onPlate": "Fighting",
-      "onBasePowerPriority": 6,
+      "onBasePowerPriority": 15,
       "forcedForme": "Arceus-Fighting",
       "num": 303,
       "gen": 4,
-      "desc": "Holder's Fighting-type attacks have 1.2x power. Judgment is Fighting type."
+      "isNonstandard": "Unobtainable"
     },
     "flameorb": {
-      "id": "flameorb",
       "name": "Flame Orb",
       "spritenum": 145,
       "fling": {
@@ -1259,53 +1231,56 @@
       "onResidualOrder": 26,
       "onResidualSubOrder": 2,
       "num": 273,
-      "gen": 4,
-      "desc": "At the end of every turn, this item attempts to burn the holder."
+      "gen": 4
     },
     "flameplate": {
-      "id": "flameplate",
       "name": "Flame Plate",
       "spritenum": 146,
       "onPlate": "Fire",
-      "onBasePowerPriority": 6,
+      "onBasePowerPriority": 15,
       "forcedForme": "Arceus-Fire",
       "num": 298,
       "gen": 4,
-      "desc": "Holder's Fire-type attacks have 1.2x power. Judgment is Fire type."
+      "isNonstandard": "Unobtainable"
     },
     "floatstone": {
-      "id": "floatstone",
       "name": "Float Stone",
       "spritenum": 147,
       "fling": {
         "basePower": 30
       },
       "num": 539,
-      "gen": 5,
-      "desc": "Holder's weight is halved."
+      "gen": 5
+    },
+    "flowersweet": {
+      "name": "Flower Sweet",
+      "spritenum": 708,
+      "fling": {
+        "basePower": 0
+      },
+      "num": 1113,
+      "gen": 8
     },
     "flyinggem": {
-      "id": "flyinggem",
       "name": "Flying Gem",
-      "isUnreleased": true,
       "spritenum": 149,
       "isGem": true,
       "num": 556,
       "gen": 5,
-      "desc": "Holder's first successful Flying-type attack will have 1.3x power. Single use."
+      "isNonstandard": "Past"
     },
     "flyingmemory": {
-      "id": "flyingmemory",
       "name": "Flying Memory",
       "spritenum": 669,
       "onMemory": "Flying",
       "forcedForme": "Silvally-Flying",
+      "itemUser": [
+        "Silvally-Flying"
+      ],
       "num": 905,
-      "gen": 7,
-      "desc": "Holder's Multi-Attack is Flying type."
+      "gen": 7
     },
     "flyiniumz": {
-      "id": "flyiniumz",
       "name": "Flyinium Z",
       "spritenum": 640,
       "onPlate": "Flying",
@@ -1315,61 +1290,110 @@
       "forcedForme": "Arceus-Flying",
       "num": 785,
       "gen": 7,
-      "desc": "If holder has a Flying move, this item allows it to use a Flying Z-Move."
+      "isNonstandard": "Past"
     },
     "focusband": {
-      "id": "focusband",
       "name": "Focus Band",
       "spritenum": 150,
       "fling": {
         "basePower": 10
       },
       "num": 230,
-      "gen": 2,
-      "desc": "Holder has a 10% chance to survive an attack that would KO it with 1 HP."
+      "gen": 2
     },
     "focussash": {
-      "id": "focussash",
       "name": "Focus Sash",
       "spritenum": 151,
       "fling": {
         "basePower": 10
       },
       "num": 275,
-      "gen": 4,
-      "desc": "If holder's HP is full, will survive an attack that would KO it with 1 HP. Single use."
+      "gen": 4
+    },
+    "fossilizedbird": {
+      "name": "Fossilized Bird",
+      "spritenum": 700,
+      "fling": {
+        "basePower": 100
+      },
+      "num": 1105,
+      "gen": 8
+    },
+    "fossilizeddino": {
+      "name": "Fossilized Dino",
+      "spritenum": 703,
+      "fling": {
+        "basePower": 100
+      },
+      "num": 1108,
+      "gen": 8
+    },
+    "fossilizeddrake": {
+      "name": "Fossilized Drake",
+      "spritenum": 702,
+      "fling": {
+        "basePower": 100
+      },
+      "num": 1107,
+      "gen": 8
+    },
+    "fossilizedfish": {
+      "name": "Fossilized Fish",
+      "spritenum": 701,
+      "fling": {
+        "basePower": 100
+      },
+      "num": 1106,
+      "gen": 8
     },
     "friendball": {
-      "id": "friendball",
       "name": "Friend Ball",
       "spritenum": 153,
       "num": 497,
       "gen": 2,
-      "desc": "A Poke Ball that makes caught Pokemon more friendly."
+      "isPokeball": true
     },
     "fullincense": {
-      "id": "fullincense",
       "name": "Full Incense",
       "spritenum": 155,
       "fling": {
         "basePower": 10
       },
+      "onFractionalPriority": -0.1,
       "num": 316,
-      "gen": 4,
-      "desc": "Holder moves last in its priority bracket."
+      "gen": 4
+    },
+    "galaricacuff": {
+      "name": "Galarica Cuff",
+      "spritenum": 739,
+      "fling": {
+        "basePower": 30
+      },
+      "num": 1582,
+      "gen": 8
+    },
+    "galaricawreath": {
+      "name": "Galarica Wreath",
+      "spritenum": 740,
+      "fling": {
+        "basePower": 30
+      },
+      "num": 1592,
+      "gen": 8
     },
     "galladite": {
-      "id": "galladite",
       "name": "Galladite",
       "spritenum": 616,
       "megaStone": "Gallade-Mega",
       "megaEvolves": "Gallade",
+      "itemUser": [
+        "Gallade"
+      ],
       "num": 756,
       "gen": 6,
-      "desc": "If held by a Gallade, this item allows it to Mega Evolve in battle."
+      "isNonstandard": "Past"
     },
     "ganlonberry": {
-      "id": "ganlonberry",
       "name": "Ganlon Berry",
       "spritenum": 158,
       "isBerry": true,
@@ -1378,61 +1402,64 @@
         "type": "Ice"
       },
       "num": 202,
-      "gen": 3,
-      "desc": "Raises holder's Defense by 1 stage when at 1/4 max HP or less. Single use."
+      "gen": 3
     },
     "garchompite": {
-      "id": "garchompite",
       "name": "Garchompite",
       "spritenum": 589,
       "megaStone": "Garchomp-Mega",
       "megaEvolves": "Garchomp",
+      "itemUser": [
+        "Garchomp"
+      ],
       "num": 683,
       "gen": 6,
-      "desc": "If held by a Garchomp, this item allows it to Mega Evolve in battle."
+      "isNonstandard": "Past"
     },
     "gardevoirite": {
-      "id": "gardevoirite",
       "name": "Gardevoirite",
       "spritenum": 587,
       "megaStone": "Gardevoir-Mega",
       "megaEvolves": "Gardevoir",
+      "itemUser": [
+        "Gardevoir"
+      ],
       "num": 657,
       "gen": 6,
-      "desc": "If held by a Gardevoir, this item allows it to Mega Evolve in battle."
+      "isNonstandard": "Past"
     },
     "gengarite": {
-      "id": "gengarite",
       "name": "Gengarite",
       "spritenum": 588,
       "megaStone": "Gengar-Mega",
       "megaEvolves": "Gengar",
+      "itemUser": [
+        "Gengar"
+      ],
       "num": 656,
       "gen": 6,
-      "desc": "If held by a Gengar, this item allows it to Mega Evolve in battle."
+      "isNonstandard": "Past"
     },
     "ghostgem": {
-      "id": "ghostgem",
       "name": "Ghost Gem",
-      "isUnreleased": true,
       "spritenum": 161,
       "isGem": true,
       "num": 560,
       "gen": 5,
-      "desc": "Holder's first successful Ghost-type attack will have 1.3x power. Single use."
+      "isNonstandard": "Past"
     },
     "ghostmemory": {
-      "id": "ghostmemory",
       "name": "Ghost Memory",
       "spritenum": 674,
       "onMemory": "Ghost",
       "forcedForme": "Silvally-Ghost",
+      "itemUser": [
+        "Silvally-Ghost"
+      ],
       "num": 910,
-      "gen": 7,
-      "desc": "Holder's Multi-Attack is Ghost type."
+      "gen": 7
     },
     "ghostiumz": {
-      "id": "ghostiumz",
       "name": "Ghostium Z",
       "spritenum": 644,
       "onPlate": "Ghost",
@@ -1442,51 +1469,49 @@
       "forcedForme": "Arceus-Ghost",
       "num": 789,
       "gen": 7,
-      "desc": "If holder has a Ghost move, this item allows it to use a Ghost Z-Move."
+      "isNonstandard": "Past"
     },
     "glalitite": {
-      "id": "glalitite",
       "name": "Glalitite",
       "spritenum": 623,
       "megaStone": "Glalie-Mega",
       "megaEvolves": "Glalie",
+      "itemUser": [
+        "Glalie"
+      ],
       "num": 763,
       "gen": 6,
-      "desc": "If held by a Glalie, this item allows it to Mega Evolve in battle."
+      "isNonstandard": "Past"
     },
     "goldbottlecap": {
-      "id": "goldbottlecap",
       "name": "Gold Bottle Cap",
       "spritenum": 697,
       "fling": {
         "basePower": 30
       },
       "num": 796,
-      "gen": 7,
-      "desc": "Used for Hyper Training. All of a Pokemon's stats are calculated with an IV of 31."
+      "gen": 7
     },
     "grassgem": {
-      "id": "grassgem",
       "name": "Grass Gem",
-      "isUnreleased": true,
       "spritenum": 172,
       "isGem": true,
       "num": 551,
       "gen": 5,
-      "desc": "Holder's first successful Grass-type attack will have 1.3x power. Single use."
+      "isNonstandard": "Past"
     },
     "grassmemory": {
-      "id": "grassmemory",
       "name": "Grass Memory",
       "spritenum": 678,
       "onMemory": "Grass",
       "forcedForme": "Silvally-Grass",
+      "itemUser": [
+        "Silvally-Grass"
+      ],
       "num": 914,
-      "gen": 7,
-      "desc": "Holder's Multi-Attack is Grass type."
+      "gen": 7
     },
     "grassiumz": {
-      "id": "grassiumz",
       "name": "Grassium Z",
       "spritenum": 635,
       "onPlate": "Grass",
@@ -1496,29 +1521,28 @@
       "forcedForme": "Arceus-Grass",
       "num": 780,
       "gen": 7,
-      "desc": "If holder has a Grass move, this item allows it to use a Grass Z-Move."
+      "isNonstandard": "Past"
     },
     "grassyseed": {
-      "id": "grassyseed",
       "name": "Grassy Seed",
       "spritenum": 667,
       "fling": {
         "basePower": 10
       },
+      "boosts": {
+        "def": 1
+      },
       "num": 884,
-      "gen": 7,
-      "desc": "If the terrain is Grassy Terrain, raises holder's Defense by 1 stage. Single use."
+      "gen": 7
     },
     "greatball": {
-      "id": "greatball",
       "name": "Great Ball",
       "spritenum": 174,
       "num": 3,
       "gen": 1,
-      "desc": "A high-performance Ball that provides a higher catch rate than a Poke Ball."
+      "isPokeball": true
     },
     "grepaberry": {
-      "id": "grepaberry",
       "name": "Grepa Berry",
       "spritenum": 178,
       "isBerry": true,
@@ -1528,55 +1552,51 @@
       },
       "onEat": false,
       "num": 173,
-      "gen": 3,
-      "desc": "Cannot be eaten by the holder. No effect when eaten with Bug Bite or Pluck."
+      "gen": 3
     },
     "gripclaw": {
-      "id": "gripclaw",
       "name": "Grip Claw",
       "spritenum": 179,
       "fling": {
         "basePower": 90
       },
       "num": 286,
-      "gen": 4,
-      "desc": "Holder's partial-trapping moves always last 7 turns."
+      "gen": 4
     },
     "griseousorb": {
-      "id": "griseousorb",
       "name": "Griseous Orb",
       "spritenum": 180,
       "fling": {
         "basePower": 60
       },
-      "onBasePowerPriority": 6,
+      "onBasePowerPriority": 15,
       "forcedForme": "Giratina-Origin",
+      "itemUser": [
+        "Giratina-Origin"
+      ],
       "num": 112,
-      "gen": 4,
-      "desc": "If held by a Giratina, its Ghost- and Dragon-type attacks have 1.2x power."
+      "gen": 4
     },
     "groundgem": {
-      "id": "groundgem",
       "name": "Ground Gem",
-      "isUnreleased": true,
       "spritenum": 182,
       "isGem": true,
       "num": 555,
       "gen": 5,
-      "desc": "Holder's first successful Ground-type attack will have 1.3x power. Single use."
+      "isNonstandard": "Past"
     },
     "groundmemory": {
-      "id": "groundmemory",
       "name": "Ground Memory",
       "spritenum": 671,
       "onMemory": "Ground",
       "forcedForme": "Silvally-Ground",
+      "itemUser": [
+        "Silvally-Ground"
+      ],
       "num": 907,
-      "gen": 7,
-      "desc": "Holder's Multi-Attack is Ground type."
+      "gen": 7
     },
     "groundiumz": {
-      "id": "groundiumz",
       "name": "Groundium Z",
       "spritenum": 639,
       "onPlate": "Ground",
@@ -1586,20 +1606,21 @@
       "forcedForme": "Arceus-Ground",
       "num": 784,
       "gen": 7,
-      "desc": "If holder has a Ground move, this item allows it to use a Ground Z-Move."
+      "isNonstandard": "Past"
     },
     "gyaradosite": {
-      "id": "gyaradosite",
       "name": "Gyaradosite",
       "spritenum": 589,
       "megaStone": "Gyarados-Mega",
       "megaEvolves": "Gyarados",
+      "itemUser": [
+        "Gyarados"
+      ],
       "num": 676,
       "gen": 6,
-      "desc": "If held by a Gyarados, this item allows it to Mega Evolve in battle."
+      "isNonstandard": "Past"
     },
     "habanberry": {
-      "id": "habanberry",
       "name": "Haban Berry",
       "spritenum": 185,
       "isBerry": true,
@@ -1608,50 +1629,51 @@
         "type": "Dragon"
       },
       "num": 197,
-      "gen": 4,
-      "desc": "Halves damage taken from a supereffective Dragon-type attack. Single use."
+      "gen": 4
     },
     "hardstone": {
-      "id": "hardstone",
       "name": "Hard Stone",
       "spritenum": 187,
       "fling": {
         "basePower": 100
       },
-      "onBasePowerPriority": 6,
+      "onBasePowerPriority": 15,
       "num": 238,
-      "gen": 2,
-      "desc": "Holder's Rock-type attacks have 1.2x power."
+      "gen": 2
     },
     "healball": {
-      "id": "healball",
       "name": "Heal Ball",
       "spritenum": 188,
       "num": 14,
       "gen": 4,
-      "desc": "A remedial Poke Ball that restores the caught Pokemon's HP and status problem."
+      "isPokeball": true
     },
     "heatrock": {
-      "id": "heatrock",
       "name": "Heat Rock",
       "spritenum": 193,
       "fling": {
         "basePower": 60
       },
       "num": 284,
-      "gen": 4,
-      "desc": "Holder's use of Sunny Day lasts 8 turns instead of 5."
+      "gen": 4
     },
     "heavyball": {
-      "id": "heavyball",
       "name": "Heavy Ball",
       "spritenum": 194,
       "num": 495,
       "gen": 2,
-      "desc": "A Poke Ball for catching very heavy Pokemon."
+      "isPokeball": true
+    },
+    "heavydutyboots": {
+      "name": "Heavy-Duty Boots",
+      "spritenum": 715,
+      "fling": {
+        "basePower": 80
+      },
+      "num": 1120,
+      "gen": 8
     },
     "helixfossil": {
-      "id": "helixfossil",
       "name": "Helix Fossil",
       "spritenum": 195,
       "fling": {
@@ -1659,20 +1681,21 @@
       },
       "num": 101,
       "gen": 3,
-      "desc": "Can be revived into Omanyte."
+      "isNonstandard": "Past"
     },
     "heracronite": {
-      "id": "heracronite",
       "name": "Heracronite",
       "spritenum": 590,
       "megaStone": "Heracross-Mega",
       "megaEvolves": "Heracross",
+      "itemUser": [
+        "Heracross"
+      ],
       "num": 680,
       "gen": 6,
-      "desc": "If held by a Heracross, this item allows it to Mega Evolve in battle."
+      "isNonstandard": "Past"
     },
     "hondewberry": {
-      "id": "hondewberry",
       "name": "Hondew Berry",
       "spritenum": 213,
       "isBerry": true,
@@ -1682,21 +1705,21 @@
       },
       "onEat": false,
       "num": 172,
-      "gen": 3,
-      "desc": "Cannot be eaten by the holder. No effect when eaten with Bug Bite or Pluck."
+      "gen": 3
     },
     "houndoominite": {
-      "id": "houndoominite",
       "name": "Houndoominite",
       "spritenum": 591,
       "megaStone": "Houndoom-Mega",
       "megaEvolves": "Houndoom",
+      "itemUser": [
+        "Houndoom"
+      ],
       "num": 666,
       "gen": 6,
-      "desc": "If held by a Houndoom, this item allows it to Mega Evolve in battle."
+      "isNonstandard": "Past"
     },
     "iapapaberry": {
-      "id": "iapapaberry",
       "name": "Iapapa Berry",
       "spritenum": 217,
       "isBerry": true,
@@ -1705,54 +1728,47 @@
         "type": "Dark"
       },
       "num": 163,
-      "gen": 3,
-      "desc": "Restores 1/2 max HP at 1/4 max HP or less; confuses if -Def Nature. Single use."
+      "gen": 3
     },
     "icegem": {
-      "id": "icegem",
       "name": "Ice Gem",
-      "isUnreleased": true,
       "spritenum": 218,
       "isGem": true,
       "num": 552,
       "gen": 5,
-      "desc": "Holder's first successful Ice-type attack will have 1.3x power. Single use."
+      "isNonstandard": "Past"
     },
     "icememory": {
-      "id": "icememory",
       "name": "Ice Memory",
       "spritenum": 681,
       "onMemory": "Ice",
       "forcedForme": "Silvally-Ice",
+      "itemUser": [
+        "Silvally-Ice"
+      ],
       "num": 917,
-      "gen": 7,
-      "desc": "Holder's Multi-Attack is Ice type."
+      "gen": 7
     },
     "icestone": {
-      "id": "icestone",
       "name": "Ice Stone",
       "spritenum": 693,
       "fling": {
         "basePower": 30
       },
       "num": 849,
-      "gen": 7,
-      "desc": "Evolves Alolan Sandshrew into Alolan Sandslash and Alolan Vulpix into Alolan Ninetales when used.",
-      "shortDesc": "Evolves certain species of Pokemon when used."
+      "gen": 7
     },
     "icicleplate": {
-      "id": "icicleplate",
       "name": "Icicle Plate",
       "spritenum": 220,
       "onPlate": "Ice",
-      "onBasePowerPriority": 6,
+      "onBasePowerPriority": 15,
       "forcedForme": "Arceus-Ice",
       "num": 302,
       "gen": 4,
-      "desc": "Holder's Ice-type attacks have 1.2x power. Judgment is Ice type."
+      "isNonstandard": "Unobtainable"
     },
     "iciumz": {
-      "id": "iciumz",
       "name": "Icium Z",
       "spritenum": 636,
       "onPlate": "Ice",
@@ -1762,68 +1778,60 @@
       "forcedForme": "Arceus-Ice",
       "num": 781,
       "gen": 7,
-      "desc": "If holder has an Ice move, this item allows it to use an Ice Z-Move."
+      "isNonstandard": "Past"
     },
     "icyrock": {
-      "id": "icyrock",
       "name": "Icy Rock",
       "spritenum": 221,
       "fling": {
         "basePower": 40
       },
       "num": 282,
-      "gen": 4,
-      "desc": "Holder's use of Hail lasts 8 turns instead of 5."
+      "gen": 4
     },
     "inciniumz": {
-      "id": "inciniumz",
       "name": "Incinium Z",
       "spritenum": 651,
       "onTakeItem": false,
       "zMove": "Malicious Moonsault",
       "zMoveFrom": "Darkest Lariat",
-      "zMoveUser": [
+      "itemUser": [
         "Incineroar"
       ],
       "num": 799,
       "gen": 7,
-      "desc": "If held by an Incineroar with Darkest Lariat, it can use Malicious Moonsault."
+      "isNonstandard": "Past"
     },
     "insectplate": {
-      "id": "insectplate",
       "name": "Insect Plate",
       "spritenum": 223,
       "onPlate": "Bug",
-      "onBasePowerPriority": 6,
+      "onBasePowerPriority": 15,
       "forcedForme": "Arceus-Bug",
       "num": 308,
       "gen": 4,
-      "desc": "Holder's Bug-type attacks have 1.2x power. Judgment is Bug type."
+      "isNonstandard": "Unobtainable"
     },
     "ironball": {
-      "id": "ironball",
       "name": "Iron Ball",
       "spritenum": 224,
       "fling": {
         "basePower": 130
       },
       "num": 278,
-      "gen": 4,
-      "desc": "Holder is grounded, Speed halved. If Flying type, takes neutral Ground damage."
+      "gen": 4
     },
     "ironplate": {
-      "id": "ironplate",
       "name": "Iron Plate",
       "spritenum": 225,
       "onPlate": "Steel",
-      "onBasePowerPriority": 6,
+      "onBasePowerPriority": 15,
       "forcedForme": "Arceus-Steel",
       "num": 313,
       "gen": 4,
-      "desc": "Holder's Steel-type attacks have 1.2x power. Judgment is Steel type."
+      "isNonstandard": "Unobtainable"
     },
     "jabocaberry": {
-      "id": "jabocaberry",
       "name": "Jaboca Berry",
       "spritenum": 230,
       "isBerry": true,
@@ -1832,11 +1840,9 @@
         "type": "Dragon"
       },
       "num": 211,
-      "gen": 4,
-      "desc": "If holder is hit by a physical move, attacker loses 1/8 of its max HP. Single use."
+      "gen": 4
     },
     "jawfossil": {
-      "id": "jawfossil",
       "name": "Jaw Fossil",
       "spritenum": 694,
       "fling": {
@@ -1844,10 +1850,9 @@
       },
       "num": 710,
       "gen": 6,
-      "desc": "Can be revived into Tyrunt."
+      "isNonstandard": "Past"
     },
     "kasibberry": {
-      "id": "kasibberry",
       "name": "Kasib Berry",
       "spritenum": 233,
       "isBerry": true,
@@ -1856,11 +1861,9 @@
         "type": "Ghost"
       },
       "num": 196,
-      "gen": 4,
-      "desc": "Halves damage taken from a supereffective Ghost-type attack. Single use."
+      "gen": 4
     },
     "kebiaberry": {
-      "id": "kebiaberry",
       "name": "Kebia Berry",
       "spritenum": 234,
       "isBerry": true,
@@ -1869,11 +1872,9 @@
         "type": "Poison"
       },
       "num": 190,
-      "gen": 4,
-      "desc": "Halves damage taken from a supereffective Poison-type attack. Single use."
+      "gen": 4
     },
     "keeberry": {
-      "id": "keeberry",
       "name": "Kee Berry",
       "spritenum": 593,
       "isBerry": true,
@@ -1882,11 +1883,9 @@
         "type": "Fairy"
       },
       "num": 687,
-      "gen": 6,
-      "desc": "Raises holder's Defense by 1 stage after it is hit by a physical attack. Single use."
+      "gen": 6
     },
     "kelpsyberry": {
-      "id": "kelpsyberry",
       "name": "Kelpsy Berry",
       "spritenum": 235,
       "isBerry": true,
@@ -1896,21 +1895,21 @@
       },
       "onEat": false,
       "num": 170,
-      "gen": 3,
-      "desc": "Cannot be eaten by the holder. No effect when eaten with Bug Bite or Pluck."
+      "gen": 3
     },
     "kangaskhanite": {
-      "id": "kangaskhanite",
       "name": "Kangaskhanite",
       "spritenum": 592,
       "megaStone": "Kangaskhan-Mega",
       "megaEvolves": "Kangaskhan",
+      "itemUser": [
+        "Kangaskhan"
+      ],
       "num": 675,
       "gen": 6,
-      "desc": "If held by a Kangaskhan, this item allows it to Mega Evolve in battle."
+      "isNonstandard": "Past"
     },
     "kingsrock": {
-      "id": "kingsrock",
       "name": "King's Rock",
       "spritenum": 236,
       "fling": {
@@ -1919,38 +1918,33 @@
       },
       "onModifyMovePriority": -1,
       "num": 221,
-      "gen": 2,
-      "desc": "Holder's attacks without a chance to flinch gain a 10% chance to flinch. Evolves Poliwhirl into Politoed and Slowpoke into Slowking when traded.",
-      "shortDesc": "Holder's attacks without a chance to flinch gain a 10% chance to flinch."
+      "gen": 2
     },
     "kommoniumz": {
-      "id": "kommoniumz",
       "name": "Kommonium Z",
       "spritenum": 690,
       "onTakeItem": false,
       "zMove": "Clangorous Soulblaze",
       "zMoveFrom": "Clanging Scales",
-      "zMoveUser": [
+      "itemUser": [
         "Kommo-o",
         "Kommo-o-Totem"
       ],
       "num": 926,
       "gen": 7,
-      "desc": "If held by a Kommo-o with Clanging Scales, it can use Clangorous Soulblaze."
+      "isNonstandard": "Past"
     },
     "laggingtail": {
-      "id": "laggingtail",
       "name": "Lagging Tail",
       "spritenum": 237,
       "fling": {
         "basePower": 10
       },
+      "onFractionalPriority": -0.1,
       "num": 279,
-      "gen": 4,
-      "desc": "Holder moves last in its priority bracket."
+      "gen": 4
     },
     "lansatberry": {
-      "id": "lansatberry",
       "name": "Lansat Berry",
       "spritenum": 238,
       "isBerry": true,
@@ -1959,67 +1953,76 @@
         "type": "Flying"
       },
       "num": 206,
-      "gen": 3,
-      "desc": "Holder gains the Focus Energy effect when at 1/4 max HP or less. Single use."
+      "gen": 3
     },
     "latiasite": {
-      "id": "latiasite",
       "name": "Latiasite",
       "spritenum": 629,
       "megaStone": "Latias-Mega",
       "megaEvolves": "Latias",
+      "itemUser": [
+        "Latias"
+      ],
       "num": 684,
       "gen": 6,
-      "desc": "If held by a Latias, this item allows it to Mega Evolve in battle."
+      "isNonstandard": "Past"
     },
     "latiosite": {
-      "id": "latiosite",
       "name": "Latiosite",
       "spritenum": 630,
       "megaStone": "Latios-Mega",
       "megaEvolves": "Latios",
+      "itemUser": [
+        "Latios"
+      ],
       "num": 685,
       "gen": 6,
-      "desc": "If held by a Latios, this item allows it to Mega Evolve in battle."
+      "isNonstandard": "Past"
     },
     "laxincense": {
-      "id": "laxincense",
       "name": "Lax Incense",
       "spritenum": 240,
       "fling": {
         "basePower": 10
       },
+      "onModifyAccuracyPriority": 5,
       "num": 255,
-      "gen": 3,
-      "desc": "The accuracy of attacks against the holder is 0.9x."
+      "gen": 3
     },
     "leafstone": {
-      "id": "leafstone",
       "name": "Leaf Stone",
       "spritenum": 241,
       "fling": {
         "basePower": 30
       },
       "num": 85,
-      "gen": 1,
-      "desc": "Evolves Gloom into Vileplume, Weepinbell into Victreebel, Exeggcute into Exeggutor or Alolan Exeggutor, Nuzleaf into Shiftry, and Pansage into Simisage when used.",
-      "shortDesc": "Evolves certain species of Pokemon when used."
+      "gen": 1
+    },
+    "leek": {
+      "name": "Leek",
+      "fling": {
+        "basePower": 60
+      },
+      "spritenum": 475,
+      "itemUser": [
+        "Farfetch’d",
+        "Sirfetch’d"
+      ],
+      "num": 259,
+      "gen": 8
     },
     "leftovers": {
-      "id": "leftovers",
       "name": "Leftovers",
       "spritenum": 242,
       "fling": {
         "basePower": 10
       },
       "onResidualOrder": 5,
-      "onResidualSubOrder": 2,
+      "onResidualSubOrder": 5,
       "num": 234,
-      "gen": 2,
-      "desc": "At the end of every turn, holder restores 1/16 of its max HP."
+      "gen": 2
     },
     "leppaberry": {
-      "id": "leppaberry",
       "name": "Leppa Berry",
       "spritenum": 244,
       "isBerry": true,
@@ -2028,19 +2031,16 @@
         "type": "Fighting"
       },
       "num": 154,
-      "gen": 3,
-      "desc": "Restores 10 PP to the first of the holder's moves to reach 0 PP. Single use."
+      "gen": 3
     },
     "levelball": {
-      "id": "levelball",
       "name": "Level Ball",
       "spritenum": 246,
       "num": 493,
       "gen": 2,
-      "desc": "A Poke Ball for catching Pokemon that are a lower level than your own."
+      "isPokeball": true
     },
     "liechiberry": {
-      "id": "liechiberry",
       "name": "Liechi Berry",
       "spritenum": 248,
       "isBerry": true,
@@ -2049,22 +2049,18 @@
         "type": "Grass"
       },
       "num": 201,
-      "gen": 3,
-      "desc": "Raises holder's Attack by 1 stage when at 1/4 max HP or less. Single use."
+      "gen": 3
     },
     "lifeorb": {
-      "id": "lifeorb",
       "name": "Life Orb",
       "spritenum": 249,
       "fling": {
         "basePower": 30
       },
       "num": 270,
-      "gen": 4,
-      "desc": "Holder's attacks do 1.3x damage, and it loses 1/10 its max HP after the attack."
+      "gen": 4
     },
     "lightball": {
-      "id": "lightball",
       "name": "Light Ball",
       "spritenum": 251,
       "fling": {
@@ -2073,62 +2069,75 @@
       },
       "onModifyAtkPriority": 1,
       "onModifySpAPriority": 1,
+      "itemUser": [
+        "Pikachu"
+      ],
       "num": 236,
-      "gen": 2,
-      "desc": "If held by a Pikachu, its Attack and Sp. Atk are doubled."
+      "gen": 2
     },
     "lightclay": {
-      "id": "lightclay",
       "name": "Light Clay",
       "spritenum": 252,
       "fling": {
         "basePower": 30
       },
       "num": 269,
-      "gen": 4,
-      "desc": "Holder's use of Aurora Veil, Light Screen, or Reflect lasts 8 turns instead of 5."
+      "gen": 4
     },
     "lopunnite": {
-      "id": "lopunnite",
       "name": "Lopunnite",
       "spritenum": 626,
       "megaStone": "Lopunny-Mega",
       "megaEvolves": "Lopunny",
+      "itemUser": [
+        "Lopunny"
+      ],
       "num": 768,
       "gen": 6,
-      "desc": "If held by a Lopunny, this item allows it to Mega Evolve in battle."
+      "isNonstandard": "Past"
     },
     "loveball": {
-      "id": "loveball",
       "name": "Love Ball",
       "spritenum": 258,
       "num": 496,
       "gen": 2,
-      "desc": "Poke Ball for catching Pokemon that are the opposite gender of your Pokemon."
+      "isPokeball": true
+    },
+    "lovesweet": {
+      "name": "Love Sweet",
+      "spritenum": 705,
+      "fling": {
+        "basePower": 10
+      },
+      "num": 1110,
+      "gen": 8
     },
     "lucarionite": {
-      "id": "lucarionite",
       "name": "Lucarionite",
       "spritenum": 594,
       "megaStone": "Lucario-Mega",
       "megaEvolves": "Lucario",
+      "itemUser": [
+        "Lucario"
+      ],
       "num": 673,
       "gen": 6,
-      "desc": "If held by a Lucario, this item allows it to Mega Evolve in battle."
+      "isNonstandard": "Past"
     },
     "luckypunch": {
-      "id": "luckypunch",
       "name": "Lucky Punch",
       "spritenum": 261,
       "fling": {
         "basePower": 40
       },
+      "itemUser": [
+        "Chansey"
+      ],
       "num": 256,
       "gen": 2,
-      "desc": "If held by a Chansey, its critical hit ratio is raised by 2 stages."
+      "isNonstandard": "Past"
     },
     "lumberry": {
-      "id": "lumberry",
       "name": "Lum Berry",
       "spritenum": 262,
       "isBerry": true,
@@ -2137,117 +2146,106 @@
         "type": "Flying"
       },
       "num": 157,
-      "gen": 3,
-      "desc": "Holder cures itself if it is confused or has a major status condition. Single use."
+      "gen": 3
     },
     "luminousmoss": {
-      "id": "luminousmoss",
       "name": "Luminous Moss",
       "spritenum": 595,
       "fling": {
         "basePower": 30
       },
+      "boosts": {
+        "spd": 1
+      },
       "num": 648,
-      "gen": 6,
-      "desc": "Raises holder's Sp. Def by 1 stage if hit by a Water-type attack. Single use."
+      "gen": 6
     },
     "lunaliumz": {
-      "id": "lunaliumz",
       "name": "Lunalium Z",
       "spritenum": 686,
       "onTakeItem": false,
       "zMove": "Menacing Moonraze Maelstrom",
       "zMoveFrom": "Moongeist Beam",
-      "zMoveUser": [
+      "itemUser": [
         "Lunala",
         "Necrozma-Dawn-Wings"
       ],
       "num": 922,
       "gen": 7,
-      "desc": "Lunala or Dawn Wings Necrozma with Moongeist Beam can use a special Z-Move."
+      "isNonstandard": "Past"
     },
     "lureball": {
-      "id": "lureball",
       "name": "Lure Ball",
       "spritenum": 264,
       "num": 494,
       "gen": 2,
-      "desc": "A Poke Ball for catching Pokemon hooked by a Rod when fishing."
+      "isPokeball": true
     },
     "lustrousorb": {
-      "id": "lustrousorb",
       "name": "Lustrous Orb",
       "spritenum": 265,
       "fling": {
         "basePower": 60
       },
-      "onBasePowerPriority": 6,
+      "onBasePowerPriority": 15,
+      "itemUser": [
+        "Palkia"
+      ],
       "num": 136,
-      "gen": 4,
-      "desc": "If held by a Palkia, its Water- and Dragon-type attacks have 1.2x power."
+      "gen": 4
     },
     "luxuryball": {
-      "id": "luxuryball",
       "name": "Luxury Ball",
       "spritenum": 266,
       "num": 11,
       "gen": 3,
-      "desc": "A comfortable Poke Ball that makes a caught wild Pokemon quickly grow friendly."
+      "isPokeball": true
     },
     "lycaniumz": {
-      "id": "lycaniumz",
       "name": "Lycanium Z",
       "spritenum": 689,
       "onTakeItem": false,
       "zMove": "Splintered Stormshards",
       "zMoveFrom": "Stone Edge",
-      "zMoveUser": [
+      "itemUser": [
         "Lycanroc",
         "Lycanroc-Midnight",
         "Lycanroc-Dusk"
       ],
       "num": 925,
       "gen": 7,
-      "desc": "If held by a Lycanroc forme with Stone Edge, it can use Splintered Stormshards."
+      "isNonstandard": "Past"
     },
     "machobrace": {
-      "id": "machobrace",
       "name": "Macho Brace",
-      "isUnreleased": true,
       "spritenum": 269,
       "ignoreKlutz": true,
       "fling": {
         "basePower": 60
       },
       "num": 215,
-      "gen": 3,
-      "desc": "Holder's Speed is halved. The Klutz Ability does not ignore this effect."
+      "gen": 3
     },
     "magmarizer": {
-      "id": "magmarizer",
       "name": "Magmarizer",
       "spritenum": 272,
       "fling": {
         "basePower": 80
       },
       "num": 323,
-      "gen": 4,
-      "desc": "Evolves Magmar into Magmortar when traded."
+      "gen": 4
     },
     "magnet": {
-      "id": "magnet",
       "name": "Magnet",
       "spritenum": 273,
       "fling": {
         "basePower": 30
       },
-      "onBasePowerPriority": 6,
+      "onBasePowerPriority": 15,
       "num": 242,
-      "gen": 2,
-      "desc": "Holder's Electric-type attacks have 1.2x power."
+      "gen": 2
     },
     "magoberry": {
-      "id": "magoberry",
       "name": "Mago Berry",
       "spritenum": 274,
       "isBerry": true,
@@ -2256,13 +2254,10 @@
         "type": "Ghost"
       },
       "num": 161,
-      "gen": 3,
-      "desc": "Restores 1/2 max HP at 1/4 max HP or less; confuses if -Spe Nature. Single use."
+      "gen": 3
     },
     "magostberry": {
-      "id": "magostberry",
       "name": "Magost Berry",
-      "isUnreleased": true,
       "spritenum": 275,
       "isBerry": true,
       "naturalGift": {
@@ -2272,29 +2267,28 @@
       "onEat": false,
       "num": 176,
       "gen": 3,
-      "desc": "Cannot be eaten by the holder. No effect when eaten with Bug Bite or Pluck."
+      "isNonstandard": "Past"
     },
     "mail": {
-      "id": "mail",
       "name": "Mail",
       "spritenum": 403,
-      "isUnreleased": true,
       "num": 0,
       "gen": 2,
-      "desc": "Cannot be given to or taken from a Pokemon, except by Covet/Knock Off/Thief."
+      "isNonstandard": "Past"
     },
     "manectite": {
-      "id": "manectite",
       "name": "Manectite",
       "spritenum": 596,
       "megaStone": "Manectric-Mega",
       "megaEvolves": "Manectric",
+      "itemUser": [
+        "Manectric"
+      ],
       "num": 682,
       "gen": 6,
-      "desc": "If held by a Manectric, this item allows it to Mega Evolve in battle."
+      "isNonstandard": "Past"
     },
     "marangaberry": {
-      "id": "marangaberry",
       "name": "Maranga Berry",
       "spritenum": 597,
       "isBerry": true,
@@ -2303,158 +2297,156 @@
         "type": "Dark"
       },
       "num": 688,
-      "gen": 6,
-      "desc": "Raises holder's Sp. Def by 1 stage after it is hit by a special attack. Single use."
+      "gen": 6
     },
     "marshadiumz": {
-      "id": "marshadiumz",
       "name": "Marshadium Z",
       "spritenum": 654,
       "onTakeItem": false,
       "zMove": "Soul-Stealing 7-Star Strike",
       "zMoveFrom": "Spectral Thief",
-      "zMoveUser": [
+      "itemUser": [
         "Marshadow"
       ],
       "num": 802,
       "gen": 7,
-      "desc": "If held by Marshadow with Spectral Thief, it can use Soul-Stealing 7-Star Strike."
+      "isNonstandard": "Past"
     },
     "masterball": {
-      "id": "masterball",
       "name": "Master Ball",
       "spritenum": 276,
       "num": 1,
       "gen": 1,
-      "desc": "The best Ball with the ultimate performance. It will catch any wild Pokemon."
+      "isPokeball": true
     },
     "mawilite": {
-      "id": "mawilite",
       "name": "Mawilite",
       "spritenum": 598,
       "megaStone": "Mawile-Mega",
       "megaEvolves": "Mawile",
+      "itemUser": [
+        "Mawile"
+      ],
       "num": 681,
       "gen": 6,
-      "desc": "If held by a Mawile, this item allows it to Mega Evolve in battle."
+      "isNonstandard": "Past"
     },
     "meadowplate": {
-      "id": "meadowplate",
       "name": "Meadow Plate",
       "spritenum": 282,
       "onPlate": "Grass",
-      "onBasePowerPriority": 6,
+      "onBasePowerPriority": 15,
       "forcedForme": "Arceus-Grass",
       "num": 301,
       "gen": 4,
-      "desc": "Holder's Grass-type attacks have 1.2x power. Judgment is Grass type."
+      "isNonstandard": "Unobtainable"
     },
     "medichamite": {
-      "id": "medichamite",
       "name": "Medichamite",
       "spritenum": 599,
       "megaStone": "Medicham-Mega",
       "megaEvolves": "Medicham",
+      "itemUser": [
+        "Medicham"
+      ],
       "num": 665,
       "gen": 6,
-      "desc": "If held by a Medicham, this item allows it to Mega Evolve in battle."
+      "isNonstandard": "Past"
     },
     "mentalherb": {
-      "id": "mentalherb",
       "name": "Mental Herb",
       "spritenum": 285,
       "fling": {
         "basePower": 10
       },
       "num": 219,
-      "gen": 3,
-      "desc": "Cures holder of Attract, Disable, Encore, Heal Block, Taunt, Torment. Single use."
+      "gen": 3
     },
     "metagrossite": {
-      "id": "metagrossite",
       "name": "Metagrossite",
       "spritenum": 618,
       "megaStone": "Metagross-Mega",
       "megaEvolves": "Metagross",
+      "itemUser": [
+        "Metagross"
+      ],
       "num": 758,
       "gen": 6,
-      "desc": "If held by a Metagross, this item allows it to Mega Evolve in battle."
+      "isNonstandard": "Past"
     },
     "metalcoat": {
-      "id": "metalcoat",
       "name": "Metal Coat",
       "spritenum": 286,
       "fling": {
         "basePower": 30
       },
-      "onBasePowerPriority": 6,
+      "onBasePowerPriority": 15,
       "num": 233,
-      "gen": 2,
-      "desc": "Holder's Steel-type attacks have 1.2x power. Evolves Onix into Steelix and Scyther into Scizor when traded.",
-      "shortDesc": "Holder's Steel-type attacks have 1.2x power."
+      "gen": 2
     },
     "metalpowder": {
-      "id": "metalpowder",
       "name": "Metal Powder",
       "fling": {
         "basePower": 10
       },
       "spritenum": 287,
       "onModifyDefPriority": 2,
+      "itemUser": [
+        "Ditto"
+      ],
       "num": 257,
-      "gen": 2,
-      "desc": "If held by a Ditto that hasn't Transformed, its Defense is doubled."
+      "gen": 2
     },
     "metronome": {
-      "id": "metronome",
       "name": "Metronome",
       "spritenum": 289,
       "fling": {
         "basePower": 30
       },
-      "effect": {
+      "condition": {
         "onTryMovePriority": -2
       },
       "num": 277,
-      "gen": 4,
-      "desc": "Damage of moves used on consecutive turns is increased. Max 2x after 5 turns."
+      "gen": 4
     },
     "mewniumz": {
-      "id": "mewniumz",
       "name": "Mewnium Z",
       "spritenum": 658,
       "onTakeItem": false,
       "zMove": "Genesis Supernova",
       "zMoveFrom": "Psychic",
-      "zMoveUser": [
+      "itemUser": [
         "Mew"
       ],
       "num": 806,
       "gen": 7,
-      "desc": "If held by a Mew with Psychic, it can use Genesis Supernova."
+      "isNonstandard": "Past"
     },
     "mewtwonitex": {
-      "id": "mewtwonitex",
       "name": "Mewtwonite X",
       "spritenum": 600,
       "megaStone": "Mewtwo-Mega-X",
       "megaEvolves": "Mewtwo",
+      "itemUser": [
+        "Mewtwo"
+      ],
       "num": 662,
       "gen": 6,
-      "desc": "If held by a Mewtwo, this item allows it to Mega Evolve in battle."
+      "isNonstandard": "Past"
     },
     "mewtwonitey": {
-      "id": "mewtwonitey",
       "name": "Mewtwonite Y",
       "spritenum": 601,
       "megaStone": "Mewtwo-Mega-Y",
       "megaEvolves": "Mewtwo",
+      "itemUser": [
+        "Mewtwo"
+      ],
       "num": 663,
       "gen": 6,
-      "desc": "If held by a Mewtwo, this item allows it to Mega Evolve in battle."
+      "isNonstandard": "Past"
     },
     "micleberry": {
-      "id": "micleberry",
       "name": "Micle Berry",
       "spritenum": 290,
       "isBerry": true,
@@ -2462,112 +2454,99 @@
         "basePower": 100,
         "type": "Rock"
       },
-      "effect": {
-        "duration": 2
+      "condition": {
+        "duration": 2,
+        "onSourceModifyAccuracyPriority": 3
       },
       "num": 209,
-      "gen": 4,
-      "desc": "Holder's next move has 1.2x accuracy when at 1/4 max HP or less. Single use."
+      "gen": 4
     },
     "mimikiumz": {
-      "id": "mimikiumz",
       "name": "Mimikium Z",
       "spritenum": 688,
       "onTakeItem": false,
       "zMove": "Let's Snuggle Forever",
       "zMoveFrom": "Play Rough",
-      "zMoveUser": [
+      "itemUser": [
         "Mimikyu",
         "Mimikyu-Busted",
         "Mimikyu-Totem",
         "Mimikyu-Busted-Totem"
       ],
       "num": 924,
-      "gen": 7,
-      "desc": "If held by a Mimikyu with Play Rough, it can use Let's Snuggle Forever."
+      "isNonstandard": "Past",
+      "gen": 7
     },
     "mindplate": {
-      "id": "mindplate",
       "name": "Mind Plate",
       "spritenum": 291,
       "onPlate": "Psychic",
-      "onBasePowerPriority": 6,
+      "onBasePowerPriority": 15,
       "forcedForme": "Arceus-Psychic",
       "num": 307,
       "gen": 4,
-      "desc": "Holder's Psychic-type attacks have 1.2x power. Judgment is Psychic type."
+      "isNonstandard": "Unobtainable"
     },
     "miracleseed": {
-      "id": "miracleseed",
       "name": "Miracle Seed",
       "fling": {
         "basePower": 30
       },
       "spritenum": 292,
-      "onBasePowerPriority": 6,
+      "onBasePowerPriority": 15,
       "num": 239,
-      "gen": 2,
-      "desc": "Holder's Grass-type attacks have 1.2x power."
+      "gen": 2
     },
     "mistyseed": {
-      "id": "mistyseed",
       "name": "Misty Seed",
       "spritenum": 666,
       "fling": {
         "basePower": 10
       },
+      "boosts": {
+        "spd": 1
+      },
       "num": 883,
-      "gen": 7,
-      "desc": "If the terrain is Misty Terrain, raises holder's Sp. Def by 1 stage. Single use."
+      "gen": 7
     },
     "moonball": {
-      "id": "moonball",
       "name": "Moon Ball",
       "spritenum": 294,
       "num": 498,
       "gen": 2,
-      "desc": "A Poke Ball for catching Pokemon that evolve using the Moon Stone."
+      "isPokeball": true
     },
     "moonstone": {
-      "id": "moonstone",
       "name": "Moon Stone",
       "spritenum": 295,
       "fling": {
         "basePower": 30
       },
       "num": 81,
-      "gen": 1,
-      "desc": "Evolves Nidorina into Nidoqueen, Nidorino into Nidoking, Clefairy into Clefable, Jigglypuff into Wigglytuff, Skitty into Delcatty, and Munna into Musharna when used.",
-      "shortDesc": "Evolves certain species of Pokemon when used."
+      "gen": 1
     },
     "muscleband": {
-      "id": "muscleband",
       "name": "Muscle Band",
       "spritenum": 297,
       "fling": {
         "basePower": 10
       },
-      "onBasePowerPriority": 6,
+      "onBasePowerPriority": 16,
       "num": 266,
-      "gen": 4,
-      "desc": "Holder's physical attacks have 1.1x power."
+      "gen": 4
     },
     "mysticwater": {
-      "id": "mysticwater",
       "name": "Mystic Water",
       "spritenum": 300,
       "fling": {
         "basePower": 30
       },
-      "onBasePowerPriority": 6,
+      "onBasePowerPriority": 15,
       "num": 243,
-      "gen": 2,
-      "desc": "Holder's Water-type attacks have 1.2x power."
+      "gen": 2
     },
     "nanabberry": {
-      "id": "nanabberry",
       "name": "Nanab Berry",
-      "isUnreleased": true,
       "spritenum": 302,
       "isBerry": true,
       "naturalGift": {
@@ -2577,40 +2556,34 @@
       "onEat": false,
       "num": 166,
       "gen": 3,
-      "desc": "Cannot be eaten by the holder. No effect when eaten with Bug Bite or Pluck."
+      "isNonstandard": "Past"
     },
     "nestball": {
-      "id": "nestball",
       "name": "Nest Ball",
       "spritenum": 303,
       "num": 8,
       "gen": 3,
-      "desc": "A Poke Ball that works especially well on weaker Pokemon in the wild."
+      "isPokeball": true
     },
     "netball": {
-      "id": "netball",
       "name": "Net Ball",
       "spritenum": 304,
       "num": 6,
       "gen": 3,
-      "desc": "A Poke Ball that works especially well on Water- and Bug-type Pokemon."
+      "isPokeball": true
     },
     "nevermeltice": {
-      "id": "nevermeltice",
       "name": "Never-Melt Ice",
       "spritenum": 305,
       "fling": {
         "basePower": 30
       },
-      "onBasePowerPriority": 6,
+      "onBasePowerPriority": 15,
       "num": 246,
-      "gen": 2,
-      "desc": "Holder's Ice-type attacks have 1.2x power."
+      "gen": 2
     },
     "nomelberry": {
-      "id": "nomelberry",
       "name": "Nomel Berry",
-      "isUnreleased": true,
       "spritenum": 306,
       "isBerry": true,
       "naturalGift": {
@@ -2620,19 +2593,16 @@
       "onEat": false,
       "num": 178,
       "gen": 3,
-      "desc": "Cannot be eaten by the holder. No effect when eaten with Bug Bite or Pluck."
+      "isNonstandard": "Past"
     },
     "normalgem": {
-      "id": "normalgem",
       "name": "Normal Gem",
       "spritenum": 307,
       "isGem": true,
       "num": 564,
-      "gen": 5,
-      "desc": "Holder's first successful Normal-type attack will have 1.3x power. Single use."
+      "gen": 5
     },
     "normaliumz": {
-      "id": "normaliumz",
       "name": "Normalium Z",
       "spritenum": 631,
       "onTakeItem": false,
@@ -2640,10 +2610,9 @@
       "zMoveType": "Normal",
       "num": 776,
       "gen": 7,
-      "desc": "If holder has a Normal move, this item allows it to use a Normal Z-Move."
+      "isNonstandard": "Past"
     },
     "occaberry": {
-      "id": "occaberry",
       "name": "Occa Berry",
       "spritenum": 311,
       "isBerry": true,
@@ -2652,23 +2621,19 @@
         "type": "Fire"
       },
       "num": 184,
-      "gen": 4,
-      "desc": "Halves damage taken from a supereffective Fire-type attack. Single use."
+      "gen": 4
     },
     "oddincense": {
-      "id": "oddincense",
       "name": "Odd Incense",
       "spritenum": 312,
       "fling": {
         "basePower": 10
       },
-      "onBasePowerPriority": 6,
+      "onBasePowerPriority": 15,
       "num": 314,
-      "gen": 4,
-      "desc": "Holder's Psychic-type attacks have 1.2x power."
+      "gen": 4
     },
     "oldamber": {
-      "id": "oldamber",
       "name": "Old Amber",
       "spritenum": 314,
       "fling": {
@@ -2676,10 +2641,9 @@
       },
       "num": 103,
       "gen": 3,
-      "desc": "Can be revived into Aerodactyl."
+      "isNonstandard": "Past"
     },
     "oranberry": {
-      "id": "oranberry",
       "name": "Oran Berry",
       "spritenum": 319,
       "isBerry": true,
@@ -2688,24 +2652,19 @@
         "type": "Poison"
       },
       "num": 155,
-      "gen": 3,
-      "desc": "Restores 10 HP when at 1/2 max HP or less. Single use."
+      "gen": 3
     },
     "ovalstone": {
-      "id": "ovalstone",
       "name": "Oval Stone",
       "spritenum": 321,
       "fling": {
         "basePower": 80
       },
       "num": 110,
-      "gen": 4,
-      "desc": "Evolves Happiny into Chansey when held and leveled up during the day."
+      "gen": 4
     },
     "pamtreberry": {
-      "id": "pamtreberry",
       "name": "Pamtre Berry",
-      "isUnreleased": true,
       "spritenum": 323,
       "isBerry": true,
       "naturalGift": {
@@ -2715,18 +2674,16 @@
       "onEat": false,
       "num": 180,
       "gen": 3,
-      "desc": "Cannot be eaten by the holder. No effect when eaten with Bug Bite or Pluck."
+      "isNonstandard": "Past"
     },
     "parkball": {
-      "id": "parkball",
       "name": "Park Ball",
       "spritenum": 325,
       "num": 500,
       "gen": 4,
-      "desc": "A special Poke Ball for the Pal Park."
+      "isPokeball": true
     },
     "passhoberry": {
-      "id": "passhoberry",
       "name": "Passho Berry",
       "spritenum": 329,
       "isBerry": true,
@@ -2735,11 +2692,9 @@
         "type": "Water"
       },
       "num": 185,
-      "gen": 4,
-      "desc": "Halves damage taken from a supereffective Water-type attack. Single use."
+      "gen": 4
     },
     "payapaberry": {
-      "id": "payapaberry",
       "name": "Payapa Berry",
       "spritenum": 330,
       "isBerry": true,
@@ -2748,11 +2703,9 @@
         "type": "Psychic"
       },
       "num": 193,
-      "gen": 4,
-      "desc": "Halves damage taken from a supereffective Psychic-type attack. Single use."
+      "gen": 4
     },
     "pechaberry": {
-      "id": "pechaberry",
       "name": "Pecha Berry",
       "spritenum": 333,
       "isBerry": true,
@@ -2761,11 +2714,9 @@
         "type": "Electric"
       },
       "num": 151,
-      "gen": 3,
-      "desc": "Holder is cured if it is poisoned. Single use."
+      "gen": 3
     },
     "persimberry": {
-      "id": "persimberry",
       "name": "Persim Berry",
       "spritenum": 334,
       "isBerry": true,
@@ -2774,11 +2725,9 @@
         "type": "Ground"
       },
       "num": 156,
-      "gen": 3,
-      "desc": "Holder is cured if it is confused. Single use."
+      "gen": 3
     },
     "petayaberry": {
-      "id": "petayaberry",
       "name": "Petaya Berry",
       "spritenum": 335,
       "isBerry": true,
@@ -2787,41 +2736,40 @@
         "type": "Poison"
       },
       "num": 204,
-      "gen": 3,
-      "desc": "Raises holder's Sp. Atk by 1 stage when at 1/4 max HP or less. Single use."
+      "gen": 3
     },
     "pidgeotite": {
-      "id": "pidgeotite",
       "name": "Pidgeotite",
       "spritenum": 622,
       "megaStone": "Pidgeot-Mega",
       "megaEvolves": "Pidgeot",
+      "itemUser": [
+        "Pidgeot"
+      ],
       "num": 762,
       "gen": 6,
-      "desc": "If held by a Pidgeot, this item allows it to Mega Evolve in battle."
+      "isNonstandard": "Past"
     },
     "pikaniumz": {
-      "id": "pikaniumz",
       "name": "Pikanium Z",
       "spritenum": 649,
       "onTakeItem": false,
       "zMove": "Catastropika",
       "zMoveFrom": "Volt Tackle",
-      "zMoveUser": [
+      "itemUser": [
         "Pikachu"
       ],
       "num": 794,
       "gen": 7,
-      "desc": "If held by a Pikachu with Volt Tackle, it can use Catastropika."
+      "isNonstandard": "Past"
     },
     "pikashuniumz": {
-      "id": "pikashuniumz",
       "name": "Pikashunium Z",
       "spritenum": 659,
       "onTakeItem": false,
       "zMove": "10,000,000 Volt Thunderbolt",
       "zMoveFrom": "Thunderbolt",
-      "zMoveUser": [
+      "itemUser": [
         "Pikachu-Original",
         "Pikachu-Hoenn",
         "Pikachu-Sinnoh",
@@ -2831,11 +2779,10 @@
         "Pikachu-Partner"
       ],
       "num": 836,
-      "gen": 7,
-      "desc": "If held by cap Pikachu with Thunderbolt, it can use 10,000,000 Volt Thunderbolt."
+      "isNonstandard": "Past",
+      "gen": 7
     },
     "pinapberry": {
-      "id": "pinapberry",
       "name": "Pinap Berry",
       "spritenum": 337,
       "isBerry": true,
@@ -2845,32 +2792,30 @@
       },
       "onEat": false,
       "num": 168,
-      "gen": 3,
-      "desc": "Cannot be eaten by the holder. No effect when eaten with Bug Bite or Pluck."
+      "gen": 3
     },
     "pinsirite": {
-      "id": "pinsirite",
       "name": "Pinsirite",
       "spritenum": 602,
       "megaStone": "Pinsir-Mega",
       "megaEvolves": "Pinsir",
+      "itemUser": [
+        "Pinsir"
+      ],
       "num": 671,
       "gen": 6,
-      "desc": "If held by a Pinsir, this item allows it to Mega Evolve in battle."
+      "isNonstandard": "Past"
     },
     "pixieplate": {
-      "id": "pixieplate",
       "name": "Pixie Plate",
       "spritenum": 610,
       "onPlate": "Fairy",
-      "onBasePowerPriority": 6,
+      "onBasePowerPriority": 15,
       "forcedForme": "Arceus-Fairy",
       "num": 644,
-      "gen": 6,
-      "desc": "Holder's Fairy-type attacks have 1.2x power. Judgment is Fairy type."
+      "gen": 6
     },
     "plumefossil": {
-      "id": "plumefossil",
       "name": "Plume Fossil",
       "spritenum": 339,
       "fling": {
@@ -2878,43 +2823,39 @@
       },
       "num": 573,
       "gen": 5,
-      "desc": "Can be revived into Archen."
+      "isNonstandard": "Past"
     },
     "poisonbarb": {
-      "id": "poisonbarb",
       "name": "Poison Barb",
       "spritenum": 343,
       "fling": {
         "basePower": 70,
         "status": "psn"
       },
-      "onBasePowerPriority": 6,
+      "onBasePowerPriority": 15,
       "num": 245,
-      "gen": 2,
-      "desc": "Holder's Poison-type attacks have 1.2x power."
+      "gen": 2
     },
     "poisongem": {
-      "id": "poisongem",
       "name": "Poison Gem",
-      "isUnreleased": true,
       "spritenum": 344,
       "isGem": true,
       "num": 554,
       "gen": 5,
-      "desc": "Holder's first successful Poison-type attack will have 1.3x power. Single use."
+      "isNonstandard": "Past"
     },
     "poisonmemory": {
-      "id": "poisonmemory",
       "name": "Poison Memory",
       "spritenum": 670,
       "onMemory": "Poison",
       "forcedForme": "Silvally-Poison",
+      "itemUser": [
+        "Silvally-Poison"
+      ],
       "num": 906,
-      "gen": 7,
-      "desc": "Holder's Multi-Attack is Poison type."
+      "gen": 7
     },
     "poisoniumz": {
-      "id": "poisoniumz",
       "name": "Poisonium Z",
       "spritenum": 638,
       "onPlate": "Poison",
@@ -2924,18 +2865,16 @@
       "forcedForme": "Arceus-Poison",
       "num": 783,
       "gen": 7,
-      "desc": "If holder has a Poison move, this item allows it to use a Poison Z-Move."
+      "isNonstandard": "Past"
     },
     "pokeball": {
-      "id": "pokeball",
       "name": "Poke Ball",
       "spritenum": 345,
       "num": 4,
       "gen": 1,
-      "desc": "A device for catching wild Pokemon. It is designed as a capsule system."
+      "isPokeball": true
     },
     "pomegberry": {
-      "id": "pomegberry",
       "name": "Pomeg Berry",
       "spritenum": 351,
       "isBerry": true,
@@ -2945,11 +2884,9 @@
       },
       "onEat": false,
       "num": 169,
-      "gen": 3,
-      "desc": "Cannot be eaten by the holder. No effect when eaten with Bug Bite or Pluck."
+      "gen": 3
     },
     "poweranklet": {
-      "id": "poweranklet",
       "name": "Power Anklet",
       "spritenum": 354,
       "ignoreKlutz": true,
@@ -2957,11 +2894,9 @@
         "basePower": 70
       },
       "num": 293,
-      "gen": 4,
-      "desc": "Holder's Speed is halved. The Klutz Ability does not ignore this effect."
+      "gen": 4
     },
     "powerband": {
-      "id": "powerband",
       "name": "Power Band",
       "spritenum": 355,
       "ignoreKlutz": true,
@@ -2969,11 +2904,9 @@
         "basePower": 70
       },
       "num": 292,
-      "gen": 4,
-      "desc": "Holder's Speed is halved. The Klutz Ability does not ignore this effect."
+      "gen": 4
     },
     "powerbelt": {
-      "id": "powerbelt",
       "name": "Power Belt",
       "spritenum": 356,
       "ignoreKlutz": true,
@@ -2981,11 +2914,9 @@
         "basePower": 70
       },
       "num": 290,
-      "gen": 4,
-      "desc": "Holder's Speed is halved. The Klutz Ability does not ignore this effect."
+      "gen": 4
     },
     "powerbracer": {
-      "id": "powerbracer",
       "name": "Power Bracer",
       "spritenum": 357,
       "ignoreKlutz": true,
@@ -2993,22 +2924,18 @@
         "basePower": 70
       },
       "num": 289,
-      "gen": 4,
-      "desc": "Holder's Speed is halved. The Klutz Ability does not ignore this effect."
+      "gen": 4
     },
     "powerherb": {
-      "id": "powerherb",
       "name": "Power Herb",
       "spritenum": 358,
       "fling": {
         "basePower": 10
       },
       "num": 271,
-      "gen": 4,
-      "desc": "Holder's two-turn moves complete in one turn (except Sky Drop). Single use."
+      "gen": 4
     },
     "powerlens": {
-      "id": "powerlens",
       "name": "Power Lens",
       "spritenum": 359,
       "ignoreKlutz": true,
@@ -3016,11 +2943,9 @@
         "basePower": 70
       },
       "num": 291,
-      "gen": 4,
-      "desc": "Holder's Speed is halved. The Klutz Ability does not ignore this effect."
+      "gen": 4
     },
     "powerweight": {
-      "id": "powerweight",
       "name": "Power Weight",
       "spritenum": 360,
       "ignoreKlutz": true,
@@ -3028,44 +2953,38 @@
         "basePower": 70
       },
       "num": 294,
-      "gen": 4,
-      "desc": "Holder's Speed is halved. The Klutz Ability does not ignore this effect."
+      "gen": 4
     },
     "premierball": {
-      "id": "premierball",
       "name": "Premier Ball",
       "spritenum": 363,
       "num": 12,
       "gen": 3,
-      "desc": "A rare Poke Ball that has been crafted to commemorate an event."
+      "isPokeball": true
     },
     "primariumz": {
-      "id": "primariumz",
       "name": "Primarium Z",
       "spritenum": 652,
       "onTakeItem": false,
       "zMove": "Oceanic Operetta",
       "zMoveFrom": "Sparkling Aria",
-      "zMoveUser": [
+      "itemUser": [
         "Primarina"
       ],
       "num": 800,
       "gen": 7,
-      "desc": "If held by a Primarina with Sparkling Aria, it can use Oceanic Operetta."
+      "isNonstandard": "Past"
     },
     "prismscale": {
-      "id": "prismscale",
       "name": "Prism Scale",
       "spritenum": 365,
       "fling": {
         "basePower": 30
       },
       "num": 537,
-      "gen": 5,
-      "desc": "Evolves Feebas into Milotic when traded."
+      "gen": 5
     },
     "protectivepads": {
-      "id": "protectivepads",
       "name": "Protective Pads",
       "spritenum": 663,
       "fling": {
@@ -3075,53 +2994,49 @@
       "onBoostPriority": -1,
       "onDamagePriority": -1,
       "num": 880,
-      "gen": 7,
-      "desc": "Holder's moves are protected from adverse contact effects, except Pickpocket."
+      "gen": 7
     },
     "protector": {
-      "id": "protector",
       "name": "Protector",
       "spritenum": 367,
       "fling": {
         "basePower": 80
       },
       "num": 321,
-      "gen": 4,
-      "desc": "Evolves Rhydon into Rhyperior when traded."
+      "gen": 4
     },
     "psychicgem": {
-      "id": "psychicgem",
       "name": "Psychic Gem",
-      "isUnreleased": true,
       "spritenum": 369,
       "isGem": true,
       "num": 557,
       "gen": 5,
-      "desc": "Holder's first successful Psychic-type attack will have 1.3x power. Single use."
+      "isNonstandard": "Past"
     },
     "psychicmemory": {
-      "id": "psychicmemory",
       "name": "Psychic Memory",
       "spritenum": 680,
       "onMemory": "Psychic",
       "forcedForme": "Silvally-Psychic",
+      "itemUser": [
+        "Silvally-Psychic"
+      ],
       "num": 916,
-      "gen": 7,
-      "desc": "Holder's Multi-Attack is Psychic type."
+      "gen": 7
     },
     "psychicseed": {
-      "id": "psychicseed",
       "name": "Psychic Seed",
       "spritenum": 665,
       "fling": {
         "basePower": 10
       },
+      "boosts": {
+        "spd": 1
+      },
       "num": 882,
-      "gen": 7,
-      "desc": "If the terrain is Psychic Terrain, raises holder's Sp. Def by 1 stage. Single use."
+      "gen": 7
     },
     "psychiumz": {
-      "id": "psychiumz",
       "name": "Psychium Z",
       "spritenum": 641,
       "onPlate": "Psychic",
@@ -3131,10 +3046,9 @@
       "forcedForme": "Arceus-Psychic",
       "num": 786,
       "gen": 7,
-      "desc": "If holder has a Psychic move, this item allows it to use a Psychic Z-Move."
+      "isNonstandard": "Past"
     },
     "qualotberry": {
-      "id": "qualotberry",
       "name": "Qualot Berry",
       "spritenum": 371,
       "isBerry": true,
@@ -3144,44 +3058,39 @@
       },
       "onEat": false,
       "num": 171,
-      "gen": 3,
-      "desc": "Cannot be eaten by the holder. No effect when eaten with Bug Bite or Pluck."
+      "gen": 3
     },
     "quickball": {
-      "id": "quickball",
       "name": "Quick Ball",
       "spritenum": 372,
       "num": 15,
       "gen": 4,
-      "desc": "A Poke Ball that provides a better catch rate at the start of a wild encounter."
+      "isPokeball": true
     },
     "quickclaw": {
-      "id": "quickclaw",
-      "onModifyPriorityPriority": -1,
+      "onFractionalPriorityPriority": -2,
       "name": "Quick Claw",
       "spritenum": 373,
       "fling": {
         "basePower": 80
       },
       "num": 217,
-      "gen": 2,
-      "desc": "Each turn, holder has a 20% chance to move first in its priority bracket."
+      "gen": 2
     },
     "quickpowder": {
-      "id": "quickpowder",
       "name": "Quick Powder",
       "spritenum": 374,
       "fling": {
         "basePower": 10
       },
+      "itemUser": [
+        "Ditto"
+      ],
       "num": 274,
-      "gen": 4,
-      "desc": "If held by a Ditto that hasn't Transformed, its Speed is doubled."
+      "gen": 4
     },
     "rabutaberry": {
-      "id": "rabutaberry",
       "name": "Rabuta Berry",
-      "isUnreleased": true,
       "spritenum": 375,
       "isBerry": true,
       "naturalGift": {
@@ -3191,21 +3100,18 @@
       "onEat": false,
       "num": 177,
       "gen": 3,
-      "desc": "Cannot be eaten by the holder. No effect when eaten with Bug Bite or Pluck."
+      "isNonstandard": "Past"
     },
     "rarebone": {
-      "id": "rarebone",
       "name": "Rare Bone",
       "spritenum": 379,
       "fling": {
         "basePower": 100
       },
       "num": 106,
-      "gen": 4,
-      "desc": "No competitive use other than when used with Fling."
+      "gen": 4
     },
     "rawstberry": {
-      "id": "rawstberry",
       "name": "Rawst Berry",
       "spritenum": 381,
       "isBerry": true,
@@ -3214,23 +3120,18 @@
         "type": "Grass"
       },
       "num": 152,
-      "gen": 3,
-      "desc": "Holder is cured if it is burned. Single use."
+      "gen": 3
     },
     "razorclaw": {
-      "id": "razorclaw",
       "name": "Razor Claw",
       "spritenum": 382,
       "fling": {
         "basePower": 80
       },
       "num": 326,
-      "gen": 4,
-      "desc": "Holder's critical hit ratio is raised by 1 stage. Evolves Sneasel into Weavile when held and leveled up during the night.",
-      "shortDesc": "Holder's critical hit ratio is raised by 1 stage."
+      "gen": 4
     },
     "razorfang": {
-      "id": "razorfang",
       "name": "Razor Fang",
       "spritenum": 383,
       "fling": {
@@ -3240,13 +3141,10 @@
       "onModifyMovePriority": -1,
       "num": 327,
       "gen": 4,
-      "desc": "Holder's attacks without a chance to flinch gain a 10% chance to flinch. Evolves Gligar into Gliscor when held and leveled up during the night.",
-      "shortDesc": "Holder's attacks without a chance to flinch gain a 10% chance to flinch."
+      "isNonstandard": "Past"
     },
     "razzberry": {
-      "id": "razzberry",
       "name": "Razz Berry",
-      "isUnreleased": true,
       "spritenum": 384,
       "isBerry": true,
       "naturalGift": {
@@ -3256,48 +3154,53 @@
       "onEat": false,
       "num": 164,
       "gen": 3,
-      "desc": "Cannot be eaten by the holder. No effect when eaten with Bug Bite or Pluck."
+      "isNonstandard": "Past"
     },
     "reapercloth": {
-      "id": "reapercloth",
       "name": "Reaper Cloth",
       "spritenum": 385,
       "fling": {
         "basePower": 10
       },
       "num": 325,
-      "gen": 4,
-      "desc": "Evolves Dusclops into Dusknoir when traded."
+      "gen": 4
     },
     "redcard": {
-      "id": "redcard",
       "name": "Red Card",
       "spritenum": 387,
       "fling": {
         "basePower": 10
       },
       "num": 542,
-      "gen": 5,
-      "desc": "If holder survives a hit, attacker is forced to switch to a random ally. Single use."
+      "gen": 5
     },
     "redorb": {
-      "id": "redorb",
       "name": "Red Orb",
       "spritenum": 390,
+      "itemUser": [
+        "Groudon"
+      ],
       "num": 534,
       "gen": 6,
-      "desc": "If held by a Groudon, this item triggers its Primal Reversion in battle."
+      "isNonstandard": "Past"
     },
     "repeatball": {
-      "id": "repeatball",
       "name": "Repeat Ball",
       "spritenum": 401,
       "num": 9,
       "gen": 3,
-      "desc": "A Poke Ball that works well on Pokemon species that were previously caught."
+      "isPokeball": true
+    },
+    "ribbonsweet": {
+      "name": "Ribbon Sweet",
+      "spritenum": 710,
+      "fling": {
+        "basePower": 10
+      },
+      "num": 1115,
+      "gen": 8
     },
     "rindoberry": {
-      "id": "rindoberry",
       "name": "Rindo Berry",
       "spritenum": 409,
       "isBerry": true,
@@ -3306,11 +3209,9 @@
         "type": "Grass"
       },
       "num": 187,
-      "gen": 4,
-      "desc": "Halves damage taken from a supereffective Grass-type attack. Single use."
+      "gen": 4
     },
     "ringtarget": {
-      "id": "ringtarget",
       "name": "Ring Target",
       "spritenum": 410,
       "fling": {
@@ -3318,43 +3219,38 @@
       },
       "onNegateImmunity": false,
       "num": 543,
-      "gen": 5,
-      "desc": "The holder's type immunities granted solely by its typing are negated."
+      "gen": 5
     },
     "rockgem": {
-      "id": "rockgem",
       "name": "Rock Gem",
-      "isUnreleased": true,
       "spritenum": 415,
       "isGem": true,
       "num": 559,
       "gen": 5,
-      "desc": "Holder's first successful Rock-type attack will have 1.3x power. Single use."
+      "isNonstandard": "Past"
     },
     "rockincense": {
-      "id": "rockincense",
       "name": "Rock Incense",
       "spritenum": 416,
       "fling": {
         "basePower": 10
       },
-      "onBasePowerPriority": 6,
+      "onBasePowerPriority": 15,
       "num": 315,
-      "gen": 4,
-      "desc": "Holder's Rock-type attacks have 1.2x power."
+      "gen": 4
     },
     "rockmemory": {
-      "id": "rockmemory",
       "name": "Rock Memory",
       "spritenum": 672,
       "onMemory": "Rock",
       "forcedForme": "Silvally-Rock",
+      "itemUser": [
+        "Silvally-Rock"
+      ],
       "num": 908,
-      "gen": 7,
-      "desc": "Holder's Multi-Attack is Rock type."
+      "gen": 7
     },
     "rockiumz": {
-      "id": "rockiumz",
       "name": "Rockium Z",
       "spritenum": 643,
       "onPlate": "Rock",
@@ -3364,22 +3260,31 @@
       "forcedForme": "Arceus-Rock",
       "num": 788,
       "gen": 7,
-      "desc": "If holder has a Rock move, this item allows it to use a Rock Z-Move."
+      "isNonstandard": "Past"
     },
     "rockyhelmet": {
-      "id": "rockyhelmet",
       "name": "Rocky Helmet",
       "spritenum": 417,
       "fling": {
         "basePower": 60
       },
-      "onAfterDamageOrder": 2,
+      "onDamagingHitOrder": 2,
       "num": 540,
-      "gen": 5,
-      "desc": "If holder is hit by a contact move, the attacker loses 1/6 of its max HP."
+      "gen": 5
+    },
+    "roomservice": {
+      "name": "Room Service",
+      "spritenum": 717,
+      "fling": {
+        "basePower": 100
+      },
+      "boosts": {
+        "spe": -1
+      },
+      "num": 1122,
+      "gen": 8
     },
     "rootfossil": {
-      "id": "rootfossil",
       "name": "Root Fossil",
       "spritenum": 418,
       "fling": {
@@ -3387,22 +3292,19 @@
       },
       "num": 99,
       "gen": 3,
-      "desc": "Can be revived into Lileep."
+      "isNonstandard": "Past"
     },
     "roseincense": {
-      "id": "roseincense",
       "name": "Rose Incense",
       "spritenum": 419,
       "fling": {
         "basePower": 10
       },
-      "onBasePowerPriority": 6,
+      "onBasePowerPriority": 15,
       "num": 318,
-      "gen": 4,
-      "desc": "Holder's Grass-type attacks have 1.2x power."
+      "gen": 4
     },
     "roseliberry": {
-      "id": "roseliberry",
       "name": "Roseli Berry",
       "spritenum": 603,
       "isBerry": true,
@@ -3411,11 +3313,9 @@
         "type": "Fairy"
       },
       "num": 686,
-      "gen": 6,
-      "desc": "Halves damage taken from a supereffective Fairy-type attack. Single use."
+      "gen": 6
     },
     "rowapberry": {
-      "id": "rowapberry",
       "name": "Rowap Berry",
       "spritenum": 420,
       "isBerry": true,
@@ -3424,51 +3324,66 @@
         "type": "Dark"
       },
       "num": 212,
-      "gen": 4,
-      "desc": "If holder is hit by a special move, attacker loses 1/8 of its max HP. Single use."
+      "gen": 4
+    },
+    "rustedshield": {
+      "name": "Rusted Shield",
+      "spritenum": 699,
+      "forcedForme": "Zamazenta-Crowned",
+      "itemUser": [
+        "Zamazenta-Crowned"
+      ],
+      "num": 1104,
+      "gen": 8
+    },
+    "rustedsword": {
+      "name": "Rusted Sword",
+      "spritenum": 698,
+      "forcedForme": "Zacian-Crowned",
+      "itemUser": [
+        "Zacian-Crowned"
+      ],
+      "num": 1103,
+      "gen": 8
     },
     "sablenite": {
-      "id": "sablenite",
       "name": "Sablenite",
       "spritenum": 614,
       "megaStone": "Sableye-Mega",
       "megaEvolves": "Sableye",
+      "itemUser": [
+        "Sableye"
+      ],
       "num": 754,
       "gen": 6,
-      "desc": "If held by a Sableye, this item allows it to Mega Evolve in battle."
+      "isNonstandard": "Past"
     },
     "sachet": {
-      "id": "sachet",
       "name": "Sachet",
       "spritenum": 691,
       "fling": {
         "basePower": 80
       },
       "num": 647,
-      "gen": 6,
-      "desc": "Evolves Spritzee into Aromatisse when traded."
+      "gen": 6
     },
     "safariball": {
-      "id": "safariball",
       "name": "Safari Ball",
       "spritenum": 425,
       "num": 5,
       "gen": 1,
-      "desc": "A special Poke Ball that is used only in the Safari Zone and Great Marsh."
+      "isPokeball": true
     },
     "safetygoggles": {
-      "id": "safetygoggles",
       "name": "Safety Goggles",
       "spritenum": 604,
       "fling": {
         "basePower": 80
       },
       "num": 650,
-      "gen": 6,
-      "desc": "Holder is immune to powder moves and damage from Sandstorm or Hail."
+      "gen": 6
     },
     "sailfossil": {
-      "id": "sailfossil",
       "name": "Sail Fossil",
       "spritenum": 695,
       "fling": {
@@ -3476,10 +3391,9 @@
       },
       "num": 711,
       "gen": 6,
-      "desc": "Can be revived into Amaura."
+      "isNonstandard": "Past"
     },
     "salacberry": {
-      "id": "salacberry",
       "name": "Salac Berry",
       "spritenum": 426,
       "isBerry": true,
@@ -3488,86 +3402,86 @@
         "type": "Fighting"
       },
       "num": 203,
-      "gen": 3,
-      "desc": "Raises holder's Speed by 1 stage when at 1/4 max HP or less. Single use."
+      "gen": 3
     },
     "salamencite": {
-      "id": "salamencite",
       "name": "Salamencite",
       "spritenum": 627,
       "megaStone": "Salamence-Mega",
       "megaEvolves": "Salamence",
+      "itemUser": [
+        "Salamence"
+      ],
       "num": 769,
       "gen": 6,
-      "desc": "If held by a Salamence, this item allows it to Mega Evolve in battle."
+      "isNonstandard": "Past"
     },
     "sceptilite": {
-      "id": "sceptilite",
       "name": "Sceptilite",
       "spritenum": 613,
       "megaStone": "Sceptile-Mega",
       "megaEvolves": "Sceptile",
+      "itemUser": [
+        "Sceptile"
+      ],
       "num": 753,
       "gen": 6,
-      "desc": "If held by a Sceptile, this item allows it to Mega Evolve in battle."
+      "isNonstandard": "Past"
     },
     "scizorite": {
-      "id": "scizorite",
       "name": "Scizorite",
       "spritenum": 605,
       "megaStone": "Scizor-Mega",
       "megaEvolves": "Scizor",
+      "itemUser": [
+        "Scizor"
+      ],
       "num": 670,
       "gen": 6,
-      "desc": "If held by a Scizor, this item allows it to Mega Evolve in battle."
+      "isNonstandard": "Past"
     },
     "scopelens": {
-      "id": "scopelens",
       "name": "Scope Lens",
       "spritenum": 429,
       "fling": {
         "basePower": 30
       },
       "num": 232,
-      "gen": 2,
-      "desc": "Holder's critical hit ratio is raised by 1 stage."
+      "gen": 2
     },
     "seaincense": {
-      "id": "seaincense",
       "name": "Sea Incense",
       "spritenum": 430,
       "fling": {
         "basePower": 10
       },
-      "onBasePowerPriority": 6,
+      "onBasePowerPriority": 15,
       "num": 254,
-      "gen": 3,
-      "desc": "Holder's Water-type attacks have 1.2x power."
+      "gen": 3
     },
     "sharpbeak": {
-      "id": "sharpbeak",
       "name": "Sharp Beak",
       "spritenum": 436,
       "fling": {
         "basePower": 50
       },
-      "onBasePowerPriority": 6,
+      "onBasePowerPriority": 15,
       "num": 244,
-      "gen": 2,
-      "desc": "Holder's Flying-type attacks have 1.2x power."
+      "gen": 2
     },
     "sharpedonite": {
-      "id": "sharpedonite",
       "name": "Sharpedonite",
       "spritenum": 619,
       "megaStone": "Sharpedo-Mega",
       "megaEvolves": "Sharpedo",
+      "itemUser": [
+        "Sharpedo"
+      ],
       "num": 759,
       "gen": 6,
-      "desc": "If held by a Sharpedo, this item allows it to Mega Evolve in battle."
+      "isNonstandard": "Past"
     },
     "shedshell": {
-      "id": "shedshell",
       "name": "Shed Shell",
       "spritenum": 437,
       "fling": {
@@ -3575,11 +3489,9 @@
       },
       "onTrapPokemonPriority": -10,
       "num": 295,
-      "gen": 4,
-      "desc": "Holder may switch out even when trapped by another Pokemon, or by Ingrain."
+      "gen": 4
     },
     "shellbell": {
-      "id": "shellbell",
       "name": "Shell Bell",
       "spritenum": 438,
       "fling": {
@@ -3587,33 +3499,29 @@
       },
       "onAfterMoveSecondarySelfPriority": -1,
       "num": 253,
-      "gen": 3,
-      "desc": "After an attack, holder gains 1/8 of the damage in HP dealt to other Pokemon."
+      "gen": 3
     },
     "shinystone": {
-      "id": "shinystone",
       "name": "Shiny Stone",
       "spritenum": 439,
       "fling": {
         "basePower": 80
       },
       "num": 107,
-      "gen": 4,
-      "desc": "Evolves Togetic into Togekiss, Roselia into Roserade, Minccino into Cinccino, and Floette into Florges when used.",
-      "shortDesc": "Evolves certain species of Pokemon when used."
+      "gen": 4
     },
     "shockdrive": {
-      "id": "shockdrive",
       "name": "Shock Drive",
       "spritenum": 442,
       "onDrive": "Electric",
       "forcedForme": "Genesect-Shock",
+      "itemUser": [
+        "Genesect-Shock"
+      ],
       "num": 117,
-      "gen": 5,
-      "desc": "Holder's Techno Blast is Electric type."
+      "gen": 5
     },
     "shucaberry": {
-      "id": "shucaberry",
       "name": "Shuca Berry",
       "spritenum": 443,
       "isBerry": true,
@@ -3622,35 +3530,29 @@
         "type": "Ground"
       },
       "num": 191,
-      "gen": 4,
-      "desc": "Halves damage taken from a supereffective Ground-type attack. Single use."
+      "gen": 4
     },
     "silkscarf": {
-      "id": "silkscarf",
       "name": "Silk Scarf",
       "spritenum": 444,
       "fling": {
         "basePower": 10
       },
-      "onBasePowerPriority": 6,
+      "onBasePowerPriority": 15,
       "num": 251,
-      "gen": 3,
-      "desc": "Holder's Normal-type attacks have 1.2x power."
+      "gen": 3
     },
     "silverpowder": {
-      "id": "silverpowder",
-      "name": "SilverPowder",
+      "name": "Silver Powder",
       "spritenum": 447,
       "fling": {
         "basePower": 10
       },
-      "onBasePowerPriority": 6,
+      "onBasePowerPriority": 15,
       "num": 222,
-      "gen": 2,
-      "desc": "Holder's Bug-type attacks have 1.2x power."
+      "gen": 2
     },
     "sitrusberry": {
-      "id": "sitrusberry",
       "name": "Sitrus Berry",
       "spritenum": 448,
       "isBerry": true,
@@ -3659,11 +3561,9 @@
         "type": "Psychic"
       },
       "num": 158,
-      "gen": 3,
-      "desc": "Restores 1/4 max HP when at 1/2 max HP or less. Single use."
+      "gen": 3
     },
     "skullfossil": {
-      "id": "skullfossil",
       "name": "Skull Fossil",
       "spritenum": 449,
       "fling": {
@@ -3671,120 +3571,114 @@
       },
       "num": 105,
       "gen": 4,
-      "desc": "Can be revived into Cranidos."
+      "isNonstandard": "Past"
     },
     "skyplate": {
-      "id": "skyplate",
       "name": "Sky Plate",
       "spritenum": 450,
       "onPlate": "Flying",
-      "onBasePowerPriority": 6,
+      "onBasePowerPriority": 15,
       "forcedForme": "Arceus-Flying",
       "num": 306,
       "gen": 4,
-      "desc": "Holder's Flying-type attacks have 1.2x power. Judgment is Flying type."
+      "isNonstandard": "Unobtainable"
     },
     "slowbronite": {
-      "id": "slowbronite",
       "name": "Slowbronite",
       "spritenum": 620,
       "megaStone": "Slowbro-Mega",
       "megaEvolves": "Slowbro",
+      "itemUser": [
+        "Slowbro"
+      ],
       "num": 760,
       "gen": 6,
-      "desc": "If held by a Slowbro, this item allows it to Mega Evolve in battle."
+      "isNonstandard": "Past"
     },
     "smoothrock": {
-      "id": "smoothrock",
       "name": "Smooth Rock",
       "spritenum": 453,
       "fling": {
         "basePower": 10
       },
       "num": 283,
-      "gen": 4,
-      "desc": "Holder's use of Sandstorm lasts 8 turns instead of 5."
+      "gen": 4
     },
     "snorliumz": {
-      "id": "snorliumz",
       "name": "Snorlium Z",
       "spritenum": 656,
       "onTakeItem": false,
       "zMove": "Pulverizing Pancake",
       "zMoveFrom": "Giga Impact",
-      "zMoveUser": [
+      "itemUser": [
         "Snorlax"
       ],
       "num": 804,
       "gen": 7,
-      "desc": "If held by a Snorlax with Giga Impact, it can use Pulverizing Pancake."
+      "isNonstandard": "Past"
     },
     "snowball": {
-      "id": "snowball",
       "name": "Snowball",
       "spritenum": 606,
       "fling": {
         "basePower": 30
       },
+      "boosts": {
+        "atk": 1
+      },
       "num": 649,
-      "gen": 6,
-      "desc": "Raises holder's Attack by 1 if hit by an Ice-type attack. Single use."
+      "gen": 6
     },
     "softsand": {
-      "id": "softsand",
       "name": "Soft Sand",
       "spritenum": 456,
       "fling": {
         "basePower": 10
       },
-      "onBasePowerPriority": 6,
+      "onBasePowerPriority": 15,
       "num": 237,
-      "gen": 2,
-      "desc": "Holder's Ground-type attacks have 1.2x power."
+      "gen": 2
     },
     "solganiumz": {
-      "id": "solganiumz",
       "name": "Solganium Z",
       "spritenum": 685,
       "onTakeItem": false,
       "zMove": "Searing Sunraze Smash",
       "zMoveFrom": "Sunsteel Strike",
-      "zMoveUser": [
+      "itemUser": [
         "Solgaleo",
         "Necrozma-Dusk-Mane"
       ],
       "num": 921,
       "gen": 7,
-      "desc": "Solgaleo or Dusk Mane Necrozma with Sunsteel Strike can use a special Z-Move."
+      "isNonstandard": "Past"
     },
     "souldew": {
-      "id": "souldew",
       "name": "Soul Dew",
       "spritenum": 459,
       "fling": {
         "basePower": 30
       },
-      "onBasePowerPriority": 6,
+      "onBasePowerPriority": 15,
+      "itemUser": [
+        "Latios",
+        "Latias"
+      ],
       "num": 225,
-      "gen": 3,
-      "desc": "If held by a Latias/Latios, its Dragon- and Psychic-type moves have 1.2x power."
+      "gen": 3
     },
     "spelltag": {
-      "id": "spelltag",
       "name": "Spell Tag",
       "spritenum": 461,
       "fling": {
         "basePower": 30
       },
-      "onBasePowerPriority": 6,
+      "onBasePowerPriority": 15,
       "num": 247,
-      "gen": 2,
-      "desc": "Holder's Ghost-type attacks have 1.2x power."
+      "gen": 2
     },
     "spelonberry": {
-      "id": "spelonberry",
       "name": "Spelon Berry",
-      "isUnreleased": true,
       "spritenum": 462,
       "isBerry": true,
       "naturalGift": {
@@ -3794,40 +3688,36 @@
       "onEat": false,
       "num": 179,
       "gen": 3,
-      "desc": "Cannot be eaten by the holder. No effect when eaten with Bug Bite or Pluck."
+      "isNonstandard": "Past"
     },
     "splashplate": {
-      "id": "splashplate",
       "name": "Splash Plate",
       "spritenum": 463,
       "onPlate": "Water",
-      "onBasePowerPriority": 6,
+      "onBasePowerPriority": 15,
       "forcedForme": "Arceus-Water",
       "num": 299,
       "gen": 4,
-      "desc": "Holder's Water-type attacks have 1.2x power. Judgment is Water type."
+      "isNonstandard": "Unobtainable"
     },
     "spookyplate": {
-      "id": "spookyplate",
       "name": "Spooky Plate",
       "spritenum": 464,
       "onPlate": "Ghost",
-      "onBasePowerPriority": 6,
+      "onBasePowerPriority": 15,
       "forcedForme": "Arceus-Ghost",
       "num": 310,
       "gen": 4,
-      "desc": "Holder's Ghost-type attacks have 1.2x power. Judgment is Ghost type."
+      "isNonstandard": "Unobtainable"
     },
     "sportball": {
-      "id": "sportball",
       "name": "Sport Ball",
       "spritenum": 465,
       "num": 499,
       "gen": 2,
-      "desc": "A special Poke Ball for the Bug-Catching Contest."
+      "isPokeball": true
     },
     "starfberry": {
-      "id": "starfberry",
       "name": "Starf Berry",
       "spritenum": 472,
       "isBerry": true,
@@ -3836,41 +3726,49 @@
         "type": "Psychic"
       },
       "num": 207,
-      "gen": 3,
-      "desc": "Raises a random stat by 2 when at 1/4 max HP or less (not acc/eva). Single use."
+      "gen": 3
+    },
+    "starsweet": {
+      "name": "Star Sweet",
+      "spritenum": 709,
+      "fling": {
+        "basePower": 10
+      },
+      "num": 1114,
+      "gen": 8
     },
     "steelixite": {
-      "id": "steelixite",
       "name": "Steelixite",
       "spritenum": 621,
       "megaStone": "Steelix-Mega",
       "megaEvolves": "Steelix",
+      "itemUser": [
+        "Steelix"
+      ],
       "num": 761,
       "gen": 6,
-      "desc": "If held by a Steelix, this item allows it to Mega Evolve in battle."
+      "isNonstandard": "Past"
     },
     "steelgem": {
-      "id": "steelgem",
       "name": "Steel Gem",
-      "isUnreleased": true,
       "spritenum": 473,
       "isGem": true,
       "num": 563,
       "gen": 5,
-      "desc": "Holder's first successful Steel-type attack will have 1.3x power. Single use."
+      "isNonstandard": "Past"
     },
     "steelmemory": {
-      "id": "steelmemory",
       "name": "Steel Memory",
       "spritenum": 675,
       "onMemory": "Steel",
       "forcedForme": "Silvally-Steel",
+      "itemUser": [
+        "Silvally-Steel"
+      ],
       "num": 911,
-      "gen": 7,
-      "desc": "Holder's Multi-Attack is Steel type."
+      "gen": 7
     },
     "steeliumz": {
-      "id": "steeliumz",
       "name": "Steelium Z",
       "spritenum": 647,
       "onPlate": "Steel",
@@ -3880,21 +3778,22 @@
       "forcedForme": "Arceus-Steel",
       "num": 792,
       "gen": 7,
-      "desc": "If holder has a Steel move, this item allows it to use a Steel Z-Move."
+      "isNonstandard": "Past"
     },
     "stick": {
-      "id": "stick",
       "name": "Stick",
       "fling": {
         "basePower": 60
       },
       "spritenum": 475,
+      "itemUser": [
+        "Farfetch’d"
+      ],
       "num": 259,
       "gen": 2,
-      "desc": "If held by a Farfetch'd, its critical hit ratio is raised by 2 stages."
+      "isNonstandard": "Past"
     },
     "stickybarb": {
-      "id": "stickybarb",
       "name": "Sticky Barb",
       "spritenum": 476,
       "fling": {
@@ -3903,44 +3802,58 @@
       "onResidualOrder": 26,
       "onResidualSubOrder": 2,
       "num": 288,
-      "gen": 4,
-      "desc": "Each turn, holder loses 1/8 max HP. An attacker making contact can receive it."
+      "gen": 4
     },
     "stoneplate": {
-      "id": "stoneplate",
       "name": "Stone Plate",
       "spritenum": 477,
       "onPlate": "Rock",
-      "onBasePowerPriority": 6,
+      "onBasePowerPriority": 15,
       "forcedForme": "Arceus-Rock",
       "num": 309,
       "gen": 4,
-      "desc": "Holder's Rock-type attacks have 1.2x power. Judgment is Rock type."
+      "isNonstandard": "Unobtainable"
+    },
+    "strawberrysweet": {
+      "name": "Strawberry Sweet",
+      "spritenum": 704,
+      "fling": {
+        "basePower": 10
+      },
+      "num": 1109,
+      "gen": 8
     },
     "sunstone": {
-      "id": "sunstone",
       "name": "Sun Stone",
       "spritenum": 480,
       "fling": {
         "basePower": 30
       },
       "num": 80,
-      "gen": 2,
-      "desc": "Evolves Gloom into Bellossom, Sunkern into Sunflora, Cottonee into Whimsicott, Petilil into Lilligant, and Helioptile into Heliolisk when used.",
-      "shortDesc": "Evolves certain species of Pokemon when used."
+      "gen": 2
     },
     "swampertite": {
-      "id": "swampertite",
       "name": "Swampertite",
       "spritenum": 612,
       "megaStone": "Swampert-Mega",
       "megaEvolves": "Swampert",
+      "itemUser": [
+        "Swampert"
+      ],
       "num": 752,
       "gen": 6,
-      "desc": "If held by a Swampert, this item allows it to Mega Evolve in battle."
+      "isNonstandard": "Past"
+    },
+    "sweetapple": {
+      "name": "Sweet Apple",
+      "spritenum": 711,
+      "fling": {
+        "basePower": 30
+      },
+      "num": 1116,
+      "gen": 8
     },
     "tamatoberry": {
-      "id": "tamatoberry",
       "name": "Tamato Berry",
       "spritenum": 486,
       "isBerry": true,
@@ -3950,11 +3863,9 @@
       },
       "onEat": false,
       "num": 174,
-      "gen": 3,
-      "desc": "Cannot be eaten by the holder. No effect when eaten with Bug Bite or Pluck."
+      "gen": 3
     },
     "tangaberry": {
-      "id": "tangaberry",
       "name": "Tanga Berry",
       "spritenum": 487,
       "isBerry": true,
@@ -3963,17 +3874,15 @@
         "type": "Bug"
       },
       "num": 194,
-      "gen": 4,
-      "desc": "Halves damage taken from a supereffective Bug-type attack. Single use."
+      "gen": 4
     },
     "tapuniumz": {
-      "id": "tapuniumz",
       "name": "Tapunium Z",
       "spritenum": 653,
       "onTakeItem": false,
       "zMove": "Guardian of Alola",
       "zMoveFrom": "Nature's Madness",
-      "zMoveUser": [
+      "itemUser": [
         "Tapu Koko",
         "Tapu Lele",
         "Tapu Bulu",
@@ -3981,53 +3890,69 @@
       ],
       "num": 801,
       "gen": 7,
-      "desc": "If held by a Tapu with Nature's Madness, it can use Guardian of Alola."
+      "isNonstandard": "Past"
+    },
+    "tartapple": {
+      "name": "Tart Apple",
+      "spritenum": 712,
+      "fling": {
+        "basePower": 30
+      },
+      "num": 1117,
+      "gen": 8
     },
     "terrainextender": {
-      "id": "terrainextender",
       "name": "Terrain Extender",
       "spritenum": 662,
       "fling": {
         "basePower": 60
       },
       "num": 879,
-      "gen": 7,
-      "desc": "Holder's use of Electric/Grassy/Misty/Psychic Terrain lasts 8 turns instead of 5."
+      "gen": 7
     },
     "thickclub": {
-      "id": "thickclub",
       "name": "Thick Club",
       "spritenum": 491,
       "fling": {
         "basePower": 90
       },
       "onModifyAtkPriority": 1,
+      "itemUser": [
+        "Marowak",
+        "Cubone"
+      ],
       "num": 258,
-      "gen": 2,
-      "desc": "If held by a Cubone or a Marowak, its Attack is doubled."
+      "gen": 2
+    },
+    "throatspray": {
+      "name": "Throat Spray",
+      "spritenum": 713,
+      "fling": {
+        "basePower": 30
+      },
+      "boosts": {
+        "spa": 1
+      },
+      "num": 1118,
+      "gen": 8
     },
     "thunderstone": {
-      "id": "thunderstone",
       "name": "Thunder Stone",
       "spritenum": 492,
       "fling": {
         "basePower": 30
       },
       "num": 83,
-      "gen": 1,
-      "desc": "Evolves Pikachu into Raichu or Alolan Raichu, Eevee into Jolteon, and Eelektrik into Eelektross when used.",
-      "shortDesc": "Evolves certain species of Pokemon when used."
+      "gen": 1
     },
     "timerball": {
-      "id": "timerball",
       "name": "Timer Ball",
       "spritenum": 494,
       "num": 10,
       "gen": 3,
-      "desc": "A Poke Ball that becomes better the more turns there are in a battle."
+      "isPokeball": true
     },
     "toxicorb": {
-      "id": "toxicorb",
       "name": "Toxic Orb",
       "spritenum": 515,
       "fling": {
@@ -4037,87 +3962,991 @@
       "onResidualOrder": 26,
       "onResidualSubOrder": 2,
       "num": 272,
-      "gen": 4,
-      "desc": "At the end of every turn, this item attempts to badly poison the holder."
+      "gen": 4
     },
     "toxicplate": {
-      "id": "toxicplate",
       "name": "Toxic Plate",
       "spritenum": 516,
       "onPlate": "Poison",
-      "onBasePowerPriority": 6,
+      "onBasePowerPriority": 15,
       "forcedForme": "Arceus-Poison",
       "num": 304,
       "gen": 4,
-      "desc": "Holder's Poison-type attacks have 1.2x power. Judgment is Poison type."
+      "isNonstandard": "Unobtainable"
+    },
+    "tr00": {
+      "name": "TR00",
+      "fling": {
+        "basePower": 10
+      },
+      "spritenum": 721,
+      "num": 1130,
+      "gen": 8
+    },
+    "tr01": {
+      "name": "TR01",
+      "fling": {
+        "basePower": 85
+      },
+      "spritenum": 721,
+      "num": 1131,
+      "gen": 8
+    },
+    "tr02": {
+      "name": "TR02",
+      "fling": {
+        "basePower": 90
+      },
+      "spritenum": 730,
+      "num": 1132,
+      "gen": 8
+    },
+    "tr03": {
+      "name": "TR03",
+      "fling": {
+        "basePower": 110
+      },
+      "spritenum": 731,
+      "num": 1133,
+      "gen": 8
+    },
+    "tr04": {
+      "name": "TR04",
+      "fling": {
+        "basePower": 90
+      },
+      "spritenum": 731,
+      "num": 1134,
+      "gen": 8
+    },
+    "tr05": {
+      "name": "TR05",
+      "fling": {
+        "basePower": 90
+      },
+      "spritenum": 735,
+      "num": 1135,
+      "gen": 8
+    },
+    "tr06": {
+      "name": "TR06",
+      "fling": {
+        "basePower": 110
+      },
+      "spritenum": 735,
+      "num": 1136,
+      "gen": 8
+    },
+    "tr07": {
+      "name": "TR07",
+      "fling": {
+        "basePower": 10
+      },
+      "spritenum": 722,
+      "num": 1137,
+      "gen": 8
+    },
+    "tr08": {
+      "name": "TR08",
+      "fling": {
+        "basePower": 90
+      },
+      "spritenum": 733,
+      "num": 1138,
+      "gen": 8
+    },
+    "tr09": {
+      "name": "TR09",
+      "fling": {
+        "basePower": 110
+      },
+      "spritenum": 733,
+      "num": 1139,
+      "gen": 8
+    },
+    "tr10": {
+      "name": "TR10",
+      "fling": {
+        "basePower": 100
+      },
+      "spritenum": 725,
+      "num": 1140,
+      "gen": 8
+    },
+    "tr11": {
+      "name": "TR11",
+      "fling": {
+        "basePower": 90
+      },
+      "spritenum": 734,
+      "num": 1141,
+      "gen": 8
+    },
+    "tr12": {
+      "name": "TR12",
+      "fling": {
+        "basePower": 10
+      },
+      "spritenum": 734,
+      "num": 1142,
+      "gen": 8
+    },
+    "tr13": {
+      "name": "TR13",
+      "fling": {
+        "basePower": 10
+      },
+      "spritenum": 721,
+      "num": 1143,
+      "gen": 8
+    },
+    "tr14": {
+      "name": "TR14",
+      "fling": {
+        "basePower": 10
+      },
+      "spritenum": 721,
+      "num": 1144,
+      "gen": 8
+    },
+    "tr15": {
+      "name": "TR15",
+      "fling": {
+        "basePower": 110
+      },
+      "spritenum": 730,
+      "num": 1145,
+      "gen": 8
+    },
+    "tr16": {
+      "name": "TR16",
+      "fling": {
+        "basePower": 80
+      },
+      "spritenum": 731,
+      "num": 1146,
+      "gen": 8
+    },
+    "tr17": {
+      "name": "TR17",
+      "fling": {
+        "basePower": 10
+      },
+      "spritenum": 734,
+      "num": 1147,
+      "gen": 8
+    },
+    "tr18": {
+      "name": "TR18",
+      "fling": {
+        "basePower": 80
+      },
+      "spritenum": 727,
+      "num": 1148,
+      "gen": 8
+    },
+    "tr19": {
+      "name": "TR19",
+      "fling": {
+        "basePower": 80
+      },
+      "spritenum": 721,
+      "num": 1149,
+      "gen": 8
+    },
+    "tr20": {
+      "name": "TR20",
+      "fling": {
+        "basePower": 10
+      },
+      "spritenum": 721,
+      "num": 1150,
+      "gen": 8
+    },
+    "tr21": {
+      "name": "TR21",
+      "fling": {
+        "basePower": 10
+      },
+      "spritenum": 722,
+      "num": 1151,
+      "gen": 8
+    },
+    "tr22": {
+      "name": "TR22",
+      "fling": {
+        "basePower": 90
+      },
+      "spritenum": 724,
+      "num": 1152,
+      "gen": 8
+    },
+    "tr23": {
+      "name": "TR23",
+      "fling": {
+        "basePower": 10
+      },
+      "spritenum": 725,
+      "num": 1153,
+      "gen": 8
+    },
+    "tr24": {
+      "name": "TR24",
+      "fling": {
+        "basePower": 120
+      },
+      "spritenum": 736,
+      "num": 1154,
+      "gen": 8
+    },
+    "tr25": {
+      "name": "TR25",
+      "fling": {
+        "basePower": 80
+      },
+      "spritenum": 734,
+      "num": 1155,
+      "gen": 8
+    },
+    "tr26": {
+      "name": "TR26",
+      "fling": {
+        "basePower": 10
+      },
+      "spritenum": 721,
+      "num": 1156,
+      "gen": 8
+    },
+    "tr27": {
+      "name": "TR27",
+      "fling": {
+        "basePower": 10
+      },
+      "spritenum": 721,
+      "num": 1157,
+      "gen": 8
+    },
+    "tr28": {
+      "name": "TR28",
+      "fling": {
+        "basePower": 120
+      },
+      "spritenum": 727,
+      "num": 1158,
+      "gen": 8
+    },
+    "tr29": {
+      "name": "TR29",
+      "fling": {
+        "basePower": 10
+      },
+      "spritenum": 721,
+      "num": 1159,
+      "gen": 8
+    },
+    "tr30": {
+      "name": "TR30",
+      "fling": {
+        "basePower": 10
+      },
+      "spritenum": 721,
+      "num": 1160,
+      "gen": 8
+    },
+    "tr31": {
+      "name": "TR31",
+      "fling": {
+        "basePower": 100
+      },
+      "spritenum": 729,
+      "num": 1161,
+      "gen": 8
+    },
+    "tr32": {
+      "name": "TR32",
+      "fling": {
+        "basePower": 80
+      },
+      "spritenum": 737,
+      "num": 1162,
+      "gen": 8
+    },
+    "tr33": {
+      "name": "TR33",
+      "fling": {
+        "basePower": 80
+      },
+      "spritenum": 728,
+      "num": 1163,
+      "gen": 8
+    },
+    "tr34": {
+      "name": "TR34",
+      "fling": {
+        "basePower": 120
+      },
+      "spritenum": 734,
+      "num": 1164,
+      "gen": 8
+    },
+    "tr35": {
+      "name": "TR35",
+      "fling": {
+        "basePower": 90
+      },
+      "spritenum": 721,
+      "num": 1165,
+      "gen": 8
+    },
+    "tr36": {
+      "name": "TR36",
+      "fling": {
+        "basePower": 95
+      },
+      "spritenum": 730,
+      "num": 1166,
+      "gen": 8
+    },
+    "tr37": {
+      "name": "TR37",
+      "fling": {
+        "basePower": 10
+      },
+      "spritenum": 737,
+      "num": 1167,
+      "gen": 8
+    },
+    "tr38": {
+      "name": "TR38",
+      "fling": {
+        "basePower": 10
+      },
+      "spritenum": 734,
+      "num": 1168,
+      "gen": 8
+    },
+    "tr39": {
+      "name": "TR39",
+      "fling": {
+        "basePower": 120
+      },
+      "spritenum": 722,
+      "num": 1169,
+      "gen": 8
+    },
+    "tr40": {
+      "name": "TR40",
+      "fling": {
+        "basePower": 10
+      },
+      "spritenum": 734,
+      "num": 1170,
+      "gen": 8
+    },
+    "tr41": {
+      "name": "TR41",
+      "fling": {
+        "basePower": 85
+      },
+      "spritenum": 730,
+      "num": 1171,
+      "gen": 8
+    },
+    "tr42": {
+      "name": "TR42",
+      "fling": {
+        "basePower": 90
+      },
+      "spritenum": 721,
+      "num": 1172,
+      "gen": 8
+    },
+    "tr43": {
+      "name": "TR43",
+      "fling": {
+        "basePower": 130
+      },
+      "spritenum": 730,
+      "num": 1173,
+      "gen": 8
+    },
+    "tr44": {
+      "name": "TR44",
+      "fling": {
+        "basePower": 10
+      },
+      "spritenum": 734,
+      "num": 1174,
+      "gen": 8
+    },
+    "tr45": {
+      "name": "TR45",
+      "fling": {
+        "basePower": 90
+      },
+      "spritenum": 731,
+      "num": 1175,
+      "gen": 8
+    },
+    "tr46": {
+      "name": "TR46",
+      "fling": {
+        "basePower": 10
+      },
+      "spritenum": 729,
+      "num": 1176,
+      "gen": 8
+    },
+    "tr47": {
+      "name": "TR47",
+      "fling": {
+        "basePower": 80
+      },
+      "spritenum": 736,
+      "num": 1177,
+      "gen": 8
+    },
+    "tr48": {
+      "name": "TR48",
+      "fling": {
+        "basePower": 10
+      },
+      "spritenum": 722,
+      "num": 1178,
+      "gen": 8
+    },
+    "tr49": {
+      "name": "TR49",
+      "fling": {
+        "basePower": 10
+      },
+      "spritenum": 734,
+      "num": 1179,
+      "gen": 8
+    },
+    "tr50": {
+      "name": "TR50",
+      "fling": {
+        "basePower": 90
+      },
+      "spritenum": 732,
+      "num": 1180,
+      "gen": 8
+    },
+    "tr51": {
+      "name": "TR51",
+      "fling": {
+        "basePower": 10
+      },
+      "spritenum": 736,
+      "num": 1181,
+      "gen": 8
+    },
+    "tr52": {
+      "name": "TR52",
+      "fling": {
+        "basePower": 10
+      },
+      "spritenum": 729,
+      "num": 1182,
+      "gen": 8
+    },
+    "tr53": {
+      "name": "TR53",
+      "fling": {
+        "basePower": 120
+      },
+      "spritenum": 722,
+      "num": 1183,
+      "gen": 8
+    },
+    "tr54": {
+      "name": "TR54",
+      "fling": {
+        "basePower": 10
+      },
+      "spritenum": 724,
+      "num": 1184,
+      "gen": 8
+    },
+    "tr55": {
+      "name": "TR55",
+      "fling": {
+        "basePower": 120
+      },
+      "spritenum": 730,
+      "num": 1185,
+      "gen": 8
+    },
+    "tr56": {
+      "name": "TR56",
+      "fling": {
+        "basePower": 80
+      },
+      "spritenum": 722,
+      "num": 1186,
+      "gen": 8
+    },
+    "tr57": {
+      "name": "TR57",
+      "fling": {
+        "basePower": 80
+      },
+      "spritenum": 724,
+      "num": 1187,
+      "gen": 8
+    },
+    "tr58": {
+      "name": "TR58",
+      "fling": {
+        "basePower": 80
+      },
+      "spritenum": 737,
+      "num": 1188,
+      "gen": 8
+    },
+    "tr59": {
+      "name": "TR59",
+      "fling": {
+        "basePower": 80
+      },
+      "spritenum": 732,
+      "num": 1189,
+      "gen": 8
+    },
+    "tr60": {
+      "name": "TR60",
+      "fling": {
+        "basePower": 80
+      },
+      "spritenum": 727,
+      "num": 1190,
+      "gen": 8
+    },
+    "tr61": {
+      "name": "TR61",
+      "fling": {
+        "basePower": 90
+      },
+      "spritenum": 727,
+      "num": 1191,
+      "gen": 8
+    },
+    "tr62": {
+      "name": "TR62",
+      "fling": {
+        "basePower": 85
+      },
+      "spritenum": 736,
+      "num": 1192,
+      "gen": 8
+    },
+    "tr63": {
+      "name": "TR63",
+      "fling": {
+        "basePower": 80
+      },
+      "spritenum": 726,
+      "num": 1193,
+      "gen": 8
+    },
+    "tr64": {
+      "name": "TR64",
+      "fling": {
+        "basePower": 120
+      },
+      "spritenum": 722,
+      "num": 1194,
+      "gen": 8
+    },
+    "tr65": {
+      "name": "TR65",
+      "fling": {
+        "basePower": 90
+      },
+      "spritenum": 732,
+      "num": 1195,
+      "gen": 8
+    },
+    "tr66": {
+      "name": "TR66",
+      "fling": {
+        "basePower": 120
+      },
+      "spritenum": 723,
+      "num": 1196,
+      "gen": 8
+    },
+    "tr67": {
+      "name": "TR67",
+      "fling": {
+        "basePower": 90
+      },
+      "spritenum": 725,
+      "num": 1197,
+      "gen": 8
+    },
+    "tr68": {
+      "name": "TR68",
+      "fling": {
+        "basePower": 10
+      },
+      "spritenum": 737,
+      "num": 1198,
+      "gen": 8
+    },
+    "tr69": {
+      "name": "TR69",
+      "fling": {
+        "basePower": 80
+      },
+      "spritenum": 734,
+      "num": 1199,
+      "gen": 8
+    },
+    "tr70": {
+      "name": "TR70",
+      "fling": {
+        "basePower": 80
+      },
+      "spritenum": 729,
+      "num": 1200,
+      "gen": 8
+    },
+    "tr71": {
+      "name": "TR71",
+      "fling": {
+        "basePower": 130
+      },
+      "spritenum": 732,
+      "num": 1201,
+      "gen": 8
+    },
+    "tr72": {
+      "name": "TR72",
+      "fling": {
+        "basePower": 120
+      },
+      "spritenum": 732,
+      "num": 1202,
+      "gen": 8
+    },
+    "tr73": {
+      "name": "TR73",
+      "fling": {
+        "basePower": 120
+      },
+      "spritenum": 724,
+      "num": 1203,
+      "gen": 8
+    },
+    "tr74": {
+      "name": "TR74",
+      "fling": {
+        "basePower": 80
+      },
+      "spritenum": 729,
+      "num": 1204,
+      "gen": 8
+    },
+    "tr75": {
+      "name": "TR75",
+      "fling": {
+        "basePower": 100
+      },
+      "spritenum": 726,
+      "num": 1205,
+      "gen": 8
+    },
+    "tr76": {
+      "name": "TR76",
+      "fling": {
+        "basePower": 10
+      },
+      "spritenum": 726,
+      "num": 1206,
+      "gen": 8
+    },
+    "tr77": {
+      "name": "TR77",
+      "fling": {
+        "basePower": 10
+      },
+      "spritenum": 732,
+      "num": 1207,
+      "gen": 8
+    },
+    "tr78": {
+      "name": "TR78",
+      "fling": {
+        "basePower": 95
+      },
+      "spritenum": 724,
+      "num": 1208,
+      "gen": 8
+    },
+    "tr79": {
+      "name": "TR79",
+      "fling": {
+        "basePower": 10
+      },
+      "spritenum": 729,
+      "num": 1209,
+      "gen": 8
+    },
+    "tr80": {
+      "name": "TR80",
+      "fling": {
+        "basePower": 10
+      },
+      "spritenum": 733,
+      "num": 1210,
+      "gen": 8
+    },
+    "tr81": {
+      "name": "TR81",
+      "fling": {
+        "basePower": 95
+      },
+      "spritenum": 737,
+      "num": 1211,
+      "gen": 8
+    },
+    "tr82": {
+      "name": "TR82",
+      "fling": {
+        "basePower": 20
+      },
+      "spritenum": 734,
+      "num": 1212,
+      "gen": 8
+    },
+    "tr83": {
+      "name": "TR83",
+      "fling": {
+        "basePower": 10
+      },
+      "spritenum": 734,
+      "num": 1213,
+      "gen": 8
+    },
+    "tr84": {
+      "name": "TR84",
+      "fling": {
+        "basePower": 80
+      },
+      "spritenum": 731,
+      "num": 1214,
+      "gen": 8
+    },
+    "tr85": {
+      "name": "TR85",
+      "fling": {
+        "basePower": 10
+      },
+      "spritenum": 721,
+      "num": 1215,
+      "gen": 8
+    },
+    "tr86": {
+      "name": "TR86",
+      "fling": {
+        "basePower": 90
+      },
+      "spritenum": 733,
+      "num": 1216,
+      "gen": 8
+    },
+    "tr87": {
+      "name": "TR87",
+      "fling": {
+        "basePower": 80
+      },
+      "spritenum": 725,
+      "num": 1217,
+      "gen": 8
+    },
+    "tr88": {
+      "name": "TR88",
+      "fling": {
+        "basePower": 10
+      },
+      "spritenum": 730,
+      "num": 1218,
+      "gen": 8
+    },
+    "tr89": {
+      "name": "TR89",
+      "fling": {
+        "basePower": 110
+      },
+      "spritenum": 723,
+      "num": 1219,
+      "gen": 8
+    },
+    "tr90": {
+      "name": "TR90",
+      "fling": {
+        "basePower": 90
+      },
+      "spritenum": 738,
+      "num": 1220,
+      "gen": 8
+    },
+    "tr91": {
+      "name": "TR91",
+      "fling": {
+        "basePower": 10
+      },
+      "spritenum": 724,
+      "num": 1221,
+      "gen": 8
+    },
+    "tr92": {
+      "name": "TR92",
+      "fling": {
+        "basePower": 80
+      },
+      "spritenum": 738,
+      "num": 1222,
+      "gen": 8
+    },
+    "tr93": {
+      "name": "TR93",
+      "fling": {
+        "basePower": 85
+      },
+      "spritenum": 737,
+      "num": 1223,
+      "gen": 8
+    },
+    "tr94": {
+      "name": "TR94",
+      "fling": {
+        "basePower": 95
+      },
+      "spritenum": 725,
+      "num": 1224,
+      "gen": 8
+    },
+    "tr95": {
+      "name": "TR95",
+      "fling": {
+        "basePower": 80
+      },
+      "spritenum": 737,
+      "num": 1225,
+      "gen": 8
+    },
+    "tr96": {
+      "name": "TR96",
+      "fling": {
+        "basePower": 90
+      },
+      "spritenum": 727,
+      "num": 1226,
+      "gen": 8
+    },
+    "tr97": {
+      "name": "TR97",
+      "fling": {
+        "basePower": 85
+      },
+      "spritenum": 734,
+      "num": 1227,
+      "gen": 8
+    },
+    "tr98": {
+      "name": "TR98",
+      "fling": {
+        "basePower": 85
+      },
+      "spritenum": 731,
+      "num": 1228,
+      "gen": 8
+    },
+    "tr99": {
+      "name": "TR99",
+      "fling": {
+        "basePower": 80
+      },
+      "spritenum": 722,
+      "num": 1229,
+      "gen": 8
     },
     "twistedspoon": {
-      "id": "twistedspoon",
       "name": "Twisted Spoon",
       "spritenum": 520,
       "fling": {
         "basePower": 30
       },
-      "onBasePowerPriority": 6,
+      "onBasePowerPriority": 15,
       "num": 248,
-      "gen": 2,
-      "desc": "Holder's Psychic-type attacks have 1.2x power."
+      "gen": 2
     },
     "tyranitarite": {
-      "id": "tyranitarite",
       "name": "Tyranitarite",
       "spritenum": 607,
       "megaStone": "Tyranitar-Mega",
       "megaEvolves": "Tyranitar",
+      "itemUser": [
+        "Tyranitar"
+      ],
       "num": 669,
       "gen": 6,
-      "desc": "If held by a Tyranitar, this item allows it to Mega Evolve in battle."
+      "isNonstandard": "Past"
     },
     "ultraball": {
-      "id": "ultraball",
       "name": "Ultra Ball",
       "spritenum": 521,
       "num": 2,
       "gen": 1,
-      "desc": "An ultra-performance Ball that provides a higher catch rate than a Great Ball."
+      "isPokeball": true
     },
     "ultranecroziumz": {
-      "id": "ultranecroziumz",
       "name": "Ultranecrozium Z",
       "spritenum": 687,
       "onTakeItem": false,
       "zMove": "Light That Burns the Sky",
       "zMoveFrom": "Photon Geyser",
-      "zMoveUser": [
+      "itemUser": [
         "Necrozma-Ultra"
       ],
       "num": 923,
       "gen": 7,
-      "desc": "Dusk Mane/Dawn Wings Necrozma: Ultra Burst, then Z-Move w/ Photon Geyser."
+      "isNonstandard": "Past"
     },
     "upgrade": {
-      "id": "upgrade",
       "name": "Up-Grade",
       "spritenum": 523,
       "fling": {
         "basePower": 30
       },
       "num": 252,
-      "gen": 2,
-      "desc": "Evolves Porygon into Porygon2 when traded."
+      "gen": 2
+    },
+    "utilityumbrella": {
+      "name": "Utility Umbrella",
+      "spritenum": 718,
+      "fling": {
+        "basePower": 60
+      },
+      "num": 1123,
+      "gen": 8
     },
     "venusaurite": {
-      "id": "venusaurite",
       "name": "Venusaurite",
       "spritenum": 608,
       "megaStone": "Venusaur-Mega",
       "megaEvolves": "Venusaur",
+      "itemUser": [
+        "Venusaur"
+      ],
       "num": 659,
       "gen": 6,
-      "desc": "If held by a Venusaur, this item allows it to Mega Evolve in battle."
+      "isNonstandard": "Past"
     },
     "wacanberry": {
-      "id": "wacanberry",
       "name": "Wacan Berry",
       "spritenum": 526,
       "isBerry": true,
@@ -4126,43 +4955,37 @@
         "type": "Electric"
       },
       "num": 186,
-      "gen": 4,
-      "desc": "Halves damage taken from a supereffective Electric-type attack. Single use."
+      "gen": 4
     },
     "watergem": {
-      "id": "watergem",
       "name": "Water Gem",
-      "isUnreleased": true,
       "spritenum": 528,
       "isGem": true,
       "num": 549,
       "gen": 5,
-      "desc": "Holder's first successful Water-type attack will have 1.3x power. Single use."
+      "isNonstandard": "Past"
     },
     "watermemory": {
-      "id": "watermemory",
       "name": "Water Memory",
       "spritenum": 677,
       "onMemory": "Water",
       "forcedForme": "Silvally-Water",
+      "itemUser": [
+        "Silvally-Water"
+      ],
       "num": 913,
-      "gen": 7,
-      "desc": "Holder's Multi-Attack is Water type."
+      "gen": 7
     },
     "waterstone": {
-      "id": "waterstone",
       "name": "Water Stone",
       "spritenum": 529,
       "fling": {
         "basePower": 30
       },
       "num": 84,
-      "gen": 1,
-      "desc": "Evolves Poliwhirl into Poliwrath, Shellder into Cloyster, Staryu into Starmie, Eevee into Vaporeon, Lombre into Ludicolo, and Panpour into Simipour when used.",
-      "shortDesc": "Evolves certain species of Pokemon when used."
+      "gen": 1
     },
     "wateriumz": {
-      "id": "wateriumz",
       "name": "Waterium Z",
       "spritenum": 633,
       "onPlate": "Water",
@@ -4172,12 +4995,10 @@
       "forcedForme": "Arceus-Water",
       "num": 778,
       "gen": 7,
-      "desc": "If holder has a Water move, this item allows it to use a Water Z-Move."
+      "isNonstandard": "Past"
     },
     "watmelberry": {
-      "id": "watmelberry",
       "name": "Watmel Berry",
-      "isUnreleased": true,
       "spritenum": 530,
       "isBerry": true,
       "naturalGift": {
@@ -4187,36 +5008,33 @@
       "onEat": false,
       "num": 181,
       "gen": 3,
-      "desc": "Cannot be eaten by the holder. No effect when eaten with Bug Bite or Pluck."
+      "isNonstandard": "Past"
     },
     "waveincense": {
-      "id": "waveincense",
       "name": "Wave Incense",
       "spritenum": 531,
       "fling": {
         "basePower": 10
       },
-      "onBasePowerPriority": 6,
+      "onBasePowerPriority": 15,
       "num": 317,
-      "gen": 4,
-      "desc": "Holder's Water-type attacks have 1.2x power."
+      "gen": 4
     },
     "weaknesspolicy": {
-      "id": "weaknesspolicy",
       "name": "Weakness Policy",
       "spritenum": 609,
       "fling": {
         "basePower": 80
       },
-      "onHitPriority": 1,
+      "boosts": {
+        "atk": 2,
+        "spa": 2
+      },
       "num": 639,
-      "gen": 6,
-      "desc": "If holder is hit super effectively, raises Attack, Sp. Atk by 2 stages. Single use."
+      "gen": 6
     },
     "wepearberry": {
-      "id": "wepearberry",
       "name": "Wepear Berry",
-      "isUnreleased": true,
       "spritenum": 533,
       "isBerry": true,
       "naturalGift": {
@@ -4226,43 +5044,37 @@
       "onEat": false,
       "num": 167,
       "gen": 3,
-      "desc": "Cannot be eaten by the holder. No effect when eaten with Bug Bite or Pluck."
+      "isNonstandard": "Past"
     },
     "whippeddream": {
-      "id": "whippeddream",
       "name": "Whipped Dream",
       "spritenum": 692,
       "fling": {
         "basePower": 80
       },
       "num": 646,
-      "gen": 6,
-      "desc": "Evolves Swirlix into Slurpuff when traded."
+      "gen": 6
     },
     "whiteherb": {
-      "id": "whiteherb",
       "name": "White Herb",
       "spritenum": 535,
       "fling": {
         "basePower": 10
       },
       "num": 214,
-      "gen": 3,
-      "desc": "Restores all lowered stat stages to 0 when one is less than 0. Single use."
+      "gen": 3
     },
     "widelens": {
-      "id": "widelens",
       "name": "Wide Lens",
       "spritenum": 537,
       "fling": {
         "basePower": 10
       },
+      "onSourceModifyAccuracyPriority": 4,
       "num": 265,
-      "gen": 4,
-      "desc": "The accuracy of attacks by the holder is 1.1x."
+      "gen": 4
     },
     "wikiberry": {
-      "id": "wikiberry",
       "name": "Wiki Berry",
       "spritenum": 538,
       "isBerry": true,
@@ -4271,23 +5083,19 @@
         "type": "Rock"
       },
       "num": 160,
-      "gen": 3,
-      "desc": "Restores 1/2 max HP at 1/4 max HP or less; confuses if -SpA Nature. Single use."
+      "gen": 3
     },
     "wiseglasses": {
-      "id": "wiseglasses",
       "name": "Wise Glasses",
       "spritenum": 539,
       "fling": {
         "basePower": 10
       },
-      "onBasePowerPriority": 6,
+      "onBasePowerPriority": 16,
       "num": 267,
-      "gen": 4,
-      "desc": "Holder's special attacks have 1.1x power."
+      "gen": 4
     },
     "yacheberry": {
-      "id": "yacheberry",
       "name": "Yache Berry",
       "spritenum": 567,
       "isBerry": true,
@@ -4296,42 +5104,36 @@
         "type": "Ice"
       },
       "num": 188,
-      "gen": 4,
-      "desc": "Halves damage taken from a supereffective Ice-type attack. Single use."
+      "gen": 4
     },
     "zapplate": {
-      "id": "zapplate",
       "name": "Zap Plate",
       "spritenum": 572,
       "onPlate": "Electric",
-      "onBasePowerPriority": 6,
+      "onBasePowerPriority": 15,
       "forcedForme": "Arceus-Electric",
       "num": 300,
       "gen": 4,
-      "desc": "Holder's Electric-type attacks have 1.2x power. Judgment is Electric type."
+      "isNonstandard": "Unobtainable"
     },
     "zoomlens": {
-      "id": "zoomlens",
       "name": "Zoom Lens",
       "spritenum": 574,
       "fling": {
         "basePower": 10
       },
+      "onSourceModifyAccuracyPriority": 4,
       "num": 276,
-      "gen": 4,
-      "desc": "The accuracy of attacks by the holder is 1.2x if it moves after its target."
+      "gen": 4
     },
     "berserkgene": {
-      "id": "berserkgene",
       "name": "Berserk Gene",
       "spritenum": 388,
       "num": 0,
       "gen": 2,
-      "isNonstandard": "Past",
-      "desc": "(Gen 2) On switch-in, raises holder's Attack by 2 and confuses it. Single use."
+      "isNonstandard": "Past"
     },
     "berry": {
-      "id": "berry",
       "name": "Berry",
       "spritenum": 319,
       "isBerry": true,
@@ -4342,11 +5144,9 @@
       "onResidualOrder": 5,
       "num": 155,
       "gen": 2,
-      "isNonstandard": "Past",
-      "desc": "(Gen 2) Restores 10 HP when at 1/2 max HP or less. Single use."
+      "isNonstandard": "Past"
     },
     "bitterberry": {
-      "id": "bitterberry",
       "name": "Bitter Berry",
       "spritenum": 334,
       "isBerry": true,
@@ -4356,11 +5156,9 @@
       },
       "num": 156,
       "gen": 2,
-      "isNonstandard": "Past",
-      "desc": "(Gen 2) Holder is cured if it is confused. Single use."
+      "isNonstandard": "Past"
     },
     "burntberry": {
-      "id": "burntberry",
       "name": "Burnt Berry",
       "spritenum": 13,
       "isBerry": true,
@@ -4370,11 +5168,9 @@
       },
       "num": 153,
       "gen": 2,
-      "isNonstandard": "Past",
-      "desc": "(Gen 2) Holder is cured if it is frozen. Single use."
+      "isNonstandard": "Past"
     },
     "goldberry": {
-      "id": "goldberry",
       "name": "Gold Berry",
       "spritenum": 448,
       "isBerry": true,
@@ -4385,11 +5181,9 @@
       "onResidualOrder": 5,
       "num": 158,
       "gen": 2,
-      "isNonstandard": "Past",
-      "desc": "(Gen 2) Restores 30 HP when at 1/2 max HP or less. Single use."
+      "isNonstandard": "Past"
     },
     "iceberry": {
-      "id": "iceberry",
       "name": "Ice Berry",
       "spritenum": 381,
       "isBerry": true,
@@ -4399,11 +5193,9 @@
       },
       "num": 152,
       "gen": 2,
-      "isNonstandard": "Past",
-      "desc": "(Gen 2) Holder is cured if it is burned. Single use."
+      "isNonstandard": "Past"
     },
     "mintberry": {
-      "id": "mintberry",
       "name": "Mint Berry",
       "spritenum": 65,
       "isBerry": true,
@@ -4413,11 +5205,9 @@
       },
       "num": 150,
       "gen": 2,
-      "isNonstandard": "Past",
-      "desc": "(Gen 2) Holder wakes up if it is asleep. Single use."
+      "isNonstandard": "Past"
     },
     "miracleberry": {
-      "id": "miracleberry",
       "name": "Miracle Berry",
       "spritenum": 262,
       "isBerry": true,
@@ -4427,11 +5217,9 @@
       },
       "num": 157,
       "gen": 2,
-      "isNonstandard": "Past",
-      "desc": "(Gen 2) Holder cures itself if it is confused or has a status condition. Single use."
+      "isNonstandard": "Past"
     },
     "mysteryberry": {
-      "id": "mysteryberry",
       "name": "Mystery Berry",
       "spritenum": 244,
       "isBerry": true,
@@ -4441,29 +5229,23 @@
       },
       "num": 154,
       "gen": 2,
-      "isNonstandard": "Past",
-      "desc": "(Gen 2) Restores 5 PP to the first of the holder's moves to reach 0 PP. Single use."
+      "isNonstandard": "Past"
     },
     "pinkbow": {
-      "id": "pinkbow",
       "name": "Pink Bow",
       "spritenum": 444,
       "num": 251,
       "gen": 2,
-      "isNonstandard": "Past",
-      "desc": "(Gen 2) Holder's Normal-type attacks have 1.1x power."
+      "isNonstandard": "Past"
     },
     "polkadotbow": {
-      "id": "polkadotbow",
       "name": "Polkadot Bow",
       "spritenum": 444,
       "num": 251,
       "gen": 2,
-      "isNonstandard": "Past",
-      "desc": "(Gen 2) Holder's Normal-type attacks have 1.1x power."
+      "isNonstandard": "Past"
     },
     "przcureberry": {
-      "id": "przcureberry",
       "name": "PRZ Cure Berry",
       "spritenum": 63,
       "isBerry": true,
@@ -4473,11 +5255,9 @@
       },
       "num": 149,
       "gen": 2,
-      "isNonstandard": "Past",
-      "desc": "(Gen 2) Holder cures itself if it is paralyzed. Single use."
+      "isNonstandard": "Past"
     },
     "psncureberry": {
-      "id": "psncureberry",
       "name": "PSN Cure Berry",
       "spritenum": 333,
       "isBerry": true,
@@ -4487,19 +5267,19 @@
       },
       "num": 151,
       "gen": 2,
-      "isNonstandard": "Past",
-      "desc": "(Gen 2) Holder is cured if it is poisoned. Single use."
+      "isNonstandard": "Past"
     },
     "crucibellite": {
-      "id": "crucibellite",
       "name": "Crucibellite",
       "spritenum": 577,
       "megaStone": "Crucibelle-Mega",
       "megaEvolves": "Crucibelle",
+      "itemUser": [
+        "Crucibelle"
+      ],
       "num": -1,
       "gen": 6,
-      "isNonstandard": "CAP",
-      "desc": "If held by a Crucibelle, this item allows it to Mega Evolve in battle."
+      "isNonstandard": "CAP"
     }
   }
 }
