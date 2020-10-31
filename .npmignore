@@ -1,4 +1,11 @@
 .*
+*~
 *.log
-composer.json
+*.lock
 node_modules
+build.sh
+composer.json
+docker-compose.yaml
+Dockerfile
+index.js
+Makefile
