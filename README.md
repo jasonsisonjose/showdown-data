@@ -8,4 +8,11 @@ to JSON format so it can be used in any kind of project.
 
 All JSON files are located under the `dist/data` folder.
 
+
+## Maintenance
+
+Dependencies: Docker, git and jq
+
+### Upgrading
+
 To upgrade the `dist` folder with the latest Showdown changes run `make upgrade`.

@@ -10,4 +10,3 @@ RUN apt-get update && \
 RUN git config --global user.email "noone@noone.local" && \
     git config --global user.name "No one"
 
-ENTRYPOINT ["/app/build.sh"]

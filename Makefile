@@ -1,18 +1,19 @@
 DC_RUN=docker-compose run --rm maker
+NEW_TAG=$(shell date +%Y.%m.%d)
 default: build
 
 install:
 	yarn install
 
 build:
-	$(DC_RUN) build
+	$(DC_RUN) /app/scripts/build.sh
 
 upgrade:
 	yarn upgrade
 	make build
 
 tag:
-	git tag `date +'%Y.%m.%d'` -m `date +'v%Y.%m.%d'`
+	./scripts/tag.sh
 
 publish:
 	git push --tags
