@@ -13,7 +13,7 @@ upgrade:
 	make build
 
 tag:
-	$(DC_RUN) ./scripts/tag.sh
+	./scripts/tag.sh
 
 publish:
 	git push --tags
