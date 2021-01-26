@@ -13,6 +13,7 @@
     },
     "diamondstorm": {
       "inherit": true,
+      "self": null,
       "secondary": {
         "chance": 50,
         "self": {
@@ -36,9 +37,6 @@
     "flyingpress": {
       "inherit": true,
       "basePower": 80
-    },
-    "gastroacid": {
-      "inherit": true
     },
     "leechlife": {
       "inherit": true,
@@ -88,12 +86,6 @@
       "inherit": true,
       "ohko": true
     },
-    "simplebeam": {
-      "inherit": true
-    },
-    "skillswap": {
-      "inherit": true
-    },
     "stockpile": {
       "inherit": true,
       "condition": {
@@ -134,9 +126,6 @@
         "duration": 1,
         "onTryHitPriority": 4
       }
-    },
-    "worryseed": {
-      "inherit": true
     }
   }
 }

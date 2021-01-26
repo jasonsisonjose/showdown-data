@@ -401,7 +401,7 @@
       "fling": {
         "basePower": 10
       },
-      "onModifyAccuracyPriority": 5,
+      "onModifyAccuracyPriority": -2,
       "num": 213,
       "gen": 2
     },
@@ -1298,6 +1298,7 @@
       "fling": {
         "basePower": 10
       },
+      "onDamagePriority": -40,
       "num": 230,
       "gen": 2
     },
@@ -1307,6 +1308,7 @@
       "fling": {
         "basePower": 10
       },
+      "onDamagePriority": -40,
       "num": 275,
       "gen": 4
     },
@@ -1985,7 +1987,7 @@
       "fling": {
         "basePower": 10
       },
-      "onModifyAccuracyPriority": 5,
+      "onModifyAccuracyPriority": -2,
       "num": 255,
       "gen": 3
     },
@@ -2145,6 +2147,7 @@
         "basePower": 80,
         "type": "Flying"
       },
+      "onAfterSetStatusPriority": -1,
       "num": 157,
       "gen": 3
     },
@@ -2455,8 +2458,7 @@
         "type": "Rock"
       },
       "condition": {
-        "duration": 2,
-        "onSourceModifyAccuracyPriority": 3
+        "duration": 2
       },
       "num": 209,
       "gen": 4
@@ -5070,7 +5072,7 @@
       "fling": {
         "basePower": 10
       },
-      "onSourceModifyAccuracyPriority": 4,
+      "onSourceModifyAccuracyPriority": -2,
       "num": 265,
       "gen": 4
     },
@@ -5122,7 +5124,7 @@
       "fling": {
         "basePower": 10
       },
-      "onSourceModifyAccuracyPriority": 4,
+      "onSourceModifyAccuracyPriority": -2,
       "num": 276,
       "gen": 4
     },

@@ -6,6 +6,12 @@
     "clamp": {
       "inherit": true
     },
+    "counter": {
+      "inherit": true,
+      "ignoreImmunity": true,
+      "willCrit": false,
+      "basePower": 1
+    },
     "firespin": {
       "inherit": true
     },
@@ -27,6 +33,10 @@
       "condition": {
         "onAfterMoveSelfPriority": 1
       }
+    },
+    "psywave": {
+      "inherit": true,
+      "basePower": 1
     },
     "rage": {
       "inherit": true,

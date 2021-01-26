@@ -128,7 +128,34 @@
         "Volcanion",
         "Magearna",
         "Marshadow",
-        "Zeraora"
+        "Zeraora",
+        "Zarude"
+      ],
+      "restricted": [
+        "Mewtwo",
+        "Lugia",
+        "Ho-Oh",
+        "Kyogre",
+        "Groudon",
+        "Rayquaza",
+        "Dialga",
+        "Palkia",
+        "Giratina",
+        "Reshiram",
+        "Zekrom",
+        "Kyurem",
+        "Xerneas",
+        "Yveltal",
+        "Zygarde",
+        "Cosmog",
+        "Cosmoem",
+        "Solgaleo",
+        "Lunala",
+        "Necrozma",
+        "Zacian",
+        "Zamazenta",
+        "Eternatus",
+        "Calyrex"
       ]
     },
     "standarddoubles": {
@@ -491,6 +518,11 @@
       "name": "Switch Priority Clause Mod",
       "desc": "Makes a faster Pokémon switch first when double-switching, unlike in Emerald link battles, where player 1's Pokémon would switch first"
     },
+    "desyncclausemod": {
+      "effectType": "Rule",
+      "name": "Desync Clause Mod",
+      "desc": "If a desync would happen, the move fails instead. This rule currently covers Psywave and Counter."
+    },
     "freezeclausemod": {
       "effectType": "Rule",
       "name": "Freeze Clause Mod",
@@ -511,11 +543,6 @@
       "name": "Dynamax Clause",
       "desc": "Prevents Pok&eacute;mon from dynamaxing"
     },
-    "dynamaxubersclause": {
-      "effectType": "Rule",
-      "name": "Dynamax Ubers Clause",
-      "desc": "Prevents Pok&eacute;mon on the Ubers dynamax banlist from dynamaxing"
-    },
     "arceusevlimit": {
       "effectType": "ValidatorRule",
       "name": "Arceus EV Limit",
@@ -532,6 +559,11 @@
       "effectType": "ValidatorRule",
       "name": "STABmons Move Legality",
       "desc": "Allows Pok&eacute;mon to use any move that they or a previous evolution/out-of-battle forme share a type with"
+    },
+    "alphabetcupmovelegality": {
+      "effectType": "ValidatorRule",
+      "name": "Alphabet Cup Move Legality",
+      "desc": "Allows Pok&eacute;mon to use any move that shares the same first letter as their name or a previous evolution's name."
     },
     "allowtradeback": {
       "effectType": "ValidatorRule",

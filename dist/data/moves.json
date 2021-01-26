@@ -923,6 +923,7 @@
       "pp": 40,
       "priority": 0,
       "flags": {},
+      "self": {},
       "selfSwitch": "copyvolatile",
       "secondary": null,
       "target": "self",
@@ -2156,7 +2157,7 @@
     },
     "clangoroussoul": {
       "num": 775,
-      "accuracy": true,
+      "accuracy": 100,
       "basePower": 0,
       "category": "Status",
       "name": "Clangorous Soul",
@@ -3122,14 +3123,13 @@
         "protect": 1,
         "mirror": 1
       },
-      "secondary": {
+      "self": {
         "chance": 50,
-        "self": {
-          "boosts": {
-            "def": 2
-          }
+        "boosts": {
+          "def": 2
         }
       },
+      "secondary": {},
       "target": "allAdjacentFoes",
       "type": "Rock",
       "contestType": "Beautiful"
@@ -4303,7 +4303,7 @@
       "basePower": 160,
       "category": "Special",
       "name": "Eternabeam",
-      "pp": 10,
+      "pp": 5,
       "priority": 0,
       "flags": {
         "recharge": 1,
@@ -4551,7 +4551,7 @@
         "protect": 1,
         "mirror": 1
       },
-      "noFaint": true,
+      "onDamagePriority": -20,
       "secondary": null,
       "target": "normal",
       "type": "Normal",
@@ -5145,6 +5145,7 @@
         "mirror": 1,
         "mystery": 1
       },
+      "condition": {},
       "secondary": null,
       "target": "normal",
       "type": "Dark",
@@ -6683,7 +6684,8 @@
         "duration": 5,
         "onBasePowerPriority": 6,
         "onResidualOrder": 5,
-        "onResidualSubOrder": 3
+        "onResidualSubOrder": 3,
+        "onTerrainPriority": 1
       },
       "secondary": null,
       "target": "all",
@@ -7796,7 +7798,7 @@
         "protect": 1,
         "mirror": 1
       },
-      "noFaint": true,
+      "onDamagePriority": -20,
       "secondary": null,
       "target": "normal",
       "type": "Normal",
@@ -8620,7 +8622,7 @@
       "basePower": 80,
       "category": "Physical",
       "name": "Jaw Lock",
-      "pp": 15,
+      "pp": 10,
       "priority": 0,
       "flags": {
         "bite": 1,
@@ -9638,7 +9640,7 @@
       "basePower": 10,
       "category": "Physical",
       "name": "Max Airstream",
-      "pp": 5,
+      "pp": 10,
       "priority": 0,
       "flags": {},
       "isMax": true,
@@ -9653,7 +9655,7 @@
       "basePower": 10,
       "category": "Physical",
       "name": "Max Darkness",
-      "pp": 5,
+      "pp": 10,
       "priority": 0,
       "flags": {},
       "isMax": true,
@@ -9668,7 +9670,7 @@
       "basePower": 100,
       "category": "Physical",
       "name": "Max Flare",
-      "pp": 5,
+      "pp": 10,
       "priority": 0,
       "flags": {},
       "isMax": true,
@@ -9683,7 +9685,7 @@
       "basePower": 10,
       "category": "Physical",
       "name": "Max Flutterby",
-      "pp": 5,
+      "pp": 10,
       "priority": 0,
       "flags": {},
       "isMax": true,
@@ -9698,7 +9700,7 @@
       "basePower": 10,
       "category": "Physical",
       "name": "Max Geyser",
-      "pp": 5,
+      "pp": 10,
       "priority": 0,
       "flags": {},
       "isMax": true,
@@ -9713,7 +9715,7 @@
       "basePower": 0,
       "category": "Status",
       "name": "Max Guard",
-      "pp": 5,
+      "pp": 10,
       "priority": 4,
       "flags": {},
       "isMax": true,
@@ -9734,7 +9736,7 @@
       "basePower": 10,
       "category": "Physical",
       "name": "Max Hailstorm",
-      "pp": 5,
+      "pp": 10,
       "priority": 0,
       "flags": {},
       "isMax": true,
@@ -9749,7 +9751,7 @@
       "basePower": 10,
       "category": "Physical",
       "name": "Max Knuckle",
-      "pp": 5,
+      "pp": 10,
       "priority": 0,
       "flags": {},
       "isMax": true,
@@ -9764,7 +9766,7 @@
       "basePower": 10,
       "category": "Physical",
       "name": "Max Lightning",
-      "pp": 5,
+      "pp": 10,
       "priority": 0,
       "flags": {},
       "isMax": true,
@@ -9779,7 +9781,7 @@
       "basePower": 10,
       "category": "Physical",
       "name": "Max Mindstorm",
-      "pp": 5,
+      "pp": 10,
       "priority": 0,
       "flags": {},
       "isMax": true,
@@ -9794,7 +9796,7 @@
       "basePower": 10,
       "category": "Physical",
       "name": "Max Ooze",
-      "pp": 5,
+      "pp": 10,
       "priority": 0,
       "flags": {},
       "isMax": true,
@@ -9809,7 +9811,7 @@
       "basePower": 10,
       "category": "Physical",
       "name": "Max Overgrowth",
-      "pp": 5,
+      "pp": 10,
       "priority": 0,
       "flags": {},
       "isMax": true,
@@ -9824,7 +9826,7 @@
       "basePower": 10,
       "category": "Physical",
       "name": "Max Phantasm",
-      "pp": 5,
+      "pp": 10,
       "priority": 0,
       "flags": {},
       "isMax": true,
@@ -9839,7 +9841,7 @@
       "basePower": 10,
       "category": "Physical",
       "name": "Max Quake",
-      "pp": 5,
+      "pp": 10,
       "priority": 0,
       "flags": {},
       "isMax": true,
@@ -9854,7 +9856,7 @@
       "basePower": 10,
       "category": "Physical",
       "name": "Max Rockfall",
-      "pp": 5,
+      "pp": 10,
       "priority": 0,
       "flags": {},
       "isMax": true,
@@ -9869,7 +9871,7 @@
       "basePower": 10,
       "category": "Physical",
       "name": "Max Starfall",
-      "pp": 5,
+      "pp": 10,
       "priority": 0,
       "flags": {},
       "isMax": true,
@@ -9884,7 +9886,7 @@
       "basePower": 10,
       "category": "Physical",
       "name": "Max Steelspike",
-      "pp": 5,
+      "pp": 10,
       "priority": 0,
       "flags": {},
       "isMax": true,
@@ -9899,7 +9901,7 @@
       "basePower": 10,
       "category": "Physical",
       "name": "Max Strike",
-      "pp": 5,
+      "pp": 10,
       "priority": 0,
       "flags": {},
       "isMax": true,
@@ -9914,7 +9916,7 @@
       "basePower": 10,
       "category": "Physical",
       "name": "Max Wyrmwind",
-      "pp": 5,
+      "pp": 10,
       "priority": 0,
       "flags": {},
       "isMax": true,
@@ -10130,11 +10132,6 @@
       "flags": {
         "protect": 1,
         "mirror": 1
-      },
-      "condition": {
-        "duration": 1,
-        "noCopy": true,
-        "onRedirectTargetPriority": -1
       },
       "secondary": null,
       "target": "scripted",
@@ -11224,7 +11221,7 @@
     },
     "obstruct": {
       "num": 792,
-      "accuracy": true,
+      "accuracy": 100,
       "basePower": 0,
       "category": "Status",
       "name": "Obstruct",
@@ -14478,6 +14475,7 @@
         "authentic": 1,
         "mystery": 1
       },
+      "noSketch": true,
       "secondary": null,
       "target": "normal",
       "type": "Normal",
@@ -14955,7 +14953,8 @@
       },
       "volatileStatus": "snatch",
       "condition": {
-        "duration": 1
+        "duration": 1,
+        "onAnyPrepareHitPriority": -1
       },
       "secondary": null,
       "pressureTarget": "foeSide",
@@ -15358,7 +15357,7 @@
       "basePower": 75,
       "category": "Physical",
       "name": "Spirit Break",
-      "pp": 10,
+      "pp": 15,
       "priority": 0,
       "flags": {
         "contact": 1,
@@ -15680,6 +15679,7 @@
       "sideCondition": "stickyweb",
       "condition": {},
       "secondary": null,
+      "pressureTarget": "self",
       "target": "foeSide",
       "type": "Bug",
       "zMove": {
@@ -16592,7 +16592,7 @@
       "basePower": 0,
       "category": "Status",
       "name": "Tar Shot",
-      "pp": 20,
+      "pp": 15,
       "priority": 0,
       "flags": {
         "protect": 1,

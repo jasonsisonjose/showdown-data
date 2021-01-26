@@ -1,6 +1,6 @@
 {
   "Scripts": {
-    "inherit": "gen7",
+    "inherit": "gen8",
     "pokemon": {}
   }
 }

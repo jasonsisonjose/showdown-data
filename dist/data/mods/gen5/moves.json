@@ -729,6 +729,9 @@
       "inherit": true,
       "basePower": 95
     },
+    "toxic": {
+      "inherit": true
+    },
     "uproar": {
       "inherit": true,
       "flags": {

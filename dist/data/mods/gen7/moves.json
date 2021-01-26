@@ -217,7 +217,8 @@
       "condition": {
         "duration": 5,
         "onResidualOrder": 5,
-        "onResidualSubOrder": 3
+        "onResidualSubOrder": 3,
+        "onTerrainPriority": 1
       }
     },
     "guardianofalola": {
@@ -774,7 +775,15 @@
       "inherit": true,
       "priority": 0,
       "selfSwitch": false,
-      "onTryHit": false
+      "onTry": false
+    },
+    "toxic": {
+      "inherit": true,
+      "condition": {
+        "noCopy": true,
+        "duration": 1,
+        "onSourceInvulnerabilityPriority": 1
+      }
     },
     "toxicthread": {
       "inherit": true,

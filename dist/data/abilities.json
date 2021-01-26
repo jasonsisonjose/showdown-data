@@ -58,12 +58,14 @@
     },
     "asoneglastrier": {
       "onFoeTryEatItem": false,
+      "isPermanent": true,
       "name": "As One (Glastrier)",
       "rating": 3.5,
       "num": 266
     },
     "asonespectrier": {
       "onFoeTryEatItem": false,
+      "isPermanent": true,
       "name": "As One (Spectrier)",
       "rating": 3.5,
       "num": 267
@@ -99,6 +101,7 @@
     },
     "battlebond": {
       "onModifyMovePriority": -1,
+      "isPermanent": true,
       "name": "Battle Bond",
       "rating": 4,
       "num": 210
@@ -162,6 +165,7 @@
       "num": 16
     },
     "comatose": {
+      "isPermanent": true,
       "isUnbreakable": true,
       "name": "Comatose",
       "rating": 4,
@@ -173,7 +177,7 @@
       "num": 172
     },
     "compoundeyes": {
-      "onSourceModifyAccuracyPriority": 9,
+      "onSourceModifyAccuracyPriority": -1,
       "name": "Compound Eyes",
       "rating": 3,
       "num": 14
@@ -259,6 +263,7 @@
     },
     "disguise": {
       "onDamagePriority": 1,
+      "isPermanent": true,
       "name": "Disguise",
       "rating": 3.5,
       "num": 209
@@ -438,6 +443,7 @@
       "num": 265
     },
     "gulpmissile": {
+      "isPermanent": true,
       "name": "Gulp Missile",
       "rating": 2.5,
       "num": 241
@@ -492,7 +498,7 @@
     },
     "hustle": {
       "onModifyAtkPriority": 5,
-      "onSourceModifyAccuracyPriority": 7,
+      "onSourceModifyAccuracyPriority": -1,
       "name": "Hustle",
       "rating": 3.5,
       "num": 55
@@ -516,6 +522,7 @@
     },
     "iceface": {
       "onDamagePriority": 1,
+      "isPermanent": true,
       "name": "Ice Face",
       "rating": 3,
       "num": 248
@@ -746,6 +753,7 @@
       "num": 136
     },
     "multitype": {
+      "isPermanent": true,
       "name": "Multitype",
       "rating": 4,
       "num": 121
@@ -865,6 +873,7 @@
     },
     "powerconstruct": {
       "onResidualOrder": 27,
+      "isPermanent": true,
       "name": "Power Construct",
       "rating": 5,
       "num": 211
@@ -991,6 +1000,7 @@
       "num": 79
     },
     "rkssystem": {
+      "isPermanent": true,
       "name": "RKS System",
       "rating": 4,
       "num": 225
@@ -1033,7 +1043,7 @@
       "num": 45
     },
     "sandveil": {
-      "onModifyAccuracyPriority": 8,
+      "onModifyAccuracyPriority": -1,
       "name": "Sand Veil",
       "rating": 1.5,
       "num": 8
@@ -1046,6 +1056,7 @@
     },
     "schooling": {
       "onResidualOrder": 27,
+      "isPermanent": true,
       "name": "Schooling",
       "rating": 3,
       "num": 208
@@ -1104,6 +1115,7 @@
     },
     "shieldsdown": {
       "onResidualOrder": 27,
+      "isPermanent": true,
       "isUnbreakable": true,
       "name": "Shields Down",
       "rating": 3,
@@ -1139,7 +1151,7 @@
       "num": 97
     },
     "snowcloak": {
-      "onModifyAccuracyPriority": 8,
+      "onModifyAccuracyPriority": -1,
       "name": "Snow Cloak",
       "rating": 1.5,
       "num": 81
@@ -1202,7 +1214,8 @@
       "num": 192
     },
     "stancechange": {
-      "onBeforeMovePriority": 0.5,
+      "onModifyMovePriority": 1,
+      "isPermanent": true,
       "name": "Stance Change",
       "rating": 4,
       "num": 176
@@ -1258,7 +1271,7 @@
       "num": 173
     },
     "sturdy": {
-      "onDamagePriority": -100,
+      "onDamagePriority": -30,
       "name": "Sturdy",
       "rating": 3,
       "num": 5
@@ -1307,7 +1320,7 @@
       "num": 28
     },
     "tangledfeet": {
-      "onModifyAccuracyPriority": 6,
+      "onModifyAccuracyPriority": -1,
       "name": "Tangled Feet",
       "rating": 1,
       "num": 77
@@ -1416,6 +1429,7 @@
       "num": 260
     },
     "victorystar": {
+      "onAnyModifyAccuracyPriority": -1,
       "name": "Victory Star",
       "rating": 2,
       "num": 162
@@ -1486,6 +1500,7 @@
     "zenmode": {
       "onResidualOrder": 27,
       "condition": {},
+      "isPermanent": true,
       "name": "Zen Mode",
       "rating": 0,
       "num": 161

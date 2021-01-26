@@ -135,6 +135,9 @@
       "inherit": true,
       "basePower": 70
     },
+    "furycutter": {
+      "inherit": true
+    },
     "gigadrain": {
       "inherit": true,
       "pp": 5

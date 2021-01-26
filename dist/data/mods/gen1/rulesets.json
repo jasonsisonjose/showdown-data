@@ -5,6 +5,7 @@
       "name": "Standard",
       "ruleset": [
         "Obtainable",
+        "Desync Clause Mod",
         "Sleep Clause Mod",
         "Freeze Clause Mod",
         "Species Clause",

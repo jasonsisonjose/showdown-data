@@ -48,9 +48,6 @@
         3
       ]
     },
-    "brickbreak": {
-      "inherit": true
-    },
     "bulletseed": {
       "inherit": true,
       "basePower": 10
@@ -209,7 +206,10 @@
     },
     "furycutter": {
       "inherit": true,
-      "basePower": 10
+      "basePower": 10,
+      "condition": {
+        "duration": 2
+      }
     },
     "futuresight": {
       "inherit": true,

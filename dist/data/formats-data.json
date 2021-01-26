@@ -14,9 +14,9 @@
         "sludgebomb",
         "substitute"
       ],
-      "randomBattleLevel": 82,
-      "tier": "UUBL",
-      "doublesTier": "DOU"
+      "randomBattleLevel": 84,
+      "tier": "RUBL",
+      "doublesTier": "DUU"
     },
     "venusaurmega": {
       "isNonstandard": "Past",
@@ -33,7 +33,7 @@
       ],
       "randomDoubleBattleLevel": 80,
       "isNonstandard": "Gigantamax",
-      "tier": "(Uber)",
+      "tier": "AG",
       "doublesTier": "(DUber)"
     },
     "charmander": {
@@ -50,7 +50,7 @@
         "focusblast",
         "roost"
       ],
-      "randomBattleLevel": 82,
+      "randomBattleLevel": 84,
       "randomDoubleBattleMoves": [
         "airslash",
         "heatwave",
@@ -60,8 +60,8 @@
         "tailwind"
       ],
       "randomDoubleBattleLevel": 80,
-      "tier": "RU",
-      "doublesTier": "DOU"
+      "tier": "PU",
+      "doublesTier": "DUU"
     },
     "charizardmegax": {
       "isNonstandard": "Past",
@@ -82,15 +82,14 @@
       ],
       "randomDoubleBattleLevel": 80,
       "isNonstandard": "Gigantamax",
-      "tier": "(Uber)",
+      "tier": "AG",
       "doublesTier": "(DUber)"
     },
     "squirtle": {
       "tier": "LC"
     },
     "wartortle": {
-      "tier": "NFE",
-      "doublesTier": "DUU"
+      "tier": "NFE"
     },
     "blastoise": {
       "randomBattleMoves": [
@@ -108,8 +107,8 @@
         "shellsmash"
       ],
       "randomDoubleBattleLevel": 80,
-      "tier": "RU",
-      "doublesTier": "DOU"
+      "tier": "NU",
+      "doublesTier": "DUU"
     },
     "blastoisemega": {
       "isNonstandard": "Past",
@@ -135,7 +134,7 @@
       ],
       "randomDoubleBattleLevel": 80,
       "isNonstandard": "Gigantamax",
-      "tier": "(Uber)",
+      "tier": "AG",
       "doublesTier": "(DUber)"
     },
     "caterpie": {
@@ -151,7 +150,7 @@
         "quiverdance",
         "sleeppowder"
       ],
-      "randomBattleLevel": 86,
+      "randomBattleLevel": 88,
       "randomDoubleBattleMoves": [
         "hurricane",
         "pollenpuff",
@@ -162,7 +161,7 @@
         "tailwind"
       ],
       "randomDoubleBattleLevel": 88,
-      "tier": "PUBL",
+      "tier": "(PU)",
       "doublesTier": "(DUU)"
     },
     "butterfreegmax": {
@@ -172,7 +171,7 @@
         "quiverdance",
         "sleeppowder"
       ],
-      "randomBattleLevel": 86,
+      "randomBattleLevel": 88,
       "randomDoubleBattleMoves": [
         "hurricane",
         "pollenpuff",
@@ -184,7 +183,7 @@
       ],
       "randomDoubleBattleLevel": 88,
       "isNonstandard": "Gigantamax",
-      "tier": "(Uber)",
+      "tier": "AG",
       "doublesTier": "(DUber)"
     },
     "weedle": {
@@ -268,7 +267,7 @@
         "voltswitch",
         "volttackle"
       ],
-      "randomBattleLevel": 88,
+      "randomBattleLevel": 90,
       "randomDoubleBattleMoves": [
         "fakeout",
         "grassknot",
@@ -345,7 +344,7 @@
       ],
       "randomDoubleBattleLevel": 90,
       "isNonstandard": "Gigantamax",
-      "tier": "(Uber)",
+      "tier": "AG",
       "doublesTier": "(DUber)"
     },
     "pikachuworld": {
@@ -374,7 +373,7 @@
       ],
       "randomDoubleBattleLevel": 88,
       "tier": "(PU)",
-      "doublesTier": "(DUU)"
+      "doublesTier": "DUU"
     },
     "raichualola": {
       "randomBattleMoves": [
@@ -394,7 +393,7 @@
         "voltswitch"
       ],
       "randomDoubleBattleLevel": 86,
-      "tier": "RUBL",
+      "tier": "PUBL",
       "doublesTier": "(DUU)"
     },
     "sandshrew": {
@@ -422,7 +421,7 @@
         "swordsdance"
       ],
       "randomDoubleBattleLevel": 88,
-      "tier": "PU",
+      "tier": "(PU)",
       "doublesTier": "(DUU)"
     },
     "sandslashalola": {
@@ -434,7 +433,7 @@
         "swordsdance",
         "tripleaxel"
       ],
-      "randomBattleLevel": 86,
+      "randomBattleLevel": 88,
       "randomDoubleBattleMoves": [
         "drillrun",
         "ironhead",
@@ -442,8 +441,8 @@
         "swordsdance",
         "tripleaxel"
       ],
-      "randomDoubleBattleLevel": 84,
-      "tier": "NU",
+      "randomDoubleBattleLevel": 86,
+      "tier": "PU",
       "doublesTier": "(DUU)"
     },
     "nidoranf": {
@@ -469,8 +468,8 @@
         "stealthrock"
       ],
       "randomDoubleBattleLevel": 84,
-      "tier": "OU",
-      "doublesTier": "DOU"
+      "tier": "UU",
+      "doublesTier": "(DUU)"
     },
     "nidoranm": {
       "tier": "LC"
@@ -486,7 +485,7 @@
         "substitute",
         "superpower"
       ],
-      "randomBattleLevel": 82,
+      "randomBattleLevel": 84,
       "randomDoubleBattleMoves": [
         "earthpower",
         "fireblast",
@@ -497,7 +496,7 @@
       ],
       "randomDoubleBattleLevel": 84,
       "tier": "OU",
-      "doublesTier": "DOU"
+      "doublesTier": "(DUU)"
     },
     "cleffa": {
       "tier": "LC"
@@ -510,8 +509,7 @@
         "protect"
       ],
       "randomDoubleBattleLevel": 95,
-      "tier": "NU",
-      "doublesTier": "DUU"
+      "tier": "NFE"
     },
     "clefable": {
       "randomBattleMoves": [
@@ -522,7 +520,7 @@
         "stealthrock",
         "thunderwave"
       ],
-      "randomBattleLevel": 80,
+      "randomBattleLevel": 82,
       "randomDoubleBattleMoves": [
         "fireblast",
         "followme",
@@ -534,13 +532,13 @@
       ],
       "randomDoubleBattleLevel": 86,
       "tier": "OU",
-      "doublesTier": "DUU"
+      "doublesTier": "(DUU)"
     },
     "vulpix": {
       "tier": "LC"
     },
     "vulpixalola": {
-      "tier": "LC Uber"
+      "tier": "NFE"
     },
     "ninetales": {
       "randomBattleMoves": [
@@ -550,7 +548,7 @@
         "solarbeam",
         "willowisp"
       ],
-      "randomBattleLevel": 86,
+      "randomBattleLevel": 84,
       "randomDoubleBattleMoves": [
         "heatwave",
         "nastyplot",
@@ -559,14 +557,13 @@
         "solarbeam"
       ],
       "randomDoubleBattleLevel": 84,
-      "tier": "NU",
-      "doublesTier": "DOU"
+      "tier": "(PU)",
+      "doublesTier": "DUU"
     },
     "ninetalesalola": {
       "randomBattleMoves": [
         "auroraveil",
         "blizzard",
-        "encore",
         "freezedry",
         "moonblast",
         "nastyplot"
@@ -580,7 +577,7 @@
         "moonblast"
       ],
       "randomDoubleBattleLevel": 84,
-      "tier": "UUBL",
+      "tier": "UU",
       "doublesTier": "DUU"
     },
     "igglybuff": {
@@ -598,7 +595,7 @@
         "reflect",
         "stealthrock"
       ],
-      "randomBattleLevel": 88,
+      "randomBattleLevel": 90,
       "randomDoubleBattleMoves": [
         "dazzlinggleam",
         "healpulse",
@@ -626,7 +623,7 @@
         "toxic",
         "uturn"
       ],
-      "randomBattleLevel": 82,
+      "randomBattleLevel": 84,
       "randomDoubleBattleMoves": [
         "bravebird",
         "defog",
@@ -636,8 +633,8 @@
         "taunt"
       ],
       "randomDoubleBattleLevel": 86,
-      "tier": "OU",
-      "doublesTier": "DOU"
+      "tier": "RU",
+      "doublesTier": "(DUU)"
     },
     "oddish": {
       "tier": "LC"
@@ -653,7 +650,7 @@
         "sludgebomb",
         "strengthsap"
       ],
-      "randomBattleLevel": 84,
+      "randomBattleLevel": 86,
       "randomDoubleBattleMoves": [
         "aromatherapy",
         "energyball",
@@ -663,7 +660,7 @@
         "strengthsap"
       ],
       "randomDoubleBattleLevel": 88,
-      "tier": "RU",
+      "tier": "NU",
       "doublesTier": "(DUU)"
     },
     "bellossom": {
@@ -674,7 +671,7 @@
         "sleeppowder",
         "strengthsap"
       ],
-      "randomBattleLevel": 88,
+      "randomBattleLevel": 84,
       "randomDoubleBattleMoves": [
         "energyball",
         "moonblast",
@@ -715,7 +712,7 @@
         "stoneedge",
         "suckerpunch"
       ],
-      "randomBattleLevel": 82,
+      "randomBattleLevel": 84,
       "randomDoubleBattleMoves": [
         "highhorsepower",
         "memento",
@@ -736,7 +733,7 @@
         "stoneedge",
         "suckerpunch"
       ],
-      "randomBattleLevel": 88,
+      "randomBattleLevel": 84,
       "randomDoubleBattleMoves": [
         "highhorsepower",
         "ironhead",
@@ -746,7 +743,7 @@
         "suckerpunch"
       ],
       "randomDoubleBattleLevel": 88,
-      "tier": "PU",
+      "tier": "(PU)",
       "doublesTier": "(DUU)"
     },
     "meowth": {
@@ -760,7 +757,7 @@
     },
     "meowthgmax": {
       "isNonstandard": "Gigantamax",
-      "tier": "(Uber)",
+      "tier": "AG",
       "doublesTier": "(DUber)"
     },
     "persian": {
@@ -792,7 +789,7 @@
         "powergem",
         "thunderbolt"
       ],
-      "randomBattleLevel": 86,
+      "randomBattleLevel": 84,
       "randomDoubleBattleMoves": [
         "fakeout",
         "foulplay",
@@ -803,7 +800,7 @@
         "taunt"
       ],
       "randomDoubleBattleLevel": 88,
-      "tier": "NU",
+      "tier": "(PU)",
       "doublesTier": "(DUU)"
     },
     "perrserker": {
@@ -824,7 +821,7 @@
         "uturn"
       ],
       "randomDoubleBattleLevel": 88,
-      "tier": "PU",
+      "tier": "(PU)",
       "doublesTier": "(DUU)"
     },
     "psyduck": {
@@ -848,7 +845,7 @@
         "protect"
       ],
       "randomDoubleBattleLevel": 88,
-      "tier": "PU",
+      "tier": "(PU)",
       "doublesTier": "(DUU)"
     },
     "mankey": {
@@ -883,7 +880,7 @@
         "willowisp"
       ],
       "randomDoubleBattleLevel": 84,
-      "tier": "RU",
+      "tier": "NU",
       "doublesTier": "DUU"
     },
     "poliwag": {
@@ -910,7 +907,7 @@
         "protect"
       ],
       "randomDoubleBattleLevel": 88,
-      "tier": "NU",
+      "tier": "(PU)",
       "doublesTier": "(DUU)"
     },
     "politoed": {
@@ -922,10 +919,9 @@
         "scald",
         "toxic"
       ],
-      "randomBattleLevel": 82,
+      "randomBattleLevel": 88,
       "randomDoubleBattleMoves": [
         "earthpower",
-        "haze",
         "helpinghand",
         "icywind",
         "muddywater",
@@ -939,8 +935,7 @@
       "tier": "LC"
     },
     "kadabra": {
-      "tier": "PU",
-      "doublesTier": "NFE"
+      "tier": "NFE"
     },
     "alakazam": {
       "randomBattleMoves": [
@@ -950,7 +945,7 @@
         "psychic",
         "shadowball"
       ],
-      "randomBattleLevel": 80,
+      "randomBattleLevel": 82,
       "randomDoubleBattleMoves": [
         "focusblast",
         "nastyplot",
@@ -959,8 +954,8 @@
         "shadowball"
       ],
       "randomDoubleBattleLevel": 80,
-      "tier": "OU",
-      "doublesTier": "DUU"
+      "tier": "UU",
+      "doublesTier": "(DUU)"
     },
     "alakazammega": {
       "isNonstandard": "Past",
@@ -990,12 +985,12 @@
         "protect"
       ],
       "randomDoubleBattleLevel": 88,
-      "tier": "RUBL",
+      "tier": "PUBL",
       "doublesTier": "(DUU)"
     },
     "machampgmax": {
       "isNonstandard": "Gigantamax",
-      "tier": "(Uber)",
+      "tier": "AG",
       "doublesTier": "(DUber)"
     },
     "bellsprout": {
@@ -1022,7 +1017,7 @@
         "sludgebomb",
         "toxicspikes"
       ],
-      "randomBattleLevel": 82,
+      "randomBattleLevel": 86,
       "randomDoubleBattleMoves": [
         "acidspray",
         "icywind",
@@ -1084,7 +1079,7 @@
         "wildcharge"
       ],
       "randomDoubleBattleLevel": 88,
-      "tier": "NU",
+      "tier": "(PU)",
       "doublesTier": "(DUU)"
     },
     "rapidashgalar": {
@@ -1095,7 +1090,7 @@
         "swordsdance",
         "zenheadbutt"
       ],
-      "randomBattleLevel": 88,
+      "randomBattleLevel": 84,
       "randomDoubleBattleMoves": [
         "highhorsepower",
         "playrough",
@@ -1104,7 +1099,7 @@
         "zenheadbutt"
       ],
       "randomDoubleBattleLevel": 88,
-      "tier": "PU",
+      "tier": "(PU)",
       "doublesTier": "(DUU)"
     },
     "slowpoke": {
@@ -1115,14 +1110,14 @@
     },
     "slowbro": {
       "randomBattleMoves": [
-        "calmmind",
+        "futuresight",
         "icebeam",
-        "psyshock",
         "scald",
         "slackoff",
-        "teleport"
+        "teleport",
+        "thunderwave"
       ],
-      "randomBattleLevel": 82,
+      "randomBattleLevel": 86,
       "randomDoubleBattleMoves": [
         "calmmind",
         "fireblast",
@@ -1133,7 +1128,7 @@
         "trickroom"
       ],
       "randomDoubleBattleLevel": 84,
-      "tier": "UU",
+      "tier": "OU",
       "doublesTier": "(DUU)"
     },
     "slowbromega": {
@@ -1148,7 +1143,7 @@
         "trick",
         "trickroom"
       ],
-      "randomBattleLevel": 82,
+      "randomBattleLevel": 88,
       "randomDoubleBattleMoves": [
         "fireblast",
         "healpulse",
@@ -1158,7 +1153,7 @@
         "trickroom"
       ],
       "randomDoubleBattleLevel": 84,
-      "tier": "UU",
+      "tier": "RU",
       "doublesTier": "(DUU)"
     },
     "slowking": {
@@ -1172,7 +1167,7 @@
         "toxic",
         "trick"
       ],
-      "randomBattleLevel": 82,
+      "randomBattleLevel": 88,
       "randomDoubleBattleMoves": [
         "fireblast",
         "icebeam",
@@ -1189,13 +1184,13 @@
     "slowkinggalar": {
       "randomBattleMoves": [
         "fireblast",
+        "futuresight",
         "psyshock",
         "slackoff",
         "sludgebomb",
-        "trick",
-        "trickroom"
+        "trick"
       ],
-      "randomBattleLevel": 82,
+      "randomBattleLevel": 86,
       "randomDoubleBattleMoves": [
         "eeriespell",
         "fireblast",
@@ -1206,14 +1201,13 @@
       ],
       "randomDoubleBattleLevel": 86,
       "tier": "OU",
-      "doublesTier": "DOU"
+      "doublesTier": "(DUU)"
     },
     "magnemite": {
       "tier": "LC"
     },
     "magneton": {
-      "tier": "NU",
-      "doublesTier": "NFE"
+      "tier": "NFE"
     },
     "magnezone": {
       "randomBattleMoves": [
@@ -1223,7 +1217,7 @@
         "thunderbolt",
         "voltswitch"
       ],
-      "randomBattleLevel": 80,
+      "randomBattleLevel": 86,
       "randomDoubleBattleMoves": [
         "allyswitch",
         "bodypress",
@@ -1234,7 +1228,7 @@
         "voltswitch"
       ],
       "randomDoubleBattleLevel": 88,
-      "tier": "OU",
+      "tier": "RU",
       "doublesTier": "(DUU)"
     },
     "farfetchd": {
@@ -1243,17 +1237,15 @@
         "closecombat",
         "knockoff",
         "leafblade",
-        "slash",
         "swordsdance"
       ],
-      "randomBattleLevel": 88,
+      "randomBattleLevel": 90,
       "randomDoubleBattleMoves": [
         "bravebird",
         "closecombat",
         "leafblade",
         "protect",
         "quickattack",
-        "slash",
         "swordsdance"
       ],
       "randomDoubleBattleLevel": 95,
@@ -1282,7 +1274,7 @@
         "swordsdance"
       ],
       "randomDoubleBattleLevel": 84,
-      "tier": "RUBL",
+      "tier": "PUBL",
       "doublesTier": "(DUU)"
     },
     "doduo": {
@@ -1330,23 +1322,21 @@
       ],
       "randomBattleLevel": 82,
       "randomDoubleBattleMoves": [
-        "iceshard",
+        "hydropump",
         "iciclespear",
-        "liquidation",
         "protect",
         "rockblast",
         "shellsmash"
       ],
       "randomDoubleBattleLevel": 84,
-      "tier": "UU",
+      "tier": "RU",
       "doublesTier": "(DUU)"
     },
     "gastly": {
-      "tier": "LC Uber"
+      "tier": "NFE"
     },
     "haunter": {
-      "tier": "NUBL",
-      "doublesTier": "NFE"
+      "tier": "NFE"
     },
     "gengar": {
       "randomDoubleBattleMoves": [
@@ -1359,9 +1349,9 @@
         "trick",
         "willowisp"
       ],
-      "randomDoubleBattleLevel": 80,
-      "tier": "OU",
-      "doublesTier": "DUU"
+      "randomDoubleBattleLevel": 82,
+      "tier": "UUBL",
+      "doublesTier": "(DUU)"
     },
     "gengarmega": {
       "isNonstandard": "Past",
@@ -1387,7 +1377,7 @@
       ],
       "randomDoubleBattleLevel": 82,
       "isNonstandard": "Gigantamax",
-      "tier": "(Uber)",
+      "tier": "AG",
       "doublesTier": "(DUber)"
     },
     "onix": {
@@ -1401,7 +1391,7 @@
         "heavyslam",
         "stealthrock"
       ],
-      "randomBattleLevel": 84,
+      "randomBattleLevel": 86,
       "randomDoubleBattleMoves": [
         "headsmash",
         "heavyslam",
@@ -1447,7 +1437,7 @@
         "xscissor"
       ],
       "randomDoubleBattleLevel": 86,
-      "tier": "NU",
+      "tier": "(PU)",
       "doublesTier": "(DUU)"
     },
     "kinglergmax": {
@@ -1460,7 +1450,7 @@
       ],
       "randomDoubleBattleLevel": 86,
       "isNonstandard": "Gigantamax",
-      "tier": "(Uber)",
+      "tier": "AG",
       "doublesTier": "(DUber)"
     },
     "voltorb": {
@@ -1491,7 +1481,7 @@
         "trickroom"
       ],
       "randomDoubleBattleLevel": 88,
-      "tier": "PUBL",
+      "tier": "(PU)",
       "doublesTier": "(DUU)"
     },
     "exeggutoralola": {
@@ -1502,7 +1492,7 @@
         "leafstorm",
         "trickroom"
       ],
-      "randomBattleLevel": 86,
+      "randomBattleLevel": 88,
       "randomDoubleBattleMoves": [
         "dragonpulse",
         "energyball",
@@ -1511,7 +1501,7 @@
         "trickroom"
       ],
       "randomDoubleBattleLevel": 88,
-      "tier": "NUBL",
+      "tier": "(PU)",
       "doublesTier": "(DUU)"
     },
     "cubone": {
@@ -1536,7 +1526,7 @@
         "stoneedge"
       ],
       "randomDoubleBattleLevel": 88,
-      "tier": "PU",
+      "tier": "(PU)",
       "doublesTier": "(DUU)"
     },
     "marowakalola": {
@@ -1548,7 +1538,7 @@
         "stealthrock",
         "stoneedge"
       ],
-      "randomBattleLevel": 82,
+      "randomBattleLevel": 86,
       "randomDoubleBattleMoves": [
         "bonemerang",
         "flamecharge",
@@ -1557,7 +1547,7 @@
         "shadowbone"
       ],
       "randomDoubleBattleLevel": 82,
-      "tier": "UU",
+      "tier": "RU",
       "doublesTier": "(DUU)"
     },
     "marowakalolatotem": {
@@ -1587,7 +1577,7 @@
         "rockslide"
       ],
       "randomDoubleBattleLevel": 86,
-      "tier": "RU",
+      "tier": "PU",
       "doublesTier": "(DUU)"
     },
     "hitmonchan": {
@@ -1610,7 +1600,7 @@
         "protect"
       ],
       "randomDoubleBattleLevel": 88,
-      "tier": "PU",
+      "tier": "(PU)",
       "doublesTier": "(DUU)"
     },
     "hitmontop": {
@@ -1633,8 +1623,8 @@
         "tripleaxel"
       ],
       "randomDoubleBattleLevel": 88,
-      "tier": "NU",
-      "doublesTier": "(DUU)"
+      "tier": "PU",
+      "doublesTier": "DUU"
     },
     "lickitung": {
       "tier": "LC"
@@ -1660,7 +1650,7 @@
         "protect"
       ],
       "randomDoubleBattleLevel": 88,
-      "tier": "PU",
+      "tier": "(PU)",
       "doublesTier": "(DUU)"
     },
     "koffing": {
@@ -1674,7 +1664,7 @@
         "toxicspikes",
         "willowisp"
       ],
-      "randomBattleLevel": 86,
+      "randomBattleLevel": 88,
       "randomDoubleBattleMoves": [
         "fireblast",
         "painsplit",
@@ -1683,7 +1673,7 @@
         "willowisp"
       ],
       "randomDoubleBattleLevel": 88,
-      "tier": "NU",
+      "tier": "PU",
       "doublesTier": "(DUU)"
     },
     "weezinggalar": {
@@ -1696,7 +1686,7 @@
         "toxicspikes",
         "willowisp"
       ],
-      "randomBattleLevel": 82,
+      "randomBattleLevel": 88,
       "randomDoubleBattleMoves": [
         "clearsmog",
         "defog",
@@ -1706,16 +1696,15 @@
         "toxicspikes",
         "willowisp"
       ],
-      "randomDoubleBattleLevel": 84,
-      "tier": "UU",
-      "doublesTier": "DOU"
+      "randomDoubleBattleLevel": 86,
+      "tier": "RU",
+      "doublesTier": "DUU"
     },
     "rhyhorn": {
       "tier": "LC"
     },
     "rhydon": {
-      "tier": "NU",
-      "doublesTier": "NFE"
+      "tier": "NFE"
     },
     "rhyperior": {
       "randomBattleMoves": [
@@ -1727,7 +1716,7 @@
         "stealthrock",
         "stoneedge"
       ],
-      "randomBattleLevel": 80,
+      "randomBattleLevel": 84,
       "randomDoubleBattleMoves": [
         "highhorsepower",
         "icepunch",
@@ -1737,7 +1726,7 @@
         "stoneedge"
       ],
       "randomDoubleBattleLevel": 84,
-      "tier": "OU",
+      "tier": "RU",
       "doublesTier": "(DUU)"
     },
     "happiny": {
@@ -1751,19 +1740,19 @@
         "stealthrock",
         "toxic"
       ],
-      "randomBattleLevel": 82,
+      "randomBattleLevel": 84,
       "tier": "UU",
-      "doublesTier": "DUU"
+      "doublesTier": "NFE"
     },
     "blissey": {
       "randomBattleMoves": [
-        "healbell",
-        "protect",
         "seismictoss",
-        "toxic",
-        "wish"
+        "softboiled",
+        "stealthrock",
+        "teleport",
+        "thunderwave"
       ],
-      "randomBattleLevel": 82,
+      "randomBattleLevel": 84,
       "randomDoubleBattleMoves": [
         "allyswitch",
         "protect",
@@ -1777,8 +1766,7 @@
       "doublesTier": "(DUU)"
     },
     "tangela": {
-      "tier": "RU",
-      "doublesTier": "DUU"
+      "tier": "NFE"
     },
     "tangrowth": {
       "randomBattleMoves": [
@@ -1789,7 +1777,7 @@
         "sleeppowder",
         "sludgebomb"
       ],
-      "randomBattleLevel": 80,
+      "randomBattleLevel": 84,
       "randomDoubleBattleMoves": [
         "focusblast",
         "knockoff",
@@ -1798,7 +1786,7 @@
         "sleeppowder"
       ],
       "randomDoubleBattleLevel": 84,
-      "tier": "OU",
+      "tier": "UU",
       "doublesTier": "(DUU)"
     },
     "kangaskhan": {
@@ -1809,7 +1797,7 @@
         "hammerarm",
         "suckerpunch"
       ],
-      "randomBattleLevel": 88,
+      "randomBattleLevel": 86,
       "randomDoubleBattleMoves": [
         "doubleedge",
         "drainpunch",
@@ -1819,7 +1807,7 @@
         "suckerpunch"
       ],
       "randomDoubleBattleLevel": 88,
-      "tier": "PU",
+      "tier": "(PU)",
       "doublesTier": "(DUU)"
     },
     "kangaskhanmega": {
@@ -1850,8 +1838,8 @@
         "raindance"
       ],
       "randomDoubleBattleLevel": 82,
-      "tier": "RU",
-      "doublesTier": "DOU"
+      "tier": "PUBL",
+      "doublesTier": "DUU"
     },
     "goldeen": {
       "tier": "LC"
@@ -1890,7 +1878,7 @@
         "scald",
         "thunderbolt"
       ],
-      "randomBattleLevel": 82,
+      "randomBattleLevel": 86,
       "randomDoubleBattleMoves": [
         "flipturn",
         "hydropump",
@@ -1900,7 +1888,7 @@
         "thunderbolt"
       ],
       "randomDoubleBattleLevel": 84,
-      "tier": "UU",
+      "tier": "NU",
       "doublesTier": "(DUU)"
     },
     "mimejr": {
@@ -1967,7 +1955,7 @@
         "rapidspin"
       ],
       "randomDoubleBattleLevel": 88,
-      "tier": "PU",
+      "tier": "(PU)",
       "doublesTier": "(DUU)"
     },
     "scyther": {
@@ -1987,8 +1975,8 @@
         "uturn"
       ],
       "randomDoubleBattleLevel": 84,
-      "tier": "UU",
-      "doublesTier": "LC Uber"
+      "tier": "PU",
+      "doublesTier": "NFE"
     },
     "scizor": {
       "randomBattleMoves": [
@@ -2012,8 +2000,8 @@
         "uturn"
       ],
       "randomDoubleBattleLevel": 80,
-      "tier": "OU",
-      "doublesTier": "DOU"
+      "tier": "UU",
+      "doublesTier": "DUU"
     },
     "scizormega": {
       "isNonstandard": "Past",
@@ -2040,8 +2028,8 @@
         "psychic"
       ],
       "randomDoubleBattleLevel": 86,
-      "tier": "OU",
-      "doublesTier": "DOU"
+      "tier": "(PU)",
+      "doublesTier": "(DUU)"
     },
     "elekid": {
       "tier": "LC"
@@ -2058,7 +2046,7 @@
         "voltswitch",
         "wildcharge"
       ],
-      "randomBattleLevel": 88,
+      "randomBattleLevel": 84,
       "randomDoubleBattleMoves": [
         "crosschop",
         "flamethrower",
@@ -2067,8 +2055,8 @@
         "wildcharge"
       ],
       "randomDoubleBattleLevel": 88,
-      "tier": "OU",
-      "doublesTier": "DOU"
+      "tier": "(PU)",
+      "doublesTier": "(DUU)"
     },
     "magby": {
       "tier": "LC"
@@ -2084,7 +2072,7 @@
         "taunt",
         "thunderbolt"
       ],
-      "randomBattleLevel": 86,
+      "randomBattleLevel": 88,
       "randomDoubleBattleMoves": [
         "fireblast",
         "focusblast",
@@ -2093,8 +2081,8 @@
         "thunderbolt"
       ],
       "randomDoubleBattleLevel": 88,
-      "tier": "OU",
-      "doublesTier": "DOU"
+      "tier": "(PU)",
+      "doublesTier": "(DUU)"
     },
     "pinsir": {
       "randomBattleMoves": [
@@ -2105,7 +2093,7 @@
         "stoneedge",
         "xscissor"
       ],
-      "randomBattleLevel": 88,
+      "randomBattleLevel": 86,
       "randomDoubleBattleMoves": [
         "closecombat",
         "feint",
@@ -2115,7 +2103,7 @@
         "xscissor"
       ],
       "randomDoubleBattleLevel": 88,
-      "tier": "PU",
+      "tier": "(PU)",
       "doublesTier": "(DUU)"
     },
     "pinsirmega": {
@@ -2130,7 +2118,7 @@
         "throatchop",
         "zenheadbutt"
       ],
-      "randomBattleLevel": 86,
+      "randomBattleLevel": 84,
       "randomDoubleBattleMoves": [
         "bodyslam",
         "closecombat",
@@ -2139,7 +2127,7 @@
         "rockslide"
       ],
       "randomDoubleBattleLevel": 84,
-      "tier": "NUBL",
+      "tier": "PUBL",
       "doublesTier": "(DUU)"
     },
     "magikarp": {
@@ -2153,7 +2141,7 @@
         "powerwhip",
         "waterfall"
       ],
-      "randomBattleLevel": 80,
+      "randomBattleLevel": 78,
       "randomDoubleBattleMoves": [
         "bounce",
         "dragondance",
@@ -2163,7 +2151,7 @@
         "waterfall"
       ],
       "randomDoubleBattleLevel": 82,
-      "tier": "UUBL",
+      "tier": "UU",
       "doublesTier": "DUU"
     },
     "gyaradosmega": {
@@ -2171,7 +2159,7 @@
       "tier": "Illegal"
     },
     "lapras": {
-      "tier": "PU",
+      "tier": "(PU)",
       "doublesTier": "(DUU)"
     },
     "laprasgmax": {
@@ -2194,19 +2182,19 @@
       ],
       "randomDoubleBattleLevel": 84,
       "isNonstandard": "Gigantamax",
-      "tier": "(Uber)",
+      "tier": "AG",
       "doublesTier": "(DUber)"
     },
     "ditto": {
       "randomBattleMoves": [
         "transform"
       ],
-      "randomBattleLevel": 80,
+      "randomBattleLevel": 78,
       "randomDoubleBattleMoves": [
         "transform"
       ],
       "randomDoubleBattleLevel": 88,
-      "tier": "OU",
+      "tier": "(PU)",
       "doublesTier": "(DUU)"
     },
     "eevee": {
@@ -2218,7 +2206,7 @@
     },
     "eeveegmax": {
       "isNonstandard": "Gigantamax",
-      "tier": "(Uber)",
+      "tier": "AG",
       "doublesTier": "(DUber)"
     },
     "vaporeon": {
@@ -2230,7 +2218,7 @@
         "toxic",
         "wish"
       ],
-      "randomBattleLevel": 84,
+      "randomBattleLevel": 86,
       "randomDoubleBattleMoves": [
         "healbell",
         "icywind",
@@ -2240,7 +2228,7 @@
         "wish"
       ],
       "randomDoubleBattleLevel": 88,
-      "tier": "RU",
+      "tier": "PU",
       "doublesTier": "(DUU)"
     },
     "jolteon": {
@@ -2250,7 +2238,7 @@
         "thunderbolt",
         "voltswitch"
       ],
-      "randomBattleLevel": 88,
+      "randomBattleLevel": 84,
       "randomDoubleBattleMoves": [
         "faketears",
         "protect",
@@ -2259,7 +2247,7 @@
         "thunderwave",
         "voltswitch"
       ],
-      "randomDoubleBattleLevel": 88,
+      "randomDoubleBattleLevel": 86,
       "tier": "PU",
       "doublesTier": "(DUU)"
     },
@@ -2281,7 +2269,7 @@
         "superpower"
       ],
       "randomDoubleBattleLevel": 88,
-      "tier": "PU",
+      "tier": "(PU)",
       "doublesTier": "(DUU)"
     },
     "espeon": {
@@ -2302,7 +2290,7 @@
         "shadowball"
       ],
       "randomDoubleBattleLevel": 84,
-      "tier": "RU",
+      "tier": "NU",
       "doublesTier": "(DUU)"
     },
     "umbreon": {
@@ -2344,7 +2332,7 @@
         "swordsdance"
       ],
       "randomDoubleBattleLevel": 86,
-      "tier": "PU",
+      "tier": "(PU)",
       "doublesTier": "(DUU)"
     },
     "glaceon": {
@@ -2365,8 +2353,8 @@
         "wish"
       ],
       "randomDoubleBattleLevel": 88,
-      "tier": "PU",
-      "doublesTier": "DUU"
+      "tier": "(PU)",
+      "doublesTier": "(DUU)"
     },
     "sylveon": {
       "randomBattleMoves": [
@@ -2378,7 +2366,7 @@
         "shadowball",
         "wish"
       ],
-      "randomBattleLevel": 82,
+      "randomBattleLevel": 86,
       "randomDoubleBattleMoves": [
         "calmmind",
         "hypervoice",
@@ -2387,8 +2375,8 @@
         "psyshock"
       ],
       "randomDoubleBattleLevel": 80,
-      "tier": "UU",
-      "doublesTier": "DOU"
+      "tier": "NU",
+      "doublesTier": "DUU"
     },
     "porygon": {
       "tier": "LC"
@@ -2418,7 +2406,7 @@
       "randomBattleMoves": [
         "agility",
         "darkpulse",
-        "nastyplot",
+        "icebeam",
         "thunderbolt",
         "triattack",
         "trick"
@@ -2433,7 +2421,7 @@
         "trick"
       ],
       "randomDoubleBattleLevel": 84,
-      "tier": "UU",
+      "tier": "NUBL",
       "doublesTier": "(DUU)"
     },
     "omanyte": {
@@ -2448,7 +2436,7 @@
         "spikes",
         "stealthrock"
       ],
-      "randomBattleLevel": 88,
+      "randomBattleLevel": 84,
       "randomDoubleBattleMoves": [
         "earthpower",
         "icebeam",
@@ -2456,8 +2444,8 @@
         "shellsmash"
       ],
       "randomDoubleBattleLevel": 86,
-      "tier": "OU",
-      "doublesTier": "DOU"
+      "tier": "(PU)",
+      "doublesTier": "(DUU)"
     },
     "kabuto": {
       "tier": "LC"
@@ -2471,7 +2459,7 @@
         "stoneedge",
         "swordsdance"
       ],
-      "randomBattleLevel": 86,
+      "randomBattleLevel": 84,
       "randomDoubleBattleMoves": [
         "knockoff",
         "protect",
@@ -2481,8 +2469,8 @@
         "waterfall"
       ],
       "randomDoubleBattleLevel": 86,
-      "tier": "OU",
-      "doublesTier": "DOU"
+      "tier": "(PU)",
+      "doublesTier": "(DUU)"
     },
     "aerodactyl": {
       "randomBattleMoves": [
@@ -2502,8 +2490,8 @@
         "rockslide"
       ],
       "randomDoubleBattleLevel": 84,
-      "tier": "OU",
-      "doublesTier": "DOU"
+      "tier": "NU",
+      "doublesTier": "(DUU)"
     },
     "aerodactylmega": {
       "isNonstandard": "Past",
@@ -2520,8 +2508,8 @@
         "facade",
         "heatcrash"
       ],
-      "randomBattleLevel": 86,
-      "tier": "NUBL",
+      "randomBattleLevel": 84,
+      "tier": "RU",
       "doublesTier": "(DUU)"
     },
     "snorlaxgmax": {
@@ -2532,7 +2520,7 @@
         "earthquake",
         "rest"
       ],
-      "randomBattleLevel": 86,
+      "randomBattleLevel": 84,
       "randomDoubleBattleMoves": [
         "bodyslam",
         "curse",
@@ -2542,7 +2530,7 @@
       ],
       "randomDoubleBattleLevel": 84,
       "isNonstandard": "Gigantamax",
-      "tier": "(Uber)",
+      "tier": "AG",
       "doublesTier": "(DUber)"
     },
     "articuno": {
@@ -2553,7 +2541,7 @@
         "roost",
         "toxic"
       ],
-      "randomBattleLevel": 84,
+      "randomBattleLevel": 86,
       "randomDoubleBattleMoves": [
         "freezedry",
         "healbell",
@@ -2563,8 +2551,8 @@
         "toxic"
       ],
       "randomDoubleBattleLevel": 88,
-      "tier": "OU",
-      "doublesTier": "DOU"
+      "tier": "PU",
+      "doublesTier": "(DUU)"
     },
     "articunogalar": {
       "randomBattleMoves": [
@@ -2582,8 +2570,8 @@
         "tailwind"
       ],
       "randomDoubleBattleLevel": 84,
-      "tier": "OU",
-      "doublesTier": "DOU"
+      "tier": "NU",
+      "doublesTier": "(DUU)"
     },
     "zapdos": {
       "randomBattleMoves": [
@@ -2595,8 +2583,8 @@
       ],
       "randomBattleLevel": 80,
       "randomDoubleBattleMoves": [
-        "airslash",
         "heatwave",
+        "hurricane",
         "roost",
         "tailwind",
         "thunderbolt",
@@ -2614,7 +2602,7 @@
         "throatchop",
         "uturn"
       ],
-      "randomBattleLevel": 80,
+      "randomBattleLevel": 78,
       "randomDoubleBattleMoves": [
         "bravebird",
         "bulkup",
@@ -2623,7 +2611,7 @@
         "thunderouskick",
         "uturn"
       ],
-      "randomDoubleBattleLevel": 80,
+      "randomDoubleBattleLevel": 78,
       "tier": "OU",
       "doublesTier": "DOU"
     },
@@ -2646,24 +2634,25 @@
       ],
       "randomDoubleBattleLevel": 84,
       "tier": "OU",
-      "doublesTier": "DOU"
+      "doublesTier": "(DUU)"
     },
     "moltresgalar": {
       "randomBattleMoves": [
         "fierywrath",
         "hurricane",
         "nastyplot",
+        "rest",
         "substitute"
       ],
-      "randomBattleLevel": 84,
+      "randomBattleLevel": 78,
       "randomDoubleBattleMoves": [
         "fierywrath",
         "hurricane",
         "nastyplot",
         "protect"
       ],
-      "randomDoubleBattleLevel": 86,
-      "tier": "OU",
+      "randomDoubleBattleLevel": 82,
+      "tier": "UU",
       "doublesTier": "DOU"
     },
     "dratini": {
@@ -2680,7 +2669,7 @@
         "firepunch",
         "outrage"
       ],
-      "randomBattleLevel": 80,
+      "randomBattleLevel": 78,
       "randomDoubleBattleMoves": [
         "dragonclaw",
         "dragondance",
@@ -2690,15 +2679,15 @@
       ],
       "randomDoubleBattleLevel": 82,
       "tier": "OU",
-      "doublesTier": "DOU"
+      "doublesTier": "(DUU)"
     },
     "mewtwo": {
       "randomBattleMoves": [
-        "fireblast",
-        "icebeam",
+        "focusblast",
         "nastyplot",
         "psystrike",
-        "recover"
+        "recover",
+        "shadowball"
       ],
       "randomBattleLevel": 72,
       "randomDoubleBattleMoves": [
@@ -2708,7 +2697,7 @@
         "psystrike",
         "recover"
       ],
-      "randomDoubleBattleLevel": 72,
+      "randomDoubleBattleLevel": 74,
       "tier": "Uber",
       "doublesTier": "DUber"
     },
@@ -2729,7 +2718,7 @@
         "psychicfangs",
         "swordsdance"
       ],
-      "randomBattleLevel": 80,
+      "randomBattleLevel": 82,
       "randomDoubleBattleMoves": [
         "fakeout",
         "pollenpuff",
@@ -2740,7 +2729,7 @@
         "transform"
       ],
       "randomDoubleBattleLevel": 80,
-      "tier": "OU",
+      "tier": "UU",
       "doublesTier": "DOU"
     },
     "chikorita": {
@@ -2799,7 +2788,7 @@
         "nastyplot",
         "roost"
       ],
-      "randomBattleLevel": 86,
+      "randomBattleLevel": 90,
       "randomDoubleBattleMoves": [
         "airslash",
         "heatwave",
@@ -2809,7 +2798,7 @@
         "tailwind"
       ],
       "randomDoubleBattleLevel": 84,
-      "tier": "PUBL",
+      "tier": "(PU)",
       "doublesTier": "(DUU)"
     },
     "ledyba": {
@@ -2850,7 +2839,7 @@
         "thunderwave"
       ],
       "randomDoubleBattleLevel": 90,
-      "tier": "NU",
+      "tier": "PU",
       "doublesTier": "(DUU)"
     },
     "togepi": {
@@ -2869,7 +2858,7 @@
         "thunderwave",
         "trick"
       ],
-      "randomBattleLevel": 80,
+      "randomBattleLevel": 82,
       "randomDoubleBattleMoves": [
         "airslash",
         "dazzlinggleam",
@@ -2879,8 +2868,8 @@
         "tailwind"
       ],
       "randomDoubleBattleLevel": 80,
-      "tier": "OU",
-      "doublesTier": "DOU"
+      "tier": "RU",
+      "doublesTier": "DUU"
     },
     "natu": {
       "tier": "LC"
@@ -2893,7 +2882,7 @@
         "teleport",
         "thunderwave"
       ],
-      "randomBattleLevel": 84,
+      "randomBattleLevel": 90,
       "randomDoubleBattleMoves": [
         "airslash",
         "heatwave",
@@ -2904,7 +2893,7 @@
         "tailwind"
       ],
       "randomDoubleBattleLevel": 88,
-      "tier": "RU",
+      "tier": "PU",
       "doublesTier": "(DUU)"
     },
     "mareep": {
@@ -2937,7 +2926,7 @@
         "toxic",
         "whirlpool"
       ],
-      "randomBattleLevel": 82,
+      "randomBattleLevel": 88,
       "randomDoubleBattleMoves": [
         "aquajet",
         "knockoff",
@@ -2946,8 +2935,8 @@
         "protect"
       ],
       "randomDoubleBattleLevel": 88,
-      "tier": "OU",
-      "doublesTier": "DUU"
+      "tier": "UU",
+      "doublesTier": "(DUU)"
     },
     "bonsly": {
       "tier": "LC"
@@ -3021,7 +3010,7 @@
         "scald",
         "toxic"
       ],
-      "randomBattleLevel": 88,
+      "randomBattleLevel": 86,
       "randomDoubleBattleMoves": [
         "highhorsepower",
         "protect",
@@ -3030,7 +3019,7 @@
         "toxic"
       ],
       "randomDoubleBattleLevel": 88,
-      "tier": "PU",
+      "tier": "UU",
       "doublesTier": "(DUU)"
     },
     "murkrow": {
@@ -3063,7 +3052,7 @@
         "encore",
         "mirrorcoat"
       ],
-      "randomBattleLevel": 82,
+      "randomBattleLevel": 90,
       "randomDoubleBattleMoves": [
         "charm",
         "counter",
@@ -3094,7 +3083,7 @@
         "roost",
         "stealthrock"
       ],
-      "randomBattleLevel": 88,
+      "randomBattleLevel": 90,
       "randomDoubleBattleMoves": [
         "glare",
         "headbutt",
@@ -3140,7 +3129,7 @@
         "toxicspikes"
       ],
       "randomDoubleBattleLevel": 88,
-      "tier": "PU",
+      "tier": "(PU)",
       "doublesTier": "(DUU)"
     },
     "shuckle": {
@@ -3162,8 +3151,8 @@
         "stickyweb",
         "toxic"
       ],
-      "randomDoubleBattleLevel": 90,
-      "tier": "PU",
+      "randomDoubleBattleLevel": 92,
+      "tier": "(PU)",
       "doublesTier": "(DUU)"
     },
     "heracross": {
@@ -3185,7 +3174,7 @@
         "swordsdance"
       ],
       "randomDoubleBattleLevel": 84,
-      "tier": "RUBL",
+      "tier": "RU",
       "doublesTier": "(DUU)"
     },
     "heracrossmega": {
@@ -3193,8 +3182,7 @@
       "tier": "Illegal"
     },
     "sneasel": {
-      "tier": "NUBL",
-      "doublesTier": "LC Uber"
+      "tier": "NFE"
     },
     "weavile": {
       "randomBattleMoves": [
@@ -3214,7 +3202,7 @@
       ],
       "randomDoubleBattleLevel": 84,
       "tier": "UUBL",
-      "doublesTier": "DUU"
+      "doublesTier": "(DUU)"
     },
     "teddiursa": {
       "isNonstandard": "Past",
@@ -3236,8 +3224,7 @@
       "tier": "LC"
     },
     "piloswine": {
-      "tier": "NU",
-      "doublesTier": "NFE"
+      "tier": "NFE"
     },
     "mamoswine": {
       "randomBattleMoves": [
@@ -3258,7 +3245,7 @@
       ],
       "randomDoubleBattleLevel": 84,
       "tier": "UU",
-      "doublesTier": "DUU"
+      "doublesTier": "(DUU)"
     },
     "corsola": {
       "randomBattleMoves": [
@@ -3268,7 +3255,7 @@
         "stealthrock",
         "toxic"
       ],
-      "randomBattleLevel": 88,
+      "randomBattleLevel": 90,
       "randomDoubleBattleMoves": [
         "icywind",
         "lifedew",
@@ -3288,9 +3275,8 @@
         "strengthsap",
         "willowisp"
       ],
-      "randomBattleLevel": 88,
-      "tier": "PU",
-      "doublesTier": "LC Uber"
+      "randomBattleLevel": 86,
+      "tier": "NFE"
     },
     "cursola": {
       "randomBattleMoves": [
@@ -3311,7 +3297,7 @@
         "strengthsap"
       ],
       "randomDoubleBattleLevel": 88,
-      "tier": "PU",
+      "tier": "(PU)",
       "doublesTier": "(DUU)"
     },
     "remoraid": {
@@ -3326,7 +3312,7 @@
         "icebeam",
         "protect"
       ],
-      "randomBattleLevel": 82,
+      "randomBattleLevel": 86,
       "randomDoubleBattleMoves": [
         "fireblast",
         "gunkshot",
@@ -3372,7 +3358,7 @@
         "scald",
         "toxic"
       ],
-      "randomBattleLevel": 84,
+      "randomBattleLevel": 86,
       "randomDoubleBattleMoves": [
         "haze",
         "helpinghand",
@@ -3382,8 +3368,8 @@
         "tailwind"
       ],
       "randomDoubleBattleLevel": 88,
-      "tier": "RU",
-      "doublesTier": "(DUU)"
+      "tier": "NU",
+      "doublesTier": "DUU"
     },
     "skarmory": {
       "randomBattleMoves": [
@@ -3394,7 +3380,7 @@
         "stealthrock",
         "whirlwind"
       ],
-      "randomBattleLevel": 80,
+      "randomBattleLevel": 82,
       "randomDoubleBattleMoves": [
         "bodypress",
         "bravebird",
@@ -3402,7 +3388,7 @@
         "roost"
       ],
       "randomDoubleBattleLevel": 84,
-      "tier": "OU",
+      "tier": "UU",
       "doublesTier": "(DUU)"
     },
     "houndour": {
@@ -3453,7 +3439,7 @@
         "rockslide"
       ],
       "randomDoubleBattleLevel": 86,
-      "tier": "NU",
+      "tier": "(PU)",
       "doublesTier": "(DUU)"
     },
     "raikou": {
@@ -3465,7 +3451,7 @@
         "thunderbolt",
         "voltswitch"
       ],
-      "randomBattleLevel": 84,
+      "randomBattleLevel": 82,
       "randomDoubleBattleMoves": [
         "aurasphere",
         "calmmind",
@@ -3475,9 +3461,9 @@
         "thunderbolt",
         "voltswitch"
       ],
-      "randomDoubleBattleLevel": 84,
-      "tier": "OU",
-      "doublesTier": "DOU"
+      "randomDoubleBattleLevel": 82,
+      "tier": "RU",
+      "doublesTier": "(DUU)"
     },
     "entei": {
       "randomBattleMoves": [
@@ -3496,7 +3482,7 @@
         "stoneedge"
       ],
       "randomDoubleBattleLevel": 84,
-      "tier": "OU",
+      "tier": "RU",
       "doublesTier": "DOU"
     },
     "suicune": {
@@ -3517,8 +3503,8 @@
         "toxic"
       ],
       "randomDoubleBattleLevel": 84,
-      "tier": "OU",
-      "doublesTier": "DOU"
+      "tier": "RU",
+      "doublesTier": "DUU"
     },
     "larvitar": {
       "tier": "LC"
@@ -3563,7 +3549,7 @@
         "substitute",
         "toxic"
       ],
-      "randomBattleLevel": 72,
+      "randomBattleLevel": 74,
       "randomDoubleBattleMoves": [
         "aeroblast",
         "calmmind",
@@ -3608,7 +3594,7 @@
         "stealthrock",
         "uturn"
       ],
-      "randomBattleLevel": 82,
+      "randomBattleLevel": 84,
       "randomDoubleBattleMoves": [
         "earthpower",
         "energyball",
@@ -3618,7 +3604,7 @@
         "recover"
       ],
       "randomDoubleBattleLevel": 84,
-      "tier": "UU",
+      "tier": "NU",
       "doublesTier": "(DUU)"
     },
     "treecko": {
@@ -3644,8 +3630,8 @@
         "protect"
       ],
       "randomDoubleBattleLevel": 88,
-      "tier": "OU",
-      "doublesTier": "DOU"
+      "tier": "PUBL",
+      "doublesTier": "(DUU)"
     },
     "sceptilemega": {
       "isNonstandard": "Past",
@@ -3665,7 +3651,7 @@
         "swordsdance",
         "uturn"
       ],
-      "randomBattleLevel": 80,
+      "randomBattleLevel": 78,
       "randomDoubleBattleMoves": [
         "closecombat",
         "flareblitz",
@@ -3674,8 +3660,8 @@
         "swordsdance"
       ],
       "randomDoubleBattleLevel": 78,
-      "tier": "OU",
-      "doublesTier": "DOU"
+      "tier": "UUBL",
+      "doublesTier": "(DUU)"
     },
     "blazikenmega": {
       "isNonstandard": "Past",
@@ -3707,7 +3693,7 @@
       ],
       "randomDoubleBattleLevel": 88,
       "tier": "OU",
-      "doublesTier": "DOU"
+      "doublesTier": "(DUU)"
     },
     "swampertmega": {
       "isNonstandard": "Past",
@@ -3742,7 +3728,7 @@
         "throatchop"
       ],
       "randomDoubleBattleLevel": 90,
-      "tier": "RUBL",
+      "tier": "NUBL",
       "doublesTier": "(DUU)"
     },
     "linoonegalar": {
@@ -3766,7 +3752,7 @@
         "taunt"
       ],
       "randomDoubleBattleLevel": 86,
-      "tier": "UU",
+      "tier": "RU",
       "doublesTier": "(DUU)"
     },
     "wurmple": {
@@ -3813,7 +3799,7 @@
       ],
       "randomDoubleBattleLevel": 86,
       "tier": "(PU)",
-      "doublesTier": "DUU"
+      "doublesTier": "(DUU)"
     },
     "seedot": {
       "tier": "LC"
@@ -3830,7 +3816,7 @@
         "nastyplot",
         "suckerpunch"
       ],
-      "randomBattleLevel": 84,
+      "randomBattleLevel": 88,
       "randomDoubleBattleMoves": [
         "fakeout",
         "knockoff",
@@ -3840,7 +3826,7 @@
         "tailwind"
       ],
       "randomDoubleBattleLevel": 88,
-      "tier": "RUBL",
+      "tier": "(PU)",
       "doublesTier": "(DUU)"
     },
     "taillow": {
@@ -3863,7 +3849,7 @@
         "scald",
         "uturn"
       ],
-      "randomBattleLevel": 82,
+      "randomBattleLevel": 88,
       "randomDoubleBattleMoves": [
         "hurricane",
         "hydropump",
@@ -3904,7 +3890,7 @@
       ],
       "randomDoubleBattleLevel": 84,
       "tier": "RU",
-      "doublesTier": "DUU"
+      "doublesTier": "(DUU)"
     },
     "gardevoirmega": {
       "isNonstandard": "Past",
@@ -3919,7 +3905,7 @@
         "trick",
         "zenheadbutt"
       ],
-      "randomBattleLevel": 86,
+      "randomBattleLevel": 84,
       "randomDoubleBattleMoves": [
         "closecombat",
         "feint",
@@ -3930,7 +3916,7 @@
         "zenheadbutt"
       ],
       "randomDoubleBattleLevel": 86,
-      "tier": "NU",
+      "tier": "(PU)",
       "doublesTier": "(DUU)"
     },
     "gallademega": {
@@ -4022,7 +4008,7 @@
         "focusblast",
         "surf"
       ],
-      "randomBattleLevel": 84,
+      "randomBattleLevel": 86,
       "randomDoubleBattleMoves": [
         "boomburst",
         "fireblast",
@@ -4032,7 +4018,7 @@
         "protect"
       ],
       "randomDoubleBattleLevel": 88,
-      "tier": "RU",
+      "tier": "PUBL",
       "doublesTier": "(DUU)"
     },
     "makuhita": {
@@ -4067,7 +4053,7 @@
         "toxic",
         "willowisp"
       ],
-      "randomBattleLevel": 86,
+      "randomBattleLevel": 90,
       "randomDoubleBattleMoves": [
         "disable",
         "encore",
@@ -4079,7 +4065,7 @@
         "willowisp"
       ],
       "randomDoubleBattleLevel": 88,
-      "tier": "NU",
+      "tier": "(PU)",
       "doublesTier": "(DUU)"
     },
     "sableyemega": {
@@ -4104,7 +4090,7 @@
         "swordsdance"
       ],
       "randomDoubleBattleLevel": 88,
-      "tier": "PU",
+      "tier": "(PU)",
       "doublesTier": "(DUU)"
     },
     "mawilemega": {
@@ -4136,8 +4122,8 @@
         "rockpolish"
       ],
       "randomDoubleBattleLevel": 88,
-      "tier": "OU",
-      "doublesTier": "DOU"
+      "tier": "PU",
+      "doublesTier": "(DUU)"
     },
     "aggronmega": {
       "isNonstandard": "Past",
@@ -4175,8 +4161,8 @@
         "voltswitch"
       ],
       "randomDoubleBattleLevel": 88,
-      "tier": "PU",
-      "doublesTier": "(DUU)"
+      "tier": "(PU)",
+      "doublesTier": "DUU"
     },
     "manectricmega": {
       "isNonstandard": "Past",
@@ -4202,8 +4188,7 @@
       "tier": "LC"
     },
     "roselia": {
-      "tier": "PU",
-      "doublesTier": "NFE"
+      "tier": "NFE"
     },
     "roserade": {
       "randomBattleMoves": [
@@ -4214,7 +4199,7 @@
         "synthesis",
         "toxicspikes"
       ],
-      "randomBattleLevel": 82,
+      "randomBattleLevel": 86,
       "randomDoubleBattleMoves": [
         "energyball",
         "leafstorm",
@@ -4223,7 +4208,7 @@
         "sludgebomb"
       ],
       "randomDoubleBattleLevel": 86,
-      "tier": "UU",
+      "tier": "PUBL",
       "doublesTier": "(DUU)"
     },
     "gulpin": {
@@ -4245,7 +4230,7 @@
         "hydropump",
         "protect"
       ],
-      "randomBattleLevel": 82,
+      "randomBattleLevel": 84,
       "randomDoubleBattleMoves": [
         "closecombat",
         "crunch",
@@ -4255,7 +4240,7 @@
         "waterfall"
       ],
       "randomDoubleBattleLevel": 84,
-      "tier": "UU",
+      "tier": "NUBL",
       "doublesTier": "(DUU)"
     },
     "sharpedomega": {
@@ -4303,7 +4288,7 @@
         "solarbeam",
         "stealthrock"
       ],
-      "randomBattleLevel": 84,
+      "randomBattleLevel": 86,
       "randomDoubleBattleMoves": [
         "bodypress",
         "earthpower",
@@ -4314,7 +4299,7 @@
         "willowisp"
       ],
       "randomDoubleBattleLevel": 84,
-      "tier": "RU",
+      "tier": "NU",
       "doublesTier": "DOU"
     },
     "spoink": {
@@ -4355,7 +4340,7 @@
         "tailwind"
       ],
       "randomDoubleBattleLevel": 86,
-      "tier": "UU",
+      "tier": "NU",
       "doublesTier": "(DUU)"
     },
     "cacnea": {
@@ -4378,7 +4363,7 @@
         "roost",
         "toxic"
       ],
-      "randomBattleLevel": 88,
+      "randomBattleLevel": 90,
       "randomDoubleBattleMoves": [
         "defog",
         "dracometeor",
@@ -4388,8 +4373,8 @@
         "toxic"
       ],
       "randomDoubleBattleLevel": 90,
-      "tier": "OU",
-      "doublesTier": "DOU"
+      "tier": "(PU)",
+      "doublesTier": "(DUU)"
     },
     "altariamega": {
       "isNonstandard": "Past",
@@ -4482,7 +4467,7 @@
         "dragondance",
         "knockoff"
       ],
-      "randomBattleLevel": 80,
+      "randomBattleLevel": 86,
       "randomDoubleBattleMoves": [
         "aquajet",
         "closecombat",
@@ -4492,7 +4477,7 @@
         "swordsdance"
       ],
       "randomDoubleBattleLevel": 86,
-      "tier": "OU",
+      "tier": "UU",
       "doublesTier": "(DUU)"
     },
     "baltoy": {
@@ -4507,7 +4492,7 @@
         "stealthrock",
         "toxic"
       ],
-      "randomBattleLevel": 84,
+      "randomBattleLevel": 88,
       "randomDoubleBattleMoves": [
         "allyswitch",
         "earthpower",
@@ -4517,7 +4502,7 @@
         "stealthrock"
       ],
       "randomDoubleBattleLevel": 88,
-      "tier": "RU",
+      "tier": "PU",
       "doublesTier": "(DUU)"
     },
     "lileep": {
@@ -4543,8 +4528,8 @@
         "toxic"
       ],
       "randomDoubleBattleLevel": 88,
-      "tier": "OU",
-      "doublesTier": "DOU"
+      "tier": "(PU)",
+      "doublesTier": "(DUU)"
     },
     "anorith": {
       "tier": "LC"
@@ -4567,8 +4552,8 @@
         "xscissor"
       ],
       "randomDoubleBattleLevel": 88,
-      "tier": "OU",
-      "doublesTier": "DOU"
+      "tier": "(PU)",
+      "doublesTier": "(DUU)"
     },
     "feebas": {
       "tier": "LC"
@@ -4590,7 +4575,7 @@
       ],
       "randomDoubleBattleLevel": 80,
       "tier": "RU",
-      "doublesTier": "DOU"
+      "doublesTier": "(DUU)"
     },
     "castform": {
       "isNonstandard": "Past",
@@ -4659,7 +4644,7 @@
         "willowisp"
       ],
       "randomDoubleBattleLevel": 86,
-      "tier": "PU",
+      "tier": "(PU)",
       "doublesTier": "(DUU)"
     },
     "tropius": {
@@ -4691,8 +4676,8 @@
         "swordsdance"
       ],
       "randomDoubleBattleLevel": 88,
-      "tier": "OU",
-      "doublesTier": "DOU"
+      "tier": "PU",
+      "doublesTier": "(DUU)"
     },
     "absolmega": {
       "isNonstandard": "Past",
@@ -4709,7 +4694,7 @@
         "protect",
         "substitute"
       ],
-      "randomBattleLevel": 76,
+      "randomBattleLevel": 80,
       "randomDoubleBattleMoves": [
         "disable",
         "earthquake",
@@ -4744,7 +4729,7 @@
         "willowisp"
       ],
       "randomDoubleBattleLevel": 88,
-      "tier": "NU",
+      "tier": "(PU)",
       "doublesTier": "(DUU)"
     },
     "spheal": {
@@ -4768,8 +4753,8 @@
         "superfang"
       ],
       "randomDoubleBattleLevel": 90,
-      "tier": "OU",
-      "doublesTier": "DOU"
+      "tier": "(PU)",
+      "doublesTier": "(DUU)"
     },
     "clamperl": {
       "isNonstandard": "Past",
@@ -4801,8 +4786,8 @@
         "yawn"
       ],
       "randomDoubleBattleLevel": 88,
-      "tier": "OU",
-      "doublesTier": "DOU"
+      "tier": "(PU)",
+      "doublesTier": "(DUU)"
     },
     "luvdisc": {
       "isNonstandard": "Past",
@@ -4823,7 +4808,7 @@
         "outrage",
         "roost"
       ],
-      "randomBattleLevel": 82,
+      "randomBattleLevel": 80,
       "randomDoubleBattleMoves": [
         "dragonclaw",
         "fireblast",
@@ -4831,9 +4816,9 @@
         "protect",
         "tailwind"
       ],
-      "randomDoubleBattleLevel": 82,
-      "tier": "OU",
-      "doublesTier": "DOU"
+      "randomDoubleBattleLevel": 80,
+      "tier": "UU",
+      "doublesTier": "(DUU)"
     },
     "salamencemega": {
       "isNonstandard": "Past",
@@ -4866,7 +4851,7 @@
         "zenheadbutt"
       ],
       "randomDoubleBattleLevel": 84,
-      "tier": "OU",
+      "tier": "RU",
       "doublesTier": "DOU"
     },
     "metagrossmega": {
@@ -4891,8 +4876,8 @@
         "rockslide"
       ],
       "randomDoubleBattleLevel": 86,
-      "tier": "OU",
-      "doublesTier": "DOU"
+      "tier": "PU",
+      "doublesTier": "(DUU)"
     },
     "regice": {
       "randomBattleMoves": [
@@ -4903,7 +4888,7 @@
         "sleeptalk",
         "thunderbolt"
       ],
-      "randomBattleLevel": 88,
+      "randomBattleLevel": 86,
       "randomDoubleBattleMoves": [
         "focusblast",
         "icebeam",
@@ -4912,8 +4897,8 @@
         "thunderbolt"
       ],
       "randomDoubleBattleLevel": 88,
-      "tier": "OU",
-      "doublesTier": "DOU"
+      "tier": "(PU)",
+      "doublesTier": "(DUU)"
     },
     "registeel": {
       "randomBattleMoves": [
@@ -4933,8 +4918,8 @@
         "toxic"
       ],
       "randomDoubleBattleLevel": 86,
-      "tier": "OU",
-      "doublesTier": "DOU"
+      "tier": "RU",
+      "doublesTier": "(DUU)"
     },
     "latias": {
       "randomBattleMoves": [
@@ -4956,8 +4941,8 @@
         "tailwind"
       ],
       "randomDoubleBattleLevel": 80,
-      "tier": "OU",
-      "doublesTier": "DOU"
+      "tier": "UU",
+      "doublesTier": "(DUU)"
     },
     "latiasmega": {
       "isNonstandard": "Past",
@@ -4985,7 +4970,7 @@
       ],
       "randomDoubleBattleLevel": 80,
       "tier": "OU",
-      "doublesTier": "DOU"
+      "doublesTier": "(DUU)"
     },
     "latiosmega": {
       "isNonstandard": "Past",
@@ -4999,14 +4984,14 @@
         "thunder",
         "waterspout"
       ],
-      "randomBattleLevel": 72,
+      "randomBattleLevel": 74,
       "randomDoubleBattleMoves": [
         "icebeam",
         "originpulse",
         "thunder",
         "waterspout"
       ],
-      "randomDoubleBattleLevel": 72,
+      "randomDoubleBattleLevel": 70,
       "tier": "Uber",
       "doublesTier": "DUber"
     },
@@ -5024,7 +5009,7 @@
         "swordsdance",
         "thunderwave"
       ],
-      "randomBattleLevel": 72,
+      "randomBattleLevel": 74,
       "randomDoubleBattleMoves": [
         "heatcrash",
         "precipiceblades",
@@ -5048,7 +5033,7 @@
         "swordsdance",
         "vcreate"
       ],
-      "randomBattleLevel": 72,
+      "randomBattleLevel": 76,
       "randomDoubleBattleMoves": [
         "dracometeor",
         "dragonascent",
@@ -5058,7 +5043,7 @@
         "extremespeed",
         "vcreate"
       ],
-      "randomDoubleBattleLevel": 72,
+      "randomDoubleBattleLevel": 74,
       "tier": "Uber",
       "doublesTier": "DUber"
     },
@@ -5076,7 +5061,7 @@
         "trick",
         "uturn"
       ],
-      "randomBattleLevel": 80,
+      "randomBattleLevel": 82,
       "randomDoubleBattleMoves": [
         "firepunch",
         "followme",
@@ -5086,7 +5071,7 @@
         "thunderwave"
       ],
       "randomDoubleBattleLevel": 76,
-      "tier": "OU",
+      "tier": "UU",
       "doublesTier": "DUber"
     },
     "deoxys": {
@@ -5184,7 +5169,7 @@
         "voltswitch",
         "wildcharge"
       ],
-      "randomBattleLevel": 88,
+      "randomBattleLevel": 86,
       "randomDoubleBattleMoves": [
         "playrough",
         "protect",
@@ -5193,7 +5178,7 @@
         "wildcharge"
       ],
       "randomDoubleBattleLevel": 84,
-      "tier": "PU",
+      "tier": "(PU)",
       "doublesTier": "(DUU)"
     },
     "cranidos": {
@@ -5243,7 +5228,7 @@
         "toxic",
         "uturn"
       ],
-      "randomBattleLevel": 88,
+      "randomBattleLevel": 90,
       "randomDoubleBattleMoves": [
         "defendorder",
         "infestation",
@@ -5267,17 +5252,17 @@
       "tier": "Illegal"
     },
     "cherubi": {
-      "tier": "LC Uber"
+      "tier": "NFE"
     },
     "cherrim": {
       "randomBattleMoves": [
         "dazzlinggleam",
         "energyball",
         "healingwish",
-        "leechseed",
-        "substitute"
+        "petaldance",
+        "pollenpuff"
       ],
-      "randomBattleLevel": 88,
+      "randomBattleLevel": 90,
       "randomDoubleBattleMoves": [
         "aromatherapy",
         "energyball",
@@ -5290,13 +5275,6 @@
       "doublesTier": "(DUU)"
     },
     "cherrimsunshine": {
-      "randomBattleMoves": [
-        "playrough",
-        "solarblade",
-        "sunnyday",
-        "weatherball"
-      ],
-      "randomBattleLevel": 88,
       "randomDoubleBattleMoves": [
         "playrough",
         "solarblade",
@@ -5332,7 +5310,7 @@
       "doublesTier": "DUU"
     },
     "drifloon": {
-      "tier": "LC Uber"
+      "tier": "NFE"
     },
     "drifblim": {
       "randomBattleMoves": [
@@ -5341,7 +5319,7 @@
         "strengthsap",
         "thunderbolt"
       ],
-      "randomBattleLevel": 88,
+      "randomBattleLevel": 86,
       "randomDoubleBattleMoves": [
         "destinybond",
         "hex",
@@ -5350,7 +5328,7 @@
         "willowisp"
       ],
       "randomDoubleBattleLevel": 84,
-      "tier": "PU",
+      "tier": "(PU)",
       "doublesTier": "(DUU)"
     },
     "buneary": {
@@ -5363,7 +5341,7 @@
         "healingwish",
         "switcheroo"
       ],
-      "randomBattleLevel": 88,
+      "randomBattleLevel": 90,
       "randomDoubleBattleMoves": [
         "closecombat",
         "fakeout",
@@ -5408,7 +5386,7 @@
         "taunt"
       ],
       "randomDoubleBattleLevel": 88,
-      "tier": "NU",
+      "tier": "(PU)",
       "doublesTier": "(DUU)"
     },
     "bronzor": {
@@ -5431,7 +5409,7 @@
         "trickroom"
       ],
       "randomDoubleBattleLevel": 88,
-      "tier": "RU",
+      "tier": "NU",
       "doublesTier": "(DUU)"
     },
     "chatot": {
@@ -5458,8 +5436,8 @@
         "willowisp"
       ],
       "randomDoubleBattleLevel": 88,
-      "tier": "OU",
-      "doublesTier": "DOU"
+      "tier": "(PU)",
+      "doublesTier": "(DUU)"
     },
     "gible": {
       "tier": "LC"
@@ -5477,7 +5455,7 @@
         "stoneedge",
         "swordsdance"
       ],
-      "randomBattleLevel": 80,
+      "randomBattleLevel": 78,
       "randomDoubleBattleMoves": [
         "dragonclaw",
         "earthquake",
@@ -5488,7 +5466,7 @@
       ],
       "randomDoubleBattleLevel": 80,
       "tier": "OU",
-      "doublesTier": "DOU"
+      "doublesTier": "(DUU)"
     },
     "garchompmega": {
       "isNonstandard": "Past",
@@ -5516,7 +5494,7 @@
         "swordsdance"
       ],
       "randomDoubleBattleLevel": 84,
-      "tier": "RUBL",
+      "tier": "NUBL",
       "doublesTier": "(DUU)"
     },
     "lucariomega": {
@@ -5535,7 +5513,7 @@
         "toxic",
         "whirlwind"
       ],
-      "randomBattleLevel": 80,
+      "randomBattleLevel": 82,
       "randomDoubleBattleMoves": [
         "highhorsepower",
         "protect",
@@ -5571,7 +5549,7 @@
         "taunt"
       ],
       "randomDoubleBattleLevel": 88,
-      "tier": "RU",
+      "tier": "NU",
       "doublesTier": "(DUU)"
     },
     "croagunk": {
@@ -5586,7 +5564,7 @@
         "suckerpunch",
         "swordsdance"
       ],
-      "randomBattleLevel": 84,
+      "randomBattleLevel": 86,
       "randomDoubleBattleMoves": [
         "drainpunch",
         "fakeout",
@@ -5598,7 +5576,7 @@
         "taunt"
       ],
       "randomDoubleBattleLevel": 86,
-      "tier": "RU",
+      "tier": "(PU)",
       "doublesTier": "(DUU)"
     },
     "carnivine": {
@@ -5624,7 +5602,7 @@
         "iceshard",
         "woodhammer"
       ],
-      "randomBattleLevel": 86,
+      "randomBattleLevel": 84,
       "randomDoubleBattleMoves": [
         "auroraveil",
         "blizzard",
@@ -5634,7 +5612,7 @@
         "woodhammer"
       ],
       "randomDoubleBattleLevel": 88,
-      "tier": "NU",
+      "tier": "(PU)",
       "doublesTier": "(DUU)"
     },
     "abomasnowmega": {
@@ -5660,7 +5638,7 @@
         "willowisp"
       ],
       "randomDoubleBattleLevel": 88,
-      "tier": "NU",
+      "tier": "(PU)",
       "doublesTier": "(DUU)"
     },
     "rotomheat": {
@@ -5672,7 +5650,7 @@
         "voltswitch",
         "willowisp"
       ],
-      "randomBattleLevel": 80,
+      "randomBattleLevel": 84,
       "randomDoubleBattleMoves": [
         "electroweb",
         "overheat",
@@ -5682,7 +5660,7 @@
         "willowisp"
       ],
       "randomDoubleBattleLevel": 84,
-      "tier": "OU",
+      "tier": "UU",
       "doublesTier": "(DUU)"
     },
     "rotomwash": {
@@ -5693,7 +5671,7 @@
         "voltswitch",
         "willowisp"
       ],
-      "randomBattleLevel": 82,
+      "randomBattleLevel": 84,
       "randomDoubleBattleMoves": [
         "allyswitch",
         "hydropump",
@@ -5724,7 +5702,7 @@
         "willowisp"
       ],
       "randomDoubleBattleLevel": 86,
-      "tier": "PUBL",
+      "tier": "(PU)",
       "doublesTier": "(DUU)"
     },
     "rotomfan": {
@@ -5744,7 +5722,7 @@
         "thunderbolt"
       ],
       "randomDoubleBattleLevel": 84,
-      "tier": "NU",
+      "tier": "(PU)",
       "doublesTier": "(DUU)"
     },
     "rotommow": {
@@ -5755,7 +5733,7 @@
         "voltswitch",
         "willowisp"
       ],
-      "randomBattleLevel": 82,
+      "randomBattleLevel": 86,
       "randomDoubleBattleMoves": [
         "electroweb",
         "leafstorm",
@@ -5765,7 +5743,7 @@
         "willowisp"
       ],
       "randomDoubleBattleLevel": 88,
-      "tier": "UU",
+      "tier": "NU",
       "doublesTier": "(DUU)"
     },
     "uxie": {
@@ -5787,8 +5765,8 @@
         "yawn"
       ],
       "randomDoubleBattleLevel": 88,
-      "tier": "OU",
-      "doublesTier": "DOU"
+      "tier": "(PU)",
+      "doublesTier": "(DUU)"
     },
     "mesprit": {
       "randomBattleMoves": [
@@ -5811,8 +5789,8 @@
         "thunderwave"
       ],
       "randomDoubleBattleLevel": 86,
-      "tier": "OU",
-      "doublesTier": "DOU"
+      "tier": "PU",
+      "doublesTier": "(DUU)"
     },
     "azelf": {
       "randomBattleMoves": [
@@ -5835,8 +5813,8 @@
         "uturn"
       ],
       "randomDoubleBattleLevel": 84,
-      "tier": "OU",
-      "doublesTier": "DOU"
+      "tier": "UU",
+      "doublesTier": "(DUU)"
     },
     "dialga": {
       "randomBattleMoves": [
@@ -5848,7 +5826,7 @@
         "thunderbolt",
         "toxic"
       ],
-      "randomBattleLevel": 74,
+      "randomBattleLevel": 76,
       "randomDoubleBattleMoves": [
         "dracometeor",
         "earthpower",
@@ -5869,7 +5847,7 @@
         "spacialrend",
         "thunderwave"
       ],
-      "randomBattleLevel": 74,
+      "randomBattleLevel": 76,
       "randomDoubleBattleMoves": [
         "fireblast",
         "hydropump",
@@ -5919,20 +5897,18 @@
         "thunderwave"
       ],
       "randomDoubleBattleLevel": 88,
-      "tier": "OU",
-      "doublesTier": "DOU"
+      "tier": "(PU)",
+      "doublesTier": "(DUU)"
     },
     "giratina": {
       "randomBattleMoves": [
-        "aurasphere",
-        "calmmind",
-        "dracometeor",
+        "hex",
         "rest",
-        "shadowball",
         "sleeptalk",
+        "toxic",
         "willowisp"
       ],
-      "randomBattleLevel": 74,
+      "randomBattleLevel": 76,
       "randomDoubleBattleMoves": [
         "calmmind",
         "dragonpulse",
@@ -5946,14 +5922,13 @@
     },
     "giratinaorigin": {
       "randomBattleMoves": [
-        "defog",
-        "dracometeor",
-        "earthquake",
-        "hex",
-        "thunderwave",
-        "willowisp"
+        "dualwingbeat",
+        "honeclaws",
+        "outrage",
+        "poltergeist",
+        "shadowsneak"
       ],
-      "randomBattleLevel": 74,
+      "randomBattleLevel": 76,
       "randomDoubleBattleMoves": [
         "breakingswipe",
         "dracometeor",
@@ -5985,7 +5960,7 @@
         "psychic"
       ],
       "randomDoubleBattleLevel": 84,
-      "tier": "OU",
+      "tier": "NU",
       "doublesTier": "DOU"
     },
     "phione": {
@@ -6071,7 +6046,7 @@
         "vcreate",
         "zenheadbutt"
       ],
-      "randomBattleLevel": 80,
+      "randomBattleLevel": 82,
       "randomDoubleBattleMoves": [
         "boltstrike",
         "glaciate",
@@ -6081,8 +6056,8 @@
         "zenheadbutt"
       ],
       "randomDoubleBattleLevel": 82,
-      "tier": "OU",
-      "doublesTier": "DOU"
+      "tier": "UU",
+      "doublesTier": "DUU"
     },
     "snivy": {
       "isNonstandard": "Past",
@@ -6178,7 +6153,7 @@
         "thunderwave"
       ],
       "randomDoubleBattleLevel": 88,
-      "tier": "PU",
+      "tier": "(PU)",
       "doublesTier": "(DUU)"
     },
     "pansage": {
@@ -6243,7 +6218,7 @@
         "roost",
         "uturn"
       ],
-      "randomBattleLevel": 88,
+      "randomBattleLevel": 86,
       "randomDoubleBattleMoves": [
         "bravebird",
         "nightslash",
@@ -6253,7 +6228,7 @@
         "uturn"
       ],
       "randomDoubleBattleLevel": 86,
-      "tier": "PU",
+      "tier": "(PU)",
       "doublesTier": "(DUU)"
     },
     "blitzle": {
@@ -6292,8 +6267,8 @@
         "wideguard"
       ],
       "randomDoubleBattleLevel": 88,
-      "tier": "RU",
-      "doublesTier": "DOU"
+      "tier": "PU",
+      "doublesTier": "DUU"
     },
     "woobat": {
       "tier": "LC"
@@ -6349,7 +6324,7 @@
         "toxic",
         "wish"
       ],
-      "randomBattleLevel": 88,
+      "randomBattleLevel": 90,
       "randomDoubleBattleMoves": [
         "bodyslam",
         "healpulse",
@@ -6359,8 +6334,8 @@
         "thunderwave"
       ],
       "randomDoubleBattleLevel": 88,
-      "tier": "OU",
-      "doublesTier": "DOU"
+      "tier": "(PU)",
+      "doublesTier": "(DUU)"
     },
     "audinomega": {
       "isNonstandard": "Past",
@@ -6377,9 +6352,8 @@
         "knockoff",
         "machpunch"
       ],
-      "randomBattleLevel": 86,
-      "tier": "NU",
-      "doublesTier": "NFE"
+      "randomBattleLevel": 84,
+      "tier": "NFE"
     },
     "conkeldurr": {
       "randomBattleMoves": [
@@ -6401,8 +6375,8 @@
         "stoneedge"
       ],
       "randomDoubleBattleLevel": 84,
-      "tier": "UUBL",
-      "doublesTier": "DUU"
+      "tier": "UU",
+      "doublesTier": "(DUU)"
     },
     "tympole": {
       "tier": "LC"
@@ -6418,7 +6392,7 @@
         "sludgebomb",
         "stealthrock"
       ],
-      "randomBattleLevel": 84,
+      "randomBattleLevel": 86,
       "randomDoubleBattleMoves": [
         "earthpower",
         "knockoff",
@@ -6452,7 +6426,7 @@
         "wideguard"
       ],
       "randomDoubleBattleLevel": 86,
-      "tier": "PU",
+      "tier": "(PU)",
       "doublesTier": "(DUU)"
     },
     "sawk": {
@@ -6473,7 +6447,7 @@
         "rockslide"
       ],
       "randomDoubleBattleLevel": 86,
-      "tier": "PUBL",
+      "tier": "(PU)",
       "doublesTier": "(DUU)"
     },
     "sewaddle": {
@@ -6514,7 +6488,7 @@
         "swordsdance"
       ],
       "randomDoubleBattleLevel": 84,
-      "tier": "UUBL",
+      "tier": "RUBL",
       "doublesTier": "(DUU)"
     },
     "cottonee": {
@@ -6540,7 +6514,7 @@
         "taunt"
       ],
       "randomDoubleBattleLevel": 82,
-      "tier": "NU",
+      "tier": "PU",
       "doublesTier": "DOU"
     },
     "petilil": {
@@ -6554,7 +6528,7 @@
         "quiverdance",
         "sleeppowder"
       ],
-      "randomBattleLevel": 88,
+      "randomBattleLevel": 86,
       "randomDoubleBattleMoves": [
         "energyball",
         "pollenpuff",
@@ -6562,7 +6536,7 @@
         "sleeppowder"
       ],
       "randomDoubleBattleLevel": 84,
-      "tier": "PU",
+      "tier": "(PU)",
       "doublesTier": "(DUU)"
     },
     "basculin": {
@@ -6574,7 +6548,7 @@
         "liquidation",
         "psychicfangs"
       ],
-      "randomBattleLevel": 86,
+      "randomBattleLevel": 88,
       "randomDoubleBattleMoves": [
         "flipturn",
         "headsmash",
@@ -6586,7 +6560,7 @@
         "superpower"
       ],
       "randomDoubleBattleLevel": 86,
-      "tier": "NU",
+      "tier": "(PU)",
       "doublesTier": "(DUU)"
     },
     "basculinbluestriped": {
@@ -6598,7 +6572,7 @@
         "liquidation",
         "psychicfangs"
       ],
-      "randomBattleLevel": 86,
+      "randomBattleLevel": 88,
       "randomDoubleBattleMoves": [
         "aquajet",
         "flipturn",
@@ -6610,7 +6584,7 @@
         "superpower"
       ],
       "randomDoubleBattleLevel": 86,
-      "tier": "NU",
+      "tier": "(PU)",
       "doublesTier": "(DUU)"
     },
     "sandile": {
@@ -6627,7 +6601,7 @@
         "stealthrock",
         "stoneedge"
       ],
-      "randomBattleLevel": 82,
+      "randomBattleLevel": 80,
       "randomDoubleBattleMoves": [
         "closecombat",
         "highhorsepower",
@@ -6663,7 +6637,7 @@
         "uturn"
       ],
       "randomDoubleBattleLevel": 82,
-      "tier": "UU",
+      "tier": "RU",
       "doublesTier": "(DUU)"
     },
     "darmanitangalar": {
@@ -6674,7 +6648,7 @@
         "superpower",
         "uturn"
       ],
-      "randomBattleLevel": 76,
+      "randomBattleLevel": 80,
       "randomDoubleBattleMoves": [
         "earthquake",
         "flareblitz",
@@ -6685,7 +6659,7 @@
       ],
       "randomDoubleBattleLevel": 80,
       "tier": "Uber",
-      "doublesTier": "DUU"
+      "doublesTier": "(DUU)"
     },
     "darmanitangalarzen": {
       "randomBattleMoves": [
@@ -6695,7 +6669,7 @@
         "iciclecrash",
         "substitute"
       ],
-      "randomBattleLevel": 76
+      "randomBattleLevel": 80
     },
     "maractus": {
       "randomBattleMoves": [
@@ -6706,7 +6680,7 @@
         "spikyshield",
         "toxic"
       ],
-      "randomBattleLevel": 88,
+      "randomBattleLevel": 90,
       "randomDoubleBattleMoves": [
         "acupressure",
         "drainpunch",
@@ -6731,7 +6705,7 @@
         "stoneedge",
         "xscissor"
       ],
-      "randomBattleLevel": 88,
+      "randomBattleLevel": 84,
       "randomDoubleBattleMoves": [
         "knockoff",
         "protect",
@@ -6741,7 +6715,7 @@
         "xscissor"
       ],
       "randomDoubleBattleLevel": 84,
-      "tier": "PU",
+      "tier": "(PU)",
       "doublesTier": "(DUU)"
     },
     "scraggy": {
@@ -6765,7 +6739,7 @@
         "knockoff"
       ],
       "randomDoubleBattleLevel": 84,
-      "tier": "RU",
+      "tier": "(PU)",
       "doublesTier": "DUU"
     },
     "sigilyph": {
@@ -6785,7 +6759,7 @@
         "tailwind"
       ],
       "randomDoubleBattleLevel": 86,
-      "tier": "RUBL",
+      "tier": "NUBL",
       "doublesTier": "(DUU)"
     },
     "yamask": {
@@ -6802,7 +6776,7 @@
         "toxicspikes",
         "willowisp"
       ],
-      "randomBattleLevel": 86,
+      "randomBattleLevel": 88,
       "randomDoubleBattleMoves": [
         "bodypress",
         "irondefense",
@@ -6812,7 +6786,7 @@
         "willowisp"
       ],
       "randomDoubleBattleLevel": 88,
-      "tier": "NU",
+      "tier": "(PU)",
       "doublesTier": "(DUU)"
     },
     "runerigus": {
@@ -6824,7 +6798,7 @@
         "toxicspikes",
         "willowisp"
       ],
-      "randomBattleLevel": 88,
+      "randomBattleLevel": 86,
       "randomDoubleBattleMoves": [
         "allyswitch",
         "earthquake",
@@ -6834,7 +6808,7 @@
         "willowisp"
       ],
       "randomDoubleBattleLevel": 88,
-      "tier": "PU",
+      "tier": "(PU)",
       "doublesTier": "(DUU)"
     },
     "tirtouga": {
@@ -6848,7 +6822,7 @@
         "stoneedge",
         "superpower"
       ],
-      "randomBattleLevel": 88,
+      "randomBattleLevel": 86,
       "randomDoubleBattleMoves": [
         "aquajet",
         "liquidation",
@@ -6857,8 +6831,8 @@
         "superpower"
       ],
       "randomDoubleBattleLevel": 88,
-      "tier": "OU",
-      "doublesTier": "DOU"
+      "tier": "(PU)",
+      "doublesTier": "(DUU)"
     },
     "archen": {
       "tier": "LC"
@@ -6871,7 +6845,7 @@
         "stoneedge",
         "uturn"
       ],
-      "randomBattleLevel": 86,
+      "randomBattleLevel": 84,
       "randomDoubleBattleMoves": [
         "aquatail",
         "dualwingbeat",
@@ -6882,14 +6856,14 @@
         "uturn"
       ],
       "randomDoubleBattleLevel": 86,
-      "tier": "OU",
-      "doublesTier": "DOU"
+      "tier": "PU",
+      "doublesTier": "(DUU)"
     },
     "trubbish": {
       "tier": "LC"
     },
     "garbodor": {
-      "tier": "NU",
+      "tier": "(PU)",
       "doublesTier": "(DUU)"
     },
     "garbodorgmax": {
@@ -6901,7 +6875,7 @@
         "spikes",
         "toxicspikes"
       ],
-      "randomBattleLevel": 86,
+      "randomBattleLevel": 88,
       "randomDoubleBattleMoves": [
         "drainpunch",
         "explosion",
@@ -6911,7 +6885,7 @@
       ],
       "randomDoubleBattleLevel": 88,
       "isNonstandard": "Gigantamax",
-      "tier": "(Uber)",
+      "tier": "AG",
       "doublesTier": "(DUber)"
     },
     "zorua": {
@@ -6933,7 +6907,7 @@
         "protect",
         "sludgebomb"
       ],
-      "tier": "RUBL",
+      "tier": "NU",
       "doublesTier": "(DUU)"
     },
     "minccino": {
@@ -6958,15 +6932,14 @@
         "uturn"
       ],
       "randomDoubleBattleLevel": 86,
-      "tier": "NU",
+      "tier": "(PU)",
       "doublesTier": "(DUU)"
     },
     "gothita": {
-      "tier": "LC Uber"
+      "tier": "NFE"
     },
     "gothorita": {
-      "tier": "NFE",
-      "doublesTier": "DUU"
+      "tier": "NFE"
     },
     "gothitelle": {
       "randomBattleMoves": [
@@ -6990,7 +6963,7 @@
       ],
       "randomDoubleBattleLevel": 80,
       "tier": "(PU)",
-      "doublesTier": "DOU"
+      "doublesTier": "(DUU)"
     },
     "solosis": {
       "tier": "LC"
@@ -7007,7 +6980,7 @@
         "shadowball",
         "trickroom"
       ],
-      "randomBattleLevel": 82,
+      "randomBattleLevel": 86,
       "randomDoubleBattleMoves": [
         "focusblast",
         "protect",
@@ -7016,7 +6989,7 @@
         "trickroom"
       ],
       "randomDoubleBattleLevel": 84,
-      "tier": "UU",
+      "tier": "RU",
       "doublesTier": "(DUU)"
     },
     "ducklett": {
@@ -7041,7 +7014,7 @@
         "flashcannon",
         "freezedry"
       ],
-      "randomBattleLevel": 86,
+      "randomBattleLevel": 84,
       "randomDoubleBattleMoves": [
         "auroraveil",
         "blizzard",
@@ -7050,8 +7023,8 @@
         "protect"
       ],
       "randomDoubleBattleLevel": 82,
-      "tier": "NU",
-      "doublesTier": "DUU"
+      "tier": "(PU)",
+      "doublesTier": "(DUU)"
     },
     "deerling": {
       "isNonstandard": "Past",
@@ -7120,7 +7093,7 @@
         "synthesis",
         "toxic"
       ],
-      "randomBattleLevel": 82,
+      "randomBattleLevel": 84,
       "randomDoubleBattleMoves": [
         "clearsmog",
         "pollenpuff",
@@ -7129,7 +7102,7 @@
         "spore"
       ],
       "randomDoubleBattleLevel": 80,
-      "tier": "OU",
+      "tier": "UU",
       "doublesTier": "DOU"
     },
     "frillish": {
@@ -7153,7 +7126,7 @@
         "willowisp"
       ],
       "randomDoubleBattleLevel": 84,
-      "tier": "NU",
+      "tier": "(PU)",
       "doublesTier": "(DUU)"
     },
     "alomomola": {
@@ -7171,7 +7144,7 @@
         "thunder",
         "voltswitch"
       ],
-      "randomBattleLevel": 88,
+      "randomBattleLevel": 84,
       "randomDoubleBattleMoves": [
         "bugbuzz",
         "electroweb",
@@ -7181,17 +7154,16 @@
         "thunder"
       ],
       "randomDoubleBattleLevel": 86,
-      "tier": "PUBL",
+      "tier": "PU",
       "doublesTier": "(DUU)"
     },
     "ferroseed": {
-      "tier": "PU",
-      "doublesTier": "LC"
+      "tier": "LC"
     },
     "ferrothorn": {
       "randomBattleMoves": [
-        "leechseed",
         "gyroball",
+        "leechseed",
         "powerwhip",
         "protect",
         "spikes",
@@ -7209,7 +7181,7 @@
       ],
       "randomDoubleBattleLevel": 80,
       "tier": "OU",
-      "doublesTier": "DOU"
+      "doublesTier": "DUU"
     },
     "klink": {
       "tier": "LC"
@@ -7224,7 +7196,7 @@
         "substitute",
         "wildcharge"
       ],
-      "randomBattleLevel": 88,
+      "randomBattleLevel": 86,
       "randomDoubleBattleMoves": [
         "geargrind",
         "protect",
@@ -7233,7 +7205,7 @@
         "wildcharge"
       ],
       "randomDoubleBattleLevel": 88,
-      "tier": "PU",
+      "tier": "(PU)",
       "doublesTier": "(DUU)"
     },
     "tynamo": {
@@ -7286,7 +7258,7 @@
         "substitute",
         "trick"
       ],
-      "randomBattleLevel": 82,
+      "randomBattleLevel": 84,
       "randomDoubleBattleMoves": [
         "calmmind",
         "energyball",
@@ -7297,8 +7269,8 @@
         "trick"
       ],
       "randomDoubleBattleLevel": 80,
-      "tier": "UU",
-      "doublesTier": "DOU"
+      "tier": "RU",
+      "doublesTier": "(DUU)"
     },
     "axew": {
       "tier": "LC"
@@ -7314,7 +7286,7 @@
         "outrage",
         "poisonjab"
       ],
-      "randomBattleLevel": 82,
+      "randomBattleLevel": 80,
       "randomDoubleBattleMoves": [
         "closecombat",
         "dragonclaw",
@@ -7323,7 +7295,7 @@
         "protect"
       ],
       "randomDoubleBattleLevel": 84,
-      "tier": "UUBL",
+      "tier": "RUBL",
       "doublesTier": "(DUU)"
     },
     "cubchoo": {
@@ -7370,8 +7342,8 @@
         "toxic"
       ],
       "randomDoubleBattleLevel": 88,
-      "tier": "OU",
-      "doublesTier": "DOU"
+      "tier": "(PU)",
+      "doublesTier": "(DUU)"
     },
     "shelmet": {
       "tier": "LC"
@@ -7385,7 +7357,7 @@
         "toxic",
         "yawn"
       ],
-      "randomBattleLevel": 86,
+      "randomBattleLevel": 88,
       "randomDoubleBattleMoves": [
         "acidspray",
         "bugbuzz",
@@ -7394,7 +7366,7 @@
         "focusblast"
       ],
       "randomDoubleBattleLevel": 88,
-      "tier": "NU",
+      "tier": "(PU)",
       "doublesTier": "(DUU)"
     },
     "stunfisk": {
@@ -7405,7 +7377,7 @@
         "sludgebomb",
         "stealthrock"
       ],
-      "randomBattleLevel": 88,
+      "randomBattleLevel": 86,
       "randomDoubleBattleMoves": [
         "earthpower",
         "electroweb",
@@ -7415,7 +7387,7 @@
         "thunderbolt"
       ],
       "randomDoubleBattleLevel": 88,
-      "tier": "PU",
+      "tier": "(PU)",
       "doublesTier": "(DUU)"
     },
     "stunfiskgalar": {
@@ -7436,7 +7408,7 @@
         "thunderwave"
       ],
       "randomDoubleBattleLevel": 88,
-      "tier": "NU",
+      "tier": "(PU)",
       "doublesTier": "(DUU)"
     },
     "mienfoo": {
@@ -7461,7 +7433,7 @@
         "uturn"
       ],
       "randomDoubleBattleLevel": 84,
-      "tier": "UU",
+      "tier": "NU",
       "doublesTier": "(DUU)"
     },
     "druddigon": {
@@ -7473,7 +7445,7 @@
         "suckerpunch",
         "superpower"
       ],
-      "randomBattleLevel": 84,
+      "randomBattleLevel": 86,
       "randomDoubleBattleMoves": [
         "firepunch",
         "glare",
@@ -7483,7 +7455,7 @@
         "suckerpunch"
       ],
       "randomDoubleBattleLevel": 86,
-      "tier": "RU",
+      "tier": "PU",
       "doublesTier": "(DUU)"
     },
     "golett": {
@@ -7507,12 +7479,11 @@
         "protect"
       ],
       "randomDoubleBattleLevel": 86,
-      "tier": "RU",
+      "tier": "NU",
       "doublesTier": "(DUU)"
     },
     "pawniard": {
-      "tier": "PU",
-      "doublesTier": "LC"
+      "tier": "LC"
     },
     "bisharp": {
       "randomBattleMoves": [
@@ -7543,7 +7514,7 @@
         "megahorn",
         "swordsdance"
       ],
-      "randomBattleLevel": 88,
+      "randomBattleLevel": 86,
       "randomDoubleBattleMoves": [
         "closecombat",
         "headcharge",
@@ -7552,11 +7523,11 @@
         "wildcharge"
       ],
       "randomDoubleBattleLevel": 86,
-      "tier": "PU",
+      "tier": "(PU)",
       "doublesTier": "(DUU)"
     },
     "rufflet": {
-      "tier": "LC Uber"
+      "tier": "NFE"
     },
     "braviary": {
       "randomBattleMoves": [
@@ -7576,22 +7547,21 @@
         "tailwind"
       ],
       "randomDoubleBattleLevel": 84,
-      "tier": "RU",
-      "doublesTier": "DUU"
+      "tier": "PU",
+      "doublesTier": "(DUU)"
     },
     "vullaby": {
       "tier": "LC"
     },
     "mandibuzz": {
       "randomBattleMoves": [
+        "bravebird",
         "defog",
         "foulplay",
         "roost",
-        "taunt",
-        "toxic",
-        "uturn"
+        "toxic"
       ],
-      "randomBattleLevel": 80,
+      "randomBattleLevel": 84,
       "randomDoubleBattleMoves": [
         "foulplay",
         "roost",
@@ -7612,7 +7582,7 @@
         "suckerpunch",
         "superpower"
       ],
-      "randomBattleLevel": 88,
+      "randomBattleLevel": 90,
       "randomDoubleBattleMoves": [
         "firelash",
         "gigadrain",
@@ -7624,7 +7594,7 @@
         "willowisp"
       ],
       "randomDoubleBattleLevel": 88,
-      "tier": "PU",
+      "tier": "(PU)",
       "doublesTier": "(DUU)"
     },
     "durant": {
@@ -7645,7 +7615,7 @@
         "xscissor"
       ],
       "randomDoubleBattleLevel": 82,
-      "tier": "UUBL",
+      "tier": "NUBL",
       "doublesTier": "(DUU)"
     },
     "deino": {
@@ -7664,7 +7634,7 @@
         "roost",
         "uturn"
       ],
-      "randomBattleLevel": 80,
+      "randomBattleLevel": 82,
       "randomDoubleBattleMoves": [
         "darkpulse",
         "dracometeor",
@@ -7677,7 +7647,7 @@
       ],
       "randomDoubleBattleLevel": 84,
       "tier": "OU",
-      "doublesTier": "DUU"
+      "doublesTier": "(DUU)"
     },
     "larvesta": {
       "tier": "LC"
@@ -7690,7 +7660,7 @@
         "quiverdance",
         "roost"
       ],
-      "randomBattleLevel": 80,
+      "randomBattleLevel": 78,
       "randomDoubleBattleMoves": [
         "bugbuzz",
         "gigadrain",
@@ -7701,7 +7671,7 @@
       ],
       "randomDoubleBattleLevel": 80,
       "tier": "OU",
-      "doublesTier": "DOU"
+      "doublesTier": "DUU"
     },
     "cobalion": {
       "randomBattleMoves": [
@@ -7722,7 +7692,7 @@
         "thunderwave"
       ],
       "randomDoubleBattleLevel": 84,
-      "tier": "UU",
+      "tier": "RU",
       "doublesTier": "(DUU)"
     },
     "terrakion": {
@@ -7733,7 +7703,7 @@
         "stoneedge",
         "swordsdance"
       ],
-      "randomBattleLevel": 82,
+      "randomBattleLevel": 80,
       "randomDoubleBattleMoves": [
         "closecombat",
         "protect",
@@ -7742,7 +7712,7 @@
       ],
       "randomDoubleBattleLevel": 80,
       "tier": "UU",
-      "doublesTier": "DUU"
+      "doublesTier": "(DUU)"
     },
     "virizion": {
       "randomBattleMoves": [
@@ -7763,7 +7733,7 @@
         "swordsdance"
       ],
       "randomDoubleBattleLevel": 86,
-      "tier": "RU",
+      "tier": "PU",
       "doublesTier": "(DUU)"
     },
     "tornadus": {
@@ -7784,8 +7754,8 @@
         "taunt"
       ],
       "randomDoubleBattleLevel": 80,
-      "tier": "OU",
-      "doublesTier": "DOU"
+      "tier": "NUBL",
+      "doublesTier": "DUU"
     },
     "tornadustherian": {
       "randomBattleMoves": [
@@ -7805,7 +7775,7 @@
       ],
       "randomDoubleBattleLevel": 80,
       "tier": "OU",
-      "doublesTier": "DOU"
+      "doublesTier": "(DUU)"
     },
     "thundurus": {
       "randomBattleMoves": [
@@ -7828,8 +7798,8 @@
         "thunderwave"
       ],
       "randomDoubleBattleLevel": 82,
-      "tier": "OU",
-      "doublesTier": "DOU"
+      "tier": "RU",
+      "doublesTier": "(DUU)"
     },
     "thundurustherian": {
       "randomBattleMoves": [
@@ -7851,8 +7821,8 @@
         "voltswitch"
       ],
       "randomDoubleBattleLevel": 82,
-      "tier": "OU",
-      "doublesTier": "DOU"
+      "tier": "UU",
+      "doublesTier": "(DUU)"
     },
     "reshiram": {
       "randomBattleMoves": [
@@ -7864,7 +7834,7 @@
         "roost",
         "stoneedge"
       ],
-      "randomBattleLevel": 74,
+      "randomBattleLevel": 76,
       "randomDoubleBattleMoves": [
         "blueflare",
         "dracometeor",
@@ -7905,7 +7875,7 @@
         "sludgewave",
         "stealthrock"
       ],
-      "randomBattleLevel": 76,
+      "randomBattleLevel": 78,
       "randomDoubleBattleMoves": [
         "calmmind",
         "earthpower",
@@ -7915,12 +7885,11 @@
         "sludgebomb"
       ],
       "randomDoubleBattleLevel": 80,
-      "tier": "OU",
+      "tier": "Uber",
       "doublesTier": "DOU"
     },
     "landorustherian": {
       "randomBattleMoves": [
-        "defog",
         "earthquake",
         "fly",
         "stealthrock",
@@ -7928,7 +7897,7 @@
         "swordsdance",
         "uturn"
       ],
-      "randomBattleLevel": 80,
+      "randomBattleLevel": 74,
       "randomDoubleBattleMoves": [
         "earthquake",
         "fly",
@@ -7950,7 +7919,7 @@
         "roost",
         "substitute"
       ],
-      "randomBattleLevel": 80,
+      "randomBattleLevel": 82,
       "randomDoubleBattleMoves": [
         "dracometeor",
         "earthpower",
@@ -7959,9 +7928,9 @@
         "protect",
         "roost"
       ],
-      "randomDoubleBattleLevel": 80,
-      "tier": "OU",
-      "doublesTier": "DUU"
+      "randomDoubleBattleLevel": 78,
+      "tier": "UU",
+      "doublesTier": "(DUU)"
     },
     "kyuremblack": {
       "randomBattleMoves": [
@@ -7980,7 +7949,7 @@
         "roost"
       ],
       "randomDoubleBattleLevel": 72,
-      "tier": "OU",
+      "tier": "Uber",
       "doublesTier": "DOU"
     },
     "kyuremwhite": {
@@ -8017,7 +7986,7 @@
       ],
       "randomDoubleBattleLevel": 84,
       "tier": "UU",
-      "doublesTier": "DUU"
+      "doublesTier": "(DUU)"
     },
     "keldeoresolute": {
       "randomBattleMoves": [
@@ -8043,7 +8012,6 @@
         "blazekick",
         "extremespeed",
         "flamethrower",
-        "icebeam",
         "ironhead",
         "shiftgear",
         "thunderbolt",
@@ -8065,19 +8033,19 @@
     },
     "genesectburn": {
       "tier": "Uber",
-      "doublesTier": "DOU"
+      "doublesTier": "(DOU)"
     },
     "genesectchill": {
       "tier": "Uber",
-      "doublesTier": "DOU"
+      "doublesTier": "(DOU)"
     },
     "genesectdouse": {
       "tier": "Uber",
-      "doublesTier": "DOU"
+      "doublesTier": "(DOU)"
     },
     "genesectshock": {
       "tier": "Uber",
-      "doublesTier": "DOU"
+      "doublesTier": "(DOU)"
     },
     "chespin": {
       "isNonstandard": "Past",
@@ -8142,7 +8110,7 @@
         "uturn"
       ],
       "randomDoubleBattleLevel": 86,
-      "tier": "UUBL",
+      "tier": "RUBL",
       "doublesTier": "(DUU)"
     },
     "fletchling": {
@@ -8172,8 +8140,8 @@
         "willowisp"
       ],
       "randomDoubleBattleLevel": 86,
-      "tier": "UU",
-      "doublesTier": "DUU"
+      "tier": "PU",
+      "doublesTier": "(DUU)"
     },
     "scatterbug": {
       "isNonstandard": "Past",
@@ -8234,10 +8202,9 @@
         "darkestlariat",
         "gunkshot",
         "icepunch",
-        "knockoff",
         "partingshot"
       ],
-      "randomBattleLevel": 84,
+      "randomBattleLevel": 86,
       "randomDoubleBattleMoves": [
         "bulletpunch",
         "closecombat",
@@ -8248,7 +8215,7 @@
         "protect"
       ],
       "randomDoubleBattleLevel": 88,
-      "tier": "RUBL",
+      "tier": "NU",
       "doublesTier": "(DUU)"
     },
     "furfrou": {
@@ -8266,7 +8233,7 @@
         "thunderwave",
         "yawn"
       ],
-      "randomBattleLevel": 88,
+      "randomBattleLevel": 86,
       "randomDoubleBattleMoves": [
         "fakeout",
         "lightscreen",
@@ -8276,7 +8243,7 @@
       ],
       "randomDoubleBattleLevel": 84,
       "tier": "(PU)",
-      "doublesTier": "DUU"
+      "doublesTier": "(DUU)"
     },
     "meowsticf": {
       "randomBattleMoves": [
@@ -8296,7 +8263,7 @@
       ],
       "randomDoubleBattleLevel": 88,
       "tier": "(PU)",
-      "doublesTier": "DUU"
+      "doublesTier": "(DUU)"
     },
     "honedge": {
       "tier": "LC"
@@ -8309,8 +8276,8 @@
         "shadowsneak",
         "swordsdance"
       ],
-      "randomBattleLevel": 82,
-      "tier": "UU",
+      "randomBattleLevel": 84,
+      "tier": "RU",
       "doublesTier": "NFE"
     },
     "aegislash": {
@@ -8323,7 +8290,7 @@
         "substitute",
         "toxic"
       ],
-      "randomBattleLevel": 80,
+      "randomBattleLevel": 82,
       "randomDoubleBattleMoves": [
         "flashcannon",
         "kingsshield",
@@ -8331,7 +8298,7 @@
         "shadowsneak"
       ],
       "randomDoubleBattleLevel": 84,
-      "tier": "OU",
+      "tier": "UUBL",
       "doublesTier": "DUU"
     },
     "aegislashblade": {
@@ -8364,7 +8331,7 @@
         "toxic",
         "wish"
       ],
-      "randomBattleLevel": 86,
+      "randomBattleLevel": 88,
       "randomDoubleBattleMoves": [
         "healpulse",
         "moonblast",
@@ -8373,12 +8340,12 @@
         "trickroom",
         "wish"
       ],
-      "randomDoubleBattleLevel": 84,
-      "tier": "NU",
+      "randomDoubleBattleLevel": 86,
+      "tier": "PU",
       "doublesTier": "(DUU)"
     },
     "swirlix": {
-      "tier": "LC Uber"
+      "tier": "NFE"
     },
     "slurpuff": {
       "randomBattleMoves": [
@@ -8387,7 +8354,7 @@
         "facade",
         "playrough"
       ],
-      "randomBattleLevel": 84,
+      "randomBattleLevel": 82,
       "randomDoubleBattleMoves": [
         "faketears",
         "flamethrower",
@@ -8396,7 +8363,7 @@
         "stickyweb"
       ],
       "randomDoubleBattleLevel": 84,
-      "tier": "RUBL",
+      "tier": "NUBL",
       "doublesTier": "(DUU)"
     },
     "inkay": {
@@ -8411,7 +8378,7 @@
         "substitute",
         "superpower"
       ],
-      "randomBattleLevel": 86,
+      "randomBattleLevel": 82,
       "randomDoubleBattleMoves": [
         "knockoff",
         "psychocut",
@@ -8419,8 +8386,8 @@
         "superpower"
       ],
       "randomDoubleBattleLevel": 84,
-      "tier": "NU",
-      "doublesTier": "DUU"
+      "tier": "(PU)",
+      "doublesTier": "(DUU)"
     },
     "binacle": {
       "tier": "LC"
@@ -8442,7 +8409,7 @@
         "superpower"
       ],
       "randomDoubleBattleLevel": 84,
-      "tier": "RUBL",
+      "tier": "NUBL",
       "doublesTier": "(DUU)"
     },
     "skrelp": {
@@ -8457,7 +8424,7 @@
         "sludgewave",
         "toxicspikes"
       ],
-      "randomBattleLevel": 84,
+      "randomBattleLevel": 88,
       "randomDoubleBattleMoves": [
         "dracometeor",
         "dragonpulse",
@@ -8466,7 +8433,7 @@
         "sludgebomb"
       ],
       "randomDoubleBattleLevel": 86,
-      "tier": "RU",
+      "tier": "NU",
       "doublesTier": "(DUU)"
     },
     "clauncher": {
@@ -8490,7 +8457,7 @@
         "uturn"
       ],
       "randomDoubleBattleLevel": 86,
-      "tier": "NU",
+      "tier": "(PU)",
       "doublesTier": "(DUU)"
     },
     "helioptile": {
@@ -8514,7 +8481,7 @@
         "voltswitch"
       ],
       "randomDoubleBattleLevel": 88,
-      "tier": "RU",
+      "tier": "PU",
       "doublesTier": "(DUU)"
     },
     "tyrunt": {
@@ -8526,10 +8493,9 @@
         "dragondance",
         "earthquake",
         "headsmash",
-        "outrage",
-        "stealthrock"
+        "outrage"
       ],
-      "randomBattleLevel": 82,
+      "randomBattleLevel": 84,
       "randomDoubleBattleMoves": [
         "closecombat",
         "dragonclaw",
@@ -8538,8 +8504,8 @@
         "highhorsepower"
       ],
       "randomDoubleBattleLevel": 86,
-      "tier": "OU",
-      "doublesTier": "DOU"
+      "tier": "NU",
+      "doublesTier": "(DUU)"
     },
     "amaura": {
       "tier": "LC"
@@ -8553,8 +8519,9 @@
         "stealthrock",
         "thunderwave"
       ],
-      "randomBattleLevel": 88,
+      "randomBattleLevel": 86,
       "randomDoubleBattleMoves": [
+        "auroraveil",
         "blizzard",
         "earthpower",
         "freezedry",
@@ -8562,8 +8529,8 @@
         "thunderwave"
       ],
       "randomDoubleBattleLevel": 88,
-      "tier": "OU",
-      "doublesTier": "DOU"
+      "tier": "(PU)",
+      "doublesTier": "(DUU)"
     },
     "hawlucha": {
       "randomBattleMoves": [
@@ -8574,7 +8541,7 @@
         "swordsdance",
         "throatchop"
       ],
-      "randomBattleLevel": 80,
+      "randomBattleLevel": 82,
       "randomDoubleBattleMoves": [
         "bravebird",
         "closecombat",
@@ -8584,7 +8551,7 @@
       ],
       "randomDoubleBattleLevel": 80,
       "tier": "OU",
-      "doublesTier": "DOU"
+      "doublesTier": "(DUU)"
     },
     "dedenne": {
       "randomBattleMoves": [
@@ -8622,8 +8589,8 @@
         "stealthrock"
       ],
       "randomDoubleBattleLevel": 90,
-      "tier": "OU",
-      "doublesTier": "DOU"
+      "tier": "(PU)",
+      "doublesTier": "(DUU)"
     },
     "goomy": {
       "tier": "LC"
@@ -8652,8 +8619,8 @@
         "thunderbolt"
       ],
       "randomDoubleBattleLevel": 86,
-      "tier": "RU",
-      "doublesTier": "DUU"
+      "tier": "NU",
+      "doublesTier": "(DUU)"
     },
     "klefki": {
       "randomBattleMoves": [
@@ -8720,7 +8687,7 @@
         "synthesis",
         "willowisp"
       ],
-      "randomBattleLevel": 88,
+      "randomBattleLevel": 86,
       "randomDoubleBattleMoves": [
         "leechseed",
         "poltergeist",
@@ -8729,7 +8696,7 @@
         "willowisp"
       ],
       "randomDoubleBattleLevel": 88,
-      "tier": "PU",
+      "tier": "(PU)",
       "doublesTier": "(DUU)"
     },
     "gourgeistsmall": {
@@ -8740,7 +8707,7 @@
         "substitute",
         "willowisp"
       ],
-      "randomBattleLevel": 88,
+      "randomBattleLevel": 86,
       "randomDoubleBattleMoves": [
         "leechseed",
         "poltergeist",
@@ -8749,7 +8716,7 @@
         "willowisp"
       ],
       "randomDoubleBattleLevel": 88,
-      "tier": "PU",
+      "tier": "(PU)",
       "doublesTier": "(DUU)"
     },
     "gourgeistlarge": {
@@ -8760,7 +8727,7 @@
         "synthesis",
         "willowisp"
       ],
-      "randomBattleLevel": 88,
+      "randomBattleLevel": 86,
       "randomDoubleBattleMoves": [
         "poltergeist",
         "powerwhip",
@@ -8770,7 +8737,7 @@
       ],
       "randomDoubleBattleLevel": 88,
       "tier": "(PU)",
-      "doublesTier": "DUU"
+      "doublesTier": "(DUU)"
     },
     "gourgeistsuper": {
       "randomBattleMoves": [
@@ -8789,7 +8756,7 @@
         "trickroom"
       ],
       "randomDoubleBattleLevel": 88,
-      "tier": "PU",
+      "tier": "(PU)",
       "doublesTier": "(DUU)"
     },
     "bergmite": {
@@ -8813,7 +8780,7 @@
         "recover"
       ],
       "randomDoubleBattleLevel": 88,
-      "tier": "PU",
+      "tier": "(PU)",
       "doublesTier": "(DUU)"
     },
     "noibat": {
@@ -8828,7 +8795,7 @@
         "roost",
         "switcheroo"
       ],
-      "randomBattleLevel": 82,
+      "randomBattleLevel": 84,
       "randomDoubleBattleMoves": [
         "boomburst",
         "dracometeor",
@@ -8838,7 +8805,7 @@
         "tailwind"
       ],
       "randomDoubleBattleLevel": 84,
-      "tier": "UU",
+      "tier": "RU",
       "doublesTier": "(DUU)"
     },
     "xerneas": {
@@ -8849,7 +8816,7 @@
         "psyshock",
         "thunderbolt"
       ],
-      "randomBattleLevel": 72,
+      "randomBattleLevel": 70,
       "randomDoubleBattleMoves": [
         "dazzlinggleam",
         "focusblast",
@@ -8874,7 +8841,7 @@
         "roost",
         "suckerpunch"
       ],
-      "randomBattleLevel": 74,
+      "randomBattleLevel": 72,
       "randomDoubleBattleMoves": [
         "darkpulse",
         "heatwave",
@@ -8896,7 +8863,7 @@
         "substitute",
         "thousandarrows"
       ],
-      "randomBattleLevel": 76,
+      "randomBattleLevel": 74,
       "randomDoubleBattleMoves": [
         "coil",
         "dragondance",
@@ -8906,7 +8873,7 @@
         "thousandarrows"
       ],
       "randomDoubleBattleLevel": 72,
-      "tier": "OU",
+      "tier": "Uber",
       "doublesTier": "DOU"
     },
     "zygarde10": {
@@ -8927,8 +8894,8 @@
         "thousandarrows"
       ],
       "randomDoubleBattleLevel": 76,
-      "tier": "OU",
-      "doublesTier": "DOU"
+      "tier": "RU",
+      "doublesTier": "(DUU)"
     },
     "zygardecomplete": {
       "tier": "Uber",
@@ -8951,7 +8918,7 @@
         "moonblast"
       ],
       "randomDoubleBattleLevel": 80,
-      "tier": "OU",
+      "tier": "NU",
       "doublesTier": "DOU"
     },
     "dianciemega": {
@@ -8983,7 +8950,7 @@
         "steameruption"
       ],
       "randomDoubleBattleLevel": 84,
-      "tier": "OU",
+      "tier": "RU",
       "doublesTier": "DOU"
     },
     "rowlet": {
@@ -9001,7 +8968,7 @@
         "spiritshackle",
         "swordsdance"
       ],
-      "randomBattleLevel": 84,
+      "randomBattleLevel": 88,
       "randomDoubleBattleMoves": [
         "bravebird",
         "leafblade",
@@ -9011,7 +8978,7 @@
         "swordsdance"
       ],
       "randomDoubleBattleLevel": 88,
-      "tier": "RU",
+      "tier": "NU",
       "doublesTier": "(DUU)"
     },
     "litten": {
@@ -9038,7 +9005,7 @@
         "snarl"
       ],
       "randomDoubleBattleLevel": 80,
-      "tier": "UU",
+      "tier": "RU",
       "doublesTier": "DOU"
     },
     "popplio": {
@@ -9055,7 +9022,7 @@
         "psychic",
         "sparklingaria"
       ],
-      "randomBattleLevel": 80,
+      "randomBattleLevel": 82,
       "randomDoubleBattleMoves": [
         "dazzlinggleam",
         "flipturn",
@@ -9065,8 +9032,8 @@
         "psychic"
       ],
       "randomDoubleBattleLevel": 82,
-      "tier": "OU",
-      "doublesTier": "DOU"
+      "tier": "UU",
+      "doublesTier": "DUU"
     },
     "pikipek": {
       "isNonstandard": "Past",
@@ -9117,7 +9084,7 @@
         "voltswitch"
       ],
       "randomDoubleBattleLevel": 86,
-      "tier": "RU",
+      "tier": "(PU)",
       "doublesTier": "(DUU)"
     },
     "vikavolttotem": {
@@ -9149,7 +9116,7 @@
       "tier": "Illegal"
     },
     "cutiefly": {
-      "tier": "LC Uber"
+      "tier": "NFE"
     },
     "ribombee": {
       "randomBattleMoves": [
@@ -9159,7 +9126,7 @@
         "stunspore",
         "uturn"
       ],
-      "randomBattleLevel": 86,
+      "randomBattleLevel": 84,
       "randomDoubleBattleMoves": [
         "helpinghand",
         "moonblast",
@@ -9169,7 +9136,7 @@
         "tailwind"
       ],
       "randomDoubleBattleLevel": 84,
-      "tier": "NU",
+      "tier": "PU",
       "doublesTier": "(DUU)"
     },
     "ribombeetotem": {
@@ -9190,7 +9157,7 @@
         "stoneedge",
         "swordsdance"
       ],
-      "randomBattleLevel": 84,
+      "randomBattleLevel": 82,
       "randomDoubleBattleMoves": [
         "accelerock",
         "closecombat",
@@ -9200,7 +9167,7 @@
         "swordsdance"
       ],
       "randomDoubleBattleLevel": 84,
-      "tier": "RU",
+      "tier": "(PU)",
       "doublesTier": "(DUU)"
     },
     "lycanrocmidnight": {
@@ -9211,7 +9178,7 @@
         "stoneedge",
         "suckerpunch"
       ],
-      "randomBattleLevel": 88,
+      "randomBattleLevel": 86,
       "randomDoubleBattleMoves": [
         "closecombat",
         "irontail",
@@ -9242,11 +9209,11 @@
         "swordsdance"
       ],
       "randomDoubleBattleLevel": 80,
-      "tier": "UUBL",
+      "tier": "UU",
       "doublesTier": "(DUU)"
     },
     "wishiwashi": {
-      "tier": "NU",
+      "tier": "(PU)",
       "doublesTier": "(DUU)"
     },
     "wishiwashischool": {
@@ -9269,8 +9236,7 @@
       "randomDoubleBattleLevel": 88
     },
     "mareanie": {
-      "tier": "PU",
-      "doublesTier": "LC"
+      "tier": "LC"
     },
     "toxapex": {
       "randomBattleMoves": [
@@ -9281,7 +9247,7 @@
         "toxic",
         "toxicspikes"
       ],
-      "randomBattleLevel": 80,
+      "randomBattleLevel": 82,
       "randomDoubleBattleMoves": [
         "banefulbunker",
         "haze",
@@ -9305,7 +9271,7 @@
         "rockslide",
         "stealthrock"
       ],
-      "randomBattleLevel": 86,
+      "randomBattleLevel": 84,
       "randomDoubleBattleMoves": [
         "bodypress",
         "heavyslam",
@@ -9339,8 +9305,8 @@
         "wideguard"
       ],
       "randomDoubleBattleLevel": 84,
-      "tier": "UU",
-      "doublesTier": "DUU"
+      "tier": "NU",
+      "doublesTier": "(DUU)"
     },
     "araquanidtotem": {
       "isNonstandard": "Past",
@@ -9366,7 +9332,7 @@
         "superpower"
       ],
       "randomDoubleBattleLevel": 88,
-      "tier": "PU",
+      "tier": "(PU)",
       "doublesTier": "DUU"
     },
     "lurantistotem": {
@@ -9416,7 +9382,7 @@
         "sludgebomb"
       ],
       "randomDoubleBattleLevel": 88,
-      "tier": "RU",
+      "tier": "NU",
       "doublesTier": "(DUU)"
     },
     "salazzletotem": {
@@ -9446,7 +9412,7 @@
         "wideguard"
       ],
       "randomDoubleBattleLevel": 88,
-      "tier": "RU",
+      "tier": "NU",
       "doublesTier": "(DUU)"
     },
     "bounsweet": {
@@ -9465,7 +9431,7 @@
         "synthesis",
         "uturn"
       ],
-      "randomBattleLevel": 82,
+      "randomBattleLevel": 86,
       "randomDoubleBattleMoves": [
         "highjumpkick",
         "knockoff",
@@ -9476,28 +9442,29 @@
         "uturn"
       ],
       "randomDoubleBattleLevel": 88,
-      "tier": "UU",
+      "tier": "PU",
       "doublesTier": "DOU"
     },
     "comfey": {
       "randomBattleMoves": [
-        "dazzlinggleam",
-        "leechseed",
-        "synthesis",
-        "taunt",
+        "calmmind",
+        "drainingkiss",
+        "gigadrain",
+        "storedpower",
+        "trick",
         "uturn"
       ],
-      "randomBattleLevel": 84,
+      "randomBattleLevel": 88,
       "randomDoubleBattleMoves": [
         "defog",
         "drainingkiss",
-        "floralhealing",
         "gigadrain",
         "helpinghand",
+        "pollenpuff",
         "protect"
       ],
       "randomDoubleBattleLevel": 88,
-      "tier": "RU",
+      "tier": "NU",
       "doublesTier": "DOU"
     },
     "oranguru": {
@@ -9539,8 +9506,8 @@
         "uturn"
       ],
       "randomDoubleBattleLevel": 86,
-      "tier": "RU",
-      "doublesTier": "DOU"
+      "tier": "PU",
+      "doublesTier": "(DUU)"
     },
     "wimpod": {
       "tier": "LC"
@@ -9553,7 +9520,7 @@
         "liquidation",
         "spikes"
       ],
-      "randomBattleLevel": 84,
+      "randomBattleLevel": 86,
       "randomDoubleBattleMoves": [
         "aquajet",
         "closecombat",
@@ -9565,7 +9532,7 @@
         "wideguard"
       ],
       "randomDoubleBattleLevel": 88,
-      "tier": "RU",
+      "tier": "NU",
       "doublesTier": "(DUU)"
     },
     "sandygast": {
@@ -9580,7 +9547,7 @@
         "stealthrock",
         "toxic"
       ],
-      "randomBattleLevel": 86,
+      "randomBattleLevel": 88,
       "randomDoubleBattleMoves": [
         "hypnosis",
         "protect",
@@ -9590,7 +9557,7 @@
         "stealthrock"
       ],
       "randomDoubleBattleLevel": 86,
-      "tier": "UU",
+      "tier": "(PU)",
       "doublesTier": "(DUU)"
     },
     "pyukumuku": {
@@ -9600,7 +9567,7 @@
         "recover",
         "toxic"
       ],
-      "randomBattleLevel": 88,
+      "randomBattleLevel": 86,
       "randomDoubleBattleMoves": [
         "helpinghand",
         "lightscreen",
@@ -9620,8 +9587,7 @@
         "swordsdance"
       ],
       "randomBattleLevel": 88,
-      "tier": "PU",
-      "doublesTier": "NFE"
+      "tier": "NFE"
     },
     "silvally": {
       "randomBattleMoves": [
@@ -9633,7 +9599,7 @@
         "swordsdance",
         "uturn"
       ],
-      "randomBattleLevel": 88,
+      "randomBattleLevel": 86,
       "randomDoubleBattleMoves": [
         "crunch",
         "explosion",
@@ -9643,7 +9609,7 @@
         "tailwind"
       ],
       "randomDoubleBattleLevel": 88,
-      "tier": "PUBL",
+      "tier": "(PU)",
       "doublesTier": "(DUU)"
     },
     "silvallybug": {
@@ -9654,7 +9620,7 @@
         "psychicfangs",
         "thunderbolt"
       ],
-      "randomBattleLevel": 88,
+      "randomBattleLevel": 86,
       "randomDoubleBattleMoves": [
         "flamethrower",
         "multiattack",
@@ -9663,7 +9629,7 @@
         "uturn"
       ],
       "randomDoubleBattleLevel": 88,
-      "tier": "PU",
+      "tier": "(PU)",
       "doublesTier": "(DUU)"
     },
     "silvallydark": {
@@ -9674,7 +9640,7 @@
         "psychicfangs",
         "swordsdance"
       ],
-      "randomBattleLevel": 88,
+      "randomBattleLevel": 86,
       "randomDoubleBattleMoves": [
         "ironhead",
         "multiattack",
@@ -9683,7 +9649,7 @@
         "tailwind"
       ],
       "randomDoubleBattleLevel": 86,
-      "tier": "PUBL",
+      "tier": "(PU)",
       "doublesTier": "(DUU)"
     },
     "silvallydragon": {
@@ -9703,7 +9669,7 @@
         "tailwind"
       ],
       "randomDoubleBattleLevel": 88,
-      "tier": "NU",
+      "tier": "(PU)",
       "doublesTier": "(DUU)"
     },
     "silvallyelectric": {
@@ -9714,7 +9680,7 @@
         "partingshot",
         "toxic"
       ],
-      "randomBattleLevel": 88,
+      "randomBattleLevel": 86,
       "randomDoubleBattleMoves": [
         "flamethrower",
         "grasspledge",
@@ -9723,7 +9689,7 @@
         "tailwind"
       ],
       "randomDoubleBattleLevel": 88,
-      "tier": "PUBL",
+      "tier": "(PU)",
       "doublesTier": "(DUU)"
     },
     "silvallyfairy": {
@@ -9733,7 +9699,7 @@
         "psychicfangs",
         "swordsdance"
       ],
-      "randomBattleLevel": 84,
+      "randomBattleLevel": 86,
       "randomDoubleBattleMoves": [
         "flamethrower",
         "multiattack",
@@ -9741,7 +9707,7 @@
         "tailwind"
       ],
       "randomDoubleBattleLevel": 88,
-      "tier": "RU",
+      "tier": "PU",
       "doublesTier": "(DUU)"
     },
     "silvallyfighting": {
@@ -9752,7 +9718,7 @@
         "swordsdance",
         "uturn"
       ],
-      "randomBattleLevel": 88,
+      "randomBattleLevel": 86,
       "randomDoubleBattleMoves": [
         "crunch",
         "multiattack",
@@ -9761,7 +9727,7 @@
         "tailwind"
       ],
       "randomDoubleBattleLevel": 88,
-      "tier": "PUBL",
+      "tier": "(PU)",
       "doublesTier": "(DUU)"
     },
     "silvallyfire": {
@@ -9771,7 +9737,7 @@
         "multiattack",
         "swordsdance"
       ],
-      "randomBattleLevel": 88,
+      "randomBattleLevel": 86,
       "randomDoubleBattleMoves": [
         "heatwave",
         "icebeam",
@@ -9779,8 +9745,8 @@
         "tailwind",
         "thunderbolt"
       ],
-      "randomDoubleBattleLevel": 88,
-      "tier": "PUBL",
+      "randomDoubleBattleLevel": 90,
+      "tier": "(PU)",
       "doublesTier": "(DUU)"
     },
     "silvallyflying": {
@@ -9791,7 +9757,7 @@
         "rockslide",
         "swordsdance"
       ],
-      "randomBattleLevel": 88,
+      "randomBattleLevel": 86,
       "randomDoubleBattleMoves": [
         "firefang",
         "ironhead",
@@ -9800,7 +9766,7 @@
         "tailwind"
       ],
       "randomDoubleBattleLevel": 86,
-      "tier": "PUBL",
+      "tier": "(PU)",
       "doublesTier": "(DUU)"
     },
     "silvallyghost": {
@@ -9818,7 +9784,7 @@
         "xscissor"
       ],
       "randomDoubleBattleLevel": 88,
-      "tier": "NU",
+      "tier": "(PU)",
       "doublesTier": "(DUU)"
     },
     "silvallygrass": {
@@ -9829,7 +9795,7 @@
         "multiattack",
         "partingshot"
       ],
-      "randomBattleLevel": 88,
+      "randomBattleLevel": 86,
       "randomDoubleBattleMoves": [
         "flamethrower",
         "icebeam",
@@ -9838,7 +9804,7 @@
         "tailwind"
       ],
       "randomDoubleBattleLevel": 88,
-      "tier": "PUBL",
+      "tier": "(PU)",
       "doublesTier": "(DUU)"
     },
     "silvallyground": {
@@ -9850,15 +9816,15 @@
         "partingshot",
         "toxic"
       ],
-      "randomBattleLevel": 88,
+      "randomBattleLevel": 86,
       "randomDoubleBattleMoves": [
         "multiattack",
         "rockslide",
         "swordsdance",
         "tailwind"
       ],
-      "randomDoubleBattleLevel": 88,
-      "tier": "PUBL",
+      "randomDoubleBattleLevel": 90,
+      "tier": "(PU)",
       "doublesTier": "(DUU)"
     },
     "silvallyice": {
@@ -9868,7 +9834,7 @@
         "psychicfangs",
         "swordsdance"
       ],
-      "randomBattleLevel": 88,
+      "randomBattleLevel": 86,
       "randomDoubleBattleMoves": [
         "flamethrower",
         "multiattack",
@@ -9889,7 +9855,7 @@
         "partingshot",
         "toxic"
       ],
-      "randomBattleLevel": 88,
+      "randomBattleLevel": 86,
       "randomDoubleBattleMoves": [
         "flamethrower",
         "grasspledge",
@@ -9899,7 +9865,7 @@
         "tailwind"
       ],
       "randomDoubleBattleLevel": 88,
-      "tier": "PU",
+      "tier": "(PU)",
       "doublesTier": "(DUU)"
     },
     "silvallypsychic": {
@@ -9909,7 +9875,7 @@
         "swordsdance",
         "uturn"
       ],
-      "randomBattleLevel": 88,
+      "randomBattleLevel": 86,
       "randomDoubleBattleMoves": [
         "flamethrower",
         "multiattack",
@@ -9918,7 +9884,7 @@
         "xscissor"
       ],
       "randomDoubleBattleLevel": 88,
-      "tier": "PUBL",
+      "tier": "(PU)",
       "doublesTier": "(DUU)"
     },
     "silvallyrock": {
@@ -9929,7 +9895,7 @@
         "psychicfangs",
         "swordsdance"
       ],
-      "randomBattleLevel": 88,
+      "randomBattleLevel": 86,
       "randomDoubleBattleMoves": [
         "flamethrower",
         "multiattack",
@@ -9938,7 +9904,7 @@
         "tailwind"
       ],
       "randomDoubleBattleLevel": 88,
-      "tier": "PU",
+      "tier": "(PU)",
       "doublesTier": "(DUU)"
     },
     "silvallysteel": {
@@ -9959,7 +9925,7 @@
         "thunderbolt"
       ],
       "randomDoubleBattleLevel": 88,
-      "tier": "NU",
+      "tier": "PU",
       "doublesTier": "(DUU)"
     },
     "silvallywater": {
@@ -9971,7 +9937,7 @@
         "thunderbolt",
         "toxic"
       ],
-      "randomBattleLevel": 88,
+      "randomBattleLevel": 86,
       "randomDoubleBattleMoves": [
         "icebeam",
         "multiattack",
@@ -9980,7 +9946,7 @@
         "thunderbolt"
       ],
       "randomDoubleBattleLevel": 88,
-      "tier": "PUBL",
+      "tier": "(PU)",
       "doublesTier": "(DUU)"
     },
     "minior": {
@@ -10013,7 +9979,7 @@
         "shellsmash"
       ],
       "randomDoubleBattleLevel": 84,
-      "tier": "NUBL",
+      "tier": "(PU)",
       "doublesTier": "(DUU)"
     },
     "togedemaru": {
@@ -10025,7 +9991,7 @@
         "wish",
         "zingzap"
       ],
-      "randomBattleLevel": 86,
+      "randomBattleLevel": 88,
       "randomDoubleBattleMoves": [
         "encore",
         "fakeout",
@@ -10035,7 +10001,7 @@
         "zingzap"
       ],
       "randomDoubleBattleLevel": 88,
-      "tier": "NU",
+      "tier": "PU",
       "doublesTier": "(DUU)"
     },
     "togedemarutotem": {
@@ -10050,7 +10016,7 @@
         "shadowsneak",
         "swordsdance"
       ],
-      "randomBattleLevel": 82,
+      "randomBattleLevel": 78,
       "randomDoubleBattleMoves": [
         "playrough",
         "protect",
@@ -10059,7 +10025,7 @@
         "swordsdance"
       ],
       "randomDoubleBattleLevel": 84,
-      "tier": "UU",
+      "tier": "RU",
       "doublesTier": "(DUU)"
     },
     "mimikyutotem": {
@@ -10083,7 +10049,7 @@
         "roost",
         "thunderbolt"
       ],
-      "randomBattleLevel": 86,
+      "randomBattleLevel": 88,
       "randomDoubleBattleMoves": [
         "dracometeor",
         "dragonpulse",
@@ -10095,7 +10061,7 @@
         "roost"
       ],
       "randomDoubleBattleLevel": 88,
-      "tier": "NUBL",
+      "tier": "(PU)",
       "doublesTier": "(DUU)"
     },
     "dhelmise": {
@@ -10107,7 +10073,7 @@
         "rapidspin",
         "swordsdance"
       ],
-      "randomBattleLevel": 84,
+      "randomBattleLevel": 88,
       "randomDoubleBattleMoves": [
         "anchorshot",
         "knockoff",
@@ -10116,7 +10082,7 @@
         "protect"
       ],
       "randomDoubleBattleLevel": 88,
-      "tier": "RU",
+      "tier": "NU",
       "doublesTier": "(DUU)"
     },
     "jangmoo": {
@@ -10133,7 +10099,7 @@
         "poisonjab",
         "stealthrock"
       ],
-      "randomBattleLevel": 80,
+      "randomBattleLevel": 82,
       "randomDoubleBattleMoves": [
         "bodypress",
         "dracometeor",
@@ -10141,8 +10107,8 @@
         "protect"
       ],
       "randomDoubleBattleLevel": 80,
-      "tier": "OU",
-      "doublesTier": "DOU"
+      "tier": "UU",
+      "doublesTier": "DUU"
     },
     "kommoototem": {
       "isNonstandard": "Past",
@@ -10179,7 +10145,7 @@
         "psyshock",
         "taunt"
       ],
-      "randomBattleLevel": 80,
+      "randomBattleLevel": 82,
       "randomDoubleBattleMoves": [
         "calmmind",
         "dazzlinggleam",
@@ -10201,7 +10167,7 @@
         "swordsdance",
         "woodhammer"
       ],
-      "randomBattleLevel": 80,
+      "randomBattleLevel": 84,
       "randomDoubleBattleMoves": [
         "closecombat",
         "highhorsepower",
@@ -10212,8 +10178,8 @@
         "woodhammer"
       ],
       "randomDoubleBattleLevel": 80,
-      "tier": "OU",
-      "doublesTier": "DOU"
+      "tier": "UU",
+      "doublesTier": "DUU"
     },
     "tapufini": {
       "randomBattleMoves": [
@@ -10282,7 +10248,7 @@
         "psyshock",
         "roost"
       ],
-      "randomDoubleBattleLevel": 72,
+      "randomDoubleBattleLevel": 74,
       "tier": "Uber",
       "doublesTier": "DUber"
     },
@@ -10303,8 +10269,8 @@
         "sludgebomb",
         "thunderbolt"
       ],
-      "randomDoubleBattleLevel": 84,
-      "tier": "OU",
+      "randomDoubleBattleLevel": 82,
+      "tier": "UU",
       "doublesTier": "DOU"
     },
     "buzzwole": {
@@ -10327,7 +10293,7 @@
       ],
       "randomDoubleBattleLevel": 80,
       "tier": "OU",
-      "doublesTier": "DOU"
+      "doublesTier": "(DUU)"
     },
     "pheromosa": {
       "randomBattleMoves": [
@@ -10337,7 +10303,7 @@
         "throatchop",
         "uturn"
       ],
-      "randomBattleLevel": 76,
+      "randomBattleLevel": 78,
       "randomDoubleBattleMoves": [
         "closecombat",
         "icebeam",
@@ -10347,26 +10313,27 @@
         "uturn"
       ],
       "randomDoubleBattleLevel": 78,
-      "tier": "OU",
-      "doublesTier": "DOU"
+      "tier": "Uber",
+      "doublesTier": "(DUU)"
     },
     "xurkitree": {
       "randomBattleMoves": [
         "dazzlinggleam",
         "energyball",
+        "hypnosis",
         "thunderbolt",
         "voltswitch"
       ],
-      "randomBattleLevel": 82,
+      "randomBattleLevel": 78,
       "randomDoubleBattleMoves": [
         "dazzlinggleam",
         "energyball",
         "thunderbolt",
         "voltswitch"
       ],
-      "randomDoubleBattleLevel": 84,
-      "tier": "OU",
-      "doublesTier": "DOU"
+      "randomDoubleBattleLevel": 82,
+      "tier": "RU",
+      "doublesTier": "(DUU)"
     },
     "celesteela": {
       "randomBattleMoves": [
@@ -10385,8 +10352,8 @@
         "fireblast",
         "flashcannon"
       ],
-      "randomDoubleBattleLevel": 84,
-      "tier": "OU",
+      "randomDoubleBattleLevel": 82,
+      "tier": "UU",
       "doublesTier": "DOU"
     },
     "kartana": {
@@ -10397,7 +10364,7 @@
         "smartstrike",
         "swordsdance"
       ],
-      "randomBattleLevel": 80,
+      "randomBattleLevel": 76,
       "randomDoubleBattleMoves": [
         "knockoff",
         "leafblade",
@@ -10405,7 +10372,7 @@
         "smartstrike",
         "swordsdance"
       ],
-      "randomDoubleBattleLevel": 80,
+      "randomDoubleBattleLevel": 78,
       "tier": "OU",
       "doublesTier": "DOU"
     },
@@ -10417,7 +10384,7 @@
         "knockoff",
         "sludgebomb"
       ],
-      "randomBattleLevel": 88,
+      "randomBattleLevel": 86,
       "randomDoubleBattleMoves": [
         "dracometeor",
         "fireblast",
@@ -10426,8 +10393,8 @@
         "sludgebomb"
       ],
       "randomDoubleBattleLevel": 88,
-      "tier": "OU",
-      "doublesTier": "DOU"
+      "tier": "PU",
+      "doublesTier": "(DUU)"
     },
     "necrozma": {
       "randomBattleMoves": [
@@ -10447,8 +10414,8 @@
         "protect"
       ],
       "randomDoubleBattleLevel": 80,
-      "tier": "UU",
-      "doublesTier": "DOU"
+      "tier": "RU",
+      "doublesTier": "DUU"
     },
     "necrozmaduskmane": {
       "randomBattleMoves": [
@@ -10458,7 +10425,7 @@
         "photongeyser",
         "sunsteelstrike"
       ],
-      "randomBattleLevel": 72,
+      "randomBattleLevel": 70,
       "randomDoubleBattleMoves": [
         "dragondance",
         "photongeyser",
@@ -10477,7 +10444,7 @@
         "photongeyser",
         "stealthrock"
       ],
-      "randomBattleLevel": 74,
+      "randomBattleLevel": 78,
       "randomDoubleBattleMoves": [
         "heatwave",
         "moongeistbeam",
@@ -10581,7 +10548,7 @@
       ],
       "randomDoubleBattleLevel": 76,
       "tier": "Uber",
-      "doublesTier": "DOU"
+      "doublesTier": "DUU"
     },
     "stakataka": {
       "randomBattleMoves": [
@@ -10601,7 +10568,7 @@
         "trickroom"
       ],
       "randomDoubleBattleLevel": 82,
-      "tier": "OU",
+      "tier": "RU",
       "doublesTier": "DOU"
     },
     "blacephalon": {
@@ -10612,7 +10579,7 @@
         "shadowball",
         "trick"
       ],
-      "randomBattleLevel": 80,
+      "randomBattleLevel": 82,
       "randomDoubleBattleMoves": [
         "fireblast",
         "protect",
@@ -10621,8 +10588,8 @@
         "trick"
       ],
       "randomDoubleBattleLevel": 80,
-      "tier": "OU",
-      "doublesTier": "DOU"
+      "tier": "UUBL",
+      "doublesTier": "(DUU)"
     },
     "zeraora": {
       "randomBattleMoves": [
@@ -10634,7 +10601,7 @@
         "playrough",
         "voltswitch"
       ],
-      "randomBattleLevel": 80,
+      "randomBattleLevel": 78,
       "randomDoubleBattleMoves": [
         "closecombat",
         "fakeout",
@@ -10644,9 +10611,9 @@
         "playrough",
         "snarl"
       ],
-      "randomDoubleBattleLevel": 80,
-      "tier": "OU",
-      "doublesTier": "DOU"
+      "randomDoubleBattleLevel": 78,
+      "tier": "UU",
+      "doublesTier": "DUU"
     },
     "meltan": {
       "tier": "(PU)",
@@ -10670,20 +10637,19 @@
         "thunderwave"
       ],
       "randomDoubleBattleLevel": 76,
-      "gmaxUnreleased": true,
       "tier": "OU",
       "doublesTier": "DUber"
     },
     "melmetalgmax": {
-      "isNonstandard": "Unobtainable",
-      "tier": "Unreleased"
+      "isNonstandard": "Gigantamax",
+      "tier": "AG",
+      "doublesTier": "(DUber)"
     },
     "grookey": {
       "tier": "LC"
     },
     "thwackey": {
-      "tier": "NU",
-      "doublesTier": "DUU"
+      "tier": "NFE"
     },
     "rillaboom": {
       "randomBattleMoves": [
@@ -10716,15 +10682,14 @@
       ],
       "randomBattleLevel": 80,
       "isNonstandard": "Gigantamax",
-      "tier": "(Uber)",
+      "tier": "AG",
       "doublesTier": "(DUber)"
     },
     "scorbunny": {
       "tier": "LC"
     },
     "raboot": {
-      "tier": "PU",
-      "doublesTier": "NFE"
+      "tier": "NFE"
     },
     "cinderace": {
       "randomBattleMoves": [
@@ -10735,7 +10700,7 @@
         "uturn",
         "zenheadbutt"
       ],
-      "randomBattleLevel": 76,
+      "randomBattleLevel": 78,
       "randomDoubleBattleMoves": [
         "courtchange",
         "gunkshot",
@@ -10747,11 +10712,11 @@
       ],
       "randomDoubleBattleLevel": 80,
       "tier": "OU",
-      "doublesTier": "DOU"
+      "doublesTier": "(DUU)"
     },
     "cinderacegmax": {
       "isNonstandard": "Gigantamax",
-      "tier": "(Uber)",
+      "tier": "AG",
       "doublesTier": "(DUber)"
     },
     "sobble": {
@@ -10769,7 +10734,7 @@
         "scald",
         "uturn"
       ],
-      "randomBattleLevel": 84,
+      "randomBattleLevel": 82,
       "randomDoubleBattleMoves": [
         "airslash",
         "hydropump",
@@ -10779,8 +10744,8 @@
         "uturn"
       ],
       "randomDoubleBattleLevel": 84,
-      "tier": "RU",
-      "doublesTier": "DUU"
+      "tier": "NU",
+      "doublesTier": "(DUU)"
     },
     "inteleongmax": {
       "randomBattleMoves": [
@@ -10789,7 +10754,7 @@
         "icebeam",
         "surf"
       ],
-      "randomBattleLevel": 84,
+      "randomBattleLevel": 82,
       "randomDoubleBattleMoves": [
         "focusenergy",
         "hydropump",
@@ -10798,7 +10763,7 @@
       ],
       "randomDoubleBattleLevel": 84,
       "isNonstandard": "Gigantamax",
-      "tier": "(Uber)",
+      "tier": "AG",
       "doublesTier": "(DUber)"
     },
     "skwovet": {
@@ -10812,7 +10777,7 @@
         "payback",
         "swordsdance"
       ],
-      "randomBattleLevel": 88,
+      "randomBattleLevel": 86,
       "randomDoubleBattleMoves": [
         "bodyslam",
         "crunch",
@@ -10850,11 +10815,11 @@
       ],
       "randomDoubleBattleLevel": 80,
       "tier": "OU",
-      "doublesTier": "DOU"
+      "doublesTier": "(DUU)"
     },
     "corviknightgmax": {
       "isNonstandard": "Gigantamax",
-      "tier": "(Uber)",
+      "tier": "AG",
       "doublesTier": "(DUber)"
     },
     "blipbug": {
@@ -10871,11 +10836,10 @@
         "psychic",
         "recover",
         "stickyweb",
-        "storedpower",
         "uturn"
       ],
       "randomBattleLevel": 88,
-      "tier": "PUBL",
+      "tier": "(PU)",
       "doublesTier": "(DUU)"
     },
     "orbeetlegmax": {
@@ -10890,7 +10854,7 @@
       ],
       "randomDoubleBattleLevel": 88,
       "isNonstandard": "Gigantamax",
-      "tier": "(Uber)",
+      "tier": "AG",
       "doublesTier": "(DUber)"
     },
     "nickit": {
@@ -10914,7 +10878,7 @@
         "taunt"
       ],
       "randomDoubleBattleLevel": 88,
-      "tier": "PUBL",
+      "tier": "(PU)",
       "doublesTier": "(DUU)"
     },
     "gossifleur": {
@@ -10929,18 +10893,17 @@
         "rapidspin",
         "sleeppowder"
       ],
-      "randomBattleLevel": 86,
+      "randomBattleLevel": 90,
       "randomDoubleBattleMoves": [
+        "charm",
         "energyball",
         "helpinghand",
-        "leechseed",
         "pollenpuff",
         "protect",
-        "sleeppowder",
-        "synthesis"
+        "sleeppowder"
       ],
       "randomDoubleBattleLevel": 90,
-      "tier": "NU",
+      "tier": "(PU)",
       "doublesTier": "(DUU)"
     },
     "wooloo": {
@@ -10963,7 +10926,7 @@
         "zenheadbutt"
       ],
       "randomDoubleBattleLevel": 90,
-      "tier": "PU",
+      "tier": "(PU)",
       "doublesTier": "(DUU)"
     },
     "chewtle": {
@@ -10987,12 +10950,12 @@
         "swordsdance"
       ],
       "randomDoubleBattleLevel": 84,
-      "tier": "PU",
+      "tier": "(PU)",
       "doublesTier": "(DUU)"
     },
     "drednawgmax": {
       "isNonstandard": "Gigantamax",
-      "tier": "(Uber)",
+      "tier": "AG",
       "doublesTier": "(DUber)"
     },
     "yamper": {
@@ -11008,7 +10971,7 @@
         "thunderfang",
         "voltswitch"
       ],
-      "randomBattleLevel": 88,
+      "randomBattleLevel": 86,
       "randomDoubleBattleMoves": [
         "crunch",
         "firefang",
@@ -11020,7 +10983,7 @@
         "thunderfang"
       ],
       "randomDoubleBattleLevel": 86,
-      "tier": "PU",
+      "tier": "(PU)",
       "doublesTier": "(DUU)"
     },
     "rolycoly": {
@@ -11030,7 +10993,7 @@
       "tier": "NFE"
     },
     "coalossal": {
-      "tier": "RU",
+      "tier": "(PU)",
       "doublesTier": "(DUU)"
     },
     "coalossalgmax": {
@@ -11042,7 +11005,7 @@
         "stoneedge",
         "willowisp"
       ],
-      "randomBattleLevel": 84,
+      "randomBattleLevel": 86,
       "randomDoubleBattleMoves": [
         "fireblast",
         "incinerate",
@@ -11053,7 +11016,7 @@
       ],
       "randomDoubleBattleLevel": 84,
       "isNonstandard": "Gigantamax",
-      "tier": "(Uber)",
+      "tier": "AG",
       "doublesTier": "(DUber)"
     },
     "applin": {
@@ -11076,12 +11039,12 @@
         "protect"
       ],
       "randomDoubleBattleLevel": 86,
-      "tier": "PUBL",
+      "tier": "(PU)",
       "doublesTier": "(DUU)"
     },
     "flapplegmax": {
       "isNonstandard": "Gigantamax",
-      "tier": "(Uber)",
+      "tier": "AG",
       "doublesTier": "(DUber)"
     },
     "appletun": {
@@ -11091,17 +11054,16 @@
         "leechseed",
         "recover"
       ],
-      "randomBattleLevel": 88,
+      "randomBattleLevel": 90,
       "randomDoubleBattleMoves": [
         "appleacid",
-        "dracometeor",
         "dragonpulse",
         "leechseed",
         "protect",
         "recover"
       ],
-      "randomDoubleBattleLevel": 88,
-      "tier": "PU",
+      "randomDoubleBattleLevel": 90,
+      "tier": "(PU)",
       "doublesTier": "(DUU)"
     },
     "appletungmax": {
@@ -11111,9 +11073,9 @@
         "leechseed",
         "recover"
       ],
-      "randomBattleLevel": 88,
+      "randomBattleLevel": 90,
       "isNonstandard": "Gigantamax",
-      "tier": "(Uber)",
+      "tier": "AG",
       "doublesTier": "(DUber)"
     },
     "silicobra": {
@@ -11129,7 +11091,7 @@
         "rest"
       ],
       "randomBattleLevel": 86,
-      "tier": "NU",
+      "tier": "PU",
       "doublesTier": "(DUU)"
     },
     "sandacondagmax": {
@@ -11142,7 +11104,7 @@
       ],
       "randomDoubleBattleLevel": 86,
       "isNonstandard": "Gigantamax",
-      "tier": "(Uber)",
+      "tier": "AG",
       "doublesTier": "(DUber)"
     },
     "cramorant": {
@@ -11153,7 +11115,7 @@
         "superpower",
         "surf"
       ],
-      "randomBattleLevel": 88,
+      "randomBattleLevel": 86,
       "randomDoubleBattleMoves": [
         "hurricane",
         "icebeam",
@@ -11163,7 +11125,7 @@
         "tailwind"
       ],
       "randomDoubleBattleLevel": 88,
-      "tier": "PU",
+      "tier": "(PU)",
       "doublesTier": "(DUU)"
     },
     "arrokuda": {
@@ -11177,7 +11139,7 @@
         "poisonjab",
         "psychicfangs"
       ],
-      "randomBattleLevel": 84,
+      "randomBattleLevel": 82,
       "randomDoubleBattleMoves": [
         "closecombat",
         "crunch",
@@ -11187,7 +11149,7 @@
         "poisonjab"
       ],
       "randomDoubleBattleLevel": 84,
-      "tier": "RU",
+      "tier": "OU",
       "doublesTier": "(DUU)"
     },
     "toxel": {
@@ -11201,9 +11163,9 @@
         "sludgewave",
         "voltswitch"
       ],
-      "randomBattleLevel": 80,
-      "tier": "OU",
-      "doublesTier": "DUU"
+      "randomBattleLevel": 84,
+      "tier": "NUBL",
+      "doublesTier": "(DUU)"
     },
     "toxtricitylowkey": {
       "randomBattleMoves": [
@@ -11212,9 +11174,9 @@
         "sludgewave",
         "voltswitch"
       ],
-      "randomBattleLevel": 80,
-      "tier": "OU",
-      "doublesTier": "DUU"
+      "randomBattleLevel": 84,
+      "tier": "NUBL",
+      "doublesTier": "(DUU)"
     },
     "toxtricitygmax": {
       "randomDoubleBattleMoves": [
@@ -11227,7 +11189,7 @@
       ],
       "randomDoubleBattleLevel": 84,
       "isNonstandard": "Gigantamax",
-      "tier": "(Uber)",
+      "tier": "AG",
       "doublesTier": "(DUber)"
     },
     "toxtricitylowkeygmax": {
@@ -11240,7 +11202,7 @@
       ],
       "randomDoubleBattleLevel": 84,
       "isNonstandard": "Gigantamax",
-      "tier": "(Uber)",
+      "tier": "AG",
       "doublesTier": "(DUber)"
     },
     "sizzlipede": {
@@ -11254,7 +11216,7 @@
         "leechlife",
         "powerwhip"
       ],
-      "randomBattleLevel": 84,
+      "randomBattleLevel": 88,
       "randomDoubleBattleMoves": [
         "coil",
         "firelash",
@@ -11264,7 +11226,7 @@
         "protect"
       ],
       "randomDoubleBattleLevel": 88,
-      "tier": "RU",
+      "tier": "(PU)",
       "doublesTier": "(DUU)"
     },
     "centiskorchgmax": {
@@ -11278,7 +11240,7 @@
       ],
       "randomDoubleBattleLevel": 88,
       "isNonstandard": "Gigantamax",
-      "tier": "(Uber)",
+      "tier": "AG",
       "doublesTier": "(DUber)"
     },
     "clobbopus": {
@@ -11304,12 +11266,9 @@
       ],
       "randomDoubleBattleLevel": 88,
       "tier": "(PU)",
-      "doublesTier": "DUU"
+      "doublesTier": "(DUU)"
     },
     "sinistea": {
-      "tier": "LC"
-    },
-    "sinisteaantique": {
       "tier": "LC"
     },
     "polteageist": {
@@ -11320,7 +11279,7 @@
         "storedpower",
         "strengthsap"
       ],
-      "randomBattleLevel": 82,
+      "randomBattleLevel": 80,
       "randomDoubleBattleMoves": [
         "gigadrain",
         "protect",
@@ -11329,11 +11288,7 @@
         "storedpower"
       ],
       "randomDoubleBattleLevel": 84,
-      "tier": "UU",
-      "doublesTier": "(DUU)"
-    },
-    "polteageistantique": {
-      "tier": "UU",
+      "tier": "NUBL",
       "doublesTier": "(DUU)"
     },
     "hatenna": {
@@ -11343,19 +11298,19 @@
       "tier": "NFE"
     },
     "hatterene": {
-      "tier": "OU",
+      "tier": "UU",
       "doublesTier": "DOU"
     },
     "hatterenegmax": {
       "randomBattleMoves": [
         "calmmind",
         "dazzlinggleam",
-        "drainingkiss",
         "mysticalfire",
         "psychic",
+        "psyshock",
         "trickroom"
       ],
-      "randomBattleLevel": 80,
+      "randomBattleLevel": 86,
       "randomDoubleBattleMoves": [
         "dazzlinggleam",
         "mysticalfire",
@@ -11365,7 +11320,7 @@
       ],
       "randomDoubleBattleLevel": 80,
       "isNonstandard": "Gigantamax",
-      "tier": "(Uber)",
+      "tier": "AG",
       "doublesTier": "(DUber)"
     },
     "impidimp": {
@@ -11382,7 +11337,7 @@
         "taunt",
         "thunderwave"
       ],
-      "randomBattleLevel": 82,
+      "randomBattleLevel": 84,
       "tier": "UU",
       "doublesTier": "DUU"
     },
@@ -11395,7 +11350,7 @@
         "suckerpunch",
         "trick"
       ],
-      "randomBattleLevel": 82,
+      "randomBattleLevel": 84,
       "randomDoubleBattleMoves": [
         "darkestlariat",
         "fakeout",
@@ -11407,14 +11362,14 @@
       ],
       "randomDoubleBattleLevel": 84,
       "isNonstandard": "Gigantamax",
-      "tier": "(Uber)",
+      "tier": "AG",
       "doublesTier": "(DUber)"
     },
     "milcery": {
       "tier": "LC"
     },
     "alcremie": {
-      "tier": "PU",
+      "tier": "(PU)",
       "doublesTier": "(DUU)"
     },
     "alcremiegmax": {
@@ -11435,7 +11390,7 @@
       ],
       "randomDoubleBattleLevel": 84,
       "isNonstandard": "Gigantamax",
-      "tier": "(Uber)",
+      "tier": "AG",
       "doublesTier": "(DUber)"
     },
     "falinks": {
@@ -11446,7 +11401,7 @@
         "rockslide",
         "throatchop"
       ],
-      "randomBattleLevel": 88,
+      "randomBattleLevel": 86,
       "randomDoubleBattleMoves": [
         "closecombat",
         "noretreat",
@@ -11455,7 +11410,7 @@
         "throatchop"
       ],
       "randomDoubleBattleLevel": 86,
-      "tier": "PU",
+      "tier": "(PU)",
       "doublesTier": "(DUU)"
     },
     "pincurchin": {
@@ -11474,9 +11429,9 @@
         "scald",
         "suckerpunch"
       ],
-      "randomDoubleBattleLevel": 86,
+      "randomDoubleBattleLevel": 88,
       "tier": "PU",
-      "doublesTier": "DUU"
+      "doublesTier": "(DUU)"
     },
     "snom": {
       "tier": "LC"
@@ -11489,7 +11444,7 @@
         "icebeam",
         "quiverdance"
       ],
-      "randomBattleLevel": 86,
+      "randomBattleLevel": 84,
       "randomDoubleBattleMoves": [
         "bugbuzz",
         "gigadrain",
@@ -11500,7 +11455,7 @@
         "wideguard"
       ],
       "randomDoubleBattleLevel": 88,
-      "tier": "NU",
+      "tier": "(PU)",
       "doublesTier": "(DUU)"
     },
     "stonjourner": {
@@ -11533,7 +11488,7 @@
         "reversal",
         "zenheadbutt"
       ],
-      "randomBattleLevel": 88,
+      "randomBattleLevel": 86,
       "randomDoubleBattleMoves": [
         "bellydrum",
         "iciclecrash",
@@ -11563,8 +11518,8 @@
         "trick"
       ],
       "randomDoubleBattleLevel": 80,
-      "tier": "RUBL",
-      "doublesTier": "DOU"
+      "tier": "NUBL",
+      "doublesTier": "DUU"
     },
     "indeedeef": {
       "randomBattleMoves": [
@@ -11574,7 +11529,7 @@
         "hypervoice",
         "mysticalfire"
       ],
-      "randomBattleLevel": 84,
+      "randomBattleLevel": 86,
       "randomDoubleBattleMoves": [
         "expandingforce",
         "followme",
@@ -11583,7 +11538,7 @@
         "protect"
       ],
       "randomDoubleBattleLevel": 80,
-      "tier": "RU",
+      "tier": "PUBL",
       "doublesTier": "DOU"
     },
     "morpeko": {
@@ -11605,7 +11560,7 @@
         "superfang"
       ],
       "randomDoubleBattleLevel": 88,
-      "tier": "PU",
+      "tier": "(PU)",
       "doublesTier": "(DUU)"
     },
     "cufant": {
@@ -11619,7 +11574,7 @@
         "rockslide",
         "stealthrock"
       ],
-      "randomBattleLevel": 84,
+      "randomBattleLevel": 86,
       "randomDoubleBattleMoves": [
         "heatcrash",
         "highhorsepower",
@@ -11630,7 +11585,7 @@
         "stoneedge"
       ],
       "randomDoubleBattleLevel": 88,
-      "tier": "RU",
+      "tier": "NU",
       "doublesTier": "(DUU)"
     },
     "copperajahgmax": {
@@ -11641,9 +11596,9 @@
         "powerwhip",
         "stoneedge"
       ],
-      "randomBattleLevel": 84,
+      "randomBattleLevel": 86,
       "isNonstandard": "Gigantamax",
-      "tier": "(Uber)",
+      "tier": "AG",
       "doublesTier": "(DUber)"
     },
     "dracozolt": {
@@ -11662,9 +11617,9 @@
         "highhorsepower",
         "rockslide"
       ],
-      "randomDoubleBattleLevel": 84,
+      "randomDoubleBattleLevel": 82,
       "tier": "UUBL",
-      "doublesTier": "(DUU)"
+      "doublesTier": "DOU"
     },
     "arctozolt": {
       "randomBattleMoves": [
@@ -11674,7 +11629,7 @@
         "stompingtantrum",
         "thunderwave"
       ],
-      "randomBattleLevel": 88,
+      "randomBattleLevel": 86,
       "randomDoubleBattleMoves": [
         "blizzard",
         "boltbeak",
@@ -11683,7 +11638,7 @@
         "protect"
       ],
       "randomDoubleBattleLevel": 88,
-      "tier": "PUBL",
+      "tier": "NUBL",
       "doublesTier": "(DUU)"
     },
     "dracovish": {
@@ -11694,7 +11649,7 @@
         "lowkick",
         "psychicfangs"
       ],
-      "randomBattleLevel": 76,
+      "randomBattleLevel": 82,
       "randomDoubleBattleMoves": [
         "crunch",
         "dragonrush",
@@ -11723,7 +11678,7 @@
         "superfang"
       ],
       "randomDoubleBattleLevel": 88,
-      "tier": "PUBL",
+      "tier": "PU",
       "doublesTier": "(DUU)"
     },
     "duraludon": {
@@ -11745,12 +11700,12 @@
         "thunderbolt"
       ],
       "randomDoubleBattleLevel": 88,
-      "tier": "NU",
+      "tier": "PUBL",
       "doublesTier": "(DUU)"
     },
     "duraludongmax": {
       "isNonstandard": "Gigantamax",
-      "tier": "(Uber)",
+      "tier": "AG",
       "doublesTier": "(DUber)"
     },
     "dreepy": {
@@ -11790,7 +11745,7 @@
         "psychicfangs",
         "swordsdance"
       ],
-      "randomBattleLevel": 72,
+      "randomBattleLevel": 70,
       "randomDoubleBattleMoves": [
         "closecombat",
         "crunch",
@@ -11812,7 +11767,7 @@
         "psychicfangs",
         "swordsdance"
       ],
-      "randomBattleLevel": 72,
+      "randomBattleLevel": 68,
       "randomDoubleBattleMoves": [
         "behemothblade",
         "closecombat",
@@ -11821,8 +11776,8 @@
         "psychicfangs",
         "swordsdance"
       ],
-      "randomDoubleBattleLevel": 69,
-      "tier": "Uber",
+      "randomDoubleBattleLevel": 67,
+      "tier": "AG",
       "doublesTier": "DUber"
     },
     "zamazenta": {
@@ -11855,8 +11810,8 @@
       "randomDoubleBattleMoves": [
         "behemothbash",
         "closecombat",
-        "coaching",
         "crunch",
+        "howl",
         "protect",
         "psychicfangs"
       ],
@@ -11898,7 +11853,7 @@
         "uturn",
         "wickedblow"
       ],
-      "randomBattleLevel": 80,
+      "randomBattleLevel": 78,
       "randomDoubleBattleMoves": [
         "closecombat",
         "ironhead",
@@ -11907,7 +11862,7 @@
         "wickedblow"
       ],
       "randomDoubleBattleLevel": 76,
-      "tier": "OU",
+      "tier": "Uber",
       "doublesTier": "DUber"
     },
     "urshifurapidstrike": {
@@ -11937,9 +11892,9 @@
         "substitute",
         "wickedblow"
       ],
-      "randomBattleLevel": 80,
+      "randomBattleLevel": 78,
       "isNonstandard": "Gigantamax",
-      "tier": "(Uber)",
+      "tier": "AG",
       "doublesTier": "(DUber)"
     },
     "urshifurapidstrikegmax": {
@@ -11952,7 +11907,7 @@
       ],
       "randomBattleLevel": 80,
       "isNonstandard": "Gigantamax",
-      "tier": "(Uber)",
+      "tier": "AG",
       "doublesTier": "(DUber)"
     },
     "zarude": {
@@ -11960,10 +11915,11 @@
         "bulkup",
         "closecombat",
         "darkestlariat",
+        "junglehealing",
         "powerwhip",
         "uturn"
       ],
-      "randomBattleLevel": 82,
+      "randomBattleLevel": 80,
       "randomDoubleBattleMoves": [
         "closecombat",
         "darkestlariat",
@@ -11973,12 +11929,28 @@
         "rockslide"
       ],
       "randomDoubleBattleLevel": 80,
-      "tier": "UU",
-      "doublesTier": "DUU"
+      "tier": "RU",
+      "doublesTier": "(DUU)"
     },
     "zarudedada": {
-      "isNonstandard": "Unobtainable",
-      "tier": "Unreleased"
+      "randomBattleMoves": [
+        "bulkup",
+        "closecombat",
+        "darkestlariat",
+        "junglehealing",
+        "powerwhip",
+        "uturn"
+      ],
+      "randomBattleLevel": 80,
+      "randomDoubleBattleMoves": [
+        "closecombat",
+        "darkestlariat",
+        "junglehealing",
+        "powerwhip",
+        "protect",
+        "rockslide"
+      ],
+      "randomDoubleBattleLevel": 80
     },
     "regieleki": {
       "randomBattleMoves": [
@@ -11987,7 +11959,7 @@
         "thunderbolt",
         "voltswitch"
       ],
-      "randomBattleLevel": 82,
+      "randomBattleLevel": 80,
       "randomDoubleBattleMoves": [
         "eerieimpulse",
         "extremespeed",
@@ -12014,9 +11986,9 @@
         "dragonenergy",
         "firefang"
       ],
-      "randomDoubleBattleLevel": 84,
-      "tier": "OU",
-      "doublesTier": "DOU"
+      "randomDoubleBattleLevel": 80,
+      "tier": "RU",
+      "doublesTier": "DUU"
     },
     "glastrier": {
       "randomBattleMoves": [
@@ -12025,7 +11997,7 @@
         "iciclecrash",
         "swordsdance"
       ],
-      "randomBattleLevel": 80,
+      "randomBattleLevel": 84,
       "randomDoubleBattleMoves": [
         "avalanche",
         "closecombat",
@@ -12033,7 +12005,7 @@
         "protect"
       ],
       "randomDoubleBattleLevel": 84,
-      "tier": "OU",
+      "tier": "RU",
       "doublesTier": "DOU"
     },
     "spectrier": {
@@ -12043,16 +12015,16 @@
         "shadowball",
         "substitute"
       ],
-      "randomBattleLevel": 80,
+      "randomBattleLevel": 76,
       "randomDoubleBattleMoves": [
         "darkpulse",
         "nastyplot",
         "protect",
         "shadowball"
       ],
-      "randomDoubleBattleLevel": 80,
+      "randomDoubleBattleLevel": 78,
       "tier": "OU",
-      "doublesTier": "DOU"
+      "doublesTier": "DUU"
     },
     "calyrex": {
       "randomBattleMoves": [
@@ -12061,7 +12033,7 @@
         "psyshock",
         "substitute"
       ],
-      "randomBattleLevel": 84,
+      "randomBattleLevel": 90,
       "randomDoubleBattleMoves": [
         "encore",
         "helpinghand",
@@ -12069,9 +12041,9 @@
         "pollenpuff",
         "protect"
       ],
-      "randomDoubleBattleLevel": 88,
-      "tier": "OU",
-      "doublesTier": "DOU"
+      "randomDoubleBattleLevel": 90,
+      "tier": "(PU)",
+      "doublesTier": "(DUU)"
     },
     "calyrexice": {
       "randomBattleMoves": [
@@ -12080,7 +12052,7 @@
         "highhorsepower",
         "trickroom"
       ],
-      "randomBattleLevel": 76,
+      "randomBattleLevel": 74,
       "randomDoubleBattleMoves": [
         "closecombat",
         "glaciallance",
@@ -12101,7 +12073,7 @@
         "substitute",
         "trick"
       ],
-      "randomBattleLevel": 74,
+      "randomBattleLevel": 68,
       "randomDoubleBattleMoves": [
         "astralbarrage",
         "nastyplot",
@@ -12109,7 +12081,7 @@
         "protect",
         "psyshock"
       ],
-      "randomDoubleBattleLevel": 72,
+      "randomDoubleBattleLevel": 70,
       "tier": "Uber",
       "doublesTier": "DUber"
     },
@@ -12348,6 +12320,10 @@
     "astrolotl": {
       "isNonstandard": "CAP",
       "tier": "CAP"
+    },
+    "miasmite": {
+      "isNonstandard": "CAP",
+      "tier": "CAP LC"
     },
     "miasmaw": {
       "isNonstandard": "CAP",

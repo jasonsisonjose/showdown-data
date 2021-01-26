@@ -44,9 +44,16 @@
       "inherit": true,
       "onBeforeMovePriority": 11
     },
+    "symbiosis": {
+      "inherit": true
+    },
     "weakarmor": {
       "inherit": true,
       "rating": 0.5
+    },
+    "zenmode": {
+      "inherit": true,
+      "isPermanent": false
     }
   }
 }

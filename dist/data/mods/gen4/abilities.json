@@ -1,5 +1,8 @@
 {
   "Abilities": {
+    "airlock": {
+      "inherit": true
+    },
     "angerpoint": {
       "inherit": true,
       "rating": 1.5
@@ -10,7 +13,14 @@
       "rating": 2,
       "num": 66
     },
+    "cloudnine": {
+      "inherit": true
+    },
     "colorchange": {
+      "inherit": true
+    },
+    "compoundeyes": {
+      "onSourceModifyAccuracyPriority": 9,
       "inherit": true
     },
     "cutecharm": {
@@ -33,6 +43,10 @@
     },
     "forewarn": {
       "inherit": true
+    },
+    "hustle": {
+      "inherit": true,
+      "onSourceModifyAccuracyPriority": 7
     },
     "insomnia": {
       "inherit": true,
@@ -91,6 +105,10 @@
     "roughskin": {
       "inherit": true
     },
+    "sandveil": {
+      "inherit": true,
+      "onModifyAccuracyPriority": 8
+    },
     "serenegrace": {
       "inherit": true
     },
@@ -99,8 +117,9 @@
       "rating": 4,
       "num": 86
     },
-    "soundproof": {
-      "inherit": true
+    "snowcloak": {
+      "inherit": true,
+      "onModifyAccuracyPriority": 8
     },
     "static": {
       "inherit": true
@@ -129,6 +148,10 @@
     },
     "synchronize": {
       "inherit": true
+    },
+    "tangledfeet": {
+      "inherit": true,
+      "onModifyAccuracyPriority": 6
     },
     "thickfat": {
       "onSourceBasePowerPriority": 1,

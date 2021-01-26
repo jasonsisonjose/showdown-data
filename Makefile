@@ -3,17 +3,17 @@ NEW_TAG=$(shell date +%Y.%m.%d)
 default: build
 
 install:
-	yarn install
+	$(DC_RUN) yarn install
 
 build:
 	$(DC_RUN) /app/scripts/build.sh
 
 upgrade:
-	yarn upgrade
+	$(DC_RUN) yarn upgrade
 	make build
 
 tag:
-	./scripts/tag.sh
+	$(DC_RUN) ./scripts/tag.sh
 
 publish:
 	git push --tags

@@ -520,6 +520,7 @@
         "species": "Aron",
         "item": "Berry Juice",
         "ability": "Sturdy",
+        "evs": {},
         "ivs": {
           "hp": 0,
           "atk": 0,

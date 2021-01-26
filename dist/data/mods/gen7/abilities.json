@@ -28,6 +28,9 @@
     "scrappy": {
       "inherit": true
     },
+    "soundproof": {
+      "inherit": true
+    },
     "technician": {
       "inherit": true,
       "onBasePowerPriority": 19

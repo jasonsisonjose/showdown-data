@@ -6,6 +6,10 @@
     "bigroot": {
       "inherit": true
     },
+    "brightpowder": {
+      "inherit": true,
+      "onModifyAccuracyPriority": 5
+    },
     "choiceband": {
       "inherit": true
     },
@@ -29,21 +33,22 @@
     },
     "focussash": {
       "inherit": true,
-      "desc": "If holder's HP is full, survives all hits of one attack with at least 1 HP. Single use.",
       "condition": {
         "duration": 1
       }
     },
     "griseousorb": {
-      "inherit": true,
-      "desc": "Can only be held by Giratina. Its Ghost- & Dragon-type attacks have 1.2x power."
+      "inherit": true
     },
     "ironball": {
-      "inherit": true,
-      "desc": "Holder's Speed is halved and it becomes grounded."
+      "inherit": true
     },
     "kingsrock": {
       "inherit": true
+    },
+    "laxincense": {
+      "inherit": true,
+      "onModifyAccuracyPriority": 5
     },
     "lifeorb": {
       "inherit": true,
@@ -62,16 +67,21 @@
     },
     "mentalherb": {
       "inherit": true,
-      "desc": "Holder is cured if it is infatuated. Single use.",
       "fling": {
         "basePower": 10
       }
     },
     "metronome": {
       "inherit": true,
-      "desc": "Damage of moves used on consecutive turns is increased. Max 2x after 10 turns.",
       "condition": {
         "onTryMovePriority": -2
+      }
+    },
+    "micleberry": {
+      "inherit": true,
+      "condition": {
+        "duration": 2,
+        "onSourceModifyAccuracyPriority": 3
       }
     },
     "razorfang": {
@@ -82,6 +92,14 @@
     },
     "thickclub": {
       "inherit": true
+    },
+    "widelens": {
+      "inherit": true,
+      "onSourceModifyAccuracyPriority": 4
+    },
+    "zoomlens": {
+      "inherit": true,
+      "onSourceModifyAccuracyPriority": 4
     }
   }
 }

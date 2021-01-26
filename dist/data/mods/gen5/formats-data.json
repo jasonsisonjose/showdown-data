@@ -8,11 +8,11 @@
     },
     "venusaur": {
       "randomBattleMoves": [
-        "earthquake",
         "gigadrain",
         "hiddenpowerfire",
         "hiddenpowerice",
         "leechseed",
+        "naturepower",
         "powerwhip",
         "sleeppowder",
         "sludgebomb",
@@ -33,9 +33,9 @@
         "airslash",
         "dragonpulse",
         "fireblast",
+        "focusblast",
         "hiddenpowergrass",
-        "roost",
-        "substitute"
+        "roost"
       ],
       "tier": "NU",
       "doublesTier": "DOU"
@@ -69,8 +69,8 @@
       "randomBattleMoves": [
         "bugbuzz",
         "hiddenpowerrock",
+        "psychic",
         "quiverdance",
-        "roost",
         "sleeppowder",
         "substitute"
       ],
@@ -87,9 +87,9 @@
       "randomBattleMoves": [
         "agility",
         "batonpass",
+        "drillrun",
         "endeavor",
         "poisonjab",
-        "swordsdance",
         "toxicspikes",
         "uturn"
       ],
@@ -201,7 +201,6 @@
         "stealthrock",
         "stoneedge",
         "swordsdance",
-        "toxic",
         "xscissor"
       ],
       "tier": "RU",
@@ -263,12 +262,11 @@
       "doublesTier": "DUU"
     },
     "vulpix": {
-      "tier": "LC Uber"
+      "tier": "NFE"
     },
     "ninetales": {
       "randomBattleMoves": [
         "fireblast",
-        "hypnosis",
         "nastyplot",
         "painsplit",
         "solarbeam",
@@ -332,7 +330,6 @@
         "leechseed",
         "sleeppowder",
         "sludgebomb",
-        "stunspore",
         "synthesis"
       ],
       "tier": "(NU)",
@@ -372,12 +369,10 @@
     },
     "venomoth": {
       "randomBattleMoves": [
-        "batonpass",
         "bugbuzz",
         "quiverdance",
         "roost",
         "sleeppowder",
-        "sludgebomb",
         "substitute"
       ],
       "tier": "RUBL",
@@ -388,11 +383,11 @@
     },
     "dugtrio": {
       "randomBattleMoves": [
+        "aerialace",
         "earthquake",
-        "reversal",
+        "memento",
         "stealthrock",
         "stoneedge",
-        "substitute",
         "suckerpunch"
       ],
       "tier": "(OU)",
@@ -405,8 +400,8 @@
       "randomBattleMoves": [
         "bite",
         "fakeout",
-        "hypnosis",
         "return",
+        "switcheroo",
         "taunt",
         "uturn",
         "waterpulse"
@@ -421,10 +416,9 @@
       "randomBattleMoves": [
         "calmmind",
         "focusblast",
-        "hiddenpowergrass",
         "hydropump",
         "icebeam",
-        "scald"
+        "psyshock"
       ],
       "tier": "(NU)",
       "doublesTier": "DUU"
@@ -509,8 +503,7 @@
         "focusblast",
         "psychic",
         "psyshock",
-        "shadowball",
-        "substitute"
+        "shadowball"
       ],
       "tier": "OU",
       "doublesTier": "DUU"
@@ -595,7 +588,6 @@
         "batonpass",
         "drillrun",
         "flareblitz",
-        "hypnosis",
         "megahorn",
         "morningsun",
         "wildcharge"
@@ -644,9 +636,8 @@
       "randomBattleMoves": [
         "flashcannon",
         "hiddenpowerfire",
-        "hiddenpowerice",
-        "substitute",
         "thunderbolt",
+        "toxic",
         "voltswitch"
       ],
       "tier": "OU",
@@ -654,10 +645,10 @@
     },
     "farfetchd": {
       "randomBattleMoves": [
+        "batonpass",
         "bravebird",
         "leafblade",
-        "return",
-        "roost",
+        "quickattack",
         "swordsdance"
       ],
       "tier": "(NU)",
@@ -683,7 +674,6 @@
     "dewgong": {
       "randomBattleMoves": [
         "icebeam",
-        "iceshard",
         "protect",
         "rest",
         "sleeptalk",
@@ -721,8 +711,7 @@
         "rapidspin",
         "rockblast",
         "shellsmash",
-        "spikes",
-        "toxicspikes"
+        "spikes"
       ],
       "tier": "OU",
       "doublesTier": "DOU"
@@ -736,14 +725,13 @@
     },
     "gengar": {
       "randomBattleMoves": [
-        "disable",
         "focusblast",
-        "painsplit",
         "shadowball",
         "sludgebomb",
         "substitute",
         "thunderbolt",
-        "trick"
+        "trick",
+        "willowisp"
       ],
       "tier": "OU",
       "doublesTier": "DOU"
@@ -788,7 +776,6 @@
         "agility",
         "crabhammer",
         "return",
-        "substitute",
         "superpower",
         "swordsdance",
         "xscissor"
@@ -835,7 +822,6 @@
         "doubleedge",
         "earthquake",
         "firepunch",
-        "stealthrock",
         "stoneedge",
         "substitute"
       ],
@@ -847,14 +833,11 @@
     },
     "hitmonlee": {
       "randomBattleMoves": [
-        "blazekick",
         "closecombat",
+        "earthquake",
         "fakeout",
-        "highjumpkick",
-        "machpunch",
-        "substitute",
-        "suckerpunch",
-        "stoneedge"
+        "stoneedge",
+        "suckerpunch"
       ],
       "tier": "RU",
       "doublesTier": "DUU"
@@ -975,7 +958,7 @@
     },
     "tangela": {
       "tier": "NU",
-      "doublesTier": "LC Uber"
+      "doublesTier": "NFE"
     },
     "tangrowth": {
       "randomBattleMoves": [
@@ -1018,7 +1001,6 @@
         "icebeam",
         "outrage",
         "raindance",
-        "substitute",
         "waterfall"
       ],
       "tier": "UU",
@@ -1078,11 +1060,10 @@
         "bugbite",
         "quickattack",
         "roost",
-        "swordsdance",
-        "uturn"
+        "swordsdance"
       ],
       "tier": "RU",
-      "doublesTier": "LC Uber"
+      "doublesTier": "NFE"
     },
     "scizor": {
       "randomBattleMoves": [
@@ -1220,7 +1201,7 @@
         "toxic",
         "wish"
       ],
-      "tier": "OU",
+      "tier": "(OU)",
       "doublesTier": "DOU"
     },
     "jolteon": {
@@ -1255,7 +1236,7 @@
         "psyshock",
         "signalbeam"
       ],
-      "tier": "OU",
+      "tier": "(OU)",
       "doublesTier": "DOU"
     },
     "umbreon": {
@@ -1374,8 +1355,7 @@
         "earthquake",
         "firepunch",
         "pursuit",
-        "rest",
-        "selfdestruct"
+        "rest"
       ],
       "tier": "UU",
       "doublesTier": "DUU"
@@ -1384,7 +1364,6 @@
       "randomBattleMoves": [
         "hurricane",
         "icebeam",
-        "roar",
         "roost",
         "substitute",
         "toxic"
@@ -1406,7 +1385,6 @@
     },
     "moltres": {
       "randomBattleMoves": [
-        "airslash",
         "fireblast",
         "hiddenpowergrass",
         "hurricane",
@@ -1425,24 +1403,21 @@
     "dragonair": {
       "randomBattleMoves": [
         "dragondance",
+        "fireblast",
         "outrage",
         "rest",
-        "sleeptalk",
-        "waterfall"
+        "sleeptalk"
       ],
       "tier": "NFE"
     },
     "dragonite": {
       "randomBattleMoves": [
-        "dracometeor",
         "dragondance",
         "earthquake",
         "extremespeed",
         "firepunch",
-        "hurricane",
         "outrage",
-        "roost",
-        "thunderwave"
+        "roost"
       ],
       "tier": "OU",
       "doublesTier": "DOU"
@@ -1455,8 +1430,7 @@
         "icebeam",
         "psystrike",
         "recover",
-        "taunt",
-        "willowisp"
+        "taunt"
       ],
       "tier": "Uber",
       "doublesTier": "DUber"
@@ -1464,12 +1438,10 @@
     "mew": {
       "randomBattleMoves": [
         "aurasphere",
-        "batonpass",
         "fireblast",
         "nastyplot",
         "psychic",
-        "rockpolish",
-        "roost",
+        "softboiled",
         "stealthrock",
         "taunt",
         "uturn",
@@ -1705,8 +1677,8 @@
       "randomBattleMoves": [
         "acrobatics",
         "encore",
+        "energyball",
         "leechseed",
-        "seedbomb",
         "sleeppowder",
         "uturn"
       ],
@@ -1744,7 +1716,7 @@
       "doublesTier": "DUU"
     },
     "yanma": {
-      "tier": "LC Uber"
+      "tier": "NFE"
     },
     "yanmega": {
       "randomBattleMoves": [
@@ -1774,7 +1746,14 @@
       "doublesTier": "DUU"
     },
     "murkrow": {
-      "tier": "LC Uber"
+      "randomBattleMoves": [
+        "calmmind",
+        "darkpulse",
+        "featherdance",
+        "roost",
+        "substitute"
+      ],
+      "tier": "NFE"
     },
     "honchkrow": {
       "randomBattleMoves": [
@@ -1791,7 +1770,7 @@
     },
     "misdreavus": {
       "tier": "NU",
-      "doublesTier": "LC Uber"
+      "doublesTier": "NFE"
     },
     "mismagius": {
       "randomBattleMoves": [
@@ -1873,7 +1852,7 @@
         "uturn"
       ],
       "tier": "UU",
-      "doublesTier": "LC Uber"
+      "doublesTier": "NFE"
     },
     "gliscor": {
       "randomBattleMoves": [
@@ -1907,7 +1886,6 @@
     "qwilfish": {
       "randomBattleMoves": [
         "destinybond",
-        "haze",
         "painsplit",
         "poisonjab",
         "spikes",
@@ -1920,10 +1898,11 @@
     },
     "shuckle": {
       "randomBattleMoves": [
-        "acupressure",
-        "powersplit",
-        "rest",
-        "rollout"
+        "encore",
+        "protect",
+        "stealthrock",
+        "toxic",
+        "wrap"
       ],
       "tier": "(NU)",
       "doublesTier": "DUU"
@@ -1940,7 +1919,7 @@
       "doublesTier": "DUU"
     },
     "sneasel": {
-      "tier": "LC Uber"
+      "tier": "NFE"
     },
     "weavile": {
       "randomBattleMoves": [
@@ -1976,7 +1955,6 @@
         "hiddenpowerrock",
         "lavaplume",
         "recover",
-        "shellsmash",
         "stealthrock",
         "toxic"
       ],
@@ -2030,7 +2008,7 @@
     "delibird": {
       "randomBattleMoves": [
         "aerialace",
-        "icepunch",
+        "icebeam",
         "iceshard",
         "rapidspin"
       ],
@@ -2117,7 +2095,6 @@
     },
     "miltank": {
       "randomBattleMoves": [
-        "curse",
         "bodyslam",
         "earthquake",
         "healbell",
@@ -2251,7 +2228,6 @@
     },
     "blaziken": {
       "randomBattleMoves": [
-        "batonpass",
         "flareblitz",
         "highjumpkick",
         "protect",
@@ -2318,8 +2294,7 @@
         "bugbuzz",
         "hiddenpowerground",
         "psychic",
-        "quiverdance",
-        "substitute"
+        "quiverdance"
       ],
       "tier": "(NU)",
       "doublesTier": "DUU"
@@ -2443,8 +2418,8 @@
     "masquerain": {
       "randomBattleMoves": [
         "airslash",
-        "batonpass",
         "bugbuzz",
+        "hydropump",
         "quiverdance",
         "roost"
       ],
@@ -2458,8 +2433,6 @@
       "randomBattleMoves": [
         "bulletseed",
         "focuspunch",
-        "leechseed",
-        "lowsweep",
         "machpunch",
         "spore",
         "stoneedge",
@@ -2485,11 +2458,11 @@
     },
     "slaking": {
       "randomBattleMoves": [
-        "doubleedge",
         "earthquake",
         "nightslash",
         "pursuit",
-        "retaliate"
+        "retaliate",
+        "return"
       ],
       "tier": "(NU)",
       "doublesTier": "DUU"
@@ -2499,8 +2472,7 @@
     },
     "ninjask": {
       "randomBattleMoves": [
-        "batonpass",
-        "protect",
+        "aerialace",
         "substitute",
         "swordsdance",
         "xscissor"
@@ -2556,7 +2528,6 @@
     "probopass": {
       "randomBattleMoves": [
         "earthpower",
-        "flashcannon",
         "powergem",
         "stealthrock",
         "toxic",
@@ -2570,10 +2541,11 @@
     },
     "delcatty": {
       "randomBattleMoves": [
-        "batonpass",
-        "calmmind",
-        "hypervoice",
-        "substitute"
+        "doubleedge",
+        "fakeout",
+        "icebeam",
+        "suckerpunch",
+        "thunderwave"
       ],
       "tier": "(NU)",
       "doublesTier": "DUU"
@@ -2621,7 +2593,7 @@
       "doublesTier": "DUU"
     },
     "meditite": {
-      "tier": "LC Uber"
+      "tier": "NFE"
     },
     "medicham": {
       "randomBattleMoves": [
@@ -3040,10 +3012,10 @@
     },
     "banette": {
       "randomBattleMoves": [
-        "destinybond",
+        "pursuit",
         "shadowclaw",
-        "taunt",
-        "trickroom",
+        "shadowsneak",
+        "trick",
         "willowisp"
       ],
       "tier": "(NU)",
@@ -3054,9 +3026,9 @@
     },
     "dusclops": {
       "randomBattleMoves": [
-        "curse",
         "nightshade",
         "rest",
+        "sleeptalk",
         "willowisp"
       ],
       "tier": "UU",
@@ -3238,6 +3210,7 @@
         "bulletpunch",
         "earthquake",
         "meteormash",
+        "pursuit",
         "stealthrock",
         "zenheadbutt"
       ],
@@ -3368,7 +3341,6 @@
         "lightscreen",
         "psychoboost",
         "reflect",
-        "spikes",
         "stealthrock"
       ],
       "tier": "Uber",
@@ -3402,7 +3374,6 @@
       "randomBattleMoves": [
         "icebeam",
         "lightscreen",
-        "magiccoat",
         "psychoboost",
         "reflect",
         "spikes",
@@ -3544,7 +3515,6 @@
         "firepunch",
         "headsmash",
         "rockpolish",
-        "rockslide",
         "superpower"
       ],
       "tier": "(NU)",
@@ -3680,8 +3650,7 @@
     },
     "gastrodon": {
       "randomBattleMoves": [
-        "clearsmog",
-        "earthpower",
+        "earthquake",
         "icebeam",
         "recover",
         "scald",
@@ -3816,17 +3785,13 @@
     },
     "lucario": {
       "randomBattleMoves": [
-        "aurasphere",
         "closecombat",
         "crunch",
-        "darkpulse",
         "extremespeed",
         "icepunch",
-        "nastyplot",
-        "swordsdance",
-        "vacuumwave"
+        "swordsdance"
       ],
-      "tier": "OU",
+      "tier": "(OU)",
       "doublesTier": "DOU"
     },
     "hippopotas": {
@@ -3856,8 +3821,7 @@
         "pursuit",
         "swordsdance",
         "taunt",
-        "toxicspikes",
-        "whirlwind"
+        "toxicspikes"
       ],
       "tier": "RU",
       "doublesTier": "DUU"
@@ -4033,8 +3997,8 @@
     },
     "azelf": {
       "randomBattleMoves": [
+        "energyball",
         "fireblast",
-        "grassknot",
         "nastyplot",
         "psychic",
         "stealthrock",
@@ -4083,7 +4047,6 @@
         "lavaplume",
         "protect",
         "roar",
-        "substitute",
         "stealthrock",
         "toxic"
       ],
@@ -4103,7 +4066,6 @@
     },
     "giratina": {
       "randomBattleMoves": [
-        "aurasphere",
         "calmmind",
         "dragontail",
         "dragonpulse",
@@ -4117,24 +4079,20 @@
     "giratinaorigin": {
       "randomBattleMoves": [
         "dracometeor",
-        "dragontail",
         "earthquake",
         "hiddenpowerfire",
-        "rest",
         "shadowsneak",
-        "sleeptalk",
         "willowisp"
-      ]
+      ],
+      "tier": "Uber",
+      "doublesTier": "DUber"
     },
     "cresselia": {
       "randomBattleMoves": [
         "calmmind",
         "hiddenpowerfighting",
-        "lightscreen",
-        "lunardance",
         "moonlight",
         "psychic",
-        "reflect",
         "thunderwave",
         "toxic"
       ],
@@ -4154,7 +4112,7 @@
     },
     "manaphy": {
       "randomBattleMoves": [
-        "grassknot",
+        "energyball",
         "icebeam",
         "surf",
         "tailglow"
@@ -4168,8 +4126,7 @@
         "darkvoid",
         "focusblast",
         "nastyplot",
-        "substitute",
-        "trick"
+        "substitute"
       ],
       "tier": "Uber",
       "doublesTier": "DUU"
@@ -4233,7 +4190,6 @@
         "earthquake",
         "extremespeed",
         "outrage",
-        "recover",
         "swordsdance"
       ]
     },
@@ -4260,7 +4216,7 @@
       "randomBattleMoves": [
         "calmmind",
         "fireblast",
-        "flamethrower",
+        "judgment",
         "recover",
         "thunderbolt"
       ]
@@ -4291,33 +4247,30 @@
         "icebeam",
         "judgment",
         "recover",
-        "stealthrock",
         "thunderwave"
       ]
     },
     "arceusground": {
       "randomBattleMoves": [
-        "earthquake",
+        "calmmind",
+        "icebeam",
+        "judgment",
         "recover",
-        "stoneedge",
-        "swordsdance",
         "willowisp"
       ]
     },
     "arceusice": {
       "randomBattleMoves": [
         "calmmind",
-        "focusblast",
+        "fireblast",
         "icebeam",
-        "judgment",
         "recover",
         "thunderbolt"
       ]
     },
     "arceuspoison": {
       "randomBattleMoves": [
-        "calmmind",
-        "focusblast",
+        "flamethrower",
         "icebeam",
         "recover",
         "sludgebomb",
@@ -4328,9 +4281,8 @@
     "arceuspsychic": {
       "randomBattleMoves": [
         "calmmind",
-        "focusblast",
-        "icebeam",
-        "psyshock",
+        "darkpulse",
+        "judgment",
         "recover",
         "willowisp"
       ]
@@ -4346,20 +4298,19 @@
     "arceussteel": {
       "randomBattleMoves": [
         "calmmind",
-        "icebeam",
         "judgment",
         "recover",
-        "roar",
+        "thunderbolt",
         "willowisp"
       ]
     },
     "arceuswater": {
       "randomBattleMoves": [
-        "calmmind",
-        "fireblast",
-        "icebeam",
-        "judgment",
-        "recover"
+        "brickbreak",
+        "extremespeed",
+        "recover",
+        "swordsdance",
+        "waterfall"
       ]
     },
     "victini": {
@@ -4468,9 +4419,10 @@
     },
     "liepard": {
       "randomBattleMoves": [
-        "foulplay",
-        "substitute",
-        "swagger",
+        "darkpulse",
+        "encore",
+        "hiddenpowerfire",
+        "nastyplot",
         "thunderwave"
       ],
       "tier": "NU",
@@ -4670,8 +4622,8 @@
     "throh": {
       "randomBattleMoves": [
         "bulkup",
-        "circlethrow",
         "icepunch",
+        "payback",
         "rest",
         "sleeptalk",
         "stormthrow",
@@ -4716,7 +4668,6 @@
     "scolipede": {
       "randomBattleMoves": [
         "aquatail",
-        "batonpass",
         "earthquake",
         "megahorn",
         "rockslide",
@@ -4732,8 +4683,8 @@
     "whimsicott": {
       "randomBattleMoves": [
         "encore",
+        "gigadrain",
         "leechseed",
-        "substitute",
         "stunspore",
         "taunt",
         "uturn"
@@ -4786,10 +4737,10 @@
     },
     "krookodile": {
       "randomBattleMoves": [
-        "bulkup",
         "crunch",
         "earthquake",
         "pursuit",
+        "stealthrock",
         "stoneedge",
         "superpower"
       ],
@@ -4838,7 +4789,7 @@
       "doublesTier": "DUU"
     },
     "scraggy": {
-      "tier": "LC Uber"
+      "tier": "NFE"
     },
     "scrafty": {
       "randomBattleMoves": [
@@ -4914,8 +4865,9 @@
     },
     "garbodor": {
       "randomBattleMoves": [
-        "clearsmog",
-        "explosion",
+        "gunkshot",
+        "haze",
+        "painsplit",
         "spikes",
         "toxicspikes"
       ],
@@ -4942,12 +4894,11 @@
     },
     "cinccino": {
       "randomBattleMoves": [
-        "aquatail",
         "bulletseed",
-        "return",
+        "encore",
         "rockblast",
-        "uturn",
-        "wakeupslap"
+        "tailslap",
+        "uturn"
       ],
       "tier": "RU",
       "doublesTier": "DUU"
@@ -4962,7 +4913,7 @@
       "randomBattleMoves": [
         "calmmind",
         "hiddenpowerfighting",
-        "psyshock",
+        "psychic",
         "rest",
         "thunderbolt",
         "trick"
@@ -5038,13 +4989,12 @@
     },
     "emolga": {
       "randomBattleMoves": [
-        "agility",
-        "airslash",
-        "batonpass",
-        "chargebeam",
+        "acrobatics",
+        "encore",
         "roost",
-        "substitute",
-        "thunderbolt"
+        "thunderbolt",
+        "toxic",
+        "uturn"
       ],
       "tier": "(NU)",
       "doublesTier": "DUU"
@@ -5179,7 +5129,6 @@
       "randomBattleMoves": [
         "hiddenpowerfighting",
         "psychic",
-        "substitute",
         "thunderbolt",
         "trick",
         "trickroom"
@@ -5195,14 +5144,12 @@
     },
     "chandelure": {
       "randomBattleMoves": [
+        "calmmind",
         "energyball",
         "fireblast",
         "hiddenpowerfighting",
-        "hiddenpowerground",
-        "painsplit",
         "shadowball",
-        "substitute",
-        "trick"
+        "substitute"
       ],
       "tier": "UUBL",
       "doublesTier": "DOU"
@@ -5222,7 +5169,7 @@
         "superpower",
         "swordsdance"
       ],
-      "tier": "OU",
+      "tier": "(OU)",
       "doublesTier": "DUU"
     },
     "cubchoo": {
@@ -5231,10 +5178,10 @@
     "beartic": {
       "randomBattleMoves": [
         "aquajet",
-        "encore",
         "iciclecrash",
         "stoneedge",
-        "superpower"
+        "superpower",
+        "swordsdance"
       ],
       "tier": "(NU)",
       "doublesTier": "DUU"
@@ -5299,12 +5246,10 @@
       "randomBattleMoves": [
         "dragontail",
         "earthquake",
-        "firepunch",
         "glare",
         "outrage",
-        "substitute",
-        "suckerpunch",
-        "stealthrock"
+        "stealthrock",
+        "suckerpunch"
       ],
       "tier": "RU",
       "doublesTier": "DUU"
@@ -5345,7 +5290,6 @@
         "headcharge",
         "megahorn",
         "stoneedge",
-        "substitute",
         "swordsdance"
       ],
       "tier": "RU",
@@ -5376,7 +5320,6 @@
         "roost",
         "taunt",
         "toxic",
-        "uturn",
         "whirlwind"
       ],
       "tier": "NU",
@@ -5416,7 +5359,6 @@
         "flamethrower",
         "focusblast",
         "roost",
-        "substitute",
         "uturn"
       ],
       "tier": "OU",
@@ -5658,12 +5600,10 @@
     },
     "genesect": {
       "randomBattleMoves": [
-        "blazekick",
-        "extremespeed",
+        "bugbuzz",
         "flamethrower",
         "icebeam",
-        "ironhead",
-        "shiftgear",
+        "rockpolish",
         "thunderbolt",
         "uturn"
       ],

@@ -11,7 +11,13 @@ All JSON files are located under the `dist/data` folder.
 
 ## Maintenance
 
-Dependencies: Docker, git and jq
+Dependencies: Docker, git and node (for publishing).
+
+- **Install**: `make install`
+- **Build dist**: `make build`
+- **Upgrade Showdown and dependencies**: `make upgrade`
+- **Set version and new tag to current date**: `make tag`
+- **Publish to NPM**: `make publish`
 
 ### Upgrading
 

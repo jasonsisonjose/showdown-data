@@ -19376,7 +19376,7 @@
       },
       "heightm": 3.2,
       "weightkg": 320,
-      "color": "Gray",
+      "color": "White",
       "eggGroups": [
         "Undiscovered"
       ],
@@ -19408,7 +19408,7 @@
       },
       "heightm": 3.2,
       "weightkg": 320,
-      "color": "Gray",
+      "color": "White",
       "eggGroups": [
         "Undiscovered"
       ],
@@ -19440,7 +19440,7 @@
       },
       "heightm": 3.2,
       "weightkg": 320,
-      "color": "Gray",
+      "color": "White",
       "eggGroups": [
         "Undiscovered"
       ],
@@ -19472,7 +19472,7 @@
       },
       "heightm": 3.2,
       "weightkg": 320,
-      "color": "Gray",
+      "color": "White",
       "eggGroups": [
         "Undiscovered"
       ],
@@ -19504,7 +19504,7 @@
       },
       "heightm": 3.2,
       "weightkg": 320,
-      "color": "Gray",
+      "color": "White",
       "eggGroups": [
         "Undiscovered"
       ],
@@ -19537,7 +19537,7 @@
       },
       "heightm": 3.2,
       "weightkg": 320,
-      "color": "Gray",
+      "color": "White",
       "eggGroups": [
         "Undiscovered"
       ],
@@ -19569,7 +19569,7 @@
       },
       "heightm": 3.2,
       "weightkg": 320,
-      "color": "Gray",
+      "color": "White",
       "eggGroups": [
         "Undiscovered"
       ],
@@ -19601,7 +19601,7 @@
       },
       "heightm": 3.2,
       "weightkg": 320,
-      "color": "Gray",
+      "color": "White",
       "eggGroups": [
         "Undiscovered"
       ],
@@ -19633,7 +19633,7 @@
       },
       "heightm": 3.2,
       "weightkg": 320,
-      "color": "Gray",
+      "color": "White",
       "eggGroups": [
         "Undiscovered"
       ],
@@ -19665,7 +19665,7 @@
       },
       "heightm": 3.2,
       "weightkg": 320,
-      "color": "Gray",
+      "color": "White",
       "eggGroups": [
         "Undiscovered"
       ],
@@ -19697,7 +19697,7 @@
       },
       "heightm": 3.2,
       "weightkg": 320,
-      "color": "Gray",
+      "color": "White",
       "eggGroups": [
         "Undiscovered"
       ],
@@ -19729,7 +19729,7 @@
       },
       "heightm": 3.2,
       "weightkg": 320,
-      "color": "Gray",
+      "color": "White",
       "eggGroups": [
         "Undiscovered"
       ],
@@ -19761,7 +19761,7 @@
       },
       "heightm": 3.2,
       "weightkg": 320,
-      "color": "Gray",
+      "color": "White",
       "eggGroups": [
         "Undiscovered"
       ],
@@ -19793,7 +19793,7 @@
       },
       "heightm": 3.2,
       "weightkg": 320,
-      "color": "Gray",
+      "color": "White",
       "eggGroups": [
         "Undiscovered"
       ],
@@ -19825,7 +19825,7 @@
       },
       "heightm": 3.2,
       "weightkg": 320,
-      "color": "Gray",
+      "color": "White",
       "eggGroups": [
         "Undiscovered"
       ],
@@ -19857,7 +19857,7 @@
       },
       "heightm": 3.2,
       "weightkg": 320,
-      "color": "Gray",
+      "color": "White",
       "eggGroups": [
         "Undiscovered"
       ],
@@ -19889,7 +19889,7 @@
       },
       "heightm": 3.2,
       "weightkg": 320,
-      "color": "Gray",
+      "color": "White",
       "eggGroups": [
         "Undiscovered"
       ],
@@ -27888,7 +27888,7 @@
       },
       "heightm": 1.2,
       "weightkg": 33.5,
-      "color": "Green",
+      "color": "Black",
       "eggGroups": [
         "Undiscovered"
       ],
@@ -27918,7 +27918,7 @@
       },
       "heightm": 4.5,
       "weightkg": 610,
-      "color": "Green",
+      "color": "Black",
       "eggGroups": [
         "Undiscovered"
       ],
@@ -31628,7 +31628,7 @@
       },
       "heightm": 7.5,
       "weightkg": 230,
-      "color": "Blue",
+      "color": "Yellow",
       "eggGroups": [
         "Undiscovered"
       ],
@@ -35529,7 +35529,7 @@
       },
       "heightm": 1.8,
       "weightkg": 70,
-      "color": "Green",
+      "color": "Black",
       "eggGroups": [
         "Undiscovered"
       ],
@@ -35564,7 +35564,7 @@
       },
       "heightm": 1.8,
       "weightkg": 70,
-      "color": "Green",
+      "color": "Black",
       "eggGroups": [
         "Undiscovered"
       ]
@@ -35690,7 +35690,7 @@
       },
       "heightm": 1.1,
       "weightkg": 7.7,
-      "color": "White",
+      "color": "Green",
       "eggGroups": [
         "Undiscovered"
       ],
@@ -37091,7 +37091,8 @@
       "weightkg": 24.2,
       "color": "Pink",
       "prevo": "Pluffle",
-      "evoType": "levelExtra",
+      "evoType": "levelMove",
+      "evoMove": "Play Rough",
       "eggGroups": [
         "Fairy",
         "Human-Like"
@@ -37180,7 +37181,8 @@
       "weightkg": 600,
       "color": "Brown",
       "prevo": "Mumbao",
-      "evoType": "levelExtra",
+      "evoType": "levelFriendship",
+      "evoCondition": "during the day",
       "eggGroups": [
         "Grass"
       ],
@@ -37617,10 +37619,42 @@
       "weightkg": 50,
       "color": "Red",
       "prevo": "Solotl",
-      "evoLevel": 36,
+      "evoLevel": 35,
       "eggGroups": [
         "Dragon",
         "Fairy"
+      ],
+      "gen": 8
+    },
+    "miasmite": {
+      "num": -58,
+      "name": "Miasmite",
+      "types": [
+        "Bug",
+        "Dragon"
+      ],
+      "baseStats": {
+        "hp": 40,
+        "atk": 85,
+        "def": 60,
+        "spa": 52,
+        "spd": 52,
+        "spe": 44
+      },
+      "abilities": {
+        "0": "Neutralizing Gas",
+        "1": "Hyper Cutter",
+        "H": "Compound Eyes"
+      },
+      "heightm": 0.6,
+      "weightkg": 10.1,
+      "color": "Green",
+      "evos": [
+        "Miasmaw"
+      ],
+      "eggGroups": [
+        "Bug",
+        "Dragon"
       ],
       "gen": 8
     },
@@ -37637,15 +37671,18 @@
         "def": 60,
         "spa": 115,
         "spd": 85,
-        "spe": 89
+        "spe": 92
       },
       "abilities": {
         "0": "Neutralizing Gas",
+        "1": "Hyper Cutter",
         "H": "Compound Eyes"
       },
       "heightm": 1.2,
       "weightkg": 57,
       "color": "Green",
+      "prevo": "Miasmite",
+      "evoLevel": 30,
       "eggGroups": [
         "Bug",
         "Dragon"

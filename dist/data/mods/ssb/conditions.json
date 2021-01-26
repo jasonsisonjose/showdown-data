@@ -1,21 +1,21 @@
 {
   "Conditions": {
-    "2xthetap": {
+    "abdelrahman": {
       "noCopy": true
     },
-    "5gen": {
+    "adri": {
       "noCopy": true
     },
     "aelita": {
+      "noCopy": true
+    },
+    "aegii": {
       "noCopy": true
     },
     "aeonic": {
       "noCopy": true
     },
     "aethernum": {
-      "noCopy": true
-    },
-    "akiamara": {
       "noCopy": true
     },
     "akir": {
@@ -27,22 +27,25 @@
     "andrew": {
       "noCopy": true
     },
-    "anubis": {
+    "annika": {
       "noCopy": true
     },
     "aquagtothepast": {
       "noCopy": true
     },
-    "arandomduck": {
+    "arby": {
+      "noCopy": true
+    },
+    "archas": {
       "noCopy": true
     },
     "arcticblast": {
       "noCopy": true
     },
-    "arsenal": {
+    "averardo": {
       "noCopy": true
     },
-    "averardo": {
+    "awauser": {
       "noCopy": true
     },
     "beowulf": {
@@ -51,75 +54,69 @@
     "biggie": {
       "noCopy": true
     },
-    "birdy": {
+    "billo": {
       "noCopy": true,
-      "onModifyDefPriority": 6,
-      "onModifySpDPriority": 6
+      "innateName": "Unaware",
+      "shortDesc": "This Pokemon ignores other Pokemon's stat stages when taking or doing damage."
     },
-    "bobochan": {
+    "blaz": {
       "noCopy": true
     },
     "brandon": {
       "noCopy": true
     },
+    "brouha": {
+      "noCopy": true
+    },
+    "buffy": {
+      "noCopy": true
+    },
     "cake": {
       "noCopy": true,
-      "onModifyDefPriority": 6,
-      "onModifySpDPriority": 6
+      "innateName": "h",
+      "shortDesc": "On switch-in and at the end of every turn, this Pokemon changes type randomly.",
+      "onResidualOrder": 26,
+      "onResidualSubOrder": 1
     },
     "cantsay": {
-      "noCopy": true
+      "noCopy": true,
+      "innateName": "Magic Guard",
+      "shortDesc": "This Pokemon can only be damaged by direct attacks."
     },
-    "catalystic": {
-      "noCopy": true
-    },
-    "celestial": {
-      "noCopy": true
-    },
-    "ceteris": {
-      "noCopy": true
-    },
-    "chaos": {
-      "noCopy": true
-    },
-    "chloe": {
+    "celine": {
       "noCopy": true
     },
     "ckilgannon": {
       "noCopy": true
     },
-    "darth": {
+    "coconut": {
       "noCopy": true
     },
-    "dawoblefet": {
-      "noCopy": true
-    },
-    "decem": {
-      "noCopy": true
-    },
-    "deetah": {
+    "dogknees": {
       "noCopy": true
     },
     "dragonwhale": {
       "noCopy": true
     },
-    "e4flint": {
+    "drampasgrandpa": {
       "noCopy": true
     },
-    "eien": {
+    "dream": {
       "noCopy": true
     },
     "elgino": {
-      "noCopy": true,
-      "onDamagePriority": 1
+      "noCopy": true
     },
-    "eternally": {
+    "emeri": {
+      "noCopy": true
+    },
+    "epicnikolai": {
+      "noCopy": true
+    },
+    "estarossa": {
       "noCopy": true
     },
     "explodingdaisies": {
-      "noCopy": true
-    },
-    "false": {
       "noCopy": true
     },
     "fart": {
@@ -128,13 +125,19 @@
     "felucia": {
       "noCopy": true
     },
-    "fomg": {
+    "finland": {
+      "noCopy": true,
+      "onBeforeMovePriority": 0.5,
+      "innateName": "Fickle Decorator",
+      "shortDesc": "Calm Mind on switch-in. Changes boosts depending on move used."
+    },
+    "frostyicelad": {
       "noCopy": true
     },
     "gallantspear": {
       "noCopy": true
     },
-    "gimm1ck": {
+    "gimmick": {
       "noCopy": true
     },
     "gmars": {
@@ -143,65 +146,73 @@
     "grimauxiliatrix": {
       "noCopy": true
     },
-    "guishark": {
-      "noCopy": true
-    },
-    "hippopotasuser": {
-      "noCopy": true
-    },
     "hoeenhero": {
       "noCopy": true
     },
     "hubriz": {
       "noCopy": true
     },
+    "hydro": {
+      "noCopy": true
+    },
     "inactive": {
       "noCopy": true
     },
-    "instruct": {
-      "noCopy": true
-    },
-    "irritated": {
-      "noCopy": true
+    "instructuser": {
+      "noCopy": true,
+      "innateName": "Last Laugh",
+      "desc": "Upon fainting to an opponent's direct attack, this Pokemon deals damage to all Pokemon that have made contact with it equal to 50% of their max HP. This damage cannot KO Pokemon.",
+      "shortDesc": "Upon foe KOing user, deal 50% of their max HP to all foes that this Pokemon contacted."
     },
     "iyarito": {
+      "noCopy": true
+    },
+    "jett": {
+      "noCopy": true
+    },
+    "jho": {
+      "noCopy": true
+    },
+    "jordy": {
       "noCopy": true
     },
     "kaijubunny": {
       "noCopy": true
     },
     "kalalokki": {
+      "noCopy": true,
+      "innateName": "Sturdy",
+      "shortDesc": "If this Pokemon is at full HP, it survives one hit with at least 1 HP. Immune to OHKO.",
+      "onDamagePriority": -100
+    },
+    "kennedy": {
       "noCopy": true
     },
-    "kaori": {
+    "kev": {
       "noCopy": true
     },
-    "kay": {
-      "noCopy": true
-    },
-    "kie": {
+    "kingbaruk": {
       "noCopy": true
     },
     "kingswordyt": {
       "noCopy": true
     },
     "kipkluif": {
-      "noCopy": true,
-      "onBasePowerPriority": 8
+      "noCopy": true
     },
     "kris": {
+      "innateName": "phuck",
+      "desc": "If this Pokemon is an Unown forme, it is immune to indirect damage and transforms into a different Unown letter forme, aside from ! and ?, at the end of each turn.",
+      "shortDesc": "Unown: Magic Guard + change letter every turn.",
       "noCopy": true
     },
-    "level51": {
+    "lamp": {
       "noCopy": true
     },
-    "lifeisdank": {
+    "lionyx": {
       "noCopy": true
     },
-    "lostseso": {
-      "noCopy": true
-    },
-    "macchaeger": {
+    "litteleven": {
       "noCopy": true
     },
     "madmonty": {
@@ -213,61 +224,74 @@
     "marshmallon": {
       "noCopy": true
     },
-    "martha": {
-      "noCopy": true
-    },
-    "marty": {
-      "noCopy": true
-    },
     "meicoo": {
-      "noCopy": true
-    },
-    "megazard": {
       "noCopy": true
     },
     "mitsuki": {
       "noCopy": true
     },
-    "morfent": {
+    "n10sit": {
+      "noCopy": true
+    },
+    "naziel": {
+      "noCopy": true
+    },
+    "nol": {
+      "noCopy": true,
+      "innateName": "RSUA",
+      "shortDesc": "+1 priority to status moves. 1.5x Defense and Special Defense.",
+      "onModifyDefPriority": 2,
+      "onModifySpDPriority": 2
+    },
+    "notater517": {
       "noCopy": true
     },
     "nui": {
       "noCopy": true
     },
-    "om": {
-      "noCopy": true
-    },
     "overneat": {
       "noCopy": true
     },
-    "pablo": {
+    "om": {
+      "noCopy": true
+    },
+    "pants": {
       "noCopy": true
     },
     "paradise": {
       "noCopy": true
     },
+    "partman": {
+      "noCopy": true
+    },
+    "peapodc": {
+      "noCopy": true
+    },
+    "perishsonguser": {
+      "noCopy": true
+    },
+    "phiwings99": {
+      "noCopy": true
+    },
+    "piloswinegripado": {
+      "noCopy": true
+    },
     "pirateprincess": {
-      "noCopy": true
-    },
-    "pluviometer": {
-      "noCopy": true
-    },
-    "pohjis": {
-      "noCopy": true
-    },
-    "pre": {
       "noCopy": true
     },
     "psynergy": {
       "noCopy": true
     },
     "ptoad": {
+      "noCopy": true,
+      "innateName": "Sticky Hold",
+      "shortDesc": "This Pokemon cannot lose its held item due to another Pokemon's attack."
+    },
+    "quadrophenic": {
       "noCopy": true
     },
-    "quitequiet": {
-      "noCopy": true,
-      "onModifyDefPriority": 6,
-      "onModifySpDPriority": 6
+    "rabia": {
+      "noCopy": true
     },
     "rach": {
       "noCopy": true
@@ -275,58 +299,70 @@
     "rageuser": {
       "noCopy": true
     },
+    "raihankibana": {
+      "noCopy": true
+    },
+    "rajshoot": {
+      "noCopy": true
+    },
     "ransei": {
       "noCopy": true
     },
-    "rorymercury": {
+    "ravioliqueen": {
+      "noCopy": true,
+      "innateName": "Pitch Black Witch",
+      "desc": "When this Pokemon sets or switches into Pitch Black errain, its Special Attack and Special Defense are boosted by 1 stage. If this Pokemon gets hit while Pitch Black Terrain is up, it gets +1 speed",
+      "shortDesc": "Pitch Black Terrain: Calm Mind on switch-in, +1 Spe when attacked."
+    },
+    "robb576": {
       "noCopy": true
     },
-    "samjo": {
+    "sectoniaservant": {
       "noCopy": true
     },
-    "schiavetto": {
+    "segmr": {
       "noCopy": true
     },
-    "scotteh": {
+    "sejesensei": {
       "noCopy": true
     },
-    "shiba": {
+    "seso": {
       "noCopy": true
     },
-    "slowbroth": {
+    "shadecession": {
       "noCopy": true
     },
-    "snaquaza": {
+    "softflex": {
       "noCopy": true
     },
-    "sparksblade": {
+    "spandan": {
       "noCopy": true
     },
-    "sundar": {
+    "struchni": {
       "noCopy": true
     },
     "teclis": {
       "noCopy": true
     },
-    "tennisace": {
-      "noCopy": true
-    },
-    "teremiare": {
+    "temp": {
       "noCopy": true
     },
     "theimmortal": {
       "noCopy": true
     },
-    "theleprechaun": {
+    "thewaffleman": {
       "noCopy": true
     },
-    "tony": {
+    "tiki": {
       "noCopy": true
     },
-    "torkool": {
+    "traceuser": {
       "noCopy": true
     },
     "trickster": {
+      "noCopy": true
+    },
+    "vexen": {
       "noCopy": true
     },
     "vivalospride": {
@@ -335,16 +371,7 @@
     "volco": {
       "noCopy": true
     },
-    "xayah": {
-      "noCopy": true
-    },
-    "xfix": {
-      "noCopy": true
-    },
-    "xjoelituh": {
-      "noCopy": true
-    },
-    "xprienzo": {
+    "vooper": {
       "noCopy": true
     },
     "yuki": {
@@ -356,52 +383,75 @@
     "zarel": {
       "noCopy": true
     },
+    "zodiax": {
+      "noCopy": true
+    },
     "zyguser": {
       "noCopy": true
     },
-    "boostreplacement": {
-      "name": "boostreplacement",
-      "onSwitchInPriority": 1
+    "heavyhailstorm": {
+      "name": "HeavyHailstorm",
+      "effectType": "Weather",
+      "duration": 3,
+      "onTryMovePriority": 1,
+      "onResidualOrder": 1
     },
-    "glitchout": {
-      "name": "Glitch Out",
-      "duration": 1
+    "winterhail": {
+      "name": "Winter Hail",
+      "effectType": "Weather",
+      "duration": 0,
+      "onResidualOrder": 1
     },
-    "arceus": {
-      "inherit": true
-    },
-    "weightdoubler": {
-      "name": "Weight Doubler",
+    "raindrop": {
+      "name": "Raindrop",
       "noCopy": true
     },
-    "gooey": {
-      "name": "Gooey",
-      "onResidualOrder": 10
+    "brilliant": {
+      "name": "Brilliant",
+      "duration": 5,
+      "onResidualOrder": 7
     },
-    "acidrain": {
-      "name": "Acid Rain",
+    "stormsurge": {
+      "name": "Storm Surge",
+      "duration": 2
+    },
+    "degeneratormod": {},
+    "haunting": {
+      "name": "Haunting",
+      "onResidualOrder": 11
+    },
+    "givewistfulthinking": {
+      "duration": 1,
+      "onSwitchInPriority": 1
+    },
+    "nexthuntcheck": {
+      "duration": 1
+    },
+    "minior": {
+      "noCopy": true,
+      "name": "Minior"
+    },
+    "par": {
+      "name": "par",
+      "effectType": "Status",
+      "onBeforeMovePriority": 1
+    },
+    "bigstormcomingmod": {
+      "name": "Big Storm Coming Mod",
+      "duration": 1
+    },
+    "turbulence": {
+      "name": "Turbulence",
+      "effectType": "Weather",
+      "duration": 0,
+      "onModifyDefPriority": 10,
+      "onResidualOrder": 1
+    },
+    "raindance": {
+      "name": "RainDance",
       "effectType": "Weather",
       "duration": 5,
-      "onModifySpDPriority": 10,
-      "onResidualOrder": 1,
-      "onModifyMovePriority": -5
-    },
-    "enrageeeeed": {
-      "name": "Enrageeeeed"
-    },
-    "cutietrap": {
-      "name": "Cutie Trap",
-      "duration": 5,
-      "noCopy": true,
-      "onBeforeMovePriority": 2
-    },
-    "hail": {
-      "inherit": true
-    },
-    "batonpasshelper": {
-      "name": "Baton Pass Helper",
-      "duration": 1,
-      "onSwitchInPriority": 1000
+      "onResidualOrder": 1
     },
     "auroraveil": {
       "name": "Aurora Veil",
@@ -432,6 +482,7 @@
       "onResidualOrder": 21,
       "onResidualSubOrder": 2
     },
+    "gmaxsteelsurge": {},
     "spikes": {
       "name": "Spikes"
     },
@@ -443,6 +494,12 @@
     },
     "toxicspikes": {
       "name": "Toxic Spikes"
+    },
+    "frz": {
+      "inherit": true
+    },
+    "dynamax": {
+      "inherit": true
     }
   }
 }

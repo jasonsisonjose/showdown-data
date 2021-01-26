@@ -38,7 +38,10 @@
     "obtainablemoves": {
       "inherit": true,
       "banlist": [
-        "Shiftry + Leaf Blade + Sucker Punch"
+        "Shiftry + Leaf Blade + Sucker Punch",
+        "Zygarde-10% + Aura Break + Rock Smash",
+        "Zygarde-10% + Aura Break + Secret Power",
+        "Zygarde-10% + Aura Break + Strength"
       ]
     },
     "gravitysleepclause": {

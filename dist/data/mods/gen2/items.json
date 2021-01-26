@@ -4,21 +4,29 @@
       "inherit": true,
       "isNonstandard": null
     },
+    "blackbelt": {
+      "inherit": true
+    },
+    "blackglasses": {
+      "inherit": true
+    },
     "brightpowder": {
-      "inherit": true,
-      "desc": "An attack against the holder has its accuracy out of 255 lowered by 20."
+      "inherit": true
+    },
+    "charcoal": {
+      "inherit": true
     },
     "dragonfang": {
-      "inherit": true,
-      "desc": "No competitive use."
+      "inherit": true
     },
     "dragonscale": {
-      "inherit": true,
-      "desc": "Holder's Dragon-type attacks have 1.1x power. Evolves Seadra (trade)."
+      "inherit": true
     },
     "focusband": {
-      "inherit": true,
-      "desc": "Holder has a ~11.7% chance to survive an attack that would KO it with 1 HP."
+      "inherit": true
+    },
+    "hardstone": {
+      "inherit": true
     },
     "kingsrock": {
       "inherit": true
@@ -28,23 +36,52 @@
     },
     "luckypunch": {
       "inherit": true,
-      "desc": "If held by a Chansey, its critical hit ratio is always at stage 2. (25% crit rate)",
       "onModifyCritRatioPriority": -1
     },
+    "magnet": {
+      "inherit": true
+    },
+    "metalcoat": {
+      "inherit": true
+    },
     "metalpowder": {
-      "inherit": true,
-      "desc": "If held by a Ditto, its Defense and Sp. Def are 1.5x, even while Transformed."
+      "inherit": true
+    },
+    "miracleseed": {
+      "inherit": true
+    },
+    "mysticwater": {
+      "inherit": true
+    },
+    "nevermeltice": {
+      "inherit": true
+    },
+    "poisonbarb": {
+      "inherit": true
     },
     "quickclaw": {
-      "inherit": true,
-      "desc": "Each turn, holder has a ~23.4% chance to move first in its priority bracket."
+      "inherit": true
+    },
+    "sharpbeak": {
+      "inherit": true
+    },
+    "silverpowder": {
+      "inherit": true
+    },
+    "softsand": {
+      "inherit": true
+    },
+    "spelltag": {
+      "inherit": true
     },
     "stick": {
       "inherit": true,
-      "desc": "If held by a Farfetch’d, its critical hit ratio is always at stage 2. (25% crit rate)",
       "onModifyCritRatioPriority": -1
     },
     "thickclub": {
+      "inherit": true
+    },
+    "twistedspoon": {
       "inherit": true
     },
     "berserkgene": {

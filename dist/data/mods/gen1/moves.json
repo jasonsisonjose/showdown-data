@@ -52,6 +52,7 @@
     },
     "bite": {
       "inherit": true,
+      "category": "Physical",
       "secondary": {
         "chance": 10,
         "volatileStatus": "flinch"
@@ -115,7 +116,8 @@
     "counter": {
       "inherit": true,
       "ignoreImmunity": true,
-      "willCrit": false
+      "willCrit": false,
+      "basePower": 1
     },
     "crabhammer": {
       "inherit": true,
