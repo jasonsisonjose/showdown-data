@@ -2205,7 +2205,7 @@
         "substitute",
         "swordsdance"
       ],
-      "tier": "UUBL"
+      "tier": "OU"
     },
     "slakoth": {
       "tier": "LC"
@@ -2952,7 +2952,7 @@
         "thunderwave",
         "toxic"
       ],
-      "tier": "OU"
+      "tier": "UUBL"
     },
     "registeel": {
       "randomBattleMoves": [

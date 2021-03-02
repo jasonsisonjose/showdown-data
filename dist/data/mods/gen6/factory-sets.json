@@ -3092,12 +3092,12 @@
           "item": "Sky Plate",
           "ability": "Multitype",
           "evs": {
-            "hp": 96,
+            "hp": 132,
             "atk": 0,
             "def": 0,
-            "spa": 236,
+            "spa": 200,
             "spd": 0,
-            "spe": 0
+            "spe": 176
           },
           "nature": "Timid",
           "moves": [

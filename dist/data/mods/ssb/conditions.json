@@ -138,7 +138,10 @@
       "noCopy": true
     },
     "gimmick": {
-      "noCopy": true
+      "noCopy": true,
+      "innateName": "Unburden",
+      "desc": "If this Pokemon loses its held item for any reason, its Speed is doubled. This boost is lost if it switches out or gains a new item.",
+      "shortDesc": "Speed is doubled on held item loss; boost is lost if it switches or gets new item."
     },
     "gmars": {
       "noCopy": true
@@ -392,7 +395,7 @@
     "heavyhailstorm": {
       "name": "HeavyHailstorm",
       "effectType": "Weather",
-      "duration": 3,
+      "duration": 0,
       "onTryMovePriority": 1,
       "onResidualOrder": 1
     },
@@ -444,7 +447,6 @@
       "name": "Turbulence",
       "effectType": "Weather",
       "duration": 0,
-      "onModifyDefPriority": 10,
       "onResidualOrder": 1
     },
     "raindance": {
@@ -500,6 +502,9 @@
     },
     "dynamax": {
       "inherit": true
+    },
+    "echoedvoiceclone": {
+      "duration": 2
     }
   }
 }

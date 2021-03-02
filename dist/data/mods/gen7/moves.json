@@ -755,6 +755,9 @@
       "inherit": true,
       "isNonstandard": null
     },
+    "switcheroo": {
+      "inherit": true
+    },
     "synchronoise": {
       "inherit": true,
       "isNonstandard": null
@@ -788,6 +791,9 @@
     "toxicthread": {
       "inherit": true,
       "isNonstandard": null
+    },
+    "trick": {
+      "inherit": true
     },
     "trumpcard": {
       "inherit": true,

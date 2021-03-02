@@ -1135,7 +1135,7 @@
       },
       "nature": "Jolly"
     },
-    "INStruct": {
+    "instruct": {
       "species": "Riolu",
       "ability": "Truant",
       "item": "Soda Pop",
@@ -1428,13 +1428,13 @@
     },
     "Lamp": {
       "species": "Lampent",
-      "ability": "Candlewax",
+      "ability": "Soul-Heart",
       "item": "Eviolite",
       "gender": "M",
       "moves": [
         "Nasty Plot",
         "Searing Shot",
-        "Strength Sap"
+        "Recover"
       ],
       "signatureMove": "Soul Swap",
       "evs": {
@@ -1660,7 +1660,7 @@
       "moves": [
         "Shadow Ball",
         "Flamethrower",
-        "Trick Room"
+        "Giga Drain"
       ],
       "signatureMove": "Mad Hacks",
       "evs": {
@@ -2448,7 +2448,7 @@
       "item": "Kasib Berry",
       "gender": "M",
       "moves": [
-        "Iron Defense",
+        "Cotton Guard",
         "Slack Off",
         "Focus Blast"
       ],

@@ -2,7 +2,6 @@
   "Items": {
     "caioniumz": {
       "name": "Caionium Z",
-      "isNonstandard": "Custom",
       "onTakeItem": false,
       "zMove": "Blistering Ice Age",
       "zMoveFrom": "Blizzard",
@@ -14,7 +13,6 @@
     },
     "quagniumz": {
       "name": "Quagnium Z",
-      "isNonstandard": "Custom",
       "onTakeItem": false,
       "zMove": "Bounty Place",
       "zMoveFrom": "Scorching Sands",
@@ -26,7 +24,6 @@
     },
     "sodapop": {
       "name": "Soda Pop",
-      "isNonstandard": "Custom",
       "onTakeItem": false,
       "zMove": "Satanic Panic",
       "zMoveFrom": "Fake Out",
@@ -38,7 +35,6 @@
     },
     "kalalokkiumz": {
       "name": "Kalalokkium Z",
-      "isNonstandard": "Custom",
       "onTakeItem": false,
       "zMove": "Gaelstrom",
       "zMoveFrom": "Blackbird",
@@ -50,7 +46,6 @@
     },
     "modium6z": {
       "name": "Modium-6 Z",
-      "isNonstandard": "Custom",
       "onTakeItem": false,
       "zMove": "Integer Overflow",
       "zMoveFrom": "Photon Geyser",

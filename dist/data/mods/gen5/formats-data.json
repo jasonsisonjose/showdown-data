@@ -481,7 +481,6 @@
         "hiddenpowergrass",
         "hypnosis",
         "icebeam",
-        "perishsong",
         "protect",
         "scald",
         "toxic"
@@ -760,7 +759,6 @@
         "foulplay",
         "protect",
         "psychic",
-        "seismictoss",
         "thunderwave",
         "toxic",
         "wish"
@@ -1403,10 +1401,10 @@
     "dragonair": {
       "randomBattleMoves": [
         "dragondance",
-        "fireblast",
         "outrage",
         "rest",
-        "sleeptalk"
+        "sleeptalk",
+        "waterfall"
       ],
       "tier": "NFE"
     },
@@ -1734,24 +1732,22 @@
     },
     "quagsire": {
       "randomBattleMoves": [
-        "curse",
         "earthquake",
         "encore",
         "recover",
         "scald",
-        "toxic",
-        "waterfall"
+        "toxic"
       ],
       "tier": "RU",
       "doublesTier": "DUU"
     },
     "murkrow": {
       "randomBattleMoves": [
-        "calmmind",
-        "darkpulse",
-        "featherdance",
+        "foulplay",
         "roost",
-        "substitute"
+        "taunt",
+        "thunderwave",
+        "toxic"
       ],
       "tier": "NFE"
     },
@@ -3051,7 +3047,6 @@
         "airslash",
         "leechseed",
         "protect",
-        "roost",
         "substitute",
         "toxic"
       ],
@@ -3321,13 +3316,10 @@
     "jirachi": {
       "randomBattleMoves": [
         "bodyslam",
-        "calmmind",
         "firepunch",
         "icepunch",
         "ironhead",
-        "psychic",
         "substitute",
-        "thunder",
         "uturn",
         "wish"
       ],
@@ -5109,14 +5101,11 @@
     },
     "eelektross": {
       "randomBattleMoves": [
-        "aquatail",
-        "drainpunch",
         "flamethrower",
         "gigadrain",
         "hiddenpowerice",
         "superpower",
         "thunderbolt",
-        "thunderpunch",
         "uturn"
       ],
       "tier": "NU",

@@ -6,7 +6,7 @@
       "evs": {
         "hp": 252,
         "atk": 204,
-        "spd": 52
+        "spe": 52
       },
       "nature": "Adamant",
       "moves": [
@@ -35,22 +35,6 @@
   ],
   "Astrolotl": [
     {
-      "item": "Air Balloon",
-      "ability": "Vital Spirit",
-      "evs": {
-        "hp": 252,
-        "spd": 32,
-        "spe": 224
-      },
-      "nature": "Jolly",
-      "moves": [
-        "Fire Lash",
-        "Yawn",
-        "Wish",
-        "Protect"
-      ]
-    },
-    {
       "item": "Life Orb",
       "ability": "Vital Spirit",
       "evs": {
@@ -68,7 +52,7 @@
     },
     {
       "item": "Power Herb",
-      "ability": "Vital Spirit",
+      "ability": "Magician",
       "evs": {
         "hp": 32,
         "spa": 252,
@@ -233,7 +217,7 @@
         "def": 252,
         "spd": 4
       },
-      "nature": "Impish",
+      "nature": "Bold",
       "ivs": {
         "atk": 0
       },
@@ -308,14 +292,14 @@
       ]
     },
     {
-      "item": "Life Orb",
+      "item": "Weakness Policy",
       "ability": "Levitate",
       "evs": {
         "hp": 252,
-        "spa": 168,
-        "spd": 88
+        "spa": 68,
+        "spd": 188
       },
-      "nature": "Quiet",
+      "nature": "Sassy",
       "ivs": {
         "atk": 0,
         "spe": 0
@@ -561,7 +545,10 @@
       "moves": [
         "Outrage",
         "Earthquake",
-        "Iron Head",
+        [
+          "Iron Head",
+          "Poison Jab"
+        ],
         "Megahorn"
       ]
     },
@@ -607,7 +594,7 @@
       "ability": "Dry Skin",
       "evs": {
         "hp": 92,
-        "def": 164,
+        "spa": 164,
         "spe": 252
       },
       "nature": "Modest",
@@ -819,7 +806,7 @@
       "evs": {
         "hp": 252,
         "def": 148,
-        "spe": 108
+        "spd": 108
       },
       "nature": "Impish",
       "moves": [
@@ -890,6 +877,9 @@
         "spd": 220
       },
       "nature": "Bold",
+      "ivs": {
+        "atk": 0
+      },
       "moves": [
         "Spiky Shield",
         "Substitute",
