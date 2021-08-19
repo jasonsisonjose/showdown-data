@@ -7,4 +7,7 @@ fi
 rm -rf ./dist
 mkdir -p ./dist
 
-mv ./node_modules/pokemon-showdown/.data-dist dist/data
+node index.js
+
+cp -R ./node_modules/pokemon-showdown/.data-dist dist
+mv dist/.data-dist dist/data
