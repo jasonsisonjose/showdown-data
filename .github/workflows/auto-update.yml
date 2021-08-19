@@ -1,4 +1,4 @@
-name: Update JSON files every friday
+name: Fridays Scheduled Update
 on:
   pull_request:
 #  schedule:
