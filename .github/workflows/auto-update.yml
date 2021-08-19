@@ -35,6 +35,7 @@ jobs:
             git checkout -b "${NEW_BRANCH}"
             git add -A
             git commit -m "Changes from ${NEW_TAG}"
+            git push --set-upstream origin "${NEW_BRANCH}"
             git push
             git request-pull origin/main "${NEW_BRANCH}"
           else
