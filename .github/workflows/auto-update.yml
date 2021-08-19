@@ -37,7 +37,13 @@ jobs:
             git commit -m "Changes from ${NEW_TAG}"
             git push --set-upstream origin "${NEW_BRANCH}"
             git push
-            git request-pull origin/main "${NEW_BRANCH}"
+            sleep 1
+
+            curl --request POST \
+              --url "${GITHUB_API_URL}/repos/${GITHUB_REPOSITORY}/pulls" \
+              --header "Accept: application/vnd.github.v3+json" \
+              --header 'authorization: token ${{ secrets.GITHUB_TOKEN }}' \
+              --data "{\"head\":\"${NEW_BRANCH}\",\"base\":\"main\",\"title\":\"${NEW_BRANCH}\"}"
           else
             echo "There are no changes. Nothing to commit."
           fi
