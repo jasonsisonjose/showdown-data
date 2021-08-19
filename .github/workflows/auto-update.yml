@@ -1,0 +1,40 @@
+name: Update JSON files every friday
+on:
+  pull_request:
+#  schedule:
+#    - cron: "0 10 * * 5" # // Every Friday at 10AM UTC
+
+jobs:
+  update-create-pr:
+    name: "Update Data and Create PR"
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v2
+      - uses: actions/setup-node@v2
+        with:
+          node-version: '16'
+
+      - name: Install Dependencies
+        run: |
+          sudo apt-get install -y jq zsh
+          npm install
+
+      - name: Upgrade data sources and regenerate dist files
+        run: |
+          npm upgrade pokemon-showdown
+          make build
+
+          if [[ `git status --porcelain ./dist` ]]; then
+            # Changes
+            NEW_TAG=$(date +'%Y.%m.%d')
+            NEW_BRANCH="update-${NEW_TAG}"
+
+            git checkout -b "${NEW_BRANCH}"
+            git add -A
+            git commit -m "Changes from ${NEW_TAG}"
+            git push
+            git request-pull origin/main "${NEW_BRANCH}"
+          else
+            echo "There are no changes. Nothing to commit."
+          fi

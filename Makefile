@@ -6,7 +6,7 @@ install:
 	npm install
 
 build:
-	/app/scripts/build.sh
+	./scripts/build.sh
 
 upgrade:
 	npm upgrade pokemon-showdown
