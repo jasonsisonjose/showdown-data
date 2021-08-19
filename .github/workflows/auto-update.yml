@@ -19,6 +19,8 @@ jobs:
         run: |
           sudo apt-get install -y jq zsh
           npm install
+          git config --global user.email "${{ secrets.GIT_COMMIT_EMAIL }}"
+          git config --global user.name "${{ secrets.GIT_COMMIT_AUTHOR }}"
 
       - name: Upgrade data sources and regenerate dist files
         run: |
