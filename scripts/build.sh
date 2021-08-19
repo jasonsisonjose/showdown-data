@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 
 if [[ ! -d "node_modules/pokemon-showdown" ]]; then
-  yarn install
+  npm install
 fi
 
 rm -rf ./dist
