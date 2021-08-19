@@ -7,10 +7,4 @@ fi
 rm -rf ./dist
 mkdir -p ./dist
 
-cd ./node_modules/pokemon-showdown
-npm run build
-
-cd -
-node index.js
-
-mv dist/.data-dist dist/data
+mv ./node_modules/pokemon-showdown/.data-dist dist/data

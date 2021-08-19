@@ -20,7 +20,7 @@
   "devDependencies": {
     "fs-extra": "^10.0.0",
     "glob": "^7.1.7",
-    "pokemon-showdown": "https://github.com/smogon/pokemon-showdown#master"
+    "pokemon-showdown": "^0.11"
   },
   "scripts": {
     "build": "./build.sh"
