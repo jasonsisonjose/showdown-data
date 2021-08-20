@@ -1,6 +1,6 @@
 {
   "name": "showdown-data",
-  "version": "2021.03.02",
+  "version": "2021.08.20",
   "description": "Pokemon Showdown data in JSON format for cross-project interoperability.",
   "main": "index.js",
   "repository": {
