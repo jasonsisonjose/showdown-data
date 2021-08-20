@@ -31,7 +31,7 @@ jobs:
         run: |
           if [[ `git status --porcelain ./dist` ]]; then
             NEW_TAG=$(date +'%Y.%m.%d')
-            NEW_BRANCH="update-${NEW_TAG}"
+            NEW_BRANCH="update-${NEW_TAG}-$(date +'%H%M')"
 
             git checkout -b "${NEW_BRANCH}"
             git add -A
