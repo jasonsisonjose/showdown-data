@@ -36,7 +36,7 @@ jobs:
             git checkout -b "${NEW_BRANCH}"
             git add -A
             git commit -m "Changes from ${NEW_TAG}"
-            git push --set-upstream origin "${NEW_BRANCH}"
+            git branch --set-upstream-to "origin/${NEW_BRANCH}"
             git push
             sleep 1
 
