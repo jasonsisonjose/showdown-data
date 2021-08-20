@@ -5,7 +5,7 @@ on:
     - cron: "0 4 * * 5" # // Every Friday at 4 AM UTC (6 AM CET)
 
 jobs:
-  update-create-pr:
+  auto-update-with-pr:
     name: "Update Data and Create PR"
     runs-on: ubuntu-latest
 
@@ -23,13 +23,13 @@ jobs:
           git config --global user.name "${{ secrets.GIT_COMMIT_AUTHOR }}"
 
       - name: Upgrade data sources and regenerate dist files
+        run: |
+          make upgrade
+
+      - name: Create PR if dist files changed
         # https://docs.github.com/en/rest/reference/pulls#create-a-pull-request
         run: |
-          npm upgrade pokemon-showdown
-          make build
-
           if [[ `git status --porcelain ./dist` ]]; then
-            # Changes
             NEW_TAG=$(date +'%Y.%m.%d')
             NEW_BRANCH="update-${NEW_TAG}"
 
@@ -45,6 +45,7 @@ jobs:
               --header "Accept: application/vnd.github.v3+json" \
               --header 'authorization: token ${{ secrets.GITHUB_TOKEN }}' \
               --data "{\"head\":\"${NEW_BRANCH}\",\"base\":\"main\",\"title\":\"${NEW_BRANCH}\",\"body\":\"(Automatic Update)\"}"
+
           else
             echo "There are no changes. Nothing to commit."
           fi
