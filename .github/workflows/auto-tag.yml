@@ -1,12 +1,13 @@
 name: Auto Semver Tag on PR merge
 on:
-  pull_request:
+  push:
+    branches:
+      - main
 
 jobs:
   auto-semver-tag:
     name: "Create new Semver Tag"
     runs-on: ubuntu-latest
-    if: github.event.pull_request.merged == 'true'
 
     steps:
       - uses: actions/checkout@v2
